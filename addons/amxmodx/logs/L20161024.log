@@ -1,0 +1,70 @@
+L 10/24/2016 - 15:01:14: -------- Mapchange to jail_west_v2 --------
+L 10/24/2016 - 15:01:14: [GEOIP] Database info: GEO-106FREE 20080801 Build 1 Copyright (c) 2007 MaxMind LLC All Rights Reserved
+L 10/24/2016 - 15:01:19: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 10/24/2016 - 15:01:19: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\jbe_privilegii.txt" line 1)
+L 10/24/2016 - 15:01:19: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\jbe_core.txt" line 1)
+L 10/24/2016 - 15:01:19: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\jbe_ranks_prisoner.txt" line 1)
+L 10/24/2016 - 15:01:19: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\jbe_shop.txt" line 1)
+L 10/24/2016 - 15:01:19: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\jbe_costumes.txt" line 1)
+L 10/24/2016 - 15:01:19: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\jbe_grab.txt" line 1)
+L 10/24/2016 - 15:01:19: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\jbe_ar4mode_hook.txt" line 1)
+L 10/24/2016 - 15:01:19: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\jbe_roleplay.txt" line 1)
+L 10/24/2016 - 15:01:19: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\colored_translit.txt" line 1)
+L 10/24/2016 - 15:01:19: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\colored_translit_config.txt" line 1)
+L 10/24/2016 - 15:01:20: [colored_translit_config.amxx] Can't add menu item "Настройки чата" from plugin "Colored Translit Config" to menu set because the Menus Front-End plugin itself is not loaded!
+L 10/24/2016 - 15:01:20: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\map_spawns_editor.txt
+L 10/24/2016 - 15:01:22: [pluginmenu.amxx] Can't add menu item "Настр. конваров" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+L 10/24/2016 - 15:01:22: [pluginmenu.amxx] Can't add menu item "Настр. команд" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+L 10/24/2016 - 15:01:40: [admin.amxx] Login: "ZLOYTPEK<1><STEAM_0:0:87505889><>" became an admin (account "ZLOYTPEK") (access "abcdefghijklmnopqrstu") (address "10.57.70.118")
+L 10/24/2016 - 15:01:44: [jbe_core.amxx] [RANK] MySQL connection failed
+L 10/24/2016 - 15:01:44: [jbe_core.amxx] [ 2003 ] Can't connect to MySQL server on 'db2.myarena.ru' (10060)
+L 10/24/2016 - 15:01:44: [jbe_core.amxx] Query state: 2
+L 10/24/2016 - 15:02:12: [jbe_core.amxx] [RANK] MySQL connection failed
+L 10/24/2016 - 15:02:12: [jbe_core.amxx] [ 2003 ] Can't connect to MySQL server on 'db2.myarena.ru' (10060)
+L 10/24/2016 - 15:02:12: [jbe_core.amxx] Query state: 0
+L 10/24/2016 - 15:02:23: [admin.amxx] Login: "ZLOYTPEK<2><STEAM_0:0:87505889><>" became an admin (account "ZLOYTPEK") (access "abcdefghijklmnopqrstu") (address "10.57.70.118")
+L 10/24/2016 - 15:02:49: [jbe_core.amxx] [RANK] MySQL connection failed
+L 10/24/2016 - 15:02:49: [jbe_core.amxx] [ 2003 ] Can't connect to MySQL server on 'db2.myarena.ru' (10060)
+L 10/24/2016 - 15:02:49: [jbe_core.amxx] Query state: 0
+L 10/24/2016 - 15:03:40: [jbe_core.amxx] [RANK] MySQL connection failed
+L 10/24/2016 - 15:03:40: [jbe_core.amxx] [ 2003 ] Can't connect to MySQL server on 'db2.myarena.ru' (10060)
+L 10/24/2016 - 15:03:40: [jbe_core.amxx] Query state: 2
+L 10/24/2016 - 15:07:26: [mapsmenu.amxx] Cmd: "ZLOYTPEK<2><STEAM_0:0:87505889><>" changelevel "jb_mini"
+L 10/24/2016 - 15:07:28: -------- Mapchange to jb_mini --------
+L 10/24/2016 - 15:07:29: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 10/24/2016 - 15:07:29: [colored_translit_config.amxx] Can't add menu item "Настройки чата" from plugin "Colored Translit Config" to menu set because the Menus Front-End plugin itself is not loaded!
+L 10/24/2016 - 15:07:29: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\map_spawns_editor.txt
+L 10/24/2016 - 15:07:29: [pluginmenu.amxx] Can't add menu item "Настр. конваров" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+L 10/24/2016 - 15:07:29: [pluginmenu.amxx] Can't add menu item "Настр. команд" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+L 10/24/2016 - 15:07:30: [admin.amxx] Login: "ZLOYTPEK<2><STEAM_0:0:87505889><>" became an admin (account "ZLOYTPEK") (access "abcdefghijklmnopqrstu") (address "10.57.70.118")
+L 10/24/2016 - 15:07:30: [admin.amxx] Login: "ZLOYTPEK<2><STEAM_0:0:87505889><>" became an admin (account "ZLOYTPEK") (access "abcdefghijklmnopqrstu") (address "10.57.70.118")
+L 10/24/2016 - 15:07:30: [admin.amxx] Login: "ZLOYTPEK<3><STEAM_0:0:87505889><>" became an admin (account "ZLOYTPEK") (access "abcdefghijklmnopqrstu") (address "10.57.70.118")
+L 10/24/2016 - 15:07:50: [jbe_core.amxx] [RANK] MySQL connection failed
+L 10/24/2016 - 15:07:50: [jbe_core.amxx] [ 2003 ] Can't connect to MySQL server on 'db2.myarena.ru' (10060)
+L 10/24/2016 - 15:07:50: [jbe_core.amxx] Query state: 2
+L 10/24/2016 - 15:08:12: [jbe_core.amxx] [RANK] MySQL connection failed
+L 10/24/2016 - 15:08:12: [jbe_core.amxx] [ 2003 ] Can't connect to MySQL server on 'db2.myarena.ru' (10060)
+L 10/24/2016 - 15:08:12: [jbe_core.amxx] Query state: 0
+L 10/24/2016 - 15:08:37: [jbe_core.amxx] [RANK] MySQL connection failed
+L 10/24/2016 - 15:08:37: [jbe_core.amxx] [ 2003 ] Can't connect to MySQL server on 'db2.myarena.ru' (10060)
+L 10/24/2016 - 15:08:37: [jbe_core.amxx] Query state: 2
+L 10/24/2016 - 15:09:15: -------- Mapchange to Jb_mini --------
+L 10/24/2016 - 15:09:15: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 10/24/2016 - 15:09:15: [colored_translit_config.amxx] Can't add menu item "Настройки чата" from plugin "Colored Translit Config" to menu set because the Menus Front-End plugin itself is not loaded!
+L 10/24/2016 - 15:09:15: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\map_spawns_editor.txt
+L 10/24/2016 - 15:09:16: [pluginmenu.amxx] Can't add menu item "Настр. конваров" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+L 10/24/2016 - 15:09:16: [pluginmenu.amxx] Can't add menu item "Настр. команд" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+L 10/24/2016 - 15:09:16: [admin.amxx] Login: "ZLOYTPEK<3><STEAM_0:0:87505889><>" became an admin (account "ZLOYTPEK") (access "abcdefghijklmnopqrstu") (address "10.57.70.118")
+L 10/24/2016 - 15:09:16: [admin.amxx] Login: "ZLOYTPEK<3><STEAM_0:0:87505889><>" became an admin (account "ZLOYTPEK") (access "abcdefghijklmnopqrstu") (address "10.57.70.118")
+L 10/24/2016 - 15:09:16: [admin.amxx] Login: "ZLOYTPEK<4><STEAM_0:0:87505889><>" became an admin (account "ZLOYTPEK") (access "abcdefghijklmnopqrstu") (address "10.57.70.118")
+L 10/24/2016 - 15:09:25: [plmenu.amxx] Ban: "ZLOYTPEK<4><STEAM_0:0:87505889><>" ban and kick "ZLOYTPEK<4><STEAM_0:0:87505889><>" (minutes "0")
+L 10/24/2016 - 15:09:37: [jbe_core.amxx] [RANK] MySQL connection failed
+L 10/24/2016 - 15:09:37: [jbe_core.amxx] [ 2003 ] Can't connect to MySQL server on 'db2.myarena.ru' (10060)
+L 10/24/2016 - 15:09:37: [jbe_core.amxx] Query state: 2
+L 10/24/2016 - 15:09:55: [admin.amxx] Login: "ZLOYTPEK<6><STEAM_0:0:87505889><>" became an admin (account "ZLOYTPEK") (access "abcdefghijklmnopqrstu") (address "10.57.70.118")
+L 10/24/2016 - 15:09:58: [jbe_core.amxx] [RANK] MySQL connection failed
+L 10/24/2016 - 15:09:58: [jbe_core.amxx] [ 2003 ] Can't connect to MySQL server on 'db2.myarena.ru' (10060)
+L 10/24/2016 - 15:09:58: [jbe_core.amxx] Query state: 0
+L 10/24/2016 - 15:10:20: [jbe_core.amxx] [RANK] MySQL connection failed
+L 10/24/2016 - 15:10:20: [jbe_core.amxx] [ 2003 ] Can't connect to MySQL server on 'db2.myarena.ru' (10060)
+L 10/24/2016 - 15:10:20: [jbe_core.amxx] Query state: 0

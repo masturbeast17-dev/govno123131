@@ -1,0 +1,32 @@
+L 03/17/2016 - 20:27:13: -------- Mapchange to jail_space --------
+L 03/17/2016 - 20:27:15: [GEOIP] Database info: GEO-106FREE 20080801 Build 1 Copyright (c) 2007 MaxMind LLC All Rights Reserved
+L 03/17/2016 - 20:27:37: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 03/17/2016 - 20:27:40: [umm.amxx] Plugin matching "nextmap.amxx" stopped
+L 03/17/2016 - 20:27:40: [umm.amxx] Plugin matching "timeleft.amxx" stopped
+L 03/17/2016 - 20:27:40: [umm.amxx] Plugin matching "mapchooser.amxx" stopped
+L 03/17/2016 - 20:30:26: [admin.amxx] Login: "legion<1><STEAM_0:0:1558789323><>" became an admin (account "legion") (access "bcdefijmnopqrstu") (address "77.121.253.33")
+L 03/17/2016 - 20:30:32: [admin.amxx] Login: "legion<2><STEAM_0:0:1477571244><>" became an admin (account "legion") (access "bcdefijmnopqrstu") (address "77.121.253.33")
+L 03/17/2016 - 20:34:14: [mapsmenu.amxx] Cmd: "legion<2><STEAM_0:0:1477571244><>" changelevel "jail_dust2x2"
+L 03/17/2016 - 20:34:16: -------- Mapchange to jail_dust2x2 --------
+L 03/17/2016 - 20:34:27: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 03/17/2016 - 20:34:27: [umm.amxx] Plugin matching "nextmap.amxx" stopped
+L 03/17/2016 - 20:34:27: [umm.amxx] Plugin matching "timeleft.amxx" stopped
+L 03/17/2016 - 20:34:27: [umm.amxx] Plugin matching "mapchooser.amxx" stopped
+L 03/17/2016 - 20:34:29: [admin.amxx] Login: "legion<2><STEAM_0:0:1477571244><>" became an admin (account "legion") (access "bcdefijmnopqrstu") (address "77.121.253.33")
+L 03/17/2016 - 20:43:54: -------- Mapchange to jail_space --------
+L 03/17/2016 - 20:43:55: [GEOIP] Database info: GEO-106FREE 20080801 Build 1 Copyright (c) 2007 MaxMind LLC All Rights Reserved
+L 03/17/2016 - 20:44:05: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 03/17/2016 - 20:44:06: [umm.amxx] Plugin matching "nextmap.amxx" stopped
+L 03/17/2016 - 20:44:06: [umm.amxx] Plugin matching "timeleft.amxx" stopped
+L 03/17/2016 - 20:44:06: [umm.amxx] Plugin matching "mapchooser.amxx" stopped
+L 03/17/2016 - 20:44:20: [admin.amxx] Login: "legion<1><STEAM_0:0:1331980314><>" became an admin (account "legion") (access "abcdefijmnopqrstu") (address "77.121.253.33")
+L 03/17/2016 - 20:46:24: [mapsmenu.amxx] Vote: "legion<1><STEAM_0:0:1331980314><>" vote maps (map#1 "jail_dust2x2") (map#2 "jail_xmf") (map#3 "") (map#4 "")
+L 03/17/2016 - 20:46:36: [mapsmenu.amxx] Vote: Voting successful. Map will be changed to jail_xmf
+L 03/17/2016 - 20:46:38: [mapsmenu.amxx] Vote: Result accepted
+L 03/17/2016 - 20:46:40: -------- Mapchange to jail_xmf --------
+L 03/17/2016 - 20:46:42: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 03/17/2016 - 20:46:43: [umm.amxx] Plugin matching "nextmap.amxx" stopped
+L 03/17/2016 - 20:46:43: [umm.amxx] Plugin matching "timeleft.amxx" stopped
+L 03/17/2016 - 20:46:43: [umm.amxx] Plugin matching "mapchooser.amxx" stopped
+L 03/17/2016 - 20:46:44: [admin.amxx] Login: "legion<1><STEAM_0:0:1331980314><>" became an admin (account "legion") (access "abcdefijmnopqrstu") (address "77.121.253.33")
+L 03/17/2016 - 20:55:51: [plmenu.amxx] Cmd: "legion<1><STEAM_0:0:1331980314><>" slay "legion<1><STEAM_0:0:1331980314><>"

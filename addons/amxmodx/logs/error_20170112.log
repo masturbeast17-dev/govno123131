@@ -1,0 +1,33 @@
+L 01/12/2017 - 11:10:00: Start of error session.
+L 01/12/2017 - 11:10:00: Info (map "jail_west_v2") (file "addons/amxmodx/logs/error_20170112.log")
+L 01/12/2017 - 11:10:00: [HAMSANDWICH] Function Ham_Player_Killed not found.
+L 01/12/2017 - 11:10:00: [AMXX] Run time error 10 (plugin "JB_Admin_Games.amxx") (native "RegisterHam") - debug not enabled!
+L 01/12/2017 - 11:10:00: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/12/2017 - 11:10:06: [FUN] Invalid player 1
+L 01/12/2017 - 11:10:06: [AMXX] Run time error 10 (plugin "JB_Admin_Games.amxx") (native "strip_user_weapons") - debug not enabled!
+L 01/12/2017 - 11:10:06: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/12/2017 - 11:24:42: [FUN] Invalid player 1
+L 01/12/2017 - 11:24:42: [AMXX] Run time error 10 (plugin "JB_Admin_Games.amxx") (native "strip_user_weapons") - debug not enabled!
+L 01/12/2017 - 11:24:42: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/12/2017 - 11:28:52: Start of error session.
+L 01/12/2017 - 11:28:52: Info (map "Jb_mini") (file "addons/amxmodx/logs/error_20170112.log")
+L 01/12/2017 - 11:28:52: [HAMSANDWICH] Function Ham_Player_Killed not found.
+L 01/12/2017 - 11:28:52: [AMXX] Run time error 10 (plugin "JB_Admin_Games.amxx") (native "RegisterHam") - debug not enabled!
+L 01/12/2017 - 11:28:52: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/12/2017 - 11:29:05: [FUN] Invalid player 1
+L 01/12/2017 - 11:29:05: [AMXX] Run time error 10 (plugin "JB_Admin_Games.amxx") (native "strip_user_weapons") - debug not enabled!
+L 01/12/2017 - 11:29:05: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/12/2017 - 18:11:30: Start of error session.
+L 01/12/2017 - 18:11:30: Info (map "Jb_mini") (file "addons/amxmodx/logs/error_20170112.log")
+L 01/12/2017 - 18:11:30: [AMXX] Displaying debug trace (plugin "jbe_newamenu.amxx")
+L 01/12/2017 - 18:11:30: [AMXX] Run time error 4: index out of bounds 
+L 01/12/2017 - 18:11:30: [AMXX]    [0] jbe_newamenu.sma::Show_GiveHpMenu (line 801)
+L 01/12/2017 - 18:11:30: [AMXX]    [1] jbe_newamenu.sma::Handle_GiveHpMenu (line 822)
+L 01/12/2017 - 18:11:39: [AMXX] Displaying debug trace (plugin "jbe_newamenu.amxx")
+L 01/12/2017 - 18:11:39: [AMXX] Run time error 4: index out of bounds 
+L 01/12/2017 - 18:11:39: [AMXX]    [0] jbe_newamenu.sma::Show_PlaMenu (line 1012)
+L 01/12/2017 - 18:11:39: [AMXX]    [1] jbe_newamenu.sma::Handle_PlaMenu (line 1065)
+L 01/12/2017 - 18:15:08: [AMXX] Displaying debug trace (plugin "jbe_ar4mode_hook.amxx")
+L 01/12/2017 - 18:15:08: [AMXX] Run time error 4: index out of bounds 
+L 01/12/2017 - 18:15:08: [AMXX]    [0] jbe_ar4mode_hook.sma::Show_HookTargetMenu (line 601)
+L 01/12/2017 - 18:15:08: [AMXX]    [1] jbe_ar4mode_hook.sma::Handle_HookTargetMenu (line 621)

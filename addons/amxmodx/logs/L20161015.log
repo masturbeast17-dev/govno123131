@@ -1,0 +1,33 @@
+L 10/15/2016 - 17:18:10: -------- Mapchange to jail_west_v2 --------
+L 10/15/2016 - 17:18:31: -------- Mapchange to jail_west_v2 --------
+L 10/15/2016 - 17:18:31: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\jbe_privilegii.txt" line 1)
+L 10/15/2016 - 17:18:31: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\jbe_core.txt" line 1)
+L 10/15/2016 - 17:18:31: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\jbe_ranks_prisoner.txt" line 1)
+L 10/15/2016 - 17:18:31: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\jbe_shop.txt" line 1)
+L 10/15/2016 - 17:18:31: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\jbe_costumes.txt" line 1)
+L 10/15/2016 - 17:18:31: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\jbe_grab.txt" line 1)
+L 10/15/2016 - 17:18:31: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\jbe_roleplay.txt" line 1)
+L 10/15/2016 - 19:33:27: -------- Mapchange to jail_west_v2 --------
+L 10/15/2016 - 19:33:27: [AMXX] Modules list not found (file "addons/amxmodx/configs/modules.ini")
+L 10/15/2016 - 19:33:27: [HAMSANDWICH] Unable to open "cstrike\addons\amxmodx\configs/hamdata.ini" for reading.
+L 10/15/2016 - 19:33:27: [HAMSANDWICH] Error: Cannot read config file, natives not registered!
+L 10/15/2016 - 19:33:27: [AMXX] Plugin "jbe_core_dark.amxx" failed to load: Plugin uses an unknown function (name "SetHamParamFloat") - check your modules.ini.
+L 10/15/2016 - 19:33:27: [AMXX] Plugin "jbe_gangs.amxx" failed to load: Plugin uses an unknown function (name "SetHamParamFloat") - check your modules.ini.
+L 10/15/2016 - 19:33:27: [AMXX] Plugin "jbe_ruletka.amxx" failed to load: Plugin uses an unknown function (name "RegisterHam") - check your modules.ini.
+L 10/15/2016 - 19:33:27: [AMXX] Plugin "jbe_drugs.amxx" failed to load: Plugin uses an unknown function (name "SetHamParamFloat") - check your modules.ini.
+L 10/15/2016 - 19:33:27: [AMXX] Plugin "jb_akknife.amxx" failed to load: Plugin uses an unknown function (name "SetHamParamFloat") - check your modules.ini.
+L 10/15/2016 - 19:33:27: [AMXX] Plugin "jb_grab.amxx" failed to load: Plugin uses an unknown function (name "RegisterHam") - check your modules.ini.
+L 10/15/2016 - 19:33:27: [AMXX] Plugin "jb_infinity.amxx" failed to load: Plugin uses an unknown function (name "SetHamParamFloat") - check your modules.ini.
+L 10/15/2016 - 19:33:27: [AMXX] Plugin "jb_panelmenu.amxx" failed to load: Plugin uses an unknown function (name "ExecuteHam") - check your modules.ini.
+L 10/15/2016 - 19:33:27: [AMXX] Plugin "jbe_dm_hideandseek.amxx" failed to load: Plugin uses an unknown function (name "ExecuteHamB") - check your modules.ini.
+L 10/15/2016 - 19:33:27: [AMXX] Plugin "jbe_dm_tea-tea.amxx" failed to load: Plugin uses an unknown function (name "ExecuteHamB") - check your modules.ini.
+L 10/15/2016 - 19:33:27: [AMXX] Plugin "jbe_dm_sparta.amxx" failed to load: Plugin uses an unknown function (name "ExecuteHamB") - check your modules.ini.
+L 10/15/2016 - 19:33:27: [AMXX] Plugin "jbe_dm_birthday.amxx" failed to load: Plugin uses an unknown function (name "EnableHamForward") - check your modules.ini.
+L 10/15/2016 - 19:33:27: [AMXX] Plugin "jbe_dm_starwars.amxx" failed to load: Plugin uses an unknown function (name "ExecuteHamB") - check your modules.ini.
+L 10/15/2016 - 19:33:27: [AMXX] Plugin "jbe_dm_new_year.amxx" failed to load: Plugin uses an unknown function (name "EnableHamForward") - check your modules.ini.
+L 10/15/2016 - 19:33:27: [AMXX] Plugin "jbe_dm_shturm.amxx" failed to load: Plugin uses an unknown function (name "ExecuteHamB") - check your modules.ini.
+L 10/15/2016 - 19:33:27: [AMXX] Plugin "jbe_dm_galaxy.amxx" failed to load: Plugin uses an unknown function (name "ExecuteHamB") - check your modules.ini.
+L 10/15/2016 - 19:33:27: [AMXX] Plugin "jbe_dm_m9so.amxx" failed to load: Plugin uses an unknown function (name "ExecuteHamB") - check your modules.ini.
+L 10/15/2016 - 19:33:27: [AMXX] Plugin "jbe_brickpeacev2.amxx" failed to load: Plugin uses an unknown function (name "SetHamParamFloat") - check your modules.ini.
+L 10/15/2016 - 19:33:28: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\jbe_system\jbe_bank.txt
+L 10/15/2016 - 19:33:28: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\jbe_system\jbe_register.txt

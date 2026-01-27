@@ -1,0 +1,36 @@
+L 07/30/2012 - 17:43:35: Start of error session.
+L 07/30/2012 - 17:43:35: Info (map "de_airstrip") (file "addons/amxmodx/logs/error_20120730.log")
+L 07/30/2012 - 17:43:35: [AMXX] Plugin file open error (plugin "csds_mapa.amxx")
+L 07/30/2012 - 17:43:36: Function "round_start" was not found
+L 07/30/2012 - 17:43:36: [AMXX] Run time error 19 (plugin "Serva4ok_wins.amxx") - debug not enabled!
+L 07/30/2012 - 17:43:36: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/30/2012 - 18:33:14: Start of error session.
+L 07/30/2012 - 18:33:14: Info (map "cs_havana") (file "addons/amxmodx/logs/error_20120730.log")
+L 07/30/2012 - 18:33:14: [AMXX] Plugin file open error (plugin "csds_mapa.amxx")
+L 07/30/2012 - 18:33:15: Function "round_start" was not found
+L 07/30/2012 - 18:33:15: [AMXX] Run time error 19 (plugin "Serva4ok_wins.amxx") - debug not enabled!
+L 07/30/2012 - 18:33:15: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/30/2012 - 19:23:20: Start of error session.
+L 07/30/2012 - 19:23:20: Info (map "de_chateau") (file "addons/amxmodx/logs/error_20120730.log")
+L 07/30/2012 - 19:23:20: [AMXX] Plugin file open error (plugin "csds_mapa.amxx")
+L 07/30/2012 - 19:23:20: Function "round_start" was not found
+L 07/30/2012 - 19:23:20: [AMXX] Run time error 19 (plugin "Serva4ok_wins.amxx") - debug not enabled!
+L 07/30/2012 - 19:23:20: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/30/2012 - 20:12:59: Start of error session.
+L 07/30/2012 - 20:12:59: Info (map "de_aztec") (file "addons/amxmodx/logs/error_20120730.log")
+L 07/30/2012 - 20:12:59: [AMXX] Plugin file open error (plugin "csds_mapa.amxx")
+L 07/30/2012 - 20:12:59: Function "round_start" was not found
+L 07/30/2012 - 20:12:59: [AMXX] Run time error 19 (plugin "Serva4ok_wins.amxx") - debug not enabled!
+L 07/30/2012 - 20:12:59: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/30/2012 - 23:26:01: Start of error session.
+L 07/30/2012 - 23:26:01: Info (map "de_dust2_2x2") (file "addons/amxmodx/logs/error_20120730.log")
+L 07/30/2012 - 23:26:01: [AMXX] Plugin file open error (plugin "csds_mapa.amxx")
+L 07/30/2012 - 23:26:04: Function "round_start" was not found
+L 07/30/2012 - 23:26:04: [AMXX] Run time error 19 (plugin "Serva4ok_wins.amxx") - debug not enabled!
+L 07/30/2012 - 23:26:04: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/30/2012 - 23:28:12: Start of error session.
+L 07/30/2012 - 23:28:12: Info (map "de_dust2_2x2") (file "addons/amxmodx/logs/error_20120730.log")
+L 07/30/2012 - 23:28:12: [AMXX] Plugin file open error (plugin "csds_mapa.amxx")
+L 07/30/2012 - 23:28:12: Function "round_start" was not found
+L 07/30/2012 - 23:28:12: [AMXX] Run time error 19 (plugin "Serva4ok_wins.amxx") - debug not enabled!
+L 07/30/2012 - 23:28:12: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).

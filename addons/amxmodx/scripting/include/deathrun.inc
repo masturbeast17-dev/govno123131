@@ -1,0 +1,6 @@
+native set_monet(id, monets)
+native show_monet(id)
+native set_hook(id, hooks)
+native get_hook(id)
+native get_hook_free(id)
+native get_hook_off(id)

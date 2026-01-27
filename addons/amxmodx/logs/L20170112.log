@@ -1,0 +1,177 @@
+L 01/12/2017 - 10:47:32: -------- Mapchange to jail_west_v2 --------
+L 01/12/2017 - 10:47:32: [GEOIP] Database info: GEO-106FREE 20080801 Build 1 Copyright (c) 2007 MaxMind LLC All Rights Reserved
+L 01/12/2017 - 10:48:08: -------- Mapchange to jail_west_v2 --------
+L 01/12/2017 - 10:48:08: [GEOIP] Database info: GEO-106FREE 20080801 Build 1 Copyright (c) 2007 MaxMind LLC All Rights Reserved
+L 01/12/2017 - 10:51:18: -------- Mapchange to jail_west_v2 --------
+L 01/12/2017 - 10:51:18: [GEOIP] Database info: GEO-106FREE 20080801 Build 1 Copyright (c) 2007 MaxMind LLC All Rights Reserved
+L 01/12/2017 - 10:51:20: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 01/12/2017 - 10:51:20: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\jbe_privilegii.txt" line 1)
+L 01/12/2017 - 10:51:20: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\jbe_ranks_prisoner.txt" line 1)
+L 01/12/2017 - 10:51:20: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\jbe_shop.txt" line 1)
+L 01/12/2017 - 10:51:20: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\jbe_costumes.txt" line 1)
+L 01/12/2017 - 10:51:20: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\jbe_grab.txt" line 1)
+L 01/12/2017 - 10:51:20: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\jbe_ar4mode_hook.txt" line 1)
+L 01/12/2017 - 10:51:20: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\jbe_roleplay.txt" line 1)
+L 01/12/2017 - 10:51:20: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\colored_translit.txt" line 1)
+L 01/12/2017 - 10:51:20: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\colored_translit_config.txt" line 1)
+L 01/12/2017 - 10:51:20: [colored_translit_config.amxx] Can't add menu item "Настройки чата" from plugin "Colored Translit Config" to menu set because the Menus Front-End plugin itself is not loaded!
+L 01/12/2017 - 10:51:20: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\map_spawns_editor.txt
+L 01/12/2017 - 10:51:22: [pluginmenu.amxx] Can't add menu item "Настр. конваров" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+L 01/12/2017 - 10:51:22: [pluginmenu.amxx] Can't add menu item "Настр. команд" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+L 01/12/2017 - 10:51:45: [admin.amxx] Login: "[G]amex DEMOH<1><STEAM_0:0:155899348><>" became an admin (account "[G]amex DEMOH") (access "abcdefghijklmnopqrstu") (address "25.28.97.166")
+L 01/12/2017 - 10:51:49: [admin.amxx] Login: "[G]amex DEMOH<2><STEAM_0:0:155899348><>" became an admin (account "[G]amex DEMOH") (access "abcdefghijklmnopqrstu") (address "25.28.97.166")
+L 01/12/2017 - 10:53:10: [admin.amxx] Login: "[G]amex DEMOH<3><STEAM_0:0:155899348><>" became an admin (account "[G]amex DEMOH") (access "abcdefghijklmnopqrstu") (address "25.28.97.166")
+L 01/12/2017 - 10:57:32: -------- Mapchange to jail_west_v2 --------
+L 01/12/2017 - 10:57:32: [GEOIP] Database info: GEO-106FREE 20080801 Build 1 Copyright (c) 2007 MaxMind LLC All Rights Reserved
+L 01/12/2017 - 10:57:35: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 01/12/2017 - 10:57:35: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\jbe_privilegii.txt" line 1)
+L 01/12/2017 - 10:57:35: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\jbe_ranks_prisoner.txt" line 1)
+L 01/12/2017 - 10:57:35: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\jbe_shop.txt" line 1)
+L 01/12/2017 - 10:57:35: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\jbe_costumes.txt" line 1)
+L 01/12/2017 - 10:57:35: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\jbe_grab.txt" line 1)
+L 01/12/2017 - 10:57:35: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\jbe_ar4mode_hook.txt" line 1)
+L 01/12/2017 - 10:57:35: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\jbe_roleplay.txt" line 1)
+L 01/12/2017 - 10:57:35: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\colored_translit.txt" line 1)
+L 01/12/2017 - 10:57:35: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\colored_translit_config.txt" line 1)
+L 01/12/2017 - 10:57:35: [colored_translit_config.amxx] Can't add menu item "Настройки чата" from plugin "Colored Translit Config" to menu set because the Menus Front-End plugin itself is not loaded!
+L 01/12/2017 - 10:57:35: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\map_spawns_editor.txt
+L 01/12/2017 - 10:57:36: [pluginmenu.amxx] Can't add menu item "Настр. конваров" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+L 01/12/2017 - 10:57:36: [pluginmenu.amxx] Can't add menu item "Настр. команд" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+L 01/12/2017 - 10:57:40: [admin.amxx] Login: "[G]amex DEMOH<1><STEAM_0:0:155899348><>" became an admin (account "[G]amex DEMOH") (access "abcdefghijklmnopqrstu") (address "25.28.97.166")
+L 01/12/2017 - 11:02:06: -------- Mapchange to jail_west_v2 --------
+L 01/12/2017 - 11:02:06: [GEOIP] Database info: GEO-106FREE 20080801 Build 1 Copyright (c) 2007 MaxMind LLC All Rights Reserved
+L 01/12/2017 - 11:02:08: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 01/12/2017 - 11:02:08: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\jbe_privilegii.txt" line 1)
+L 01/12/2017 - 11:02:08: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\jbe_ranks_prisoner.txt" line 1)
+L 01/12/2017 - 11:02:08: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\jbe_shop.txt" line 1)
+L 01/12/2017 - 11:02:08: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\jbe_costumes.txt" line 1)
+L 01/12/2017 - 11:02:08: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\jbe_grab.txt" line 1)
+L 01/12/2017 - 11:02:08: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\jbe_ar4mode_hook.txt" line 1)
+L 01/12/2017 - 11:02:08: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\jbe_roleplay.txt" line 1)
+L 01/12/2017 - 11:02:08: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\colored_translit.txt" line 1)
+L 01/12/2017 - 11:02:08: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\colored_translit_config.txt" line 1)
+L 01/12/2017 - 11:02:08: [colored_translit_config.amxx] Can't add menu item "Настройки чата" from plugin "Colored Translit Config" to menu set because the Menus Front-End plugin itself is not loaded!
+L 01/12/2017 - 11:02:08: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\map_spawns_editor.txt
+L 01/12/2017 - 11:02:09: [pluginmenu.amxx] Can't add menu item "Настр. конваров" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+L 01/12/2017 - 11:02:09: [pluginmenu.amxx] Can't add menu item "Настр. команд" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+L 01/12/2017 - 11:02:12: [admin.amxx] Login: "[G]amex DEMOH<1><STEAM_0:0:155899348><>" became an admin (account "[G]amex DEMOH") (access "abcdefghijklmnopqrstu") (address "25.28.97.166")
+L 01/12/2017 - 11:10:00: -------- Mapchange to jail_west_v2 --------
+L 01/12/2017 - 11:10:00: [GEOIP] Database info: GEO-106FREE 20080801 Build 1 Copyright (c) 2007 MaxMind LLC All Rights Reserved
+L 01/12/2017 - 11:10:00: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 01/12/2017 - 11:10:00: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\jbe_privilegii.txt" line 1)
+L 01/12/2017 - 11:10:00: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\jbe_ranks_prisoner.txt" line 1)
+L 01/12/2017 - 11:10:00: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\jbe_shop.txt" line 1)
+L 01/12/2017 - 11:10:00: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\jbe_costumes.txt" line 1)
+L 01/12/2017 - 11:10:00: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\jbe_grab.txt" line 1)
+L 01/12/2017 - 11:10:00: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\jbe_ar4mode_hook.txt" line 1)
+L 01/12/2017 - 11:10:00: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\jbe_roleplay.txt" line 1)
+L 01/12/2017 - 11:10:00: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\colored_translit.txt" line 1)
+L 01/12/2017 - 11:10:00: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\colored_translit_config.txt" line 1)
+L 01/12/2017 - 11:10:00: [colored_translit_config.amxx] Can't add menu item "Настройки чата" from plugin "Colored Translit Config" to menu set because the Menus Front-End plugin itself is not loaded!
+L 01/12/2017 - 11:10:00: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\map_spawns_editor.txt
+L 01/12/2017 - 11:10:01: [pluginmenu.amxx] Can't add menu item "Настр. конваров" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+L 01/12/2017 - 11:10:01: [pluginmenu.amxx] Can't add menu item "Настр. команд" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+L 01/12/2017 - 11:10:03: [admin.amxx] Login: "[G]amex DEMOH<1><STEAM_0:0:155899348><>" became an admin (account "[G]amex DEMOH") (access "abcdefghijklmnopqrstu") (address "25.28.97.166")
+L 01/12/2017 - 11:24:38: [admin.amxx] Login: "[G]amex DEMOH<2><STEAM_0:0:155899348><>" became an admin (account "[G]amex DEMOH") (access "abcdefghijklmnopqrstu") (address "25.28.97.166")
+L 01/12/2017 - 11:28:52: -------- Mapchange to Jb_mini --------
+L 01/12/2017 - 11:28:52: [GEOIP] Database info: GEO-106FREE 20080801 Build 1 Copyright (c) 2007 MaxMind LLC All Rights Reserved
+L 01/12/2017 - 11:28:52: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 01/12/2017 - 11:28:52: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\jbe_privilegii.txt" line 1)
+L 01/12/2017 - 11:28:52: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\jbe_ranks_prisoner.txt" line 1)
+L 01/12/2017 - 11:28:52: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\jbe_shop.txt" line 1)
+L 01/12/2017 - 11:28:52: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\jbe_costumes.txt" line 1)
+L 01/12/2017 - 11:28:52: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\jbe_grab.txt" line 1)
+L 01/12/2017 - 11:28:52: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\jbe_ar4mode_hook.txt" line 1)
+L 01/12/2017 - 11:28:52: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\jbe_roleplay.txt" line 1)
+L 01/12/2017 - 11:28:52: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\colored_translit.txt" line 1)
+L 01/12/2017 - 11:28:52: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\colored_translit_config.txt" line 1)
+L 01/12/2017 - 11:28:52: [colored_translit_config.amxx] Can't add menu item "Настройки чата" from plugin "Colored Translit Config" to menu set because the Menus Front-End plugin itself is not loaded!
+L 01/12/2017 - 11:28:52: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\map_spawns_editor.txt
+L 01/12/2017 - 11:28:53: [pluginmenu.amxx] Can't add menu item "Настр. конваров" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+L 01/12/2017 - 11:28:53: [pluginmenu.amxx] Can't add menu item "Настр. команд" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+L 01/12/2017 - 11:29:00: [admin.amxx] Login: "[G]amex DEMOH<1><STEAM_0:0:155899348><>" became an admin (account "[G]amex DEMOH") (access "abcdefghijklmnopqrstu") (address "25.28.97.166")
+L 01/12/2017 - 11:29:02: [admin.amxx] Login: "[G]amex DEMOH<2><STEAM_0:0:155899348><>" became an admin (account "[G]amex DEMOH") (access "abcdefghijklmnopqrstu") (address "25.28.97.166")
+L 01/12/2017 - 17:29:36: -------- Mapchange to Jb_mini --------
+L 01/12/2017 - 17:29:37: [GEOIP] Database info: GEO-106FREE 20080801 Build 1 Copyright (c) 2007 MaxMind LLC All Rights Reserved
+L 01/12/2017 - 17:31:02: -------- Mapchange to Jb_mini --------
+L 01/12/2017 - 17:31:02: [GEOIP] Database info: GEO-106FREE 20080801 Build 1 Copyright (c) 2007 MaxMind LLC All Rights Reserved
+L 01/12/2017 - 17:31:21: -------- Mapchange to Jb_mini --------
+L 01/12/2017 - 17:31:21: [GEOIP] Database info: GEO-106FREE 20080801 Build 1 Copyright (c) 2007 MaxMind LLC All Rights Reserved
+L 01/12/2017 - 17:31:51: -------- Mapchange to Jb_mini --------
+L 01/12/2017 - 17:31:51: [GEOIP] Database info: GEO-106FREE 20080801 Build 1 Copyright (c) 2007 MaxMind LLC All Rights Reserved
+L 01/12/2017 - 17:32:14: -------- Mapchange to Jb_mini --------
+L 01/12/2017 - 17:32:14: [GEOIP] Database info: GEO-106FREE 20080801 Build 1 Copyright (c) 2007 MaxMind LLC All Rights Reserved
+L 01/12/2017 - 17:34:51: -------- Mapchange to Jb_mini --------
+L 01/12/2017 - 17:34:51: [GEOIP] Database info: GEO-106FREE 20080801 Build 1 Copyright (c) 2007 MaxMind LLC All Rights Reserved
+L 01/12/2017 - 17:37:14: -------- Mapchange to Jb_mini --------
+L 01/12/2017 - 17:37:14: [GEOIP] Database info: GEO-106FREE 20080801 Build 1 Copyright (c) 2007 MaxMind LLC All Rights Reserved
+L 01/12/2017 - 17:37:15: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 01/12/2017 - 17:37:15: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\jbe_privilegii.txt" line 1)
+L 01/12/2017 - 17:37:15: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\jbe_ranks_prisoner.txt" line 1)
+L 01/12/2017 - 17:37:15: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\jbe_shop.txt" line 1)
+L 01/12/2017 - 17:37:15: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\jbe_costumes.txt" line 1)
+L 01/12/2017 - 17:37:15: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\jbe_grab.txt" line 1)
+L 01/12/2017 - 17:37:15: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\jbe_ar4mode_hook.txt" line 1)
+L 01/12/2017 - 17:37:15: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\jbe_roleplay.txt" line 1)
+L 01/12/2017 - 17:37:15: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\colored_translit.txt" line 1)
+L 01/12/2017 - 17:37:15: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\colored_translit_config.txt" line 1)
+L 01/12/2017 - 17:37:15: [colored_translit_config.amxx] Can't add menu item "Настройки чата" from plugin "Colored Translit Config" to menu set because the Menus Front-End plugin itself is not loaded!
+L 01/12/2017 - 17:37:15: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\map_spawns_editor.txt
+L 01/12/2017 - 17:37:17: [pluginmenu.amxx] Can't add menu item "Настр. конваров" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+L 01/12/2017 - 17:37:17: [pluginmenu.amxx] Can't add menu item "Настр. команд" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+L 01/12/2017 - 17:37:47: [admin.amxx] Login: "[G]amex DEMOH<1><STEAM_0:0:155899348><>" became an admin (account "[G]amex DEMOH") (access "abcdefghijklmnopqrstu") (address "25.28.97.166")
+L 01/12/2017 - 17:37:50: [admin.amxx] Login: "[G]amex DEMOH<2><STEAM_0:0:155899348><>" became an admin (account "[G]amex DEMOH") (access "abcdefghijklmnopqrstu") (address "25.28.97.166")
+L 01/12/2017 - 17:47:30: [admin.amxx] Login: "[G]amex DEMOH<3><STEAM_0:0:155899348><>" became an admin (account "[G]amex DEMOH") (access "abcdefghijklmnopqrstu") (address "25.28.97.166")
+L 01/12/2017 - 17:49:05: [admin.amxx] Login: "[G]amex DEMOH<4><STEAM_0:0:155899348><>" became an admin (account "[G]amex DEMOH") (access "abcdefghijklmnopqrstu") (address "25.28.97.166")
+L 01/12/2017 - 18:00:04: -------- Mapchange to Jb_mini --------
+L 01/12/2017 - 18:00:04: [GEOIP] Database info: GEO-106FREE 20080801 Build 1 Copyright (c) 2007 MaxMind LLC All Rights Reserved
+L 01/12/2017 - 18:00:04: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 01/12/2017 - 18:00:04: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\jbe_privilegii.txt" line 1)
+L 01/12/2017 - 18:00:04: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\jbe_ranks_prisoner.txt" line 1)
+L 01/12/2017 - 18:00:04: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\jbe_shop.txt" line 1)
+L 01/12/2017 - 18:00:04: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\jbe_costumes.txt" line 1)
+L 01/12/2017 - 18:00:04: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\jbe_grab.txt" line 1)
+L 01/12/2017 - 18:00:04: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\jbe_ar4mode_hook.txt" line 1)
+L 01/12/2017 - 18:00:04: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\jbe_roleplay.txt" line 1)
+L 01/12/2017 - 18:00:04: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\colored_translit.txt" line 1)
+L 01/12/2017 - 18:00:04: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\colored_translit_config.txt" line 1)
+L 01/12/2017 - 18:00:04: [colored_translit_config.amxx] Can't add menu item "Настройки чата" from plugin "Colored Translit Config" to menu set because the Menus Front-End plugin itself is not loaded!
+L 01/12/2017 - 18:00:04: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\map_spawns_editor.txt
+L 01/12/2017 - 18:00:05: [pluginmenu.amxx] Can't add menu item "Настр. конваров" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+L 01/12/2017 - 18:00:05: [pluginmenu.amxx] Can't add menu item "Настр. команд" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+L 01/12/2017 - 18:00:21: [admin.amxx] Login: "[G]amex DEMOH<1><STEAM_0:0:155899348><>" became an admin (account "[G]amex DEMOH") (access "abcdefghijklmnopqrstu") (address "25.28.97.166")
+L 01/12/2017 - 18:02:20: [admin.amxx] Login: "[G]amex DEMOH<2><STEAM_0:0:155899348><>" became an admin (account "[G]amex DEMOH") (access "abcdefghijklmnopqrstu") (address "25.28.97.166")
+L 01/12/2017 - 18:25:17: -------- Mapchange to Jb_mini --------
+L 01/12/2017 - 18:25:17: [GEOIP] Database info: GEO-106FREE 20080801 Build 1 Copyright (c) 2007 MaxMind LLC All Rights Reserved
+L 01/12/2017 - 18:25:18: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 01/12/2017 - 18:25:18: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\jbe_privilegii.txt" line 1)
+L 01/12/2017 - 18:25:18: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\jbe_ranks_prisoner.txt" line 1)
+L 01/12/2017 - 18:25:18: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\jbe_shop.txt" line 1)
+L 01/12/2017 - 18:25:18: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\jbe_costumes.txt" line 1)
+L 01/12/2017 - 18:25:18: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\jbe_grab.txt" line 1)
+L 01/12/2017 - 18:25:18: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\jbe_ar4mode_hook.txt" line 1)
+L 01/12/2017 - 18:25:18: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\jbe_roleplay.txt" line 1)
+L 01/12/2017 - 18:25:18: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\colored_translit.txt" line 1)
+L 01/12/2017 - 18:25:18: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\colored_translit_config.txt" line 1)
+L 01/12/2017 - 18:25:18: [colored_translit_config.amxx] Can't add menu item "Настройки чата" from plugin "Colored Translit Config" to menu set because the Menus Front-End plugin itself is not loaded!
+L 01/12/2017 - 18:25:18: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\map_spawns_editor.txt
+L 01/12/2017 - 18:25:19: [pluginmenu.amxx] Can't add menu item "Настр. конваров" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+L 01/12/2017 - 18:25:19: [pluginmenu.amxx] Can't add menu item "Настр. команд" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+L 01/12/2017 - 18:25:21: [admin.amxx] Login: "[G]amex DEMOH<1><STEAM_0:0:155899348><>" became an admin (account "[G]amex DEMOH") (access "abcdefghijklmnopqrstu") (address "25.28.97.166")
+L 01/12/2017 - 18:32:19: -------- Mapchange to Jb_mini --------
+L 01/12/2017 - 18:32:19: [GEOIP] Database info: GEO-106FREE 20080801 Build 1 Copyright (c) 2007 MaxMind LLC All Rights Reserved
+L 01/12/2017 - 18:32:19: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 01/12/2017 - 18:32:19: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\jbe_privilegii.txt" line 1)
+L 01/12/2017 - 18:32:19: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\jbe_ranks_prisoner.txt" line 1)
+L 01/12/2017 - 18:32:19: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\jbe_shop.txt" line 1)
+L 01/12/2017 - 18:32:19: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\jbe_costumes.txt" line 1)
+L 01/12/2017 - 18:32:19: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\jbe_grab.txt" line 1)
+L 01/12/2017 - 18:32:19: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\jbe_ar4mode_hook.txt" line 1)
+L 01/12/2017 - 18:32:19: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\jbe_roleplay.txt" line 1)
+L 01/12/2017 - 18:32:19: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\colored_translit.txt" line 1)
+L 01/12/2017 - 18:32:19: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\colored_translit_config.txt" line 1)
+L 01/12/2017 - 18:32:19: [colored_translit_config.amxx] Can't add menu item "Настройки чата" from plugin "Colored Translit Config" to menu set because the Menus Front-End plugin itself is not loaded!
+L 01/12/2017 - 18:32:19: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\map_spawns_editor.txt
+L 01/12/2017 - 18:32:20: [pluginmenu.amxx] Can't add menu item "Настр. конваров" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+L 01/12/2017 - 18:32:20: [pluginmenu.amxx] Can't add menu item "Настр. команд" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+L 01/12/2017 - 18:32:23: [admin.amxx] Login: "[G]amex DEMOH<1><STEAM_0:0:155899348><>" became an admin (account "[G]amex DEMOH") (access "abcdefghijklmnopqrstu") (address "25.28.97.166")

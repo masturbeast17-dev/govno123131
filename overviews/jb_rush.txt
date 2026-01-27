@@ -1,0 +1,11 @@
+global
+{
+ZOOM 1.18
+ORIGIN 80.00 112.00 -417.00
+ROTATED 1
+}
+layer
+{
+IMAGE "overviews/jb_rush.bmp"
+HEIGHT -417.00
+}

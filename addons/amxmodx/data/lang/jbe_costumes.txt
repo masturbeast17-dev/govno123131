@@ -1,0 +1,27 @@
+﻿[en]
+JBE_MENU_COSTUMES_TITLE = \yВыберите костюм \d| \yшапку
+JBE_MENU_COSTUMES_0 = Снять костюм
+JBE_MENU_COSTUMES_1 = Бабочка
+JBE_MENU_COSTUMES_2 = Единорог
+JBE_MENU_COSTUMES_3 = Халк
+JBE_MENU_COSTUMES_4 = Курица
+JBE_MENU_COSTUMES_5 = Пантера
+JBE_MENU_COSTUMES_6 = Пила
+JBE_MENU_COSTUMES_7 = Йода
+
+JBE_COSTUMES_STRIP = !yВы сняли !tшапку !y(!gкостюм!y).
+JBE_COSTUMES_DRESS = !yВы одели шапку !y'!t%L!y'.
+
+[ru]
+JBE_MENU_COSTUMES_TITLE = \yВыберите костюм \d| \yшапку
+JBE_MENU_COSTUMES_0 = Снять костюм
+JBE_MENU_COSTUMES_1 = Бабочка
+JBE_MENU_COSTUMES_2 = Единорог
+JBE_MENU_COSTUMES_3 = Халк
+JBE_MENU_COSTUMES_4 = Курица
+JBE_MENU_COSTUMES_5 = Пантера
+JBE_MENU_COSTUMES_6 = Пила
+JBE_MENU_COSTUMES_7 = Йода
+
+JBE_COSTUMES_STRIP = !yВы сняли !tшапку!y.
+JBE_COSTUMES_DRESS = !yВы одели шапку !y'!t%L!y'.

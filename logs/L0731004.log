@@ -1,0 +1,48 @@
+L 07/31/2012 - 11:00:24: Log file started (file "logs\L0731004.log") (game "cstrike") (version "48/1.1.2.6/4554")
+L 07/31/2012 - 11:00:24: Server cvar "mp_logdetail" = "3"
+L 07/31/2012 - 11:00:24: Server cvar "mp_autokick" = "0"
+L 07/31/2012 - 11:00:24: Server cvar "mp_buytime" = "0.15"
+L 07/31/2012 - 11:00:24: Server cvar "mp_c4timer" = "35"
+L 07/31/2012 - 11:00:24: Server cvar "mp_flashlight" = "1"
+L 07/31/2012 - 11:00:24: Server cvar "mp_freezetime" = "2"
+L 07/31/2012 - 11:00:24: Server cvar "mp_hostagepenalty" = "0"
+L 07/31/2012 - 11:00:24: Server cvar "mp_kickpercent" = "1"
+L 07/31/2012 - 11:00:24: Server cvar "mp_limitteams" = "0"
+L 07/31/2012 - 11:00:24: Server cvar "mp_roundtime" = "2.20"
+L 07/31/2012 - 11:00:24: Server cvar "mp_startmoney" = "888"
+L 07/31/2012 - 11:00:24: Server cvar "mp_timelimit" = "30"
+L 07/31/2012 - 11:00:24: Server cvar "sv_aim" = "0"
+L 07/31/2012 - 11:00:24: Server cvar "sv_airaccelerate" = "10""
+L 07/31/2012 - 11:00:24: Server cvar "sv_airmove" = "1""
+L 07/31/2012 - 11:00:24: Server cvar "sv_clienttrace" = "1.0"
+L 07/31/2012 - 11:00:24: Server cvar "sv_maxrate" = "25000"
+L 07/31/2012 - 11:00:24: Server cvar "sv_maxspeed" = "320"
+L 07/31/2012 - 11:00:24: Server cvar "sv_minrate" = "10000"
+L 07/31/2012 - 11:00:24: Server cvar "sv_region" = "3"
+L 07/31/2012 - 11:00:24: Server cvar "sv_contact" = "Skype: bloodik_18"
+L 07/31/2012 - 11:00:24: Server cvar "sv_alltalk" = "1"
+L 07/31/2012 - 11:00:24: Server cvar "allow_spectators" = "1"
+L 07/31/2012 - 11:00:24: Server cvar "decalfrequency" = "60"
+L 07/31/2012 - 11:00:32: World triggered "Round_Start"
+L 07/31/2012 - 11:00:50: [DPROTO]: TryAuthRevEmu: AuthString = 'WDWCASY9210175'
+L 07/31/2012 - 11:00:50: [DPROTO]: Client 0 - Set AuthIdType 1 [dp_RevEmu]; pClient = 048714A0
+L 07/31/2012 - 11:00:50: "BlooDik<1><STEAM_0:0:889048808><>" connected, address "212.2.145.247:27005"
+L 07/31/2012 - 11:00:51: [DPROTO]: TryAuthRevEmu: AuthString = 'WDWCASY9210175'
+L 07/31/2012 - 11:00:51: [DPROTO]: Client 0 - Set AuthIdType 1 [dp_RevEmu]; pClient = 048714A0
+L 07/31/2012 - 11:00:51: "BlooDik<2><STEAM_0:0:889048808><>" connected, address "212.2.145.247:27005"
+L 07/31/2012 - 11:00:57: "BlooDik<2><STEAM_0:0:889048808><>" entered the game
+L 07/31/2012 - 11:01:18: "BlooDik<2><STEAM_0:0:889048808><>" joined team "CT"
+L 07/31/2012 - 11:01:18: Server cvar "mp_buytime" = "0.250000"
+L 07/31/2012 - 11:01:20: "BlooDik<2><STEAM_0:0:889048808><CT>" say "/rs"
+L 07/31/2012 - 11:01:44: [META] ini: Begin re-reading plugins list: c:/documents and settings/Савелий Крыворот/Рабочий стол/bloodi_srver/cstrike/addons/metamod/plugins.ini
+L 07/31/2012 - 11:01:44: [META] ini: Read plugin config for: AMX Mod X
+L 07/31/2012 - 11:01:44: [META] ini: Read plugin config for: dproto_EF
+L 07/31/2012 - 11:01:44: [META] ini: Read plugin config for: mmtimer
+L 07/31/2012 - 11:01:44: [META] ini: Read plugin config for: POD-Bot mm
+L 07/31/2012 - 11:01:44: [META] ini: Finished reading plugins list: c:/documents and settings/Савелий Крыворот/Рабочий стол/bloodi_srver/cstrike/addons/metamod/plugins.ini; Found 4 plugins
+L 07/31/2012 - 11:01:44: [META] dll: Updating plugins...
+L 07/31/2012 - 11:01:44: [META] dll: Finished updating 11 plugins; kept 4, loaded 0, unloaded 0, reloaded 0, delayed 0
+L 07/31/2012 - 11:01:44: "BlooDik<2><STEAM_0:0:889048808><CT>" disconnected
+L 07/31/2012 - 11:01:44: World triggered "Round_Draw" (CT "0") (T "0")
+L 07/31/2012 - 11:01:44: World triggered "Round_End"
+L 07/31/2012 - 11:01:44: Log file closed

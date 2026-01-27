@@ -1,0 +1,210 @@
+{
+  "classname" "info_player_deathmatch"
+  "origin" "-558 -417 430"
+  "angle" "0 178 0"
+}
+
+{
+  "classname" "info_player_deathmatch"
+  "origin" "-450 -420 430"
+  "angle" "0 179 0"
+}
+
+{
+  "classname" "info_player_deathmatch"
+  "origin" "-350 -421 430"
+  "angle" "0 181 0"
+}
+
+{
+  "classname" "info_player_deathmatch"
+  "origin" "-254 -420 430"
+  "angle" "0 181 0"
+}
+
+{
+  "classname" "info_player_deathmatch"
+  "origin" "-159 -418 430"
+  "angle" "0 181 0"
+}
+
+{
+  "classname" "info_player_deathmatch"
+  "origin" "-63 -416 430"
+  "angle" "0 181 0"
+}
+
+{
+  "classname" "info_player_deathmatch"
+  "origin" "54 -413 430"
+  "angle" "0 181 0"
+}
+
+{
+  "classname" "info_player_deathmatch"
+  "origin" "179 -410 430"
+  "angle" "0 181 0"
+}
+
+{
+  "classname" "info_player_deathmatch"
+  "origin" "272 -407 430"
+  "angle" "0 181 0"
+}
+
+{
+  "classname" "info_player_deathmatch"
+  "origin" "127 -340 430"
+  "angle" "0 179 0"
+}
+
+{
+  "classname" "info_player_deathmatch"
+  "origin" "-21 -336 430"
+  "angle" "0 182 0"
+}
+
+{
+  "classname" "info_player_deathmatch"
+  "origin" "-113 -346 430"
+  "angle" "0 181 0"
+}
+
+{
+  "classname" "info_player_deathmatch"
+  "origin" "-407 -347 430"
+  "angle" "0 181 0"
+}
+
+{
+  "classname" "info_player_deathmatch"
+  "origin" "-608 -294 430"
+  "angle" "0 358 0"
+}
+
+{
+  "classname" "info_player_deathmatch"
+  "origin" "-513 -274 430"
+  "angle" "0 2 0"
+}
+
+{
+  "classname" "info_player_deathmatch"
+  "origin" "-347 -262 430"
+  "angle" "0 0 0"
+}
+
+{
+  "classname" "info_player_deathmatch"
+  "origin" "-259 -261 430"
+  "angle" "0 357 0"
+}
+
+{
+  "classname" "info_player_deathmatch"
+  "origin" "-172 -264 430"
+  "angle" "0 358 0"
+}
+
+{
+  "classname" "info_player_deathmatch"
+  "origin" "8 -251 430"
+  "angle" "0 29 0"
+}
+
+{
+  "classname" "info_player_deathmatch"
+  "origin" "92 -213 430"
+  "angle" "0 29 0"
+}
+
+{
+  "classname" "info_player_deathmatch"
+  "origin" "174 -179 430"
+  "angle" "0 351 0"
+}
+
+{
+  "classname" "info_player_deathmatch"
+  "origin" "270 -188 430"
+  "angle" "0 320 0"
+}
+
+{
+  "classname" "info_player_deathmatch"
+  "origin" "326 -253 430"
+  "angle" "0 293 0"
+}
+
+{
+  "classname" "info_player_deathmatch"
+  "origin" "367 -345 430"
+  "angle" "0 314 0"
+}
+
+{
+  "classname" "info_player_deathmatch"
+  "origin" "434 -409 430"
+  "angle" "0 45 0"
+}
+
+{
+  "classname" "info_player_deathmatch"
+  "origin" "459 -290 430"
+  "angle" "0 128 0"
+}
+
+{
+  "classname" "info_player_deathmatch"
+  "origin" "229 -95 430"
+  "angle" "0 163 0"
+}
+
+{
+  "classname" "info_player_deathmatch"
+  "origin" "130 -70 430"
+  "angle" "0 186 0"
+}
+
+{
+  "classname" "info_player_deathmatch"
+  "origin" "34 -73 430"
+  "angle" "0 190 0"
+}
+
+{
+  "classname" "info_player_deathmatch"
+  "origin" "-144 -110 430"
+  "angle" "0 190 0"
+}
+
+{
+  "classname" "info_player_deathmatch"
+  "origin" "-242 -128 430"
+  "angle" "0 189 0"
+}
+
+{
+  "classname" "info_player_deathmatch"
+  "origin" "-333 -140 430"
+  "angle" "0 182 0"
+}
+
+{
+  "classname" "info_player_deathmatch"
+  "origin" "-433 -144 430"
+  "angle" "0 177 0"
+}
+
+{
+  "classname" "info_player_deathmatch"
+  "origin" "-522 -133 430"
+  "angle" "0 148 0"
+}
+
+{
+  "classname" "info_player_deathmatch"
+  "origin" "-600 -79 430"
+  "angle" "0 80 0"
+}
+

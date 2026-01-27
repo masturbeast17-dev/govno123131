@@ -1,0 +1,43 @@
+L 07/02/2009 - 16:18:57: Log file started (file "logs\L0702007.log") (game "cstrike") (version "48/1.1.2.6/4554")
+L 07/02/2009 - 16:18:57: Server cvar "mp_logdetail" = "3"
+L 07/02/2009 - 16:18:57: Server cvar "sv_contact" = "1944489"
+L 07/02/2009 - 16:18:57: Server cvar "mp_timelimit" = "30"
+L 07/02/2009 - 16:18:57: Server cvar "mp_autokick" = "0"
+L 07/02/2009 - 16:18:57: Server cvar "mp_c4timer" = "35"
+L 07/02/2009 - 16:18:57: Server cvar "mp_flashlight" = "1"
+L 07/02/2009 - 16:18:57: Server cvar "mp_freezetime" = "2"
+L 07/02/2009 - 16:18:57: Server cvar "mp_hostagepenalty" = "1"
+L 07/02/2009 - 16:18:57: Server cvar "mp_limitteams" = "1"
+L 07/02/2009 - 16:18:57: Server cvar "sv_proxies" = "0"
+L 07/02/2009 - 16:18:57: Server cvar "mp_roundtime" = "2.75"
+L 07/02/2009 - 16:18:57: Server cvar "mp_buytime" = "0.5"
+L 07/02/2009 - 16:18:57: Server cvar "mp_kickpercent" = "99"
+L 07/02/2009 - 16:18:57: Server cvar "mp_playerid" = "1"
+L 07/02/2009 - 16:18:57: Server cvar "allow_spectators" = "3"
+L 07/02/2009 - 16:18:57: Server cvar "mp_startmoney" = "1000"
+L 07/02/2009 - 16:18:57: Server cvar "mp_chattime" = "0"
+L 07/02/2009 - 16:18:57: Server cvar "sv_alltalk" = "1"
+L 07/02/2009 - 16:18:57: Server cvar "decalfrequency" = "60"
+L 07/02/2009 - 16:18:57: Server cvar "sv_aim" = "0"
+L 07/02/2009 - 16:18:57: Server cvar "sv_maxrate" = "25000"
+L 07/02/2009 - 16:18:57: Server cvar "sv_minrate" = "50000"
+L 07/02/2009 - 16:18:57: Server cvar "sv_maxspeed" = "320"
+L 07/02/2009 - 16:19:05: World triggered "Round_Start"
+L 07/02/2009 - 16:19:15: [DPROTO]: TryAuthRevEmu: AuthString = 'WDWCASY9210175'
+L 07/02/2009 - 16:19:15: [DPROTO]: Client 0 - Set AuthIdType 1 [dp_RevEmu]; pClient = 048414A0
+L 07/02/2009 - 16:19:15: "~rD~BlooDik_AWp<1><STEAM_0:0:889048808><>" connected, address "212.2.145.247:27005"
+L 07/02/2009 - 16:19:18: "~rD~BlooDik_AWp<1><STEAM_0:0:889048808><>" entered the game
+L 07/02/2009 - 16:19:20: "~rD~BlooDik_AWp<1><STEAM_0:0:889048808><>" joined team "CT"
+L 07/02/2009 - 16:20:09: [META] ini: Begin re-reading plugins list: c:/documents and settings/Савелий Крыворот/Рабочий стол/hlserver/cstrike/addons/metamod/plugins.ini
+L 07/02/2009 - 16:20:09: [META] ini: Read plugin config for: AMX Mod X
+L 07/02/2009 - 16:20:09: [META] ini: Read plugin config for: dproto_EF
+L 07/02/2009 - 16:20:09: [META] ini: Read plugin config for: mmtimer
+L 07/02/2009 - 16:20:09: [META] ini: Finished reading plugins list: c:/documents and settings/Савелий Крыворот/Рабочий стол/hlserver/cstrike/addons/metamod/plugins.ini; Found 3 plugins
+L 07/02/2009 - 16:20:09: [META] dll: Updating plugins...
+L 07/02/2009 - 16:20:09: [META] WARNING: dll: Failed to unload plugin 'mmtimer' for reloading
+L 07/02/2009 - 16:20:09: [META] dll: Finished updating 10 plugins; kept 1, loaded 0, unloaded 0, reloaded 0, delayed 0
+L 07/02/2009 - 16:20:09: "~rD~BlooDik_AWp<-1><><CT>" disconnected
+L 07/02/2009 - 16:20:09: World triggered "Round_Draw" (CT "0") (T "0")
+L 07/02/2009 - 16:20:09: World triggered "Round_End"
+L 07/02/2009 - 16:20:09: Server shutdown
+L 07/02/2009 - 16:20:09: Log file closed

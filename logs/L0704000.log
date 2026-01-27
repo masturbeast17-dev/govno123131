@@ -1,0 +1,83 @@
+L 07/04/2009 - 11:02:20: Log file started (file "logs\L0704000.log") (game "cstrike") (version "48/1.1.2.6/4554")
+L 07/04/2009 - 11:02:20: Server cvar "mp_logdetail" = "3"
+L 07/04/2009 - 11:02:20: Server cvar "sv_contact" = "1944489"
+L 07/04/2009 - 11:02:20: Server cvar "mp_timelimit" = "30"
+L 07/04/2009 - 11:02:20: Server cvar "mp_autokick" = "0"
+L 07/04/2009 - 11:02:20: Server cvar "mp_c4timer" = "35"
+L 07/04/2009 - 11:02:20: Server cvar "mp_flashlight" = "1"
+L 07/04/2009 - 11:02:20: Server cvar "mp_freezetime" = "2"
+L 07/04/2009 - 11:02:20: Server cvar "mp_hostagepenalty" = "1"
+L 07/04/2009 - 11:02:20: Server cvar "mp_limitteams" = "1"
+L 07/04/2009 - 11:02:20: Server cvar "sv_proxies" = "0"
+L 07/04/2009 - 11:02:20: Server cvar "mp_roundtime" = "2.75"
+L 07/04/2009 - 11:02:20: Server cvar "mp_buytime" = "0.5"
+L 07/04/2009 - 11:02:20: Server cvar "mp_kickpercent" = "99"
+L 07/04/2009 - 11:02:20: Server cvar "mp_playerid" = "1"
+L 07/04/2009 - 11:02:20: Server cvar "allow_spectators" = "3"
+L 07/04/2009 - 11:02:20: Server cvar "mp_startmoney" = "1000"
+L 07/04/2009 - 11:02:20: Server cvar "mp_chattime" = "0"
+L 07/04/2009 - 11:02:20: Server cvar "sv_alltalk" = "1"
+L 07/04/2009 - 11:02:20: Server cvar "decalfrequency" = "60"
+L 07/04/2009 - 11:02:20: Server cvar "sv_aim" = "0"
+L 07/04/2009 - 11:02:20: Server cvar "sv_maxrate" = "25000"
+L 07/04/2009 - 11:02:20: Server cvar "sv_minrate" = "50000"
+L 07/04/2009 - 11:02:20: Server cvar "sv_maxspeed" = "320"
+L 07/04/2009 - 11:02:28: World triggered "Round_Start"
+L 07/04/2009 - 11:02:43: [DPROTO]: TryAuthRevEmu: AuthString = 'WDWCASY9210175'
+L 07/04/2009 - 11:02:43: [DPROTO]: Client 0 - Set AuthIdType 1 [dp_RevEmu]; pClient = 048714A0
+L 07/04/2009 - 11:02:43: "~rD~BlooDik_AWp<1><STEAM_0:0:889048808><>" connected, address "212.2.145.247:27005"
+L 07/04/2009 - 11:02:46: "~rD~BlooDik_AWp<1><STEAM_0:0:889048808><>" entered the game
+L 07/04/2009 - 11:02:48: "~rD~BlooDik_AWp<1><STEAM_0:0:889048808><>" joined team "CT"
+L 07/04/2009 - 11:04:02: Server cvar "sv_restartround" = "1"
+L 07/04/2009 - 11:04:02: World triggered "Restart_Round_(1_second)"
+L 07/04/2009 - 11:04:02: Team "CT" scored "0" with "1" players
+L 07/04/2009 - 11:04:02: Team "TERRORIST" scored "0" with "0" players
+L 07/04/2009 - 11:04:02: Server cvar "sv_restartround" = "0"
+L 07/04/2009 - 11:04:05: World triggered "Round_Start"
+L 07/04/2009 - 11:04:41: "~rD~BlooDik_AWp<1><STEAM_0:0:889048808><CT>" disconnected
+L 07/04/2009 - 11:04:41: World triggered "Round_Draw" (CT "0") (T "0")
+L 07/04/2009 - 11:04:41: World triggered "Round_End"
+L 07/04/2009 - 11:04:48: World triggered "Round_Start"
+L 07/04/2009 - 11:07:33: Team "CT" triggered "Target_Saved" (CT "1") (T "0")
+L 07/04/2009 - 11:07:33: World triggered "Round_End"
+L 07/04/2009 - 11:07:40: World triggered "Round_Start"
+L 07/04/2009 - 11:10:25: Team "CT" triggered "Target_Saved" (CT "2") (T "0")
+L 07/04/2009 - 11:10:25: World triggered "Round_End"
+L 07/04/2009 - 11:10:32: World triggered "Round_Start"
+L 07/04/2009 - 11:13:18: Team "CT" triggered "Target_Saved" (CT "3") (T "0")
+L 07/04/2009 - 11:13:18: World triggered "Round_End"
+L 07/04/2009 - 11:13:25: World triggered "Round_Start"
+L 07/04/2009 - 11:16:10: Team "CT" triggered "Target_Saved" (CT "4") (T "0")
+L 07/04/2009 - 11:16:10: World triggered "Round_End"
+L 07/04/2009 - 11:16:17: World triggered "Round_Start"
+L 07/04/2009 - 11:19:15: Team "CT" triggered "Target_Saved" (CT "5") (T "0")
+L 07/04/2009 - 11:19:15: World triggered "Round_End"
+L 07/04/2009 - 11:19:22: World triggered "Round_Start"
+L 07/04/2009 - 11:22:07: Team "CT" triggered "Target_Saved" (CT "6") (T "0")
+L 07/04/2009 - 11:22:07: World triggered "Round_End"
+L 07/04/2009 - 11:22:14: World triggered "Round_Start"
+L 07/04/2009 - 11:25:12: Team "CT" triggered "Target_Saved" (CT "7") (T "0")
+L 07/04/2009 - 11:25:12: World triggered "Round_End"
+L 07/04/2009 - 11:25:19: World triggered "Round_Start"
+L 07/04/2009 - 11:28:04: Team "CT" triggered "Target_Saved" (CT "8") (T "0")
+L 07/04/2009 - 11:28:04: World triggered "Round_End"
+L 07/04/2009 - 11:28:11: World triggered "Round_Start"
+L 07/04/2009 - 11:30:56: Team "CT" triggered "Target_Saved" (CT "9") (T "0")
+L 07/04/2009 - 11:30:56: World triggered "Round_End"
+L 07/04/2009 - 11:31:03: World triggered "Round_Start"
+L 07/04/2009 - 11:33:48: Team "CT" triggered "Target_Saved" (CT "10") (T "0")
+L 07/04/2009 - 11:33:48: World triggered "Round_End"
+L 07/04/2009 - 11:33:55: World triggered "Round_Start"
+L 07/04/2009 - 11:34:29: Team "CT" scored "10" with "0" players
+L 07/04/2009 - 11:34:29: Team "TERRORIST" scored "0" with "0" players
+L 07/04/2009 - 11:34:29: Server cvar "mp_chattime" = "2"
+L 07/04/2009 - 11:34:29: Server cvar "mp_chattime" = "0"
+L 07/04/2009 - 11:34:29: [META] ini: Begin re-reading plugins list: c:/documents and settings/Савелий Крыворот/Рабочий стол/hlserver/cstrike/addons/metamod/plugins.ini
+L 07/04/2009 - 11:34:29: [META] ini: Read plugin config for: AMX Mod X
+L 07/04/2009 - 11:34:29: [META] ini: Read plugin config for: dproto_EF
+L 07/04/2009 - 11:34:29: [META] ini: Read plugin config for: mmtimer
+L 07/04/2009 - 11:34:29: [META] ini: Finished reading plugins list: c:/documents and settings/Савелий Крыворот/Рабочий стол/hlserver/cstrike/addons/metamod/plugins.ini; Found 3 plugins
+L 07/04/2009 - 11:34:29: [META] dll: Updating plugins...
+L 07/04/2009 - 11:34:29: [META] WARNING: dll: Failed to unload plugin 'mmtimer' for reloading
+L 07/04/2009 - 11:34:29: [META] dll: Finished updating 10 plugins; kept 1, loaded 0, unloaded 0, reloaded 0, delayed 0
+L 07/04/2009 - 11:34:29: Log file closed

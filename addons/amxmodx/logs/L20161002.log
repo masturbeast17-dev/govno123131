@@ -1,0 +1,177 @@
+L 10/02/2016 - 08:02:12: -------- Mapchange to jail_west_v2 --------
+L 10/02/2016 - 08:02:12: [GEOIP] Database info: GEO-106FREE 20080801 Build 1 Copyright (c) 2007 MaxMind LLC All Rights Reserved
+L 10/02/2016 - 08:02:13: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 10/02/2016 - 08:02:13: [colored_translit_config.amxx] Can't add menu item "Настройки чата" from plugin "Colored Translit Config" to menu set because the Menus Front-End plugin itself is not loaded!
+L 10/02/2016 - 08:02:21: [admin.amxx] Login: "ZLOYTPEK<1><STEAM_0:0:695033327><>" became an admin (account "ZLOYTPEK") (access "abcdefijmnopqrstu") (address "127.0.0.1")
+L 10/02/2016 - 08:02:23: [admin.amxx] Login: "ZLOYTPEK<2><STEAM_0:0:695033327><>" became an admin (account "ZLOYTPEK") (access "abcdefijmnopqrstu") (address "127.0.0.1")
+L 10/02/2016 - 08:19:24: [umm.amxx] Начинается голосование для выбора следующей карты...
+L 10/02/2016 - 08:19:24: [umm.amxx] Voting for the nextmap has started
+L 10/02/2016 - 08:19:30: [umm.amxx] ZLOYTPEK выбрал продление текущей карты.
+L 10/02/2016 - 08:19:35: [umm.amxx] Голосование закончено. Карта "jail_west_v2" будет продлена на 15. минут
+L 10/02/2016 - 08:24:18: -------- Mapchange to jail_west_v2 --------
+L 10/02/2016 - 08:24:19: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 10/02/2016 - 08:24:19: [colored_translit_config.amxx] Can't add menu item "Настройки чата" from plugin "Colored Translit Config" to menu set because the Menus Front-End plugin itself is not loaded!
+L 10/02/2016 - 08:24:20: [admin.amxx] Login: "ZLOYTPEK<2><STEAM_0:0:695033327><>" became an admin (account "ZLOYTPEK") (access "abcdefijmnopqrstu") (address "127.0.0.1")
+L 10/02/2016 - 08:24:20: [admin.amxx] Login: "ZLOYTPEK<2><STEAM_0:0:695033327><>" became an admin (account "ZLOYTPEK") (access "abcdefijmnopqrstu") (address "127.0.0.1")
+L 10/02/2016 - 08:24:20: [admin.amxx] Login: "ZLOYTPEK<3><STEAM_0:0:695033327><>" became an admin (account "ZLOYTPEK") (access "abcdefijmnopqrstu") (address "127.0.0.1")
+L 10/02/2016 - 08:25:31: -------- Mapchange to jail_west_v2 --------
+L 10/02/2016 - 08:25:32: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 10/02/2016 - 08:25:32: [colored_translit_config.amxx] Can't add menu item "Настройки чата" from plugin "Colored Translit Config" to menu set because the Menus Front-End plugin itself is not loaded!
+L 10/02/2016 - 08:25:33: [admin.amxx] Login: "ZLOYTPEK<3><STEAM_0:0:695033327><>" became an admin (account "ZLOYTPEK") (access "abcdefijmnopqrstu") (address "127.0.0.1")
+L 10/02/2016 - 08:25:33: [admin.amxx] Login: "ZLOYTPEK<3><STEAM_0:0:695033327><>" became an admin (account "ZLOYTPEK") (access "abcdefijmnopqrstu") (address "127.0.0.1")
+L 10/02/2016 - 08:25:34: [admin.amxx] Login: "ZLOYTPEK<4><STEAM_0:0:695033327><>" became an admin (account "ZLOYTPEK") (access "abcdefijmnopqrstu") (address "127.0.0.1")
+L 10/02/2016 - 08:40:50: [mapsmenu.amxx] Cmd: "ZLOYTPEK<4><STEAM_0:0:695033327><>" changelevel "jail_xmf"
+L 10/02/2016 - 08:40:52: -------- Mapchange to jail_xmf --------
+L 10/02/2016 - 08:40:53: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 10/02/2016 - 08:40:53: [colored_translit_config.amxx] Can't add menu item "Настройки чата" from plugin "Colored Translit Config" to menu set because the Menus Front-End plugin itself is not loaded!
+L 10/02/2016 - 08:40:53: [admin.amxx] Login: "ZLOYTPEK<4><STEAM_0:0:695033327><>" became an admin (account "ZLOYTPEK") (access "abcdefijmnopqrstu") (address "127.0.0.1")
+L 10/02/2016 - 08:40:55: [admin.amxx] Login: "ZLOYTPEK<5><STEAM_0:0:695033327><>" became an admin (account "ZLOYTPEK") (access "abcdefijmnopqrstu") (address "127.0.0.1")
+L 10/02/2016 - 09:07:52: -------- Mapchange to jail_poseidon --------
+L 10/02/2016 - 09:07:53: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 10/02/2016 - 09:07:53: [colored_translit_config.amxx] Can't add menu item "Настройки чата" from plugin "Colored Translit Config" to menu set because the Menus Front-End plugin itself is not loaded!
+L 10/02/2016 - 09:29:19: [admin.amxx] Login: "ZLOYTPEK<6><STEAM_0:0:695033327><>" became an admin (account "ZLOYTPEK") (access "abcdefijmnopqrstu") (address "127.0.0.1")
+L 10/02/2016 - 09:29:20: [admin.amxx] Login: "ZLOYTPEK<7><STEAM_0:0:695033327><>" became an admin (account "ZLOYTPEK") (access "abcdefijmnopqrstu") (address "127.0.0.1")
+L 10/02/2016 - 09:32:03: [umm.amxx] Начинается голосование для выбора следующей карты...
+L 10/02/2016 - 09:32:03: [umm.amxx] Voting for the nextmap has started
+L 10/02/2016 - 09:32:13: [umm.amxx] Голосование закончено. Следующая карта "Jail_OurPain_b1"
+L 10/02/2016 - 09:32:26: -------- Mapchange to Jail_OurPain_b1 --------
+L 10/02/2016 - 09:32:26: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 10/02/2016 - 09:32:27: [colored_translit_config.amxx] Can't add menu item "Настройки чата" from plugin "Colored Translit Config" to menu set because the Menus Front-End plugin itself is not loaded!
+L 10/02/2016 - 09:32:27: [admin.amxx] Login: "ZLOYTPEK<7><STEAM_0:0:695033327><>" became an admin (account "ZLOYTPEK") (access "abcdefijmnopqrstu") (address "127.0.0.1")
+L 10/02/2016 - 09:32:28: [admin.amxx] Login: "ZLOYTPEK<8><STEAM_0:0:695033327><>" became an admin (account "ZLOYTPEK") (access "abcdefijmnopqrstu") (address "127.0.0.1")
+L 10/02/2016 - 09:59:23: -------- Mapchange to jb_rush --------
+L 10/02/2016 - 09:59:24: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 10/02/2016 - 09:59:24: [colored_translit_config.amxx] Can't add menu item "Настройки чата" from plugin "Colored Translit Config" to menu set because the Menus Front-End plugin itself is not loaded!
+L 10/02/2016 - 10:26:20: -------- Mapchange to de_chateau --------
+L 10/02/2016 - 10:26:21: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 10/02/2016 - 10:26:21: [colored_translit_config.amxx] Can't add menu item "Настройки чата" from plugin "Colored Translit Config" to menu set because the Menus Front-End plugin itself is not loaded!
+L 10/02/2016 - 10:53:18: -------- Mapchange to de_aztec --------
+L 10/02/2016 - 10:53:18: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 10/02/2016 - 10:53:18: [colored_translit_config.amxx] Can't add menu item "Настройки чата" from plugin "Colored Translit Config" to menu set because the Menus Front-End plugin itself is not loaded!
+L 10/02/2016 - 11:20:15: -------- Mapchange to as_oilrig --------
+L 10/02/2016 - 11:20:15: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 10/02/2016 - 11:20:16: [colored_translit_config.amxx] Can't add menu item "Настройки чата" from plugin "Colored Translit Config" to menu set because the Menus Front-End plugin itself is not loaded!
+L 10/02/2016 - 11:47:12: -------- Mapchange to cs_siege --------
+L 10/02/2016 - 11:47:13: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 10/02/2016 - 11:47:13: [colored_translit_config.amxx] Can't add menu item "Настройки чата" from plugin "Colored Translit Config" to menu set because the Menus Front-End plugin itself is not loaded!
+L 10/02/2016 - 12:12:36: [admin.amxx] Login: "ZLOYTPEK<9><STEAM_0:0:695033327><>" became an admin (account "ZLOYTPEK") (access "abcdefijmnopqrstu") (address "127.0.0.1")
+L 10/02/2016 - 12:12:37: [admin.amxx] Login: "ZLOYTPEK<10><STEAM_0:0:695033327><>" became an admin (account "ZLOYTPEK") (access "abcdefijmnopqrstu") (address "127.0.0.1")
+L 10/02/2016 - 12:12:50: [umm.amxx] Начинается голосование для выбора следующей карты...
+L 10/02/2016 - 12:12:50: [umm.amxx] Voting for the nextmap has started
+L 10/02/2016 - 12:13:00: [umm.amxx] Голосование закончено. Следующая карта "jail_poseidon"
+L 10/02/2016 - 12:13:12: -------- Mapchange to jail_poseidon --------
+L 10/02/2016 - 12:13:12: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 10/02/2016 - 12:13:13: [colored_translit_config.amxx] Can't add menu item "Настройки чата" from plugin "Colored Translit Config" to menu set because the Menus Front-End plugin itself is not loaded!
+L 10/02/2016 - 12:13:13: [admin.amxx] Login: "ZLOYTPEK<10><STEAM_0:0:695033327><>" became an admin (account "ZLOYTPEK") (access "abcdefijmnopqrstu") (address "127.0.0.1")
+L 10/02/2016 - 12:33:31: [umm.amxx] Начинается голосование для выбора следующей карты...
+L 10/02/2016 - 12:33:31: [umm.amxx] Voting for the nextmap has started
+L 10/02/2016 - 12:33:33: [umm.amxx] ZLOYTPEK выбрал продление текущей карты.
+L 10/02/2016 - 12:33:41: [umm.amxx] Голосование закончено. Карта "jail_poseidon" будет продлена на 15. минут
+L 10/02/2016 - 12:54:34: [umm.amxx] Начинается голосование для выбора следующей карты...
+L 10/02/2016 - 12:54:34: [umm.amxx] Voting for the nextmap has started
+L 10/02/2016 - 12:54:45: [umm.amxx] Голосование закончено. Следующая карта "Jail_OurPain_b1"
+L 10/02/2016 - 12:54:57: -------- Mapchange to Jail_OurPain_b1 --------
+L 10/02/2016 - 12:54:58: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 10/02/2016 - 12:54:58: [colored_translit_config.amxx] Can't add menu item "Настройки чата" from plugin "Colored Translit Config" to menu set because the Menus Front-End plugin itself is not loaded!
+L 10/02/2016 - 13:21:55: -------- Mapchange to cs_747 --------
+L 10/02/2016 - 13:21:55: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 10/02/2016 - 13:21:55: [colored_translit_config.amxx] Can't add menu item "Настройки чата" from plugin "Colored Translit Config" to menu set because the Menus Front-End plugin itself is not loaded!
+L 10/02/2016 - 13:39:37: [admin.amxx] Login: "ZLOYTPEK<11><STEAM_0:0:695033327><>" became an admin (account "ZLOYTPEK") (access "abcdefijmnopqrstu") (address "127.0.0.1")
+L 10/02/2016 - 13:39:39: [admin.amxx] Login: "ZLOYTPEK<12><STEAM_0:0:695033327><>" became an admin (account "ZLOYTPEK") (access "abcdefijmnopqrstu") (address "127.0.0.1")
+L 10/02/2016 - 13:39:50: [umm.amxx] Начинается голосование для выбора следующей карты...
+L 10/02/2016 - 13:39:50: [umm.amxx] Voting for the nextmap has started
+L 10/02/2016 - 13:40:00: [umm.amxx] Голосование закончено. Следующая карта "jail_xmf"
+L 10/02/2016 - 13:40:13: -------- Mapchange to jail_xmf --------
+L 10/02/2016 - 13:40:13: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 10/02/2016 - 13:40:13: [colored_translit_config.amxx] Can't add menu item "Настройки чата" from plugin "Colored Translit Config" to menu set because the Menus Front-End plugin itself is not loaded!
+L 10/02/2016 - 13:40:14: [admin.amxx] Login: "ZLOYTPEK<12><STEAM_0:0:695033327><>" became an admin (account "ZLOYTPEK") (access "abcdefijmnopqrstu") (address "127.0.0.1")
+L 10/02/2016 - 14:06:39: [admin.amxx] Login: "ZLOYTPEK<13><STEAM_0:0:695033327><>" became an admin (account "ZLOYTPEK") (access "abcdefijmnopqrstu") (address "127.0.0.1")
+L 10/02/2016 - 14:07:06: [mapsmenu.amxx] Cmd: "ZLOYTPEK<13><STEAM_0:0:695033327><>" changelevel "jail_bakgit"
+L 10/02/2016 - 14:07:08: -------- Mapchange to jail_bakgit --------
+L 10/02/2016 - 14:07:09: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 10/02/2016 - 14:07:09: [colored_translit_config.amxx] Can't add menu item "Настройки чата" from plugin "Colored Translit Config" to menu set because the Menus Front-End plugin itself is not loaded!
+L 10/02/2016 - 14:07:09: [admin.amxx] Login: "ZLOYTPEK<13><STEAM_0:0:695033327><>" became an admin (account "ZLOYTPEK") (access "abcdefijmnopqrstu") (address "127.0.0.1")
+L 10/02/2016 - 14:07:09: [admin.amxx] Login: "ZLOYTPEK<13><STEAM_0:0:695033327><>" became an admin (account "ZLOYTPEK") (access "abcdefijmnopqrstu") (address "127.0.0.1")
+L 10/02/2016 - 14:07:09: [admin.amxx] Login: "ZLOYTPEK<14><STEAM_0:0:695033327><>" became an admin (account "ZLOYTPEK") (access "abcdefijmnopqrstu") (address "127.0.0.1")
+L 10/02/2016 - 14:07:11: [admin.amxx] Login: "ZLOYTPEK<15><STEAM_0:0:695033327><>" became an admin (account "ZLOYTPEK") (access "abcdefijmnopqrstu") (address "127.0.0.1")
+L 10/02/2016 - 14:07:24: -------- Mapchange to jb_snow --------
+L 10/02/2016 - 14:08:29: -------- Mapchange to jail_west_v2 --------
+L 10/02/2016 - 14:08:29: [GEOIP] Database info: GEO-106FREE 20080801 Build 1 Copyright (c) 2007 MaxMind LLC All Rights Reserved
+L 10/02/2016 - 14:08:29: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 10/02/2016 - 14:08:29: [colored_translit_config.amxx] Can't add menu item "Настройки чата" from plugin "Colored Translit Config" to menu set because the Menus Front-End plugin itself is not loaded!
+L 10/02/2016 - 14:08:37: [admin.amxx] Login: "ZLOYTPEK<1><STEAM_0:0:695033327><>" became an admin (account "ZLOYTPEK") (access "abcdefijmnopqrstu") (address "127.0.0.1")
+L 10/02/2016 - 14:35:30: -------- Mapchange to de_airstrip --------
+L 10/02/2016 - 14:35:30: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 10/02/2016 - 14:35:30: [colored_translit_config.amxx] Can't add menu item "Настройки чата" from plugin "Colored Translit Config" to menu set because the Menus Front-End plugin itself is not loaded!
+L 10/02/2016 - 14:51:50: [admin.amxx] Login: "ZLOYTPEK<2><STEAM_0:0:695033327><>" became an admin (account "ZLOYTPEK") (access "abcdefijmnopqrstu") (address "127.0.0.1")
+L 10/02/2016 - 14:51:52: [admin.amxx] Login: "ZLOYTPEK<3><STEAM_0:0:695033327><>" became an admin (account "ZLOYTPEK") (access "abcdefijmnopqrstu") (address "127.0.0.1")
+L 10/02/2016 - 14:52:00: [mapsmenu.amxx] Cmd: "ZLOYTPEK<3><STEAM_0:0:695033327><>" changelevel "jail_xmf"
+L 10/02/2016 - 14:52:02: -------- Mapchange to jail_xmf --------
+L 10/02/2016 - 14:52:03: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 10/02/2016 - 14:52:03: [colored_translit_config.amxx] Can't add menu item "Настройки чата" from plugin "Colored Translit Config" to menu set because the Menus Front-End plugin itself is not loaded!
+L 10/02/2016 - 14:52:03: [admin.amxx] Login: "ZLOYTPEK<3><STEAM_0:0:695033327><>" became an admin (account "ZLOYTPEK") (access "abcdefijmnopqrstu") (address "127.0.0.1")
+L 10/02/2016 - 14:52:03: [admin.amxx] Login: "ZLOYTPEK<3><STEAM_0:0:695033327><>" became an admin (account "ZLOYTPEK") (access "abcdefijmnopqrstu") (address "127.0.0.1")
+L 10/02/2016 - 14:52:04: [admin.amxx] Login: "ZLOYTPEK<4><STEAM_0:0:695033327><>" became an admin (account "ZLOYTPEK") (access "abcdefijmnopqrstu") (address "127.0.0.1")
+L 10/02/2016 - 15:19:00: -------- Mapchange to jail_Ground --------
+L 10/02/2016 - 15:19:00: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 10/02/2016 - 15:19:01: [colored_translit_config.amxx] Can't add menu item "Настройки чата" from plugin "Colored Translit Config" to menu set because the Menus Front-End plugin itself is not loaded!
+L 10/02/2016 - 15:42:37: [admin.amxx] Login: "ZLOYTPEK<5><STEAM_0:0:695033327><>" became an admin (account "ZLOYTPEK") (access "abcdefijmnopqrstu") (address "127.0.0.1")
+L 10/02/2016 - 15:42:39: [admin.amxx] Login: "ZLOYTPEK<6><STEAM_0:0:695033327><>" became an admin (account "ZLOYTPEK") (access "abcdefijmnopqrstu") (address "127.0.0.1")
+L 10/02/2016 - 15:44:53: [umm.amxx] Начинается голосование для выбора следующей карты...
+L 10/02/2016 - 15:44:53: [umm.amxx] Voting for the nextmap has started
+L 10/02/2016 - 15:45:03: [umm.amxx] Голосование закончено. Следующая карта "jail_especial_v2"
+L 10/02/2016 - 15:45:16: -------- Mapchange to jail_especial_v2 --------
+L 10/02/2016 - 15:45:17: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 10/02/2016 - 15:45:17: [colored_translit_config.amxx] Can't add menu item "Настройки чата" from plugin "Colored Translit Config" to menu set because the Menus Front-End plugin itself is not loaded!
+L 10/02/2016 - 15:45:24: [admin.amxx] Login: "ZLOYTPEK<6><STEAM_0:0:695033327><>" became an admin (account "ZLOYTPEK") (access "abcdefijmnopqrstu") (address "127.0.0.1")
+L 10/02/2016 - 15:45:26: [admin.amxx] Login: "ZLOYTPEK<7><STEAM_0:0:695033327><>" became an admin (account "ZLOYTPEK") (access "abcdefijmnopqrstu") (address "127.0.0.1")
+L 10/02/2016 - 15:45:37: -------- Mapchange to jail_rats --------
+L 10/02/2016 - 15:45:38: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 10/02/2016 - 15:45:38: [colored_translit_config.amxx] Can't add menu item "Настройки чата" from plugin "Colored Translit Config" to menu set because the Menus Front-End plugin itself is not loaded!
+L 10/02/2016 - 15:45:38: [admin.amxx] Login: "ZLOYTPEK<7><STEAM_0:0:695033327><>" became an admin (account "ZLOYTPEK") (access "abcdefijmnopqrstu") (address "127.0.0.1")
+L 10/02/2016 - 15:45:41: [admin.amxx] Login: "ZLOYTPEK<8><STEAM_0:0:695033327><>" became an admin (account "ZLOYTPEK") (access "abcdefijmnopqrstu") (address "127.0.0.1")
+L 10/02/2016 - 15:45:52: -------- Mapchange to Jb_mini --------
+L 10/02/2016 - 15:45:53: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 10/02/2016 - 15:45:53: [colored_translit_config.amxx] Can't add menu item "Настройки чата" from plugin "Colored Translit Config" to menu set because the Menus Front-End plugin itself is not loaded!
+L 10/02/2016 - 15:45:54: [admin.amxx] Login: "ZLOYTPEK<8><STEAM_0:0:695033327><>" became an admin (account "ZLOYTPEK") (access "abcdefijmnopqrstu") (address "127.0.0.1")
+L 10/02/2016 - 15:45:54: [admin.amxx] Login: "ZLOYTPEK<8><STEAM_0:0:695033327><>" became an admin (account "ZLOYTPEK") (access "abcdefijmnopqrstu") (address "127.0.0.1")
+L 10/02/2016 - 15:45:55: [admin.amxx] Login: "ZLOYTPEK<9><STEAM_0:0:695033327><>" became an admin (account "ZLOYTPEK") (access "abcdefijmnopqrstu") (address "127.0.0.1")
+L 10/02/2016 - 16:04:06: [umm.amxx] Начинается голосование для выбора следующей карты...
+L 10/02/2016 - 16:04:06: [umm.amxx] Voting for the nextmap has started
+L 10/02/2016 - 16:04:09: [umm.amxx] ZLOYTPEK выбрал продление текущей карты.
+L 10/02/2016 - 16:04:17: [umm.amxx] Голосование закончено. Карта "Jb_mini" будет продлена на 15. минут
+L 10/02/2016 - 16:27:27: [umm.amxx] Начинается голосование для выбора следующей карты...
+L 10/02/2016 - 16:27:27: [umm.amxx] Voting for the nextmap has started
+L 10/02/2016 - 16:27:38: [umm.amxx] Голосование закончено. Следующая карта "jail_rehab_b4"
+L 10/02/2016 - 16:27:50: -------- Mapchange to jail_rehab_b4 --------
+L 10/02/2016 - 16:27:50: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 10/02/2016 - 16:27:51: [colored_translit_config.amxx] Can't add menu item "Настройки чата" from plugin "Colored Translit Config" to menu set because the Menus Front-End plugin itself is not loaded!
+L 10/02/2016 - 16:27:51: [admin.amxx] Login: "ZLOYTPEK<9><STEAM_0:0:695033327><>" became an admin (account "ZLOYTPEK") (access "abcdefijmnopqrstu") (address "127.0.0.1")
+L 10/02/2016 - 16:27:53: [admin.amxx] Login: "ZLOYTPEK<10><STEAM_0:0:695033327><>" became an admin (account "ZLOYTPEK") (access "abcdefijmnopqrstu") (address "127.0.0.1")
+L 10/02/2016 - 16:55:22: -------- Mapchange to jail_xmf --------
+L 10/02/2016 - 16:55:22: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 10/02/2016 - 16:55:23: [colored_translit_config.amxx] Can't add menu item "Настройки чата" from plugin "Colored Translit Config" to menu set because the Menus Front-End plugin itself is not loaded!
+L 10/02/2016 - 17:22:20: -------- Mapchange to as_oilrig --------
+L 10/02/2016 - 17:22:20: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 10/02/2016 - 17:22:21: [colored_translit_config.amxx] Can't add menu item "Настройки чата" from plugin "Colored Translit Config" to menu set because the Menus Front-End plugin itself is not loaded!
+L 10/02/2016 - 17:49:19: -------- Mapchange to cs_siege --------
+L 10/02/2016 - 17:49:19: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 10/02/2016 - 17:49:20: [colored_translit_config.amxx] Can't add menu item "Настройки чата" from plugin "Colored Translit Config" to menu set because the Menus Front-End plugin itself is not loaded!
+L 10/02/2016 - 18:16:16: -------- Mapchange to de_cbble --------
+L 10/02/2016 - 18:16:17: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 10/02/2016 - 18:16:17: [colored_translit_config.amxx] Can't add menu item "Настройки чата" from plugin "Colored Translit Config" to menu set because the Menus Front-End plugin itself is not loaded!
+L 10/02/2016 - 18:43:15: -------- Mapchange to cs_747 --------
+L 10/02/2016 - 18:43:16: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 10/02/2016 - 18:43:16: [colored_translit_config.amxx] Can't add menu item "Настройки чата" from plugin "Colored Translit Config" to menu set because the Menus Front-End plugin itself is not loaded!
+L 10/02/2016 - 19:10:13: -------- Mapchange to de_prodigy --------
+L 10/02/2016 - 19:10:14: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 10/02/2016 - 19:10:14: [colored_translit_config.amxx] Can't add menu item "Настройки чата" from plugin "Colored Translit Config" to menu set because the Menus Front-End plugin itself is not loaded!
+L 10/02/2016 - 19:37:13: -------- Mapchange to cs_assault --------
+L 10/02/2016 - 19:37:14: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 10/02/2016 - 19:37:14: [colored_translit_config.amxx] Can't add menu item "Настройки чата" from plugin "Colored Translit Config" to menu set because the Menus Front-End plugin itself is not loaded!
+L 10/02/2016 - 20:04:11: -------- Mapchange to cs_office --------
+L 10/02/2016 - 20:04:12: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 10/02/2016 - 20:04:12: [colored_translit_config.amxx] Can't add menu item "Настройки чата" from plugin "Colored Translit Config" to menu set because the Menus Front-End plugin itself is not loaded!
+L 10/02/2016 - 20:31:09: -------- Mapchange to cs_italy --------
+L 10/02/2016 - 20:31:10: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 10/02/2016 - 20:31:10: [colored_translit_config.amxx] Can't add menu item "Настройки чата" from plugin "Colored Translit Config" to menu set because the Menus Front-End plugin itself is not loaded!

@@ -1,0 +1,20 @@
+{
+    "name"        : "svs_ptr",
+    "library"     : "engine",
+    "type"        : "int",
+    "memoryType"  : "data",
+    "identifiers" :
+    [
+        {
+            "os"    : "windows",
+            "mod"   : "cstrike",
+            "value" : [0xE8,"*","*","*","*",0x8B,"*","*","*","*","*",0x33,"*",0x83,"*","*",0x0F,0x9F,0xC0,0x50]
+        },
+        {
+            "os"    : "linux",
+            "mod"   : "cstrike",
+            "value" : 0xBE130
+        }
+    ]
+}
+

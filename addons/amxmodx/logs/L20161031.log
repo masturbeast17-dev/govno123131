@@ -1,0 +1,30 @@
+L 10/31/2016 - 10:25:51: -------- Mapchange to jail_west_v2 --------
+L 10/31/2016 - 10:25:52: [GEOIP] Database info: GEO-106FREE 20080801 Build 1 Copyright (c) 2007 MaxMind LLC All Rights Reserved
+L 10/31/2016 - 10:25:55: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 10/31/2016 - 10:25:55: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\jbe_privilegii.txt" line 1)
+L 10/31/2016 - 10:25:55: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\jbe_core.txt" line 1)
+L 10/31/2016 - 10:25:55: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\jbe_ranks_prisoner.txt" line 1)
+L 10/31/2016 - 10:25:55: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\jbe_shop.txt" line 1)
+L 10/31/2016 - 10:25:55: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\jbe_costumes.txt" line 1)
+L 10/31/2016 - 10:25:55: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\jbe_grab.txt" line 1)
+L 10/31/2016 - 10:25:55: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\jbe_ar4mode_hook.txt" line 1)
+L 10/31/2016 - 10:25:55: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\jbe_roleplay.txt" line 1)
+L 10/31/2016 - 10:25:55: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\colored_translit.txt" line 1)
+L 10/31/2016 - 10:25:55: Invalid multi-lingual line (file "cstrike\addons\amxmodx\data\lang\colored_translit_config.txt" line 1)
+L 10/31/2016 - 10:25:55: [colored_translit_config.amxx] Can't add menu item "Настройки чата" from plugin "Colored Translit Config" to menu set because the Menus Front-End plugin itself is not loaded!
+L 10/31/2016 - 10:25:55: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\map_spawns_editor.txt
+L 10/31/2016 - 10:25:57: [pluginmenu.amxx] Can't add menu item "Настр. конваров" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+L 10/31/2016 - 10:25:57: [pluginmenu.amxx] Can't add menu item "Настр. команд" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+L 10/31/2016 - 10:26:05: [admin.amxx] Login: "ZLOYTPEK<1><STEAM_0:0:695033327><>" became an admin (account "ZLOYTPEK") (access "abcdefghijklmnopqrstu") (address "10.55.99.79")
+L 10/31/2016 - 10:26:19: [jbe_core.amxx] [RANK] MySQL connection failed
+L 10/31/2016 - 10:26:19: [jbe_core.amxx] [ 2003 ] Can't connect to MySQL server on 'db2.myarena.ru' (10060)
+L 10/31/2016 - 10:26:19: [jbe_core.amxx] Query state: 2
+L 10/31/2016 - 10:26:40: [jbe_core.amxx] [RANK] MySQL connection failed
+L 10/31/2016 - 10:26:40: [jbe_core.amxx] [ 2003 ] Can't connect to MySQL server on 'db2.myarena.ru' (10060)
+L 10/31/2016 - 10:26:40: [jbe_core.amxx] Query state: 0
+L 10/31/2016 - 10:27:16: [jbe_core.amxx] [RANK] MySQL connection failed
+L 10/31/2016 - 10:27:16: [jbe_core.amxx] [ 2003 ] Can't connect to MySQL server on 'db2.myarena.ru' (10060)
+L 10/31/2016 - 10:27:16: [jbe_core.amxx] Query state: 2
+L 10/31/2016 - 10:29:48: [jbe_core.amxx] [RANK] MySQL connection failed
+L 10/31/2016 - 10:29:48: [jbe_core.amxx] [ 2003 ] Can't connect to MySQL server on 'db2.myarena.ru' (10060)
+L 10/31/2016 - 10:29:48: [jbe_core.amxx] Query state: 2

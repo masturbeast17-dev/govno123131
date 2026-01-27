@@ -1,0 +1,12 @@
+L 10/16/2016 - 17:44:02: Start of error session.
+L 10/16/2016 - 17:44:02: Info (map "jail_west_v2") (file "addons/amxmodx/logs/error_20161016.log")
+L 10/16/2016 - 17:44:02: [AMXX] Displaying debug trace (plugin "jbe_newamenu.amxx")
+L 10/16/2016 - 17:44:02: [AMXX] Run time error 4: index out of bounds 
+L 10/16/2016 - 17:44:02: [AMXX]    [0] jbe_newamenu.sma::Show_FreezMenu (line 540)
+L 10/16/2016 - 17:44:02: [AMXX]    [1] jbe_newamenu.sma::Handle_FreezMenu (line 563)
+L 10/16/2016 - 18:47:09: Start of error session.
+L 10/16/2016 - 18:47:09: Info (map "jail_west_v2") (file "addons/amxmodx/logs/error_20161016.log")
+L 10/16/2016 - 18:47:09: [AMXX] Displaying debug trace (plugin "jbe_newamenu.amxx")
+L 10/16/2016 - 18:47:09: [AMXX] Run time error 4: index out of bounds 
+L 10/16/2016 - 18:47:09: [AMXX]    [0] jbe_newamenu.sma::Show_PlaMenu (line 1012)
+L 10/16/2016 - 18:47:09: [AMXX]    [1] jbe_newamenu.sma::Handle_PlaMenu (line 1065)

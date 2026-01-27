@@ -1,0 +1,12 @@
+L 03/18/2016 - 19:06:26: -------- Mapchange to jail_dust2x2 --------
+L 03/18/2016 - 19:06:28: [GEOIP] Database info: GEO-106FREE 20080801 Build 1 Copyright (c) 2007 MaxMind LLC All Rights Reserved
+L 03/18/2016 - 19:06:37: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 03/18/2016 - 19:06:38: [umm.amxx] Plugin matching "nextmap.amxx" stopped
+L 03/18/2016 - 19:06:38: [umm.amxx] Plugin matching "timeleft.amxx" stopped
+L 03/18/2016 - 19:06:38: [umm.amxx] Plugin matching "mapchooser.amxx" stopped
+L 03/18/2016 - 19:07:50: [admin.amxx] Login: "legion<1><STEAM_0:0:424846040><>" became an admin (account "legion") (access "abcdefijmnopqrstu") (address "77.121.253.33")
+L 03/18/2016 - 19:38:43: -------- Mapchange to cs_havana --------
+L 03/18/2016 - 19:38:57: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
+L 03/18/2016 - 19:38:58: [umm.amxx] Plugin matching "nextmap.amxx" stopped
+L 03/18/2016 - 19:38:58: [umm.amxx] Plugin matching "timeleft.amxx" stopped
+L 03/18/2016 - 19:38:58: [umm.amxx] Plugin matching "mapchooser.amxx" stopped

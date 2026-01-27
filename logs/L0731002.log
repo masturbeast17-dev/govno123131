@@ -1,0 +1,49 @@
+L 07/31/2012 - 10:13:10: Log file started (file "logs\L0731002.log") (game "cstrike") (version "48/1.1.2.6/4554")
+L 07/31/2012 - 10:13:10: Server cvar "mp_logdetail" = "3"
+L 07/31/2012 - 10:13:10: Server cvar "sv_contact" = "sktpe:bloodik_18"
+L 07/31/2012 - 10:13:10: Server cvar "mp_timelimit" = "30"
+L 07/31/2012 - 10:13:10: Server cvar "mp_autokick" = "0"
+L 07/31/2012 - 10:13:10: Server cvar "mp_c4timer" = "35"
+L 07/31/2012 - 10:13:10: Server cvar "mp_flashlight" = "1"
+L 07/31/2012 - 10:13:10: Server cvar "mp_freezetime" = "2"
+L 07/31/2012 - 10:13:10: Server cvar "mp_hostagepenalty" = "1"
+L 07/31/2012 - 10:13:10: Server cvar "mp_limitteams" = "1"
+L 07/31/2012 - 10:13:10: Server cvar "sv_proxies" = "0"
+L 07/31/2012 - 10:13:10: Server cvar "mp_roundtime" = "2.75"
+L 07/31/2012 - 10:13:10: Server cvar "mp_buytime" = "0.5"
+L 07/31/2012 - 10:13:10: Server cvar "mp_kickpercent" = "99"
+L 07/31/2012 - 10:13:10: Server cvar "mp_playerid" = "1"
+L 07/31/2012 - 10:13:10: Server cvar "allow_spectators" = "3"
+L 07/31/2012 - 10:13:10: Server cvar "mp_startmoney" = "1000"
+L 07/31/2012 - 10:13:10: Server cvar "mp_chattime" = "0"
+L 07/31/2012 - 10:13:10: Server cvar "sv_alltalk" = "1"
+L 07/31/2012 - 10:13:10: Server cvar "decalfrequency" = "60"
+L 07/31/2012 - 10:13:10: Server cvar "sv_aim" = "0"
+L 07/31/2012 - 10:13:10: Server cvar "sv_maxrate" = "25000"
+L 07/31/2012 - 10:13:10: Server cvar "sv_minrate" = "50000"
+L 07/31/2012 - 10:13:10: Server cvar "sv_maxspeed" = "320"
+L 07/31/2012 - 10:13:18: World triggered "Round_Start"
+L 07/31/2012 - 10:13:18: [DPROTO]: Client 0 - Set AuthIdType 8 [dproto]; pClient = 048714A0
+L 07/31/2012 - 10:13:18: "LolLiK<1><STEAM_ID_LAN><>" connected, address "212.2.145.247:27005"
+L 07/31/2012 - 10:13:19: [DPROTO]: Client 0 - Set AuthIdType 8 [dproto]; pClient = 048714A0
+L 07/31/2012 - 10:13:19: "LolLiK<2><STEAM_ID_LAN><>" connected, address "212.2.145.247:27005"
+L 07/31/2012 - 10:13:22: "LolLiK<2><STEAM_ID_LAN><>" entered the game
+L 07/31/2012 - 10:13:23: "LolLiK<2><STEAM_ID_LAN><>" joined team "CT"
+L 07/31/2012 - 10:13:34: Server cvar "sv_restartround" = "1"
+L 07/31/2012 - 10:13:35: World triggered "Restart_Round_(1_second)"
+L 07/31/2012 - 10:13:35: Team "CT" scored "0" with "1" players
+L 07/31/2012 - 10:13:35: Team "TERRORIST" scored "0" with "0" players
+L 07/31/2012 - 10:13:35: Server cvar "sv_restartround" = "0"
+L 07/31/2012 - 10:13:38: World triggered "Round_Start"
+L 07/31/2012 - 10:14:50: [META] ini: Begin re-reading plugins list: c:/documents and settings/Савелий Крыворот/Рабочий стол/bloodi_srver/cstrike/addons/metamod/plugins.ini
+L 07/31/2012 - 10:14:50: [META] ini: Read plugin config for: AMX Mod X
+L 07/31/2012 - 10:14:50: [META] ini: Read plugin config for: dproto_EF
+L 07/31/2012 - 10:14:50: [META] ini: Read plugin config for: mmtimer
+L 07/31/2012 - 10:14:50: [META] ini: Read plugin config for: POD-Bot mm
+L 07/31/2012 - 10:14:50: [META] ini: Finished reading plugins list: c:/documents and settings/Савелий Крыворот/Рабочий стол/bloodi_srver/cstrike/addons/metamod/plugins.ini; Found 4 plugins
+L 07/31/2012 - 10:14:50: [META] dll: Updating plugins...
+L 07/31/2012 - 10:14:50: [META] dll: Finished updating 11 plugins; kept 4, loaded 0, unloaded 0, reloaded 0, delayed 0
+L 07/31/2012 - 10:14:50: "LolLiK<2><STEAM_ID_LAN><CT>" disconnected
+L 07/31/2012 - 10:14:50: World triggered "Round_Draw" (CT "0") (T "0")
+L 07/31/2012 - 10:14:50: World triggered "Round_End"
+L 07/31/2012 - 10:14:50: Log file closed

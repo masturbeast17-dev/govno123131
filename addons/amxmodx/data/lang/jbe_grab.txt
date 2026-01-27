@@ -1,0 +1,65 @@
+﻿[ru]
+JBE_GRAB_TAKE_PLAYERS = !g[Граб] !y%s !g%s!y взял грабом !t%s!y.
+JBE_GRAB_TAKE_OTHERS = !g[Граб] !y%s !g%s!y взял грабом !tобъект!y.
+JBE_GRAB_BLOCK = !g[Граб] !yВы не можете взять грабом !g%s!y.
+
+JBE_MENU_GRAB_MAIN_TITLE_TT = \yГраб меню^n\yУ тебя в руках: \w%s \d[\rTT\d]
+JBE_MENU_GRAB_MAIN_TITLE_CT = \yГраб меню^n\yУ тебя в руках: \w%s \d[\rCT\d]
+JBE_MENU_GRAB_WEAPON_TT = Забрать оружие
+JBE_MENU_GRAB_TREAT_TT = Подлечить \r[\y%d хп\r]
+JBE_MENU_GRAB_EKRAN_TT = Крутануть экран
+JBE_MENU_GRAB_GRUBY_TT = %s игрока
+JBE_MENU_GRAB_VOICE_TT = Голос: \r[\y%s\r]
+JBE_MENU_GRAB_WANTED_TT = Розыск: \r[\y%s\r]
+JBE_MENU_GRAB_FREE_DAY_TT = Свободный день: \r[\y%s\r]
+JBE_MENU_GRAB_TEAM_TT = Перевести за: \r[\yCT\r]
+JBE_MENU_GRAB_TEAM_CT = Перевести за: \r[\yTT\r]
+JBE_MENU_GRAB_CHIEF = Передать Саймона
+
+JBE_MENU_GRAB_WEAPON_TT_MSG = !g[Граб Меню] !y%s !g%s!y забрал всё оружие у !t%s!y.
+JBE_MENU_GRAB_TREAT_TT_MSG = !g[Граб Меню] !y%s !g%s!y вылечил !t%s!y.
+JBE_MENU_GRAB_EKRAN_TT_MSG = !g[Граб Меню] !y%s !g%s!y крутанул экран !t%s!y.
+JBE_MENU_GRAB_GRUBY_TT_MSG_ON = !g[Граб Меню] !y%s !g%s!y закопал !t%s!y.
+JBE_MENU_GRAB_GRUBY_TT_MSG_OFF = !g[Граб Меню] !y%s !g%s!y откопал !t%s!y.
+JBE_MENU_GRAB_VOICE_TT_MSG_ON = !g[Граб Меню] !y%s !g%s!y выдал голос !t%s!y.
+JBE_MENU_GRAB_VOICE_TT_MSG_OFF = !g[Граб Меню] !y%s !g%s!y забрал голос у !t%s!y.
+JBE_MENU_GRAB_WANTED_TT_MSG_ON = !g[Граб Меню] !y%s !g%s!y выдал розыск !t%s!y.
+JBE_MENU_GRAB_WANTED_TT_MSG_OFF = !g[Граб Меню] !y%s !g%s!y забрал розыск у !t%s!y.
+JBE_MENU_GRAB_FREE_DAY_TT_MSG_ON = !g[Граб Меню] !y%s !g%s!y выдал свободный день !t%s!y.
+JBE_MENU_GRAB_FREE_DAY_TT_MSG_OFF = !g[Граб Меню] !y%s !g%s!y забрал свободный день у !t%s!y.
+JBE_MENU_GRAB_TEAM_TT_MSG = !g[Граб Меню] !y%s !g%s!y перевёл !g%s !yза !tохрану.
+JBE_MENU_GRAB_TEAM_CT_MSG = !g[Граб Меню] !y%s !g%s!y перевёл !g%s !yза !tзаключённых.
+JBE_MENU_GRAB_CHIEF_CT_MSG = !g[Граб Меню] !yСаймон !g%s!y передал полномочия !t%s!y.
+
+[en]
+JBE_GRAB_TAKE_PLAYERS = !g[Граб] !y%s !g%s!y взял грабом !t%s!y.
+JBE_GRAB_TAKE_OTHERS = !g[Граб] !y%s !g%s!y взял грабом !tобъект!y.
+JBE_GRAB_BLOCK = !g[Граб] !yВы не можете взять грабом !g%s!y.
+
+JBE_MENU_GRAB_MAIN_TITLE_TT = \yГраб меню^n\yУ тебя в руках: \w%s \d[\rTT\d]
+JBE_MENU_GRAB_MAIN_TITLE_CT = \yГраб меню^n\yУ тебя в руках: \w%s \d[\rCT\d]
+JBE_MENU_GRAB_WEAPON_TT = Забрать оружие
+JBE_MENU_GRAB_TREAT_TT = Подлечить \r[\y%d хп\r]
+JBE_MENU_GRAB_EKRAN_TT = Крутануть экран
+JBE_MENU_GRAB_GRUBY_TT = %s игрока
+JBE_MENU_GRAB_VOICE_TT = Голос: \r[\y%s\r]
+JBE_MENU_GRAB_WANTED_TT = Розыск: \r[\y%s\r]
+JBE_MENU_GRAB_FREE_DAY_TT = Свободный день: \r[\y%s\r]
+JBE_MENU_GRAB_TEAM_TT = Перевести за: \r[\yCT\r]
+JBE_MENU_GRAB_TEAM_CT = Перевести за: \r[\yTT\r]
+JBE_MENU_GRAB_CHIEF = Передать Саймона
+
+JBE_MENU_GRAB_WEAPON_TT_MSG = !g[Граб Меню] !y%s !g%s!y забрал всё оружие у !t%s!y.
+JBE_MENU_GRAB_TREAT_TT_MSG = !g[Граб Меню] !y%s !g%s!y вылечил !t%s!y.
+JBE_MENU_GRAB_EKRAN_TT_MSG = !g[Граб Меню] !y%s !g%s!y крутанул экран !t%s!y.
+JBE_MENU_GRAB_GRUBY_TT_MSG_ON = !g[Граб Меню] !y%s !g%s!y закопал !t%s!y.
+JBE_MENU_GRAB_GRUBY_TT_MSG_OFF = !g[Граб Меню] !y%s !g%s!y откопал !t%s!y.
+JBE_MENU_GRAB_VOICE_TT_MSG_ON = !g[Граб Меню] !y%s !g%s!y выдал голос !t%s!y.
+JBE_MENU_GRAB_VOICE_TT_MSG_OFF = !g[Граб Меню] !y%s !g%s!y забрал голос у !t%s!y.
+JBE_MENU_GRAB_WANTED_TT_MSG_ON = !g[Граб Меню] !y%s !g%s!y выдал розыск !t%s!y.
+JBE_MENU_GRAB_WANTED_TT_MSG_OFF = !g[Граб Меню] !y%s !g%s!y забрал розыск у !t%s!y.
+JBE_MENU_GRAB_FREE_DAY_TT_MSG_ON = !g[Граб Меню] !y%s !g%s!y выдал свободный день !t%s!y.
+JBE_MENU_GRAB_FREE_DAY_TT_MSG_OFF = !g[Граб Меню] !y%s !g%s!y забрал свободный день у !t%s!y.
+JBE_MENU_GRAB_TEAM_TT_MSG = !g[Граб Меню] !y%s !g%s!y перевёл !g%s !yза !tохрану.
+JBE_MENU_GRAB_TEAM_CT_MSG = !g[Граб Меню] !y%s !g%s!y перевёл !g%s !yза !tзаключённых.
+JBE_MENU_GRAB_CHIEF_CT_MSG = !g[Граб Меню] !yСаймон !g%s!y передал полномочия !t%s!y.

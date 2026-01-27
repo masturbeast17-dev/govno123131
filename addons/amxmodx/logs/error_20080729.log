@@ -1,0 +1,17 @@
+L 07/29/2008 - 16:39:04: Start of error session.
+L 07/29/2008 - 16:39:04: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20080729.log")
+L 07/29/2008 - 16:39:04: [AMXX] Plugin file open error (plugin "csds_mapa.amxx")
+L 07/29/2008 - 16:39:07: Function "round_start" was not found
+L 07/29/2008 - 16:39:07: [AMXX] Run time error 19 (plugin "Serva4ok_wins.amxx") - debug not enabled!
+L 07/29/2008 - 16:39:07: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/29/2008 - 16:39:12: [AMXX] Run time error 4 (plugin "Serva4ok_vip_sirena.amxx") - debug not enabled!
+L 07/29/2008 - 16:39:12: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/29/2008 - 16:53:57: Start of error session.
+L 07/29/2008 - 16:53:57: Info (map "de_dust2_2x2") (file "addons/amxmodx/logs/error_20080729.log")
+L 07/29/2008 - 16:53:57: [AMXX] Plugin file open error (plugin "csds_mapa.amxx")
+L 07/29/2008 - 16:53:57: Function "round_start" was not found
+L 07/29/2008 - 16:53:57: [AMXX] Run time error 19 (plugin "Serva4ok_wins.amxx") - debug not enabled!
+L 07/29/2008 - 16:53:57: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 07/29/2008 - 17:14:21: replace() buffer not big enough (148>=147)
+L 07/29/2008 - 17:14:21: [AMXX] Run time error 10 (plugin "serva4ok_chat_colors.amxx") (native "replace") - debug not enabled!
+L 07/29/2008 - 17:14:21: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).

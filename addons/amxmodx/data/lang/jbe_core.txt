@@ -1,0 +1,975 @@
+﻿[ru]
+JBE_PREFIX_CHAT = !g[Побег 14+]
+
+JBE_HUD_DAY = День %d-й,
+JBE_HUD_DAY_WEEK_0 = Начало ходки
+JBE_HUD_DAY_WEEK_1 = Понедельник
+JBE_HUD_DAY_WEEK_2 = Вторник
+JBE_HUD_DAY_WEEK_3 = Среда
+JBE_HUD_DAY_WEEK_4 = Четверг
+JBE_HUD_DAY_WEEK_5 = Пятница
+JBE_HUD_DAY_WEEK_6 = Суббота
+JBE_HUD_DAY_WEEK_7 = Воскресенье
+
+JBE_HUD_MONEY_SLAVA = Слава: [%d] | Деньги: %d$
+
+JBE_HUD_GAME_MODE = %L 
+JBE_TIME_GO = - [Осталось %s]
+JBE_HUD_GAME_MODE_0 = Выдача камер
+JBE_HUD_GAME_MODE_1 = Рабочий день
+JBE_HUD_GAME_MODE_2 = Свободный день
+JBE_HUD_GAME_MODE_3 = Игровой день
+
+JBE_HUD_PAHAN = Пахан: %L%s
+JBE_HUD_PAHAN_ALIVE =
+JBE_HUD_PAHAN_DEAD = Мёртв
+JBE_HUD_PAHAN_DISCONNECT = Отключился
+JBE_HUD_PAHAN_NONE = Не выбран
+
+JBE_HUD_CHIEF = Саймон: %L%s
+JBE_HUD_CHIEF_NOT = Не назначен
+JBE_HUD_CHIEF_ALIVE =
+JBE_HUD_CHIEF_DEAD = Мёртв
+JBE_HUD_CHIEF_DISCONNECT = Отключился
+JBE_HUD_CHIEF_FREE = Освобождён
+
+JBE_HUD_LAST_PRISONER = Последний зек: %s
+JBE_HUD_PRISONERS = Заключённые: [%d|%d]
+JBE_HUD_GUARD = Охрана: [%d|%d]^nЛучшие Сборки: Cs-Sborka.Su
+
+JBE_HUD_MATHEMATIC = Математика: %s = ?
+JBE_MATHEMATIC_CHAT = !t%s!y ответил правильно на пример, получил: !g%d !yжетон(а). Ответ: !t%d!y.
+
+JBE_HUD_HAS_FREE = ^n^n[Побег 14+]На отдыхе:
+JBE_HUD_HAS_WANTED = ^n^n[Побег 14+]В розыске:
+
+JBE_DEMO_NAME = !yВнимание, !g%s!y.
+JBE_DEMO_PLAY = !yНачата запись демо!y: !g%s!Gamex.dem!y.
+JBE_DEMO_TIME = !yВремя: !g%s!y.
+
+JBE_MENU_TEAM_TITLE = Выбор команды^n\dБаланс: \r%d \dзаключенных, \y1 \dохранник
+JBE_MENU_TEAM_PRISONERS = Заключённые \r[\y%d\r]
+JBE_MENU_TEAM_GUARDS = Охранники \r[\y%d\r] \dс \y14+ \dлет
+JBE_MENU_TEAM_SPECTATOR = Зритель
+
+JBE_VOICE_STEAM_HUD = Вы STEAM игрок, вы можете разговаривать в микрофон.
+
+JBE_MENU_WEAPONS_GUARD_TITLE = Выберите оружие
+JBE_MENU_WEAPONS_GUARD_AK47 = Калаш
+JBE_MENU_WEAPONS_GUARD_M4A1 = Эмка
+JBE_MENU_WEAPONS_GUARD_AWP = Авп
+JBE_MENU_WEAPONS_GUARD_XM1014 = Дробовик
+JBE_MENU_WEAPONS_GUARD_FAMAS = Фамас
+JBE_MENU_WEAPONS_GUARD_M249 = Пулемёт
+JBE_MENU_WEAPONS_GUARD_AUG = Ауг
+JBE_MENU_WEAPONS_GUARD_SG550 = Скорострелка
+JBE_MENU_WEAPONS_GUARD_P90 = Петух
+
+JBE_MENU_MAIN_TITLE = \d[\rBoost-Ms.Ru \d| \yГлавное меню\d]^n\dЛучшие Сборки: Cs-Sborka.Su \r^n
+JBE_MENU_MAIN_DOOR_OPEN = Открыть клетки
+JBE_MENU_MAIN_SHOP = Магазин
+JBE_MENU_MAIN_COSTUMES = Костюмы | Шапки
+JBE_MENU_MAIN_LAST_PN = Последний заключенный
+JBE_MENU_MAIN_CHIEF = Меню Саймона
+JBE_MENU_MAIN_TAKE_CHIEF = Стать Саймоном
+JBE_MENU_MAIN_TEAM = Выбор команды
+JBE_MENU_MAIN_PRIVILEGII = Меню привилегий
+JBE_MENU_MAIN_MANAGE_SOUND = Доп. возможности
+
+JBE_MENU_PRISONER_MAIN_TITLE = Меню заключённого
+JBE_MENU_MAIN_MANAGE_IZNAS = Меню насилия
+JBE_MENU_MAIN_MANAGE_AVTORITET = Меню авторитетов
+JBE_MENU_SHOP_PRISONERS_TATOO = Меню выбора перчаток
+
+JBE_MENU_OBMEN_MONEY_TRANSFER = Денежный перевод
+JBE_MENU_OBMEN_SLAVA_TRANSFER = Передача ед. славы
+JBE_MENU_OBMEN_SLVA_OBMEN_MONEY = Пункт обмена: слава на деньги
+JBE_MENU_OBMEN_SLVA_OBMEN_AVTORITET = Пункт обмена: слава на авторитет
+
+JBE_SLAVA = ед. славы
+JBE_SLAVA_CHAT = ед. славы
+
+JBE_MENU_COLOR_INFORMER_MAIN_TITLE = Меню цвета информера
+JBE_MENU_COLOR_INFORMER_YELLOW = Жёлтый
+JBE_MENU_COLOR_INFORMER_RANDOM = Случайный
+JBE_MENU_COLOR_INFORMER_BLUE = Синий
+JBE_MENU_COLOR_INFORMER_RED = Красный
+JBE_MENU_COLOR_INFORMER_GREEN = Зелёный
+JBE_MENU_COLOR_INFORMER_WHITE = Белый
+JBE_MENU_COLOR_INFORMER_PURPLE = Фиолетовый
+JBE_MENU_COLOR_INFORMER_ORANGE = Оранжевый
+
+
+JBE_MENU_MONEY_TRANSFER_TITLE = Выберите кому переводить
+JBE_MENU_MONEY_AMOUNT_TITLE = Выберете сумму перевода денег
+JBE_MENU_MONEY_SPECIFY_AMOUNT = Указать сумму денег
+JBE_CHAT_ID_ERROR_PARAMETERS = !yВы ввели !tневерные параметры !yоперации, попробуйте ещё раз.
+JBE_CHAT_ID_UNKNOWN_PLAYER = !tНедействительный индекс !yполучателя, попробуйте ещё раз.
+JBE_CHAT_ID_MIN_AMOUNT_TRANSFER = !yМинимальная !tсумма !yдля перевода !g1$!y.
+JBE_CHAT_ID_SUFFICIENT_FUNDS = !yНа вашем счету !tнедостаточно средств !yдля перевода.
+JBE_CHAT_ALL_MONEY_TRANSFER = !yИгрок !t%s !yперевёл !g%d$ !yна счёт !t%s!y.
+
+
+JBE_MENU_CHIEF_TITLE = Меню Саймона
+JBE_MENU_CHIEF_DOOR_OPEN = Клетки\d: [\rЗакрыты\d]
+JBE_MENU_CHIEF_DOOR_CLOSE = Клетки\d: [\yОткрыты\d]
+JBE_MENU_CHIEF_COUNTDOWN = Меню звуков
+JBE_MENU_CHIEF_PRISONER_SEARCH = Обыскать заключённого
+JBE_MENU_CONTROLE_PRISONER = Меню контроля над заключёнными
+JBE_MENU_CHIEF_PUNISH_GUARD = Меню контроля над охраной
+JBE_MENU_PRIVILEGI_SIMON = Привилегии для Саймона
+JBE_MENU_CHIEF_RANDOM_MENU = Рандом меню
+JBE_CHIEF_MARKER = !yУ !tСаймона !yесть !gмаркер!y. Зажмите '!tE!y' чтобы рисовать.
+
+JBE_MENU_CHIEF_RANDOM_MENU_PLAYER = Рандом меню \d- \wИгроки
+JBE_MENU_CHIEF_RANDOM_PRISONER_1 = 1 случайный заключённый
+JBE_MENU_CHIEF_RANDOM_PRISONER_2 = 2 случайных заключённых
+JBE_MENU_CHIEF_RANDOM_PRISONER_3 = 3 случайных заключённых
+JBE_MENU_CHIEF_RANDOM_PLAYER_NUM = \yИгроки\d|\wЧисла
+
+JBE_MENU_CHIEF_RANDOM_PRISONER_HUD_1 = Случайный заключённый [1]: %s
+JBE_MENU_CHIEF_RANDOM_PRISONER_HUD_2 = Случайных заключённых [2]: %s, %s
+JBE_MENU_CHIEF_RANDOM_PRISONER_HUD_3 = Случайных заключённых [3]: %s, %s, %s
+
+JBE_MENU_CHIEF_RANDOM_MENU_AMMOUNT = Рандом меню \d- \wЧисла
+JBE_MENU_CHIEF_RANDOM_NUM_1 = От \y1\d-ого \wдо \r5\d-ти
+JBE_MENU_CHIEF_RANDOM_NUM_2 = От \y\y1\d-ого \wдо \r10\d-ти
+JBE_MENU_CHIEF_RANDOM_NUM_3 = От \y1\d-ого \wдо \r50\d-ти
+JBE_MENU_CHIEF_RANDOM_NUM_4 = От \y1\d-ого \wдо \r100\d-а
+JBE_MENU_CHIEF_RANDOM_NUM_5 = От \y1\d-ого \wдо \r1000\d-и
+JBE_MENU_CHIEF_RANDOM_NUM_PLAYER = \wИгроки\d|\yЧисла
+
+JBE_MENU_CHIEF_RANDOM_NUM_HUD = Случайное число от %d, до %d. Будет - %d.
+
+JBE_MENU_CHIEF_RANDOM_NUM_OTHER = Настройка рандома \d(случайности)
+JBE_MENU_CHIEF_RANDOM_NUM_OT_0 = Минимальное: 
+JBE_MENU_CHIEF_RANDOM_NUM_OT_1 = Минимальное:  \y%d
+JBE_MENU_CHIEF_RANDOM_NUM_DO_0 = Максимальное:
+JBE_MENU_CHIEF_RANDOM_NUM_DO_1 = Максимальное: \r%d
+JBE_MENU_CHIEF_RANDOM_NUM_MY = Выбрать число
+JBE_MENU_CHIEF_RANDOM_NUM_SBROS = Сбросить настройки
+
+JBE_CHAT_RANDOM_MIN_FALLS_MAX = !yМинимальное !tчисло !yне может быть больше !gмаксимального!y.
+JBE_CHAT_RANDOM_MAX_FALLS_MIN = !yМаксимальное !tчисло !yне может быть меньше !gминимального!y.
+JBE_CHAT_RANDOM_MIN_FALLS_AMOUNT = !yЧисло должно быть больше !g0!y.
+
+JBE_MENU_CHIEF_FREE_DAY_START = Свободный день\d: [\yНачать\d]
+JBE_MENU_CHIEF_FREE_DAY_END = Свободный день\d: [\rЗавершить\d]
+JBE_MENU_CHIEF_FREE_DAY_CONTROL = Выдать|Забрать свободный день
+JBE_MENU_CHIEF_TREAT_PRISONER = Вылечить заключённого
+JBE_MENU_WANTED_SIMON_CONTROLE = Забрать розыск
+
+JBE_CHAT_WANTED_CONTROLE_SIMON = !yСаймон !t%s !yснял с !gрозыска !yбунтаря !t%s!y.
+
+JBE_MENU_CHIEF_TRANSFER_CHIEF = Передать Саймона
+JBE_MENU_CHIEF_PUNISH_PRISONER = Перевести за заключённых
+JBE_MENU_CHIEF_PUNISH_1HP = Оставить 1 хп
+JBE_MENU_CHIEF_PUNISH_WEAPON = Забрать оружие
+
+JBE_MENU_CHIEF_PUNISH_1HP_MSG = !yСаймон !t%s !yоставил !g1 хп !yохраннику !t%s!y.
+JBE_MENU_CHIEF_PUNISH_WEAPON_MSG = !yСаймон !t%s !yзабрал оружие у !yохранника !g%s!y.
+JBE_MENU_CHIEF_PUNISH_VOICE_MSG_1 = !yСаймон !t%s !yзабрал голос у охранника !g%s!y.
+JBE_MENU_CHIEF_PUNISH_VOICE_MSG_2 = !yСаймон !t%s !yвыдал голос охраннику !g%s!y.
+JBE_MENU_CHIEF_PUNISH_PRISONER_MSG = !yСаймон !t%s !yперевёл !yохранника !g%s !yза !tзаключённых!y.
+
+JBE_MENU_CHIEF_VOICE_ONLY_HUD_ON = Включен режим 'Говорит только Саймон'!
+JBE_MENU_CHIEF_VOICE_ONLY_HUD_OFF = Выключен режим 'Говорит только Саймон'!
+
+JBE_MENU_COUNT_DOWN_TITLE = Обратный отсчёт
+JBE_MENU_COUNT_DOWN_10 = Десять секунд
+JBE_MENU_COUNT_DOWN_5 = Пять секунд
+JBE_MENU_COUNT_DOWN_3 = Три секунды
+JBE_MENU_COUNT_GONG = Звонок
+JBE_MENU_COUNT_SVISTOK = Свисток
+JBE_MENU_COUNT_DOWN_TIME = Обратный отсчёт: %d
+JBE_MENU_COUNT_DOWN_TIME_END = Обратный отсчёт закончен
+
+JBE_CHAT_ID_NOT_TEAM_SEARCH = !g[Обыск] !yОбыскивать можно только заключённых.
+JBE_CHAT_ID_FOUND_WEAPON = !g[Обыск] !yУ заключённого !tобнаружено !yоружие.
+JBE_CHAT_ID_NOT_FOUND_WEAPON = !g[Обыск] !yУ заключённого !tотсутствует !yоружие.
+JBE_CHAT_ID_HELP_FOUND_WEAPON = !g[Обыск] !yПодойдите к !tзаключённому !yи наведите на него !gприцел!y.
+
+JBE_MENU_FREE_DAY_CONTROL_TITLE = Выберите кому
+JBE_MENU_FREE_DAY_CONTROL_GIVE = \r[\yВыдать\r]
+JBE_MENU_FREE_DAY_CONTROL_TAKE = \r[\yЗабрать\r]
+JBE_CHAT_ALL_CHIEF_TAKE_FREE_DAY = !yСаймон !t%s !yзабрал свободный день у !t%s!y.
+JBE_CHAT_ALL_CHIEF_GIVE_FREE_DAY = !yСаймон !t%s !yвыдал свободный день !t%s!y.
+JBE_CHAT_ALL_AUTO_FREE_DAY = !yЗаключённый !t%s !yполучит свободный день в следующем раунде.
+
+JBE_MENU_PUNISH_GUARD_TITLE = Выберите кого перевести
+JBE_CHAT_ALL_PUNISH_GUARD = !yСаймон !t%s !yнаказал охранника !t%s!y.
+
+JBE_MENU_TRANSFER_CHIEF_TITLE = Выберите кому передать
+JBE_CHAT_ALL_TRANSFER_CHIEF = !yСаймон !t%s !yпередал полномочия !t%s!y.
+
+JBE_MENU_TREAT_PRISONER_TITLE = Выберите кого лечить
+JBE_CHAT_ALL_CHIEF_TREAT_PRISONER = !yСаймон !t%s !yвылечил заключенного !t%s!y.
+
+JBE_MENU_CHIEF_VOICE_CONTROL = Выдать|Забрать голос
+JBE_MENU_CHIEF_PRISONERS_DIVIDE_COLOR = Поделить заключенных по цвету
+JBE_MENU_CHIEF_MINI_GAME = Мини игры
+
+JBE_MENU_VOICE_CONTROL_TITLE = Выберите кому
+JBE_MENU_CHIEF_VOICE_CONTROL_GIVE = \r[\yВыдать\r]
+JBE_MENU_CHIEF_VOICE_CONTROL_TAKE = \r[\yЗабрать\r]
+JBE_CHAT_ALL_CHIEF_GIVE_VOICE = !yСаймон !t%s !yвыдал голос !t%s!y.
+JBE_CHAT_ALL_CHIEF_TAKE_VOICE = !yСаймон !t%s !yзабрал голос у !t%s!y.
+
+JBE_MENU_PRISONERS_DIVIDE_COLOR_TITLE = Выберите количество команд
+JBE_MENU_PRISONERS_DIVIDE_COLOR_2 = Две команды
+JBE_MENU_PRISONERS_DIVIDE_COLOR_3 = Три команды
+
+JBE_HUD_ID_YOU_TEAM_FIOL = !yВы в команде !gфиолетовых!y.
+JBE_HUD_ID_YOU_TEAM_YELLOW = !yВы в команде !gжёлтых!y.
+JBE_HUD_ID_YOU_TEAM_BLUE = !yВы в команде !gсиних!y.
+JBE_HUD_ID_YOU_TEAM_RED = !yВы в команде !gкрасных!y.
+
+JBE_MENU_MINI_GAME_TITLE = Мини игры
+JBE_MENU_MINI_GAME_SOCCER = Футбол
+JBE_MENU_MINI_GAME_BOXING = Бокс
+JBE_MENU_MINI_GAME_SPRAY = Высшее/Низшее лого
+JBE_MENU_MINI_GAME_DISTANCE_DROP = Дальность дропа
+JBE_MENU_MINI_GAME_FRIENDLY_FIRE = Огонь по своим
+JBE_MENU_MINI_GAME_RANDOM_SKIN = Случайная одежда
+JBE_MENU_MINI_GAME_GOLOD_GAME = Голодные игры
+JBE_MENU_MINI_GAME_GLOBAL_3RD = Вид от 3-его лица: \d[\y%s\d]
+JBE_MENU_MINI_GAME_GLOBAL_3RD_MSG_ON = !yСаймон !gразрешил !yиспользовать вид от третьего лица !tзаключённым!y.
+JBE_MENU_MINI_GAME_GLOBAL_3RD_MSG_OFF = !yСаймон !gзапретил !yиспользовать вид от третьего лица !tзаключённым!y.
+
+JBE_MENU_SOCCER_TITLE = Управление футболом
+JBE_MENU_SOCCER_ENABLE = Включить футбол
+JBE_MENU_SOCCER_DISABLE = Выключить футбол
+JBE_MENU_SOCCER_ADD_BALL = Поставить мяч
+JBE_MENU_SOCCER_SUB_BALL = Убрать мяч
+JBE_MENU_SOCCER_UPDATE_BALL = Вернуть мяч на место
+JBE_MENU_SOCCER_WHISTLE = Дать свисток
+JBE_MENU_SOCCER_GAME_START = Начать матч
+JBE_MENU_SOCCER_GAME_END = Завершить матч
+JBE_MENU_SOCCER_TEAMS = Управление командами
+JBE_MENU_SOCCER_SCORE = Управление счётом
+
+JBE_MENU_SOCCER_TEAM_TITLE = Управление командами
+JBE_MENU_SOCCER_TEAM_DIVIDE_PRISONERS = Поделить заключенных
+JBE_MENU_SOCCER_TEAM_DIVIDE_ALL = Поделить всех
+JBE_MENU_SOCCER_TEAM_DESCRIPTION = Наведите прицел на игрока,^nи нажмите соответствующею кнопку^nчтобы добавить или удалить игрока.
+JBE_MENU_SOCCER_TEAM_ADD_RED = Добавить за красных
+JBE_MENU_SOCCER_TEAM_ADD_BLUE = Добавить за синих
+JBE_MENU_SOCCER_TEAM_SUB = Удалить
+
+JBE_MENU_SOCCER_SCORE_TITLE = Управление счётом
+JBE_MENU_SOCCER_SCORE_RED_ADD = Добавить гол красным
+JBE_MENU_SOCCER_SCORE_RED_SUB = Забрать гол у красных
+JBE_MENU_SOCCER_SCORE_BLUE_ADD = Добавить гол синим
+JBE_MENU_SOCCER_SCORE_BLUE_SUB = Забрать гол у синих
+JBE_MENU_SOCCER_SCORE_RESET = Обнулить счёт
+
+JBE_CHAT_ID_SOCCER_INSUFFICIENTLY_PLAYERS = !yНедостаточно игроков для начала матча.
+JBE_HUD_ID_SOCCER_SCORE = КРАСНЫЕ - [%d] VS [%d] - СИНИЕ
+
+JBE_MENU_CHIEF_VOICE_ONLY = Говорит только Саймон: \r[\y%s\r]
+JBE_MENU_PRIVILEGII_SIMON_KEY = Ключи \y[раз в \r%d \yрнд]
+JBE_MENU_PRIVILEGII_SIMON_SPEED = Быстрый бег \y[раз в \r%d \yрнд]
+JBE_MENU_PRIVILEGII_SIMON_GRAVITY = Гравитация \y[раз в \r%d \yрнд]
+JBE_MENU_PRIVILEGII_SIMON_BHOP = Распрыжка \y[раз в \r%d \yрнд]
+JBE_MENU_PRIVILEGII_SIMON_ZARPLATA = Зарплата \y[раз в \r%d \yрнд]
+
+JBE_CHAT_SIMON_PRIV_KEY = !yЧтобы использовать !tключи!y, будьте возле !gдвери !yи нажмите '!tc!y'.
+JBE_CHAT_SIMON_PRIV_SPEED = !yСаймон !g%s !yвзял !tскорость!y.
+JBE_CHAT_SIMON_PRIV_GRAVITY = !yСаймон !g%s !yвзял !tгравитацию!y.
+JBE_CHAT_SIMON_PRIV_BHOP = !yСаймон !g%s !yвзял !tраспрыжку!y. 
+JBE_CHAT_SIMON_PRIV_ZARPLATA_FALSE = !yВы получили !gзарплату!y, но вас !tизбили и !tограбили на %d!g$!y.
+JBE_CHAT_SIMON_PRIV_ZARPLATA_FALSE_ALL = !yВы получили !gзарплату!y, но вас !tизбили и !tзабрали все деньги!y.
+JBE_CHAT_SIMON_PRIV_ZARPLATA_TRUE = !yВы получили !gзарплату!y. В размере: !t%d!g$!y.
+JBE_CHAT_SIMON_PRIV_ZARPLATA_PREM = !yВы получили !gпремию!y! В размере: !t%d!g$!y.
+ 
+JBE_GOLOD_GAME_TAKE_WEAPON_CHIEF = Взять себе оружие
+JBE_GOLOD_GAME_GIVE_WEAPON_PLAYER = Дать оружие игроку
+JBE_GOLOD_GAME_GIVE_WEAPON_CHIEF = Дать оружие заключённым
+
+
+JBE_CHIEF_WEAPON_ME_DEAGLE = !yСаймон !t%s !yвзял себе !gдигл!y.
+JBE_CHIEF_WEAPON_PRISONER_DEAGLE = !yСаймон !t%s !yвыдал заключённым !gдигл!y.
+JBE_CHIEF_WEAPON_PLAYER_DEAGLE = !yСаймон !t%s !yвыдал !t%s !yдигл.
+
+JBE_CHIEF_WEAPON_ME_M4A4 = !yСаймон !t%s !yвзял себе !gэмку!y.
+JBE_CHIEF_WEAPON_PRISONER_M4A4 = !yСаймон !t%s !yвыдал заключённым !gэмку!y.
+JBE_CHIEF_WEAPON_PLAYER_M4A4 = !yСаймон !t%s !yвыдал !t%s !yэмку.
+
+JBE_CHIEF_WEAPON_ME_AK47 = !yСаймон !t%s !yвзял себе !gкалаш!y.
+JBE_CHIEF_WEAPON_PRISONER_AK47 = !yСаймон !t%s !yвыдал заключённым !gкалаш!y.
+JBE_CHIEF_WEAPON_PLAYER_AK47 = !yСаймон !t%s !yвыдал !t%s !yкалаш.
+
+JBE_CHIEF_WEAPON_ME_AWP = !yСаймон !t%s !yвзял себе !gавп!y.
+JBE_CHIEF_WEAPON_PRISONER_AWP = !yСаймон !t%s !yвыдал заключённым !gавп!y.
+JBE_CHIEF_WEAPON_PLAYER_AWP = !yСаймон !t%s !yвыдал !t%s !yавп.
+
+JBE_CHIEF_WEAPON_ME_FAMAS = !yСаймон !t%s !yвзял себе !gфамас!y.
+JBE_CHIEF_WEAPON_PRISONER_FAMAS = !yСаймон !t%s !yвыдал заключённым !gфамас!y.
+JBE_CHIEF_WEAPON_PLAYER_FAMAS = !yСаймон !t%s !yвыдал !t%s !yфамас.
+
+JBE_CHIEF_WEAPON_ME_M249 = !yСаймон !t%s !yвзял себе !gпулемёт!y.
+JBE_CHIEF_WEAPON_PRISONER_M249 = !yСаймон !t%s !yвыдал заключённым !gпулемёт!y.
+JBE_CHIEF_WEAPON_PLAYER_M249 = !yСаймон !t%s !yвыдал !t%s !yпулемёт.
+
+JBE_CHIEF_WEAPON_ME_AUG = !yСаймон !t%s !yвзял себе !gауг!y.
+JBE_CHIEF_WEAPON_PRISONER_AUG = !yСаймон !t%s !yвыдал заключённым !yауг.
+JBE_CHIEF_WEAPON_PLAYER_AUG = !yСаймон !t%s !yвыдал !t%s !yауг.
+
+JBE_CHIEF_WEAPON_ME_XM1014 = !yСаймон !t%s !yвзял себе !gдробовик!y.
+JBE_CHIEF_WEAPON_PRISONER_XM1014 = !yСаймон !t%s !yвыдал заключённым !yдробовик.
+JBE_CHIEF_WEAPON_PLAYER_XM1014 = !yСаймон !t%s !yвыдал !t%s !yдробовик.
+
+JBE_MENU_MINI_GAME_FIRE_FRIEND_MSG_ON = !g[Мини Игры] !yСаймон !yвключил !gогонь по своим!y.
+JBE_MENU_MINI_GAME_FIRE_FRIEND_MSG_OFF = !g[Мини Игры] !yСаймон !yвыключил !gогонь по своим!y.
+JBE_MENU_MINI_GAME_GOLOD_GAME_MSG_ON = !g[Мини Игры] !yСаймон !yвключил !gголодные игры!y.
+JBE_MENU_MINI_GAME_GOLOD_GAME_MSG_OFF = !g[Мини Игры] !yСаймон !yвыключил !gголодные игры!y.
+JBE_MENU_MINI_GAME_BOX_MSG_OFF = !g[Мини Игры] !yСаймон !yвыключил !gбокс!y.
+JBE_MENU_MINI_GAME_BOX_MSG_ON = !g[Мини Игры] !yСаймон !yвключил !gбокс!y.
+JBE_MENU_MINI_GAME_SOCCER_MSG_ON = !g[Мини Игры] !yСаймон !yвключил !gфутбол!y.
+JBE_MENU_MINI_GAME_SOCCER_MSG_OFF = !g[Мини Игры] !yСаймон !yвыключил !gфутбол!y.
+
+JBE_MENU_BOXING_TITLE = Управление боксом
+JBE_MENU_BOXING_ENABLE = Включить бокс
+JBE_MENU_BOXING_DISABLE = Выключить бокс
+JBE_MENU_BOXING_GAME_START = Начать бой
+JBE_MENU_BOXING_GAME_END = Завершить бой
+JBE_MENU_BOXING_GAME_TEAM_START = Начать командный бой
+JBE_MENU_BOXING_GAME_TEAM_END = Завершить командный бой
+JBE_MENU_BOXING_TEAMS = Управление командами
+
+JBE_MENU_BOXING_TEAM_TITLE = Управление командами
+JBE_MENU_BOXING_TEAM_DIVIDE = Поделить всех заключенных
+JBE_MENU_BOXING_TEAM_DESCRIPTION = Наведите прицел на игрока,^nи нажмите соответствующею кнопку^nчтобы добавить или удалить игрока.
+JBE_MENU_BOXING_TEAM_ADD_RED = Добавить за красных
+JBE_MENU_BOXING_TEAM_ADD_BLUE = Добавить за синих
+JBE_MENU_BOXING_TEAM_SUB = Удалить
+
+JBE_CHAT_ID_BOXING_INSUFFICIENTLY_PLAYERS = !yНедостаточно игроков для начала боя.
+
+JBE_CHAT_ID_MINI_GAME_SPRAY = !yВсем заключённым !tобнулён таймер!y рисования логотипа.
+JBE_CHAT_ID_MINI_GAME_DISTANCE_DROP = !yВсем заключённым выдан 'Desert Eagle' без патронов.
+JBE_CHAT_ID_MINI_GAME_RANDOM_SKIN = !yВсе заключённые переодеты в !tслучайную одежду!y.
+
+JBE_MENU_VOTE_DAY_MODE_TITLE = Выбор игры
+JBE_VOTE_PRISONER = Выбирают: \rзаключённые
+JBE_VOTE_GUARD = Выбирают: \rохранники
+JBE_MENU_VOTE_DAY_MODE_TIME_END = Голосование: \y[%d сек]
+JBE_MENU_VOTE_DAY_MODE_BLOCKED = \r[\yБлок %d игры\r]
+
+JBE_DAY_MODE_GHOSTS = Призраки
+JBE_DAY_MODE_BIRTHDAY = День Рождения
+JBE_DAY_MODE_HIDE_ADN_SEEK = Прятки
+JBE_DAY_MODE_PREDATOR = Невидимки
+JBE_DAY_MODE_DOGONYLKI = Догонялки
+JBE_DAY_MODE_GALAXY = Галактика
+JBE_DAY_MODE_RINGOLEVIO = Чай-чай
+JBE_DAY_MODE_MAGIC = Магия
+JBE_DAY_MODE_M9SO = Мясо
+
+JBE_DUEL_PRIZE_MAIN_TITLE = На что играем?
+JBE_DUEL_PRIZE_FD_ME = На свободный день себе
+JBE_DUEL_PRIZE_MONEY = На деньги - %d$
+JBE_DUEL_PRIZE_VOICE = На голос
+JBE_DUEL_PRIZE_FD_FRIEND = На свободный день другу
+JBE_DUEL_PRIZE_AVTORITET = На %d ед. авторитета
+
+JBE_CHAT_ID_PLAYERS_NOT_VALID = !yПодходящие игроки не найдены.
+
+JBE_MENU_LAST_PRISONER_TITLE = Меню последнего заключённого
+JBE_MENU_LAST_PRISONER_FREE_DAY = Свободный день
+JBE_MENU_LAST_PRISONER_FREE_DAY_FRIEND = Свободный день для друга
+JBE_MENU_LAST_PRISONER_MONEY = Наличные %d$
+JBE_MENU_LAST_PRISONER_VOICE = Голос на 1 раунд
+JBE_MENU_LAST_TAKE_WEAPONS = Забрать оружие у охраны
+JBE_MENU_LAST_PRISONER_CHOICE_DUEL = Выбор дуэли
+JBE_MENU_LAST_TAKE_AVTORTET = %d ед. авторитета
+
+JBE_MENU_LAST_PRISONER_FREE_DAY_MSG = !yЗаключённый !t%s !yвзял !gсвободный день!y.
+JBE_MENU_LAST_PRISONER_MONEY_MS = !yЗаключённый !t%s !yвзял !g%d$!y.
+JBE_MENU_LAST_PRISONER_VOICE_MSG = !yЗаключённый !t%s !yвзял !gголос!y.
+JBE_MENU_LAST_TAKE_WEAPONS_MSG = !yЗаключённый !t%s !yвзял себе !gоружие!y.
+JBE_MENU_LAST_TAKE_AVTORTET_MSG = !yЗаключённый !t%s !yвзял !g%d ед. авторитета!y.
+
+
+JBE_MENU_FREE_DAY_FRIEND_MAIN_TITLE = Кому свободный день?
+JBE_MENU_LAST_PRISONER_FREE_DAY_FRIEND_MSG = !yЗаключённый !t%s !yвзял для !g%s!y, свободный день.
+
+
+JBE_MENU_CHOICE_DUEL_TITLE = Выберите дуэль
+JBE_MENU_CHOICE_DUEL_DEAGLE = Дуэль на 'Пистолетах'
+JBE_MENU_CHOICE_DUEL_M3 = Дуэль на 'Дробовиках'
+JBE_MENU_CHOICE_DUEL_HEGRENADE = Дуэль на 'Гранатах'
+JBE_MENU_CHOICE_DUEL_M249 = Дуэль на 'Пулемётах'
+JBE_MENU_CHOICE_DUEL_AWP = Дуэль на 'Снайперках'
+JBE_MENU_CHOICE_DUEL_KNIFE = Дуэль на 'Кулаках'
+JBE_MENU_CHOICE_DUEL_AUG = Дуэль на 'Ауге'
+JBE_MENU_CHOICE_DUEL_AK47 = Дуэль на 'Калашах'
+JBE_MENU_CHOICE_DUEL_SCOUT = Дуэль на 'Скаутах
+JBE_MENU_CHOICE_DUEL_SG550 = Дуэль на 'Скорострелках'
+JBE_MENU_CHOICE_DUEL_P90 = Дуэль на 'Петухах'
+JBE_MENU_CHOICE_DUEL_FAMAS = Дуэль на 'Фамасах'
+JBE_MENU_CHOICE_DUEL_FIVESEVEN = Дуэль на 'Файвсевене'
+JBE_MENU_CHOICE_DUEL_MAC10 = Дуэль на 'Узихах'
+
+JBE_MENU_DUEL_USERS = Выберите противника
+
+JBE_ALL_HUD_DUEL_START_READY = %L^n%s против %s^nНачало через %d секунд!^nПриз за победу: %L
+JBE_ALL_HUD_DUEL_TIMER_ATTACK = Стреляет %s^nАвтовыстрел через %d секунд!^nПриз за победу: %L
+JBE_ALL_HUD_DUEL_DEAGLE = Дуэль на 'Пистолетах'
+JBE_ALL_HUD_DUEL_M3 = Дуэль на 'Дробовиках'
+JBE_ALL_HUD_DUEL_HEGRENADE = Дуэль на 'Гранатах'
+JBE_ALL_HUD_DUEL_M249 = Дуэль на 'Пулемётах'
+JBE_ALL_HUD_DUEL_AWP = Дуэль на 'Снайперках'
+JBE_ALL_HUD_DUEL_KNIFE = Дуэль на 'Кулаках'
+JBE_ALL_HUD_DUEL_AUG = Дуэль на 'Ауге'
+JBE_ALL_HUD_DUEL_AK47 = Дуэль на 'Калашах'
+JBE_ALL_HUD_DUEL_SCOUT = Дуэль на 'Скаутах'
+JBE_ALL_HUD_DUEL_SG550 = Дуэль на 'Скорострелках'
+JBE_ALL_HUD_DUEL_P90 = Дуэль на 'Петухах'
+JBE_ALL_HUD_DUEL_FAMAS = Дуэль на 'Фамасах'
+JBE_ALL_HUD_DUEL_FIVESEVEN = Дуэль на 'Файвсевене'
+JBE_ALL_HUD_DUEL_MAC10 = Дуэль на 'Узихах'
+
+JBE_ALL_HUD_DUEL_PRIZ_FD_ME = Свободный день
+JBE_ALL_HUD_DUEL_PRIZ_MONEY = деньги
+JBE_ALL_HUD_DUEL_PRIZ_VOICE = Голос
+JBE_ALL_HUD_DUEL_PRIZ_AVTORITET = Авторитет
+JBE_ALL_HUD_DUEL_PRIZ_FD_FRIEND = Свободный день другу
+
+JBE_ALL_HUD_DUEL_PRIZ_FD_ME_MSG = !yЗаключённый !t%s !yвыиграл !gсвободный день!y.
+JBE_ALL_HUD_DUEL_PRIZ_MONEY_MSG = !yЗаключённый !t%s !yвыиграл !g70$!y.
+JBE_ALL_HUD_DUEL_PRIZ_VOICE_MSG = !yЗаключённый !t%s !yвыиграл !gголос!y.
+JBE_ALL_HUD_DUEL_PRIZ_AVTORITET_MSG = !yЗаключённый !t%s !yвыиграл !g3 ед. авторитета!y.
+JBE_DUEL_PRIZE_FD_FRIEND_MSG = !yЗаключённый !t%s !yвыиграл для !g%s!y, свободный день.
+
+JBE_MENU_SETINGS_TITLE = Доп. возможности
+JBE_MENU_MAIN_OBMEN_TRANSFER = Меню перевода и обмена
+JBE_MENU_SETINGS_RUS_ENG = Язык чата: \d[\y%s\d]
+JBE_MENU_SETINGS_CAMERA = Вид от 3-его лица: \d[\y%s\d]
+JBE_MENU_SETINGS_INFORMER_RIGHT = Информер: \d[\yС права\d]
+JBE_MENU_SETINGS_INFORMER_LEFT = Информер: \d[\yС лева\d]
+JBE_MENU_MAIN_INFORMER = Цвет инфомера
+JBE_MENU_SETINGS_CONTACT = Контакты создателя
+
+JBE_ID_HUD_STATUS_TEXT_PRISONER = Заключённый
+JBE_ID_HUD_STATUS_TEXT_GUARD = Охранник
+JBE_ID_HUD_STATUS_TEXT = %L: %s^nЖизни: [%d] | Броня: [%d]
+
+JBE_MENU_GIVE_SLAVA_MAIN_TITLE = Меню выдачи славы
+JBE_MENU_GIVE_SLAVA_MSG = !g[Слава] !y%s !t%s !yвыдал !g%s !yед. славы игроку !t%s!y.
+
+JBE_HUD_ALL_FREE_DAY_START = Начался свободный день!
+JBE_HUD_ALL_FREE_DAY_END = Закончился свободный день!
+JBE_HUD_WARNING = ЗЕКИ НАЧАЛИ БУНТ!
+
+JBE_PAHAN_GIVE_CHAT_EXP = !yВас выбрали !tпаханом!y, ваш авторитет !yповысился на !g%d!y.
+JBE_PAHAN_GIVE_CHAT_FULL = !yВас выбрали !tпаханом!y.
+
+JBE_MENU_NEXT = Далее
+JBE_MENU_BACK = Назад
+JBE_MENU_EXIT = Выход
+JBE_MENU_ENABLE = Включено
+JBE_MENU_DISABLE = Выключено
+
+JBE_WAGER_MENU_TITLE = Меню ставок^n\wВаша ставка: \r%d\d$^n\wМаксимальная: \y%d\d$
+JBE_WAGER_MENU_PRISONER = Поставить на заключенного
+JBE_WAGER_MENU_GUARD = Поставить на охранника^n
+JBE_WAGER_MENU_RISE_50 = Увеличить на \y50$
+JBE_WAGER_MENU_RISE_250 = Увеличить на \y250$
+JBE_WAGER_MENU_RISE_MAX = Поставить максимально^n
+JBE_WAGER_MENU_DROP_50 = Понизить на \r50$
+JBE_WAGER_MENU_DROP_250 = Понизить на \r250$
+
+JBE_CHAT_WAGER_PRISONER =  !yИгрок !t%s поставил !g%d$!y на !tзаключенного.
+JBE_CHAT_WAGER_GUARD = !yИгрок !t%s поставил !g%d$!y на !tохраника.
+
+JBE_CHAT_WAGER_WIN = !yВаша ставка - !tсыграла!y. Вы выйграли - !g%d$.
+JBE_CHAT_WAGER_LOSS = !yВаша ставка - !tне сыграла!y. Вы проиграли - !g%d$.
+
+[en]
+JBE_PREFIX_CHAT = !g[Побег 14+]
+
+JBE_HUD_DAY = День %d-й,
+JBE_HUD_DAY_WEEK_0 = Начало ходки
+JBE_HUD_DAY_WEEK_1 = Понедельник
+JBE_HUD_DAY_WEEK_2 = Вторник
+JBE_HUD_DAY_WEEK_3 = Среда
+JBE_HUD_DAY_WEEK_4 = Четверг
+JBE_HUD_DAY_WEEK_5 = Пятница
+JBE_HUD_DAY_WEEK_6 = Суббота
+JBE_HUD_DAY_WEEK_7 = Воскресенье
+
+JBE_HUD_MONEY_SLAVA = Слава: [%d] | Деньги: %d$
+
+JBE_HUD_GAME_MODE = %L 
+JBE_TIME_GO = - [Осталось %s]
+JBE_HUD_GAME_MODE_0 = Выдача камер
+JBE_HUD_GAME_MODE_1 = Рабочий день
+JBE_HUD_GAME_MODE_2 = Свободный день
+JBE_HUD_GAME_MODE_3 = Игровой день
+
+JBE_HUD_PAHAN = Пахан: %L%s
+JBE_HUD_PAHAN_ALIVE =
+JBE_HUD_PAHAN_DEAD = Мёртв
+JBE_HUD_PAHAN_DISCONNECT = Отключился
+JBE_HUD_PAHAN_NONE = Не выбран
+
+JBE_HUD_CHIEF = Саймон: %L%s
+JBE_HUD_CHIEF_NOT = Не назначен
+JBE_HUD_CHIEF_ALIVE =
+JBE_HUD_CHIEF_DEAD = Мёртв
+JBE_HUD_CHIEF_DISCONNECT = Отключился
+JBE_HUD_CHIEF_FREE = Освобождён
+
+JBE_HUD_LAST_PRISONER = Последний зек: %s
+JBE_HUD_PRISONERS = Заключённые: [%d|%d]
+JBE_HUD_GUARD = Охрана: [%d|%d]^nЛучшие Сборки: Cs-Sborka.Su
+
+JBE_HUD_MATHEMATIC = Математика: %s = ?
+JBE_MATHEMATIC_CHAT = !t%s!y ответил правильно на пример, получил: !g%d !yжетон(а). Ответ: !t%d!y.
+
+JBE_HUD_HAS_FREE = ^n^n[Побег 14+]На отдыхе:
+JBE_HUD_HAS_WANTED = ^n^n[Побег 14+]В розыске:
+
+JBE_DEMO_NAME = !yВнимание, !g%s!y.
+JBE_DEMO_PLAY = !yНачата запись демо!y: !g%s!Gamex.dem!y.
+JBE_DEMO_TIME = !yВремя: !g%s!y.
+
+JBE_MENU_TEAM_TITLE = Выбор команды^n\dБаланс: \r%d \dзаключенных, \y1 \dохранник
+JBE_MENU_TEAM_PRISONERS = Заключённые \r[\y%d\r]
+JBE_MENU_TEAM_GUARDS = Охранники \r[\y%d\r] \dс \y14+ \dлет
+JBE_MENU_TEAM_SPECTATOR = Зритель
+
+JBE_VOICE_STEAM_HUD = Вы STEAM игрок, вы можете разговаривать в микрофон.
+
+JBE_MENU_WEAPONS_GUARD_TITLE = Выберите оружие
+JBE_MENU_WEAPONS_GUARD_AK47 = Калаш
+JBE_MENU_WEAPONS_GUARD_M4A1 = Эмка
+JBE_MENU_WEAPONS_GUARD_AWP = Авп
+JBE_MENU_WEAPONS_GUARD_XM1014 = Дробовик
+JBE_MENU_WEAPONS_GUARD_FAMAS = Фамас
+JBE_MENU_WEAPONS_GUARD_M249 = Пулемёт
+JBE_MENU_WEAPONS_GUARD_AUG = Ауг
+JBE_MENU_WEAPONS_GUARD_SG550 = Скорострелка
+JBE_MENU_WEAPONS_GUARD_P90 = Петух
+
+JBE_MENU_MAIN_TITLE = \d[\rBoost-Ms.Ru \d| \yГлавное меню\d]^n\dЛучшие Сборки: Cs-Sborka.Su \r^n
+JBE_MENU_MAIN_DOOR_OPEN = Открыть клетки
+JBE_MENU_MAIN_SHOP = Магазин
+JBE_MENU_MAIN_COSTUMES = Костюмы | Шапки
+JBE_MENU_MAIN_LAST_PN = Последний заключенный
+JBE_MENU_MAIN_CHIEF = Меню Саймона
+JBE_MENU_MAIN_TAKE_CHIEF = Стать Саймоном
+JBE_MENU_MAIN_TEAM = Выбор команды
+JBE_MENU_MAIN_PRIVILEGII = Меню привилегий
+JBE_MENU_MAIN_MANAGE_SOUND = Доп. возможности
+
+JBE_MENU_PRISONER_MAIN_TITLE = Меню заключённого
+JBE_MENU_MAIN_MANAGE_IZNAS = Меню насилия
+JBE_MENU_MAIN_MANAGE_AVTORITET = Меню авторитетов
+JBE_MENU_SHOP_PRISONERS_TATOO = Меню выбора перчаток
+
+JBE_MENU_OBMEN_MONEY_TRANSFER = Денежный перевод
+JBE_MENU_OBMEN_SLAVA_TRANSFER = Передача ед. славы
+JBE_MENU_OBMEN_SLVA_OBMEN_MONEY = Пункт обмена: слава на деньги
+JBE_MENU_OBMEN_SLVA_OBMEN_AVTORITET = Пункт обмена: слава на авторитет
+
+JBE_SLAVA = ед. славы
+JBE_SLAVA_CHAT = ед. славы
+
+JBE_MENU_COLOR_INFORMER_MAIN_TITLE = Меню цвета информера
+JBE_MENU_COLOR_INFORMER_YELLOW = Жёлтый
+JBE_MENU_COLOR_INFORMER_RANDOM = Случайный
+JBE_MENU_COLOR_INFORMER_BLUE = Синий
+JBE_MENU_COLOR_INFORMER_RED = Красный
+JBE_MENU_COLOR_INFORMER_GREEN = Зелёный
+JBE_MENU_COLOR_INFORMER_WHITE = Белый
+JBE_MENU_COLOR_INFORMER_PURPLE = Фиолетовый
+JBE_MENU_COLOR_INFORMER_ORANGE = Оранжевый
+
+
+JBE_MENU_MONEY_TRANSFER_TITLE = Выберите кому переводить
+JBE_MENU_MONEY_AMOUNT_TITLE = Выберете сумму перевода денег
+JBE_MENU_MONEY_SPECIFY_AMOUNT = Указать сумму денег
+JBE_CHAT_ID_ERROR_PARAMETERS = !yВы ввели !tневерные параметры !yоперации, попробуйте ещё раз.
+JBE_CHAT_ID_UNKNOWN_PLAYER = !tНедействительный индекс !yполучателя, попробуйте ещё раз.
+JBE_CHAT_ID_MIN_AMOUNT_TRANSFER = !yМинимальная !tсумма !yдля перевода !g1$!y.
+JBE_CHAT_ID_SUFFICIENT_FUNDS = !yНа вашем счету !tнедостаточно средств !yдля перевода.
+JBE_CHAT_ALL_MONEY_TRANSFER = !yИгрок !t%s !yперевёл !g%d$ !yна счёт !t%s!y.
+
+
+JBE_MENU_CHIEF_TITLE = Меню Саймона
+JBE_MENU_CHIEF_DOOR_OPEN = Клетки\d: [\rЗакрыты\d]
+JBE_MENU_CHIEF_DOOR_CLOSE = Клетки\d: [\yОткрыты\d]
+JBE_MENU_CHIEF_COUNTDOWN = Меню звуков
+JBE_MENU_CHIEF_PRISONER_SEARCH = Обыскать заключённого
+JBE_MENU_CONTROLE_PRISONER = Меню контроля над заключёнными
+JBE_MENU_CHIEF_PUNISH_GUARD = Меню контроля над охраной
+JBE_MENU_PRIVILEGI_SIMON = Привилегии для Саймона
+JBE_MENU_CHIEF_RANDOM_MENU = Рандом меню
+JBE_CHIEF_MARKER = !yУ !tСаймона !yесть !gмаркер!y. Зажмите '!tE!y' чтобы рисовать.
+
+JBE_MENU_CHIEF_RANDOM_MENU_PLAYER = Рандом меню \d- \wИгроки
+JBE_MENU_CHIEF_RANDOM_PRISONER_1 = 1 случайный заключённый
+JBE_MENU_CHIEF_RANDOM_PRISONER_2 = 2 случайных заключённых
+JBE_MENU_CHIEF_RANDOM_PRISONER_3 = 3 случайных заключённых
+JBE_MENU_CHIEF_RANDOM_PLAYER_NUM = \yИгроки\d|\wЧисла
+
+JBE_MENU_CHIEF_RANDOM_PRISONER_HUD_1 = Случайный заключённый [1]: %s
+JBE_MENU_CHIEF_RANDOM_PRISONER_HUD_2 = Случайных заключённых [2]: %s, %s
+JBE_MENU_CHIEF_RANDOM_PRISONER_HUD_3 = Случайных заключённых [3]: %s, %s, %s
+
+JBE_MENU_CHIEF_RANDOM_MENU_AMMOUNT = Рандом меню \d- \wЧисла
+JBE_MENU_CHIEF_RANDOM_NUM_1 = От \y1\d-ого \wдо \r5\d-ти
+JBE_MENU_CHIEF_RANDOM_NUM_2 = От \y\y1\d-ого \wдо \r10\d-ти
+JBE_MENU_CHIEF_RANDOM_NUM_3 = От \y1\d-ого \wдо \r50\d-ти
+JBE_MENU_CHIEF_RANDOM_NUM_4 = От \y1\d-ого \wдо \r100\d-а
+JBE_MENU_CHIEF_RANDOM_NUM_5 = От \y1\d-ого \wдо \r1000\d-и
+JBE_MENU_CHIEF_RANDOM_NUM_PLAYER = \wИгроки\d|\yЧисла
+
+JBE_MENU_CHIEF_RANDOM_NUM_HUD = Случайное число от %d, до %d. Будет - %d.
+
+JBE_MENU_CHIEF_RANDOM_NUM_OTHER = Настройка рандома \d(случайности)
+JBE_MENU_CHIEF_RANDOM_NUM_OT_0 = Минимальное: 
+JBE_MENU_CHIEF_RANDOM_NUM_OT_1 = Минимальное:  \y%d
+JBE_MENU_CHIEF_RANDOM_NUM_DO_0 = Максимальное:
+JBE_MENU_CHIEF_RANDOM_NUM_DO_1 = Максимальное: \r%d
+JBE_MENU_CHIEF_RANDOM_NUM_MY = Выбрать число
+JBE_MENU_CHIEF_RANDOM_NUM_SBROS = Сбросить настройки
+
+JBE_CHAT_RANDOM_MIN_FALLS_MAX = !yМинимальное !tчисло !yне может быть больше !gмаксимального!y.
+JBE_CHAT_RANDOM_MAX_FALLS_MIN = !yМаксимальное !tчисло !yне может быть меньше !gминимального!y.
+JBE_CHAT_RANDOM_MIN_FALLS_AMOUNT = !yЧисло должно быть больше !g0!y.
+
+JBE_MENU_CHIEF_FREE_DAY_START = Свободный день\d: [\yНачать\d]
+JBE_MENU_CHIEF_FREE_DAY_END = Свободный день\d: [\rЗавершить\d]
+JBE_MENU_CHIEF_FREE_DAY_CONTROL = Выдать|Забрать свободный день
+JBE_MENU_CHIEF_TREAT_PRISONER = Вылечить заключённого
+JBE_MENU_WANTED_SIMON_CONTROLE = Забрать розыск
+
+JBE_CHAT_WANTED_CONTROLE_SIMON = !yСаймон !t%s !yснял с !gрозыска !yбунтаря !t%s!y.
+
+JBE_MENU_CHIEF_TRANSFER_CHIEF = Передать Саймона
+JBE_MENU_CHIEF_PUNISH_PRISONER = Перевести за заключённых
+JBE_MENU_CHIEF_PUNISH_1HP = Оставить 1 хп
+JBE_MENU_CHIEF_PUNISH_WEAPON = Забрать оружие
+
+JBE_MENU_CHIEF_PUNISH_1HP_MSG = !yСаймон !t%s !yоставил !g1 хп !yохраннику !t%s!y.
+JBE_MENU_CHIEF_PUNISH_WEAPON_MSG = !yСаймон !t%s !yзабрал оружие у !yохранника !g%s!y.
+JBE_MENU_CHIEF_PUNISH_VOICE_MSG_1 = !yСаймон !t%s !yзабрал голос у охранника !g%s!y.
+JBE_MENU_CHIEF_PUNISH_VOICE_MSG_2 = !yСаймон !t%s !yвыдал голос охраннику !g%s!y.
+JBE_MENU_CHIEF_PUNISH_PRISONER_MSG = !yСаймон !t%s !yперевёл !yохранника !g%s !yза !tзаключённых!y.
+
+JBE_MENU_CHIEF_VOICE_ONLY_HUD_ON = Включен режим 'Говорит только Саймон'!
+JBE_MENU_CHIEF_VOICE_ONLY_HUD_OFF = Выключен режим 'Говорит только Саймон'!
+
+JBE_MENU_COUNT_DOWN_TITLE = Обратный отсчёт
+JBE_MENU_COUNT_DOWN_10 = Десять секунд
+JBE_MENU_COUNT_DOWN_5 = Пять секунд
+JBE_MENU_COUNT_DOWN_3 = Три секунды
+JBE_MENU_COUNT_GONG = Звонок
+JBE_MENU_COUNT_SVISTOK = Свисток
+JBE_MENU_COUNT_DOWN_TIME = Обратный отсчёт: %d
+JBE_MENU_COUNT_DOWN_TIME_END = Обратный отсчёт закончен
+
+JBE_CHAT_ID_NOT_TEAM_SEARCH = !g[Обыск] !yОбыскивать можно только заключённых.
+JBE_CHAT_ID_FOUND_WEAPON = !g[Обыск] !yУ заключённого !tобнаружено !yоружие.
+JBE_CHAT_ID_NOT_FOUND_WEAPON = !g[Обыск] !yУ заключённого !tотсутствует !yоружие.
+JBE_CHAT_ID_HELP_FOUND_WEAPON = !g[Обыск] !yПодойдите к !tзаключённому !yи наведите на него !gприцел!y.
+
+JBE_MENU_FREE_DAY_CONTROL_TITLE = Выберите кому
+JBE_MENU_FREE_DAY_CONTROL_GIVE = \r[\yВыдать\r]
+JBE_MENU_FREE_DAY_CONTROL_TAKE = \r[\yЗабрать\r]
+JBE_CHAT_ALL_CHIEF_TAKE_FREE_DAY = !yСаймон !t%s !yзабрал свободный день у !t%s!y.
+JBE_CHAT_ALL_CHIEF_GIVE_FREE_DAY = !yСаймон !t%s !yвыдал свободный день !t%s!y.
+JBE_CHAT_ALL_AUTO_FREE_DAY = !yЗаключённый !t%s !yполучит свободный день в следующем раунде.
+
+JBE_MENU_PUNISH_GUARD_TITLE = Выберите кого перевести
+JBE_CHAT_ALL_PUNISH_GUARD = !yСаймон !t%s !yнаказал охранника !t%s!y.
+
+JBE_MENU_TRANSFER_CHIEF_TITLE = Выберите кому передать
+JBE_CHAT_ALL_TRANSFER_CHIEF = !yСаймон !t%s !yпередал полномочия !t%s!y.
+
+JBE_MENU_TREAT_PRISONER_TITLE = Выберите кого лечить
+JBE_CHAT_ALL_CHIEF_TREAT_PRISONER = !yСаймон !t%s !yвылечил заключенного !t%s!y.
+
+JBE_MENU_CHIEF_VOICE_CONTROL = Выдать|Забрать голос
+JBE_MENU_CHIEF_PRISONERS_DIVIDE_COLOR = Поделить заключенных по цвету
+JBE_MENU_CHIEF_MINI_GAME = Мини игры
+
+JBE_MENU_VOICE_CONTROL_TITLE = Выберите кому
+JBE_MENU_CHIEF_VOICE_CONTROL_GIVE = \r[\yВыдать\r]
+JBE_MENU_CHIEF_VOICE_CONTROL_TAKE = \r[\yЗабрать\r]
+JBE_CHAT_ALL_CHIEF_GIVE_VOICE = !yСаймон !t%s !yвыдал голос !t%s!y.
+JBE_CHAT_ALL_CHIEF_TAKE_VOICE = !yСаймон !t%s !yзабрал голос у !t%s!y.
+
+JBE_MENU_PRISONERS_DIVIDE_COLOR_TITLE = Выберите количество команд
+JBE_MENU_PRISONERS_DIVIDE_COLOR_2 = Две команды
+JBE_MENU_PRISONERS_DIVIDE_COLOR_3 = Три команды
+
+JBE_HUD_ID_YOU_TEAM_FIOL = !yВы в команде !gфиолетовых!y.
+JBE_HUD_ID_YOU_TEAM_YELLOW = !yВы в команде !gжёлтых!y.
+JBE_HUD_ID_YOU_TEAM_BLUE = !yВы в команде !gсиних!y.
+JBE_HUD_ID_YOU_TEAM_RED = !yВы в команде !gкрасных!y.
+
+JBE_MENU_MINI_GAME_TITLE = Мини игры
+JBE_MENU_MINI_GAME_SOCCER = Футбол
+JBE_MENU_MINI_GAME_BOXING = Бокс
+JBE_MENU_MINI_GAME_SPRAY = Высшее/Низшее лого
+JBE_MENU_MINI_GAME_DISTANCE_DROP = Дальность дропа
+JBE_MENU_MINI_GAME_FRIENDLY_FIRE = Огонь по своим
+JBE_MENU_MINI_GAME_RANDOM_SKIN = Случайная одежда
+JBE_MENU_MINI_GAME_GOLOD_GAME = Голодные игры
+JBE_MENU_MINI_GAME_GLOBAL_3RD = Вид от 3-его лица: \d[\y%s\d]
+JBE_MENU_MINI_GAME_GLOBAL_3RD_MSG_ON = !yСаймон !gразрешил !yиспользовать вид от третьего лица !tзаключённым!y.
+JBE_MENU_MINI_GAME_GLOBAL_3RD_MSG_OFF = !yСаймон !gзапретил !yиспользовать вид от третьего лица !tзаключённым!y.
+
+JBE_MENU_SOCCER_TITLE = Управление футболом
+JBE_MENU_SOCCER_ENABLE = Включить футбол
+JBE_MENU_SOCCER_DISABLE = Выключить футбол
+JBE_MENU_SOCCER_ADD_BALL = Поставить мяч
+JBE_MENU_SOCCER_SUB_BALL = Убрать мяч
+JBE_MENU_SOCCER_UPDATE_BALL = Вернуть мяч на место
+JBE_MENU_SOCCER_WHISTLE = Дать свисток
+JBE_MENU_SOCCER_GAME_START = Начать матч
+JBE_MENU_SOCCER_GAME_END = Завершить матч
+JBE_MENU_SOCCER_TEAMS = Управление командами
+JBE_MENU_SOCCER_SCORE = Управление счётом
+
+JBE_MENU_SOCCER_TEAM_TITLE = Управление командами
+JBE_MENU_SOCCER_TEAM_DIVIDE_PRISONERS = Поделить заключенных
+JBE_MENU_SOCCER_TEAM_DIVIDE_ALL = Поделить всех
+JBE_MENU_SOCCER_TEAM_DESCRIPTION = Наведите прицел на игрока,^nи нажмите соответствующею кнопку^nчтобы добавить или удалить игрока.
+JBE_MENU_SOCCER_TEAM_ADD_RED = Добавить за красных
+JBE_MENU_SOCCER_TEAM_ADD_BLUE = Добавить за синих
+JBE_MENU_SOCCER_TEAM_SUB = Удалить
+
+JBE_MENU_SOCCER_SCORE_TITLE = Управление счётом
+JBE_MENU_SOCCER_SCORE_RED_ADD = Добавить гол красным
+JBE_MENU_SOCCER_SCORE_RED_SUB = Забрать гол у красных
+JBE_MENU_SOCCER_SCORE_BLUE_ADD = Добавить гол синим
+JBE_MENU_SOCCER_SCORE_BLUE_SUB = Забрать гол у синих
+JBE_MENU_SOCCER_SCORE_RESET = Обнулить счёт
+
+JBE_CHAT_ID_SOCCER_INSUFFICIENTLY_PLAYERS = !yНедостаточно игроков для начала матча.
+JBE_HUD_ID_SOCCER_SCORE = КРАСНЫЕ - [%d] VS [%d] - СИНИЕ
+
+JBE_MENU_CHIEF_VOICE_ONLY = Говорит только Саймон: \r[\y%s\r]
+JBE_MENU_PRIVILEGII_SIMON_KEY = Ключи \y[раз в \r%d \yрнд]
+JBE_MENU_PRIVILEGII_SIMON_SPEED = Быстрый бег \y[раз в \r%d \yрнд]
+JBE_MENU_PRIVILEGII_SIMON_GRAVITY = Гравитация \y[раз в \r%d \yрнд]
+JBE_MENU_PRIVILEGII_SIMON_BHOP = Распрыжка \y[раз в \r%d \yрнд]
+JBE_MENU_PRIVILEGII_SIMON_ZARPLATA = Зарплата \y[раз в \r%d \yрнд]
+
+JBE_CHAT_SIMON_PRIV_KEY = !yЧтобы использовать !tключи!y, будьте возле !gдвери !yи нажмите '!tc!y'.
+JBE_CHAT_SIMON_PRIV_SPEED = !yСаймон !g%s !yвзял !tскорость!y.
+JBE_CHAT_SIMON_PRIV_GRAVITY = !yСаймон !g%s !yвзял !tгравитацию!y.
+JBE_CHAT_SIMON_PRIV_BHOP = !yСаймон !g%s !yвзял !tраспрыжку!y. 
+JBE_CHAT_SIMON_PRIV_ZARPLATA_FALSE = !yВы получили !gзарплату!y, но вас !tизбили и !tограбили на %d!g$!y.
+JBE_CHAT_SIMON_PRIV_ZARPLATA_FALSE_ALL = !yВы получили !gзарплату!y, но вас !tизбили и !tзабрали все деньги!y.
+JBE_CHAT_SIMON_PRIV_ZARPLATA_TRUE = !yВы получили !gзарплату!y. В размере: !t%d!g$!y.
+JBE_CHAT_SIMON_PRIV_ZARPLATA_PREM = !yВы получили !gпремию!y! В размере: !t%d!g$!y.
+ 
+JBE_GOLOD_GAME_TAKE_WEAPON_CHIEF = Взять себе оружие
+JBE_GOLOD_GAME_GIVE_WEAPON_PLAYER = Дать оружие игроку
+JBE_GOLOD_GAME_GIVE_WEAPON_CHIEF = Дать оружие заключённым
+
+
+JBE_CHIEF_WEAPON_ME_DEAGLE = !yСаймон !t%s !yвзял себе !gдигл!y.
+JBE_CHIEF_WEAPON_PRISONER_DEAGLE = !yСаймон !t%s !yвыдал заключённым !gдигл!y.
+JBE_CHIEF_WEAPON_PLAYER_DEAGLE = !yСаймон !t%s !yвыдал !t%s !yдигл.
+
+JBE_CHIEF_WEAPON_ME_M4A4 = !yСаймон !t%s !yвзял себе !gэмку!y.
+JBE_CHIEF_WEAPON_PRISONER_M4A4 = !yСаймон !t%s !yвыдал заключённым !gэмку!y.
+JBE_CHIEF_WEAPON_PLAYER_M4A4 = !yСаймон !t%s !yвыдал !t%s !yэмку.
+
+JBE_CHIEF_WEAPON_ME_AK47 = !yСаймон !t%s !yвзял себе !gкалаш!y.
+JBE_CHIEF_WEAPON_PRISONER_AK47 = !yСаймон !t%s !yвыдал заключённым !gкалаш!y.
+JBE_CHIEF_WEAPON_PLAYER_AK47 = !yСаймон !t%s !yвыдал !t%s !yкалаш.
+
+JBE_CHIEF_WEAPON_ME_AWP = !yСаймон !t%s !yвзял себе !gавп!y.
+JBE_CHIEF_WEAPON_PRISONER_AWP = !yСаймон !t%s !yвыдал заключённым !gавп!y.
+JBE_CHIEF_WEAPON_PLAYER_AWP = !yСаймон !t%s !yвыдал !t%s !yавп.
+
+JBE_CHIEF_WEAPON_ME_FAMAS = !yСаймон !t%s !yвзял себе !gфамас!y.
+JBE_CHIEF_WEAPON_PRISONER_FAMAS = !yСаймон !t%s !yвыдал заключённым !gфамас!y.
+JBE_CHIEF_WEAPON_PLAYER_FAMAS = !yСаймон !t%s !yвыдал !t%s !yфамас.
+
+JBE_CHIEF_WEAPON_ME_M249 = !yСаймон !t%s !yвзял себе !gпулемёт!y.
+JBE_CHIEF_WEAPON_PRISONER_M249 = !yСаймон !t%s !yвыдал заключённым !gпулемёт!y.
+JBE_CHIEF_WEAPON_PLAYER_M249 = !yСаймон !t%s !yвыдал !t%s !yпулемёт.
+
+JBE_CHIEF_WEAPON_ME_AUG = !yСаймон !t%s !yвзял себе !gауг!y.
+JBE_CHIEF_WEAPON_PRISONER_AUG = !yСаймон !t%s !yвыдал заключённым !yауг.
+JBE_CHIEF_WEAPON_PLAYER_AUG = !yСаймон !t%s !yвыдал !t%s !yауг.
+
+JBE_CHIEF_WEAPON_ME_XM1014 = !yСаймон !t%s !yвзял себе !gдробовик!y.
+JBE_CHIEF_WEAPON_PRISONER_XM1014 = !yСаймон !t%s !yвыдал заключённым !yдробовик.
+JBE_CHIEF_WEAPON_PLAYER_XM1014 = !yСаймон !t%s !yвыдал !t%s !yдробовик.
+
+JBE_MENU_MINI_GAME_FIRE_FRIEND_MSG_ON = !g[Мини Игры] !yСаймон !yвключил !gогонь по своим!y.
+JBE_MENU_MINI_GAME_FIRE_FRIEND_MSG_OFF = !g[Мини Игры] !yСаймон !yвыключил !gогонь по своим!y.
+JBE_MENU_MINI_GAME_GOLOD_GAME_MSG_ON = !g[Мини Игры] !yСаймон !yвключил !gголодные игры!y.
+JBE_MENU_MINI_GAME_GOLOD_GAME_MSG_OFF = !g[Мини Игры] !yСаймон !yвыключил !gголодные игры!y.
+JBE_MENU_MINI_GAME_BOX_MSG_OFF = !g[Мини Игры] !yСаймон !yвыключил !gбокс!y.
+JBE_MENU_MINI_GAME_BOX_MSG_ON = !g[Мини Игры] !yСаймон !yвключил !gбокс!y.
+JBE_MENU_MINI_GAME_SOCCER_MSG_ON = !g[Мини Игры] !yСаймон !yвключил !gфутбол!y.
+JBE_MENU_MINI_GAME_SOCCER_MSG_OFF = !g[Мини Игры] !yСаймон !yвыключил !gфутбол!y.
+
+JBE_MENU_BOXING_TITLE = Управление боксом
+JBE_MENU_BOXING_ENABLE = Включить бокс
+JBE_MENU_BOXING_DISABLE = Выключить бокс
+JBE_MENU_BOXING_GAME_START = Начать бой
+JBE_MENU_BOXING_GAME_END = Завершить бой
+JBE_MENU_BOXING_GAME_TEAM_START = Начать командный бой
+JBE_MENU_BOXING_GAME_TEAM_END = Завершить командный бой
+JBE_MENU_BOXING_TEAMS = Управление командами
+
+JBE_MENU_BOXING_TEAM_TITLE = Управление командами
+JBE_MENU_BOXING_TEAM_DIVIDE = Поделить всех заключенных
+JBE_MENU_BOXING_TEAM_DESCRIPTION = Наведите прицел на игрока,^nи нажмите соответствующею кнопку^nчтобы добавить или удалить игрока.
+JBE_MENU_BOXING_TEAM_ADD_RED = Добавить за красных
+JBE_MENU_BOXING_TEAM_ADD_BLUE = Добавить за синих
+JBE_MENU_BOXING_TEAM_SUB = Удалить
+
+JBE_CHAT_ID_BOXING_INSUFFICIENTLY_PLAYERS = !yНедостаточно игроков для начала боя.
+
+JBE_CHAT_ID_MINI_GAME_SPRAY = !yВсем заключённым !tобнулён таймер!y рисования логотипа.
+JBE_CHAT_ID_MINI_GAME_DISTANCE_DROP = !yВсем заключённым выдан 'Desert Eagle' без патронов.
+JBE_CHAT_ID_MINI_GAME_RANDOM_SKIN = !yВсе заключённые переодеты в !tслучайную одежду!y.
+
+JBE_MENU_VOTE_DAY_MODE_TITLE = Выбор игры
+JBE_VOTE_PRISONER = Выбирают: \rзаключённые
+JBE_VOTE_GUARD = Выбирают: \rохранники
+JBE_MENU_VOTE_DAY_MODE_TIME_END = Голосование: \y[%d сек]
+JBE_MENU_VOTE_DAY_MODE_BLOCKED = \r[\yБлок %d игры\r]
+
+JBE_DAY_MODE_GHOSTS = Призраки
+JBE_DAY_MODE_BIRTHDAY = День Рождения
+JBE_DAY_MODE_HIDE_ADN_SEEK = Прятки
+JBE_DAY_MODE_PREDATOR = Невидимки
+JBE_DAY_MODE_DOGONYLKI = Догонялки
+JBE_DAY_MODE_GALAXY = Галактика
+JBE_DAY_MODE_RINGOLEVIO = Чай-чай
+JBE_DAY_MODE_MAGIC = Магия
+JBE_DAY_MODE_M9SO = Мясо
+
+JBE_DUEL_PRIZE_MAIN_TITLE = На что играем?
+JBE_DUEL_PRIZE_FD_ME = На свободный день себе
+JBE_DUEL_PRIZE_MONEY = На деньги - %d$
+JBE_DUEL_PRIZE_VOICE = На голос
+JBE_DUEL_PRIZE_FD_FRIEND = На свободный день другу
+JBE_DUEL_PRIZE_AVTORITET = На %d ед. авторитета
+
+JBE_CHAT_ID_PLAYERS_NOT_VALID = !yПодходящие игроки не найдены.
+
+JBE_MENU_LAST_PRISONER_TITLE = Меню последнего заключённого
+JBE_MENU_LAST_PRISONER_FREE_DAY = Свободный день
+JBE_MENU_LAST_PRISONER_FREE_DAY_FRIEND = Свободный день для друга
+JBE_MENU_LAST_PRISONER_MONEY = Наличные %d$
+JBE_MENU_LAST_PRISONER_VOICE = Голос на 1 раунд
+JBE_MENU_LAST_TAKE_WEAPONS = Забрать оружие у охраны
+JBE_MENU_LAST_PRISONER_CHOICE_DUEL = Выбор дуэли
+JBE_MENU_LAST_TAKE_AVTORTET = %d ед. авторитета
+
+JBE_MENU_LAST_PRISONER_FREE_DAY_MSG = !yЗаключённый !t%s !yвзял !gсвободный день!y.
+JBE_MENU_LAST_PRISONER_MONEY_MS = !yЗаключённый !t%s !yвзял !g%d$!y.
+JBE_MENU_LAST_PRISONER_VOICE_MSG = !yЗаключённый !t%s !yвзял !gголос!y.
+JBE_MENU_LAST_TAKE_WEAPONS_MSG = !yЗаключённый !t%s !yвзял себе !gоружие!y.
+JBE_MENU_LAST_TAKE_AVTORTET_MSG = !yЗаключённый !t%s !yвзял !g%d ед. авторитета!y.
+
+
+JBE_MENU_FREE_DAY_FRIEND_MAIN_TITLE = Кому свободный день?
+JBE_MENU_LAST_PRISONER_FREE_DAY_FRIEND_MSG = !yЗаключённый !t%s !yвзял для !g%s!y, свободный день.
+
+
+JBE_MENU_CHOICE_DUEL_TITLE = Выберите дуэль
+JBE_MENU_CHOICE_DUEL_DEAGLE = Дуэль на 'Пистолетах'
+JBE_MENU_CHOICE_DUEL_M3 = Дуэль на 'Дробовиках'
+JBE_MENU_CHOICE_DUEL_HEGRENADE = Дуэль на 'Гранатах'
+JBE_MENU_CHOICE_DUEL_M249 = Дуэль на 'Пулемётах'
+JBE_MENU_CHOICE_DUEL_AWP = Дуэль на 'Снайперках'
+JBE_MENU_CHOICE_DUEL_KNIFE = Дуэль на 'Кулаках'
+JBE_MENU_CHOICE_DUEL_AUG = Дуэль на 'Ауге'
+JBE_MENU_CHOICE_DUEL_AK47 = Дуэль на 'Калашах'
+JBE_MENU_CHOICE_DUEL_SCOUT = Дуэль на 'Скаутах
+JBE_MENU_CHOICE_DUEL_SG550 = Дуэль на 'Скорострелках'
+JBE_MENU_CHOICE_DUEL_P90 = Дуэль на 'Петухах'
+JBE_MENU_CHOICE_DUEL_FAMAS = Дуэль на 'Фамасах'
+JBE_MENU_CHOICE_DUEL_FIVESEVEN = Дуэль на 'Файвсевене'
+JBE_MENU_CHOICE_DUEL_MAC10 = Дуэль на 'Узихах'
+
+JBE_MENU_DUEL_USERS = Выберите противника
+
+JBE_ALL_HUD_DUEL_START_READY = %L^n%s против %s^nНачало через %d секунд!^nПриз за победу: %L
+JBE_ALL_HUD_DUEL_TIMER_ATTACK = Стреляет %s^nАвтовыстрел через %d секунд!^nПриз за победу: %L
+JBE_ALL_HUD_DUEL_DEAGLE = Дуэль на 'Пистолетах'
+JBE_ALL_HUD_DUEL_M3 = Дуэль на 'Дробовиках'
+JBE_ALL_HUD_DUEL_HEGRENADE = Дуэль на 'Гранатах'
+JBE_ALL_HUD_DUEL_M249 = Дуэль на 'Пулемётах'
+JBE_ALL_HUD_DUEL_AWP = Дуэль на 'Снайперках'
+JBE_ALL_HUD_DUEL_KNIFE = Дуэль на 'Кулаках'
+JBE_ALL_HUD_DUEL_AUG = Дуэль на 'Ауге'
+JBE_ALL_HUD_DUEL_AK47 = Дуэль на 'Калашах'
+JBE_ALL_HUD_DUEL_SCOUT = Дуэль на 'Скаутах'
+JBE_ALL_HUD_DUEL_SG550 = Дуэль на 'Скорострелках'
+JBE_ALL_HUD_DUEL_P90 = Дуэль на 'Петухах'
+JBE_ALL_HUD_DUEL_FAMAS = Дуэль на 'Фамасах'
+JBE_ALL_HUD_DUEL_FIVESEVEN = Дуэль на 'Файвсевене'
+JBE_ALL_HUD_DUEL_MAC10 = Дуэль на 'Узихах'
+
+JBE_ALL_HUD_DUEL_PRIZ_FD_ME = Свободный день
+JBE_ALL_HUD_DUEL_PRIZ_MONEY = деньги
+JBE_ALL_HUD_DUEL_PRIZ_VOICE = Голос
+JBE_ALL_HUD_DUEL_PRIZ_AVTORITET = Авторитет
+JBE_ALL_HUD_DUEL_PRIZ_FD_FRIEND = Свободный день другу
+
+JBE_ALL_HUD_DUEL_PRIZ_FD_ME_MSG = !yЗаключённый !t%s !yвыиграл !gсвободный день!y.
+JBE_ALL_HUD_DUEL_PRIZ_MONEY_MSG = !yЗаключённый !t%s !yвыиграл !g70$!y.
+JBE_ALL_HUD_DUEL_PRIZ_VOICE_MSG = !yЗаключённый !t%s !yвыиграл !gголос!y.
+JBE_ALL_HUD_DUEL_PRIZ_AVTORITET_MSG = !yЗаключённый !t%s !yвыиграл !g3 ед. авторитета!y.
+JBE_DUEL_PRIZE_FD_FRIEND_MSG = !yЗаключённый !t%s !yвыиграл для !g%s!y, свободный день.
+
+JBE_MENU_SETINGS_TITLE = Доп. возможности
+JBE_MENU_MAIN_OBMEN_TRANSFER = Меню перевода и обмена
+JBE_MENU_SETINGS_RUS_ENG = Язык чата: \d[\y%s\d]
+JBE_MENU_SETINGS_CAMERA = Вид от 3-его лица: \d[\y%s\d]
+JBE_MENU_SETINGS_INFORMER_RIGHT = Информер: \d[\yС права\d]
+JBE_MENU_SETINGS_INFORMER_LEFT = Информер: \d[\yС лева\d]
+JBE_MENU_MAIN_INFORMER = Цвет инфомера
+JBE_MENU_SETINGS_CONTACT = Контакты создателя
+
+JBE_ID_HUD_STATUS_TEXT_PRISONER = Заключённый
+JBE_ID_HUD_STATUS_TEXT_GUARD = Охранник
+JBE_ID_HUD_STATUS_TEXT = %L: %s^nЖизни: [%d] | Броня: [%d]
+
+JBE_MENU_GIVE_SLAVA_MAIN_TITLE = Меню выдачи славы
+JBE_MENU_GIVE_SLAVA_MSG = !g[Слава] !y%s !t%s !yвыдал !g%s !yед. славы игроку !t%s!y.
+
+JBE_HUD_ALL_FREE_DAY_START = Начался свободный день!
+JBE_HUD_ALL_FREE_DAY_END = Закончился свободный день!
+JBE_HUD_WARNING = ЗЕКИ НАЧАЛИ БУНТ!
+
+JBE_PAHAN_GIVE_CHAT_EXP = !yВас выбрали !tпаханом!y, ваш авторитет !yповысился на !g%d!y.
+JBE_PAHAN_GIVE_CHAT_FULL = !yВас выбрали !tпаханом!y.
+
+JBE_MENU_NEXT = Далее
+JBE_MENU_BACK = Назад
+JBE_MENU_EXIT = Выход
+JBE_MENU_ENABLE = Включено
+JBE_MENU_DISABLE = Выключено
+
+JBE_WAGER_MENU_TITLE = Меню ставок^n\wВаша ставка: \r%d\d$^n\wМаксимальная: \y%d\d$
+JBE_WAGER_MENU_PRISONER = Поставить на заключенного
+JBE_WAGER_MENU_GUARD = Поставить на охранника^n
+JBE_WAGER_MENU_RISE_50 = Увеличить на \y50$
+JBE_WAGER_MENU_RISE_250 = Увеличить на \y250$
+JBE_WAGER_MENU_RISE_MAX = Поставить максимально^n
+JBE_WAGER_MENU_DROP_50 = Понизить на \r50$
+JBE_WAGER_MENU_DROP_250 = Понизить на \r250$
+
+JBE_CHAT_WAGER_PRISONER =  !yИгрок !t%s поставил !g%d$!y на !tзаключенного.
+JBE_CHAT_WAGER_GUARD = !yИгрок !t%s поставил !g%d$!y на !tохраника.
+
+JBE_CHAT_WAGER_WIN = !yВаша ставка - !tсыграла!y. Вы выйграли - !g%d$.
+JBE_CHAT_WAGER_LOSS = !yВаша ставка - !tне сыграла!y. Вы проиграли - !g%d$.

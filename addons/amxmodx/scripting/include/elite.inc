@@ -1,0 +1,5 @@
+native get_g(id)
+native get_s(id)
+native set_g(id)
+native set_s(id)
+native dell_all(id)

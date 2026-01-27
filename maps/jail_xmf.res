@@ -1,0 +1,3 @@
+////////////////////////////////////////////////////////////////// © cs-files.net//// cs-files.net - это более 3.000 карт.//maps/jail_xmf.bsp
+maps/jail_xmf.res
+maps/jail_xmf.txt

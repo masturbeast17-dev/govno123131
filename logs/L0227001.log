@@ -1,0 +1,46 @@
+L 02/27/2012 - 08:58:33: Log file started (file "logs\L0227001.log") (game "cstrike") (version "48/1.1.2.6/5408")
+L 02/27/2012 - 08:58:33: Server cvar "mp_logdetail" = "3"
+L 02/27/2012 - 08:58:33: Server cvar "mp_timelimit" = "30"
+L 02/27/2012 - 08:58:33: Server cvar "mp_autokick" = "0"
+L 02/27/2012 - 08:58:33: Server cvar "mp_c4timer" = "35"
+L 02/27/2012 - 08:58:33: Server cvar "mp_flashlight" = "1"
+L 02/27/2012 - 08:58:33: Server cvar "mp_freezetime" = "0"
+L 02/27/2012 - 08:58:33: Server cvar "mp_hostagepenalty" = "1"
+L 02/27/2012 - 08:58:33: Server cvar "mp_limitteams" = "1"
+L 02/27/2012 - 08:58:33: Server cvar "sv_proxies" = "0"
+L 02/27/2012 - 08:58:33: Server cvar "mp_roundtime" = "2.5"
+L 02/27/2012 - 08:58:33: Server cvar "mp_buytime" = "0.5"
+L 02/27/2012 - 08:58:33: Server cvar "mp_kickpercent" = "99"
+L 02/27/2012 - 08:58:33: Server cvar "mp_playerid" = "1"
+L 02/27/2012 - 08:58:33: Server cvar "sv_restartround" = "1"
+L 02/27/2012 - 08:58:33: Server cvar "allow_spectators" = "3"
+L 02/27/2012 - 08:58:33: Server cvar "mp_startmoney" = "1000"
+L 02/27/2012 - 08:58:33: Server cvar "mp_chattime" = "0"
+L 02/27/2012 - 08:58:33: Server cvar "sv_alltalk" = "1"
+L 02/27/2012 - 08:58:33: Server cvar "decalfrequency" = "60"
+L 02/27/2012 - 08:58:33: Server cvar "sv_aim" = "0"
+L 02/27/2012 - 08:58:33: Server cvar "sv_maxrate" = "25000"
+L 02/27/2012 - 08:58:33: Server cvar "sv_minrate" = "50000"
+L 02/27/2012 - 08:58:33: Server cvar "sv_maxspeed" = "320"
+L 02/27/2012 - 08:58:34: World triggered "Restart_Round_(1_second)"
+L 02/27/2012 - 08:58:34: Team "CT" scored "0" with "0" players
+L 02/27/2012 - 08:58:34: Team "TERRORIST" scored "0" with "0" players
+L 02/27/2012 - 08:58:34: Server cvar "sv_restartround" = "0"
+L 02/27/2012 - 08:58:35: World triggered "Round_Start"
+L 02/27/2012 - 08:59:07: [DPROTO]: Client 0 - Set AuthIdType 1 [Native]; pClient = 06EF14A0
+L 02/27/2012 - 08:59:07: "CreativeHeadConnect<1><STEAM_0:0:49520696><>" connected, address "188.134.92.204:27005"
+L 02/27/2012 - 08:59:08: "CreativeHeadConnect<1><STEAM_0:0:49520696><>" STEAM USERID validated
+L 02/27/2012 - 08:59:11: "CreativeHeadConnect<1><STEAM_0:0:49520696><>" entered the game
+L 02/27/2012 - 08:59:12: "CreativeHeadConnect<1><STEAM_0:0:49520696><>" joined team "CT"
+L 02/27/2012 - 08:59:25: "CreativeHeadConnect<1><STEAM_0:0:49520696><CT>" disconnected
+L 02/27/2012 - 08:59:25: World triggered "Round_Draw" (CT "0") (T "0")
+L 02/27/2012 - 08:59:25: World triggered "Round_End"
+L 02/27/2012 - 08:59:30: World triggered "Round_Start"
+L 02/27/2012 - 09:00:17: [META] ini: Begin re-reading plugins list: c:/users/Алексей/desktop/hlserver/cstrike/addons/metamod/plugins.ini
+L 02/27/2012 - 09:00:17: [META] ini: Read plugin config for: AMX Mod X
+L 02/27/2012 - 09:00:17: [META] ini: Read plugin config for: dproto
+L 02/27/2012 - 09:00:17: [META] ini: Read plugin config for: Anti Jos Exploit
+L 02/27/2012 - 09:00:17: [META] ini: Finished reading plugins list: c:/users/Алексей/desktop/hlserver/cstrike/addons/metamod/plugins.ini; Found 3 plugins
+L 02/27/2012 - 09:00:17: [META] dll: Updating plugins...
+L 02/27/2012 - 09:00:17: [META] dll: Finished updating 10 plugins; kept 3, loaded 0, unloaded 0, reloaded 0, delayed 0
+L 02/27/2012 - 09:00:17: Log file closed

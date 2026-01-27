@@ -1,0 +1,220 @@
+﻿[ru]
+JBE_MENU_PRIVILEGII_VIP = Вип меню
+JBE_MENU_PRIVILEGII_ADMIN = Админ меню
+JBE_MENU_PRIVILEGII_SUPER = Супер админ меню
+JBE_MENU_PRIVILEGII_BOSS = Мафии меню
+JBE_MENU_PRIVILEGII_HOOK = Меню паутинки
+JBE_MENU_PRIVILEGII_GRAB = Цвет граба
+JBE_MENU_PRIVILEGII_VAMPIR = Меню вампира
+JBE_MENU_PRIVILEGII_INFO = Информация о покупке
+
+
+JBE_MENU_INFO_VIP = Покупка\r: \d'\yВип\d'
+JBE_MENU_INFO_ADMIN = Покупка\r: \d'\rАдмин Прав\d'
+JBE_MENU_INFO_SUPER_ADMIN = Покупка\r: \d'\yСупер админ\r'
+JBE_MENU_INFO_BOSS = Покупка\r: \d'\rМафии[Может выдовать превелегии]\d'
+JBE_MENU_INFO_HOOK = Покупка\r: \d'\yПаутинки\d'
+JBE_MENU_INFO_VAMPIR = Покупка\r: \d'\rВампир\d'
+JBE_MENU_INFO_FULL = Покупка\r: \d'\yПолные привилегии\r'
+
+
+JBE_INFO_SHOP_DEFOLT_1 =  \wО привилегии: \yCs-Sborka.Su\w.
+JBE_INFO_SHOP_DEFOLT_2 = \r[\y#\r] \dЛучшие Сборки: \rCs-Sborka.su\w.
+JBE_INFO_SHOP_DEFOLT_3 = \r[\y#\r] \dРаскрутка 32/32: \rBoost-Ms.ru\w.
+JBE_INFO_SHOP_DEFOLT_4 = \r[\y#\r] \dЮтуб Канал: \rSNoKi.
+
+JBE_INFO_SHOP_ADMIN_TITLE = Покупка\r: \d'\wАдмин Прав\d'
+JBE_INFO_SHOP_ADMIN_1 = \r[\y#\r] \wСтоимость на \yмесяц\w: \r120 \dруб\w.
+JBE_INFO_SHOP_ADMIN_2 = \r[\y#\r] \wСтоимость на \yвсегда \w: \r600 \dруб\w.
+
+JBE_INFO_SHOP_VIP_TITLE = Покупка\r: \d'\wВип\d'
+JBE_INFO_SHOP_VIP_1 = \r[\y#\r] \wСтоимость на \yмесяц\w: \r60 \dруб\w.
+JBE_INFO_SHOP_VIP_2 = \r[\y#\r] \wСтоимость на \yвсегда\w: \r400 \dруб\w.
+
+JBE_INFO_SHOP_VAMPIR_TITLE = Покупка\r: \d'\wВампир\d'
+JBE_INFO_SHOP_VAMPIR_1 = \r[\y#\r] \wСтоимость на \yмесяц\w: \r200 \dруб\w.
+JBE_INFO_SHOP_VAMPIR_2 = \r[\y#\r] \wСтоимость на \yвсегда\w: \r800 \dруб\w.
+
+JBE_INFO_SHOP_SUPER_ADMIN_TITLE = Покупка\r: \d'\wСупер админ\d'
+JBE_INFO_SHOP_SUPER_ADMIN_1 = \r[\y#\r] \wСтоимость на \yмесяц\w: \r300 \dруб\w.
+JBE_INFO_SHOP_SUPER_ADMIN_2 = \r[\y#\r] \wСтоимость на \yвсегда\w: \r800 \dруб\w.
+
+JBE_INFO_SHOP_BOSS_TITLE = Покупка\r: \d'\wМафия\d'
+JBE_INFO_SHOP_BOSS_1 = \r[\y#\r] \wСтоимость на \yмесяц\w: \r1800 \dруб\w.
+JBE_INFO_SHOP_BOSS_2 = \r[\y#\r] \wСтоимость на \yвсегда\w: \r2000 \dруб\w.
+
+JBE_INFO_SHOP_HOOK_TITLE = Покупка\r: \d'\wПаутинки\d'
+JBE_INFO_SHOP_HOOK_1 = \r[\y#\r] \wСтоимость на \yмесяц\w: \r80 \dруб\w.
+JBE_INFO_SHOP_HOOK_2 = \r[\y#\r] \wСтоимость на \yвсегда\w: \r150 \dруб\w.
+
+JBE_INFO_SHOP_FULL_TITLE = Покупка\r: \d'\wПолные привилегии\d'
+JBE_INFO_SHOP_FULL_1 = \r[\y#\r] \wСтоимость на \yмесяц\w: \r2000\dруб\w.
+JBE_INFO_SHOP_FULL_2 = \r[\y#\r] \wСтоимость на \yвсегда\w: \r3000 \dруб\w.
+
+
+JBE_ADMIN_MAIN_BLOCK_CT = Блокировка за охрану
+JBE_ADMIN_BLOCK_CT_PLAYER = Блокировка игрока
+JBE_ADMIN_BLOCK_CT_ALL = %s вход всем
+JBE_ADMIN_MSG_BLOCK_CT_ALL_OFF = !g[Админ права] !yИгрок !t%s !yзаблокировал вход за охрану.
+JBE_ADMIN_MSG_BLOCK_CT_ALL_ON = !g[Админ права] !yИгрок !t%s !yразблокировал вход за охрану.
+JBE_ADMIN_MSG_SLAP = !g[Админ права] !y%s !g%s !yстукнул !g%s!y на !t%d HP.
+JBE_ADMIN_MSG_SLAY = !g[Админ права] !y%s !g%s !yубил !g%s!y.
+JBE_ADMIN_MSG_KICK = !g[Админ права] !y%s !g%s !yкикнул !t%s!y.
+JBE_ADMIN_MSG_TEAM = !g[Админ права] !y%s !g%s !yперевел !g%s!y за !t%s!y.
+
+
+JBE_MENU_VAMPIR_ME4 = Меч вампира: \d[\y%s\d]
+JBE_MENU_VAMPIR_GRAVITI = Гравитация: \d[\y%s\d]
+JBE_MENU_VAMPIR_DOUBLE_JUMP = Двойной прыжок: \d[\y%s\d]
+JBE_MENU_VAMPIR_RESPAWN = Воскреснуть \y[раз в \r%d \yрнд]
+
+JBE_VAMPIR_MSG_ME4_1 = !g[Меню Вампира] !yВы активировали !tмеч вампира!y.
+JBE_VAMPIR_MSG_ME4_2 = !g[Меню Вампира] !yВы деактивировали !tмеч вампира!y.
+JBE_VAMPIR_MSG_GRAVITI_1 = !g[Меню Вампира] !yВы активировали !tгравитацию!y
+JBE_VAMPIR_MSG_GRAVITI_2 = !g[Меню Вампира] !yВы деактивировали !tгравитацию!y.
+JBE_VAMPIR_MSG_DOUBLE_JUMP_1 = !g[Меню Вампира] !yВы активировали !tдвойной прыжок!y.
+JBE_VAMPIR_MSG_DOUBLE_JUMP_2 = !g[Меню Вампира] !yВы деактивировали !tдвойной прыжок!y.
+JBE_VAMPIR_MSG_RESPAWN = !g[Меню Вампира] !y%s !g%s !yсделал !tвоскрешение!y.
+
+JBE_MENU_VIP_HEALTH = Взять 200 жизней \r[\y%d\r]
+JBE_MENU_VIP_RESPAWN = Воскреснуть \y[раз в \r%d \yрнд]
+JBE_MENU_VIP_VOICE = Голос на раунд \y[раз в \r%d \yрнд]
+JBE_MENU_VIP_SPEED_GRAVITI = Скорость и гравитация \y[раз в \r%d \yрнд]
+JBE_MENU_VIP_FREE_DAY = Свободный день\y[раз в \r%d \yрнд]
+JBE_MENU_VIP_DOUBLE_DAMAGE = Двойной урон \y[раз в \r%d \yрнд]
+
+JBE_MENU_VIP_HEALTH_MSG = !g[Вип меню] !y%s !g%s !yвзял !t200 !gжизней!y.
+JBE_MENU_VIP_RESPAWN_MSG = !g[Вип меню] !y%s !g%s !yсделал !tвоскрешение!y.
+JBE_MENU_VIP_VOICE_MSG = !g[Вип меню] !y%s !g%s !yвзял !tголос!y.
+JBE_MENU_VIP_SPEED_GRAVITI_MSG = !g[Вип меню] !y%s !g%s !yвзял !tскорость !yи !tгравитацию!y.
+JBE_MENU_VIP_FREE_DAY_MSG = !g[Вип меню] !y%s !g%s !yвзял !tсвободный день!y.
+JBE_MENU_VIP_DOUBLE_DAMAGE_MSG = !g[Вип меню] !y%s !g%s !yвзял !tдвойной урон!y.
+
+
+JBE_MENU_SUPER_ADMIN_RESPAWN = Воскреснуть \r[\y%d\r]
+JBE_MENU_SUPER_ADMIN_RESPAWN_PLAYER = Воскресить игрока \r[\y%d\r]
+JBE_MENU_SUPER_ADMIN_HEALTH_ARMOR = Взять 250 жизней и брони \r[\y%d\r]
+JBE_MENU_SUPER_ADMIN_SPEED = Взять скорость \r[\y%d\r]
+JBE_MENU_SUPER_ADMIN_GRAVITY = Взять гравитацию \r[\y%d\r]
+JBE_MENU_SUPER_ADMIN_GRANADE = Взять гранаты \y[раз в \r%d \yрнд]
+JBE_MENU_SUPER_ADMIN_CLOSE = Закрыть дело \r[\y%d\r]
+JBE_MENU_SUPER_ADMIN_BHOP = Взять распрыжку \y[раз в \r%d \yрнд]
+
+JBE_MENU_SUPER_ADMIN_RESPAWN_MSG = !g[Супер меню] !y%s !g%s !yсделал !tвоскрешение!y.
+JBE_MENU_SUPER_ADMIN_RESPAWN_PLAYER_MSG = !g[Супер меню] !y%s !t%s !yвоскресил !g%s!y.
+JBE_MENU_SUPER_ADMIN_HEALTH_ARMOR_MSG = !g[Супер меню] !y%s !g%s !yвзял !tжизни !yи !tброню!y.
+JBE_MENU_SUPER_ADMIN_SPEED_MSG = !g[Супер меню] !y%s !g%s !yвзял !tскорость!y.
+JBE_MENU_SUPER_ADMIN_GRAVITY_MSG = !g[Супер меню] !y%s !g%s !yвзял !tгравитацию!y.
+JBE_MENU_SUPER_ADMIN_GRANADE_MSG = !g[Супер меню] !y%s !g%s !yвзял !tнабор гранат!y.
+JBE_MENU_SUPER_ADMIN_CLOSE_MSG = !g[Супер меню] !y%s !g%s !yзамял дело!y.
+JBE_MENU_SUPER_ADMIN_BHOP_MSG = !g[Супер меню] !y%s !g%s !yвзял !tраспрыжку!y.
+
+[en]
+JBE_MENU_PRIVILEGII_VIP = Вип меню
+JBE_MENU_PRIVILEGII_ADMIN = Админ меню
+JBE_MENU_PRIVILEGII_SUPER = Супер админ меню
+JBE_MENU_PRIVILEGII_BOSS = Мафии меню
+JBE_MENU_PRIVILEGII_HOOK = Меню паутинки
+JBE_MENU_PRIVILEGII_GRAB = Цвет граба
+JBE_MENU_PRIVILEGII_VAMPIR = Меню вампира
+JBE_MENU_PRIVILEGII_INFO = Информация о покупке
+
+
+JBE_MENU_INFO_VIP = Покупка\r: \d'\yВип\d'
+JBE_MENU_INFO_ADMIN = Покупка\r: \d'\rАдмин Прав\d'
+JBE_MENU_INFO_SUPER_ADMIN = Покупка\r: \d'\yСупер админ\r'
+JBE_MENU_INFO_BOSS = Покупка\r: \d'\rМафии[Может выдовать превелегии]\d'
+JBE_MENU_INFO_HOOK = Покупка\r: \d'\yПаутинки\d'
+JBE_MENU_INFO_VAMPIR = Покупка\r: \d'\rВампир\d'
+JBE_MENU_INFO_FULL = Покупка\r: \d'\yПолные привилегии\r'
+
+JBE_INFO_SHOP_DEFOLT_1 =  \wО привилегии: \yCs-Sborka.Su\w.
+JBE_INFO_SHOP_DEFOLT_2 = \r[\y#\r] \dЛучшие Сборки: \rCs-Sborka.su\w.
+JBE_INFO_SHOP_DEFOLT_3 = \r[\y#\r] \dРаскрутка 32/32: \rBoost-Ms.ru\w.
+JBE_INFO_SHOP_DEFOLT_4 = \r[\y#\r] \dЮтуб Канал: \rSNoKi.
+
+JBE_INFO_SHOP_ADMIN_TITLE = Покупка\r: \d'\wАдмин Прав\d'
+JBE_INFO_SHOP_ADMIN_1 = \r[\y#\r] \wСтоимость на \yмесяц\w: \r120 \dруб\w.
+JBE_INFO_SHOP_ADMIN_2 = \r[\y#\r] \wСтоимость на \yвсегда\w: \r600 \dруб\w.
+
+JBE_INFO_SHOP_VIP_TITLE = Покупка\r: \d'\wВип\d'
+JBE_INFO_SHOP_VIP_1 = \r[\y#\r] \wСтоимость на \yмесяц\w: \r60 \dруб\w.
+JBE_INFO_SHOP_VIP_2 = \r[\y#\r] \wСтоимость на \yвсегда\w: \r400 \dруб\w.
+
+JBE_INFO_SHOP_VAMPIR_TITLE = Покупка\r: \d'\wВампир\d'
+JBE_INFO_SHOP_VAMPIR_1 = \r[\y#\r] \wСтоимость на \yмесяц\w: \r200 \dруб\w.
+JBE_INFO_SHOP_VAMPIR_2 = \r[\y#\r] \wСтоимость на \yвсегда\w: \r800 \dруб\w.
+
+JBE_INFO_SHOP_SUPER_ADMIN_TITLE = Покупка\r: \d'\wСупер админ\d'
+JBE_INFO_SHOP_SUPER_ADMIN_1 = \r[\y#\r] \wСтоимость на \yмесяц\w: \r350 \dруб\w.
+JBE_INFO_SHOP_SUPER_ADMIN_2 = \r[\y#\r] \wСтоимость на \yвсегда\w: \r800 \dруб\w.
+
+JBE_INFO_SHOP_BOSS_TITLE = Покупка\r: \d'\wМафия\d'
+JBE_INFO_SHOP_BOSS_1 = \r[\y#\r] \wСтоимость на \yмесяц\w: \r1800 \dруб\w.
+JBE_INFO_SHOP_BOSS_2 = \r[\y#\r] \wСтоимость на \yвсегда\w: \r2000 \dруб\w.
+
+JBE_INFO_SHOP_HOOK_TITLE = Покупка\r: \d'\wПаутинки\d'
+JBE_INFO_SHOP_HOOK_1 = \r[\y#\r] \wСтоимость на \yмесяц\w: \r80 \dруб\w.
+JBE_INFO_SHOP_HOOK_2 = \r[\y#\r] \wСтоимость на \yвсегда\w: \r150 \dруб\w.
+
+JBE_INFO_SHOP_FULL_TITLE = Покупка\r: \d'\wПолные привилегии\d'
+JBE_INFO_SHOP_FULL_1 = \r[\y#\r] \wСтоимость на \yмесяц\w: \r2000 \dруб\w.
+JBE_INFO_SHOP_FULL_2 = \r[\y#\r] \wСтоимость на \yвсегда\w: \r3000 \dруб\w.
+
+
+JBE_ADMIN_MAIN_BLOCK_CT = Блокировка за охрану
+JBE_ADMIN_BLOCK_CT_PLAYER = Блокировка игрока
+JBE_ADMIN_BLOCK_CT_ALL = %s вход всем
+JBE_ADMIN_MSG_BLOCK_CT_ALL_OFF = !g[Админ права] !yИгрок !t%s !yзаблокировал вход за охрану.
+JBE_ADMIN_MSG_BLOCK_CT_ALL_ON = !g[Админ права] !yИгрок !t%s !yразблокировал вход за охрану.
+JBE_ADMIN_MSG_SLAP = !g[Админ права] !y%s !g%s !yстукнул !g%s!y на !t%d HP.
+JBE_ADMIN_MSG_SLAY = !g[Админ права] !y%s !g%s !yубил !g%s!y.
+JBE_ADMIN_MSG_KICK = !g[Админ права] !y%s !g%s !yкикнул !t%s!y.
+JBE_ADMIN_MSG_TEAM = !g[Админ права] !y%s !g%s !yперевел !g%s!y за !t%s!y.
+
+
+JBE_MENU_VAMPIR_ME4 = Меч вампира: \d[\y%s\d]
+JBE_MENU_VAMPIR_GRAVITI = Гравитация: \d[\y%s\d]
+JBE_MENU_VAMPIR_DOUBLE_JUMP = Двойной прыжок: \d[\y%s\d]
+JBE_MENU_VAMPIR_RESPAWN = Воскреснуть \y[раз в \r%d \yрнд]
+
+JBE_VAMPIR_MSG_ME4_1 = !g[Меню Вампира] !yВы активировали !tмеч вампира!y.
+JBE_VAMPIR_MSG_ME4_2 = !g[Меню Вампира] !yВы деактивировали !tмеч вампира!y.
+JBE_VAMPIR_MSG_GRAVITI_1 = !g[Меню Вампира] !yВы активировали !tгравитацию!y
+JBE_VAMPIR_MSG_GRAVITI_2 = !g[Меню Вампира] !yВы деактивировали !tгравитацию!y.
+JBE_VAMPIR_MSG_DOUBLE_JUMP_1 = !g[Меню Вампира] !yВы активировали !tдвойной прыжок!y.
+JBE_VAMPIR_MSG_DOUBLE_JUMP_2 = !g[Меню Вампира] !yВы деактивировали !tдвойной прыжок!y.
+JBE_VAMPIR_MSG_RESPAWN = !g[Меню Вампира] !y%s !g%s !yсделал !tвоскрешение!y.
+
+JBE_MENU_VIP_HEALTH = Взять 200 жизней \r[\y%d\r]
+JBE_MENU_VIP_RESPAWN = Воскреснуть \y[раз в \r%d \yрнд]
+JBE_MENU_VIP_VOICE = Голос на раунд \y[раз в \r%d \yрнд]
+JBE_MENU_VIP_SPEED_GRAVITI = Скорость и гравитация \y[раз в \r%d \yрнд]
+JBE_MENU_VIP_FREE_DAY = Свободный день\y[раз в \r%d \yрнд]
+JBE_MENU_VIP_DOUBLE_DAMAGE = Двойной урон \y[раз в \r%d \yрнд]
+
+JBE_MENU_VIP_HEALTH_MSG = !g[Вип меню] !y%s !g%s !yвзял !t200 !gжизней!y.
+JBE_MENU_VIP_RESPAWN_MSG = !g[Вип меню] !y%s !g%s !yсделал !tвоскрешение!y.
+JBE_MENU_VIP_VOICE_MSG = !g[Вип меню] !y%s !g%s !yвзял !tголос!y.
+JBE_MENU_VIP_SPEED_GRAVITI_MSG = !g[Вип меню] !y%s !g%s !yвзял !tскорость !yи !tгравитацию!y.
+JBE_MENU_VIP_FREE_DAY_MSG = !g[Вип меню] !y%s !g%s !yвзял !tсвободный день!y.
+JBE_MENU_VIP_DOUBLE_DAMAGE_MSG = !g[Вип меню] !y%s !g%s !yвзял !tдвойной урон!y.
+
+
+JBE_MENU_SUPER_ADMIN_RESPAWN = Воскреснуть \r[\y%d\r]
+JBE_MENU_SUPER_ADMIN_RESPAWN_PLAYER = Воскресить игрока \r[\y%d\r]
+JBE_MENU_SUPER_ADMIN_HEALTH_ARMOR = Взять 250 жизней и брони \r[\y%d\r]
+JBE_MENU_SUPER_ADMIN_SPEED = Взять скорость \r[\y%d\r]
+JBE_MENU_SUPER_ADMIN_GRAVITY = Взять гравитацию \r[\y%d\r]
+JBE_MENU_SUPER_ADMIN_GRANADE = Взять гранаты \y[раз в \r%d \yрнд]
+JBE_MENU_SUPER_ADMIN_CLOSE = Закрыть дело \r[\y%d\r]
+JBE_MENU_SUPER_ADMIN_BHOP = Взять распрыжку \y[раз в \r%d \yрнд]
+
+JBE_MENU_SUPER_ADMIN_RESPAWN_MSG = !g[Супер меню] !y%s !g%s !yсделал !tвоскрешение!y.
+JBE_MENU_SUPER_ADMIN_RESPAWN_PLAYER_MSG = !g[Супер меню] !y%s !t%s !yвоскресил !g%s!y.
+JBE_MENU_SUPER_ADMIN_HEALTH_ARMOR_MSG = !g[Супер меню] !y%s !g%s !yвзял !tжизни !yи !tброню!y.
+JBE_MENU_SUPER_ADMIN_SPEED_MSG = !g[Супер меню] !y%s !g%s !yвзял !tскорость!y.
+JBE_MENU_SUPER_ADMIN_GRAVITY_MSG = !g[Супер меню] !y%s !g%s !yвзял !tгравитацию!y.
+JBE_MENU_SUPER_ADMIN_GRANADE_MSG = !g[Супер меню] !y%s !g%s !yвзял !tнабор гранат!y.
+JBE_MENU_SUPER_ADMIN_CLOSE_MSG = !g[Супер меню] !y%s !g%s !yзамял дело!y.
+JBE_MENU_SUPER_ADMIN_BHOP_MSG = !g[Супер меню] !y%s !g%s !yвзял !tраспрыжку!y.

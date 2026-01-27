@@ -1,0 +1,5 @@
+native give_weapon_vsk94(id)
+native give_weapon_gbarrel(id)
+native give_weapon_deagleg(id)
+native give_weapon_stg44g(id)
+native give_weapon_sprifle(id)

@@ -1,0 +1,149 @@
+﻿[ru]
+JBE_HUD_RANK_NAME = Погоняло: %L
+JBE_HUD_RANK_AUTHORITY = Авторитет: [%d|%d]
+JBE_HUD_RANK_AUTHORITY_MAX = Авторитет: максимальный
+
+JBE_ID_HUD_RANK_NAME_1 = Первоходец | LVL: 1
+JBE_ID_HUD_RANK_NAME_2 = Шнырь | LVL: 2
+JBE_ID_HUD_RANK_NAME_3 = Нарик | LVL: 3 
+JBE_ID_HUD_RANK_NAME_4 = Барыга | LVL: 4
+JBE_ID_HUD_RANK_NAME_5 = Пакетик | LVL: 5
+JBE_ID_HUD_RANK_NAME_6 = Махно | LVL: 6
+JBE_ID_HUD_RANK_NAME_7 = Бугор | LVL: 7
+JBE_ID_HUD_RANK_NAME_8 = Крест | LVL: 8
+JBE_ID_HUD_RANK_NAME_9 = Мятый | LVL: 9
+JBE_ID_HUD_RANK_NAME_10 = Чума | LVL: 10
+JBE_ID_HUD_RANK_NAME_11 = Шестёрка | LVL: 11
+JBE_ID_HUD_RANK_NAME_12 = Опасный | LVL: 12
+JBE_ID_HUD_RANK_NAME_13 = Лютый | LVL: 13
+JBE_ID_HUD_RANK_NAME_14 = Шакал | LVL: 14
+JBE_ID_HUD_RANK_NAME_15 = Авторитет Зоны | LVL: 15
+JBE_ID_HUD_RANK_NAME_16 = Вор в Законе | LVL: 16
+
+JBE_CHAT_ID_RANK_ERROR_PARAMETERS = !g[Погоняла] !yВаш клиент игры не позволяет !tсохранить !yваш !gавторитет!y!
+JBE_CHAT_ID_RANK_EXP_UPDATED = !g[Погоняла] !yВаш авторитет повысился до !t%d!y.
+JBE_CHAT_ID_RANK_UPDATED = !g[Погоняла] !yВаше погоняло стало авторитетней, теперь вы !t%s!y.
+
+JBE_MENU_AUTHORITY_MAIN_TITLE = Меню авторитетов
+JBE_MENU_AUTHORITY_HEALTH = 200 жизней \y[раз в \r%d \yрнд]
+JBE_MENU_AUTHORITY_HEALTH_RANK_NAME = 200 жизней \r[Опасный \y|12|\r]
+JBE_MENU_AUTHORITY_RESPAWN = Воскреснуть \y[раз в \r%d \yрнд]
+JBE_MENU_AUTHORITY_RESPAWN_RANK_NAME = Воскреснуть \r[Вор в Законе \y|16|\r]
+JBE_MENU_AUTHORITY_FREE_DAY = Свободный день \y[раз в \r%d \yрнд]
+JBE_MENU_AUTHORITY_FREE_DAY_RANK_NAME = Свободный день \r[Пахан \y|14|\r]
+JBE_MENU_AUTHORITY_VOICE = Голос \y[раз в \r%d \yрнд]
+JBE_MENU_AUTHORITY_VOICE_RANK_NAME = Голос \r[Чума \y|10|\r]
+JBE_MENU_AUTHORITY_CLOHING_GUARD = Одежда охраника \y[раз в \r%d \yрнд]
+JBE_MENU_AUTHORITY_CLOHING_GUARD_RANK_NAME = Одежда охраника \r[Лютый \y|13|\r]
+JBE_MENU_AUTHORITY_CLOSE = Замять дело \y[раз в \r%d \yрнд]
+JBE_MENU_AUTHORITY_CLOSE_RANK_NAME = Замять дело \r[Шестёрка \y|11|\r]
+JBE_MENU_AUTHORITY_SCREWDRIVER = Взять отвёртку \y[раз в \r%d \yрнд]
+JBE_MENU_AUTHORITY_SCREWDRIVER_RANK_NAME = Взять отвёртку \r[Авторитет Зоны \y|15|\r]
+
+JBE_AUTHORITY_HEALTH_MSG = !g[Авторитет меню] !yИгрок !g%s !yнашёл !tсыворотку!y.
+JBE_AUTHORITY_RESPAWN_MSG = !g[Авторитет меню] !yИгрок !g%s !yсделал !tвоскрешение!y.
+JBE_AUTHORITY_FREE_DAY_MSG = !g[Авторитет меню] !yИгрок !g%s !yвзял !tcвободный день!y.
+JBE_AUTHORITY_VOICE_MSG = !g[Авторитет меню] !yИгрок !g%s !yвзял !tголос!y.
+JBE_AUTHORITY_CLOHING_GUARD_MSG = !g[Авторитет меню] !yВы договорились с !tохраной !yи получили !gформу!y.
+JBE_AUTHORITY_CLOSE_MSG = !g[Авторитет меню] !yИгрок !g%s !yзамял дело.
+JBE_AUTHORITY_SCREWDRIVER_MSG = !g[Авторитет меню]!y Вам подогнали !tотвёртку!y.
+
+
+JBE_GIVE_AUTHORITY_MAIN_TITLE = Меню выдачи авторитета
+JBE_GIVE_AUTHORITY_MSG = !g[Погоняла] !y%s !t%s !yвыдал !g%s !yавторитета !yигроку !t%s!y.
+
+
+JBE_MENU_TATOO_MAIN_TITLE = Меню перчаток
+JBE_MENU_TATOO_1 = Чёрные перчатки: \d[Стандарт]
+JBE_MENU_TATOO_2 = Перчатки: \d[\rКрасные\d]
+JBE_MENU_TATOO_2_LVL = \dПерчатки: [Красные] \r[Пакетик \y|5|\r]
+JBE_MENU_TATOO_3 = Перчатки: \d[\yСиние\d]
+JBE_MENU_TATOO_3_LVL = \dПерчатки: [Синие] \r[Мятый \y|9|\r]
+JBE_MENU_TATOO_4 = Перчатки: \d[\rФиолетовые\d]
+JBE_MENU_TATOO_4_LVL = \dПерчатки: [Фиолетовые] \r[Шестёрка \y|11|\r]
+JBE_MENU_TATOO_5 = Перчатки: \d[\yКосмо\d]
+JBE_MENU_TATOO_5_LVL = \dПерчатки: [Космо] \r[Лютый \y|13|\r]
+JBE_MENU_TATOO_6 = Перчатки: \d[\rОгненные\d]
+JBE_MENU_TATOO_6_LVL = \dПерчатки: [Огненные] \r[Авторитет Зоны \y|15|\r]
+
+JBE_TATOO_1_MSG = !yВы одели !tчёрные !yперчатки и содрали !gвсе !yнаколки.
+JBE_TATOO_2_MSG = !yВы одели !tкрасные !yперчатки и набили !yнаколку - !gВосток!y.
+JBE_TATOO_3_MSG = !yВы одели !tсиние !yперчатки и набили !yнаколку - !gМафия!y.
+JBE_TATOO_4_MSG = !yВы одели !tфиолетовые !yперчатки и набили !yнаколку - !gОрёл!y.
+JBE_TATOO_5_MSG = !yВы одели !tкосмо !yперчатки и набили !yнаколку - !gЗима!y.
+JBE_TATOO_6_MSG = !yВы одели !tогненные !yперчатки и набили !yнаколку - !gОгонь!y.
+
+[en]
+JBE_HUD_RANK_NAME = Погоняло: %L
+JBE_HUD_RANK_AUTHORITY = Авторитет: [%d|%d]
+JBE_HUD_RANK_AUTHORITY_MAX = Авторитет: максимальный
+
+JBE_ID_HUD_RANK_NAME_1 = Первоходец | LVL: 1
+JBE_ID_HUD_RANK_NAME_2 = Шнырь | LVL: 2
+JBE_ID_HUD_RANK_NAME_3 = Нарик | LVL: 3 
+JBE_ID_HUD_RANK_NAME_4 = Барыга | LVL: 4
+JBE_ID_HUD_RANK_NAME_5 = Пакетик | LVL: 5
+JBE_ID_HUD_RANK_NAME_6 = Махно | LVL: 6
+JBE_ID_HUD_RANK_NAME_7 = Бугор | LVL: 7
+JBE_ID_HUD_RANK_NAME_8 = Крест | LVL: 8
+JBE_ID_HUD_RANK_NAME_9 = Мятый | LVL: 9
+JBE_ID_HUD_RANK_NAME_10 = Чума | LVL: 10
+JBE_ID_HUD_RANK_NAME_11 = Шестёрка | LVL: 11
+JBE_ID_HUD_RANK_NAME_12 = Опасный | LVL: 12
+JBE_ID_HUD_RANK_NAME_13 = Лютый | LVL: 13
+JBE_ID_HUD_RANK_NAME_14 = Шакал | LVL: 14
+JBE_ID_HUD_RANK_NAME_15 = Авторитет Зоны | LVL: 15
+JBE_ID_HUD_RANK_NAME_16 = Вор в Законе | LVL: 16
+
+JBE_CHAT_ID_RANK_ERROR_PARAMETERS = !g[Погоняла] !yВаш клиент игры не позволяет !tсохранить !yваш !gавторитет!y!
+JBE_CHAT_ID_RANK_EXP_UPDATED = !g[Погоняла] !yВаш авторитет повысился до !t%d!y.
+JBE_CHAT_ID_RANK_UPDATED = !g[Погоняла] !yВаше погоняло стало авторитетней, теперь вы !t%s!y.
+
+JBE_MENU_AUTHORITY_MAIN_TITLE = Меню авторитетов
+JBE_MENU_AUTHORITY_HEALTH = 200 жизней \y[раз в \r%d \yрнд]
+JBE_MENU_AUTHORITY_HEALTH_RANK_NAME = 200 жизней \r[Опасный \y|12|\r]
+JBE_MENU_AUTHORITY_RESPAWN = Воскреснуть \y[раз в \r%d \yрнд]
+JBE_MENU_AUTHORITY_RESPAWN_RANK_NAME = Воскреснуть \r[Вор в Законе \y|16|\r]
+JBE_MENU_AUTHORITY_FREE_DAY = Свободный день \y[раз в \r%d \yрнд]
+JBE_MENU_AUTHORITY_FREE_DAY_RANK_NAME = Свободный день \r[Пахан \y|14|\r]
+JBE_MENU_AUTHORITY_VOICE = Голос \y[раз в \r%d \yрнд]
+JBE_MENU_AUTHORITY_VOICE_RANK_NAME = Голос \r[Чума \y|10|\r]
+JBE_MENU_AUTHORITY_CLOHING_GUARD = Одежда охраника \y[раз в \r%d \yрнд]
+JBE_MENU_AUTHORITY_CLOHING_GUARD_RANK_NAME = Одежда охраника \r[Лютый \y|13|\r]
+JBE_MENU_AUTHORITY_CLOSE = Замять дело \y[раз в \r%d \yрнд]
+JBE_MENU_AUTHORITY_CLOSE_RANK_NAME = Замять дело \r[Шестёрка \y|11|\r]
+JBE_MENU_AUTHORITY_SCREWDRIVER = Взять отвёртку \y[раз в \r%d \yрнд]
+JBE_MENU_AUTHORITY_SCREWDRIVER_RANK_NAME = Взять отвёртку \r[Авторитет Зоны \y|15|\r]
+
+JBE_AUTHORITY_HEALTH_MSG = !g[Авторитет меню] !yИгрок !g%s !yнашёл !tсыворотку!y.
+JBE_AUTHORITY_RESPAWN_MSG = !g[Авторитет меню] !yИгрок !g%s !yсделал !tвоскрешение!y.
+JBE_AUTHORITY_FREE_DAY_MSG = !g[Авторитет меню] !yИгрок !g%s !yвзял !tcвободный день!y.
+JBE_AUTHORITY_VOICE_MSG = !g[Авторитет меню] !yИгрок !g%s !yвзял !tголос!y.
+JBE_AUTHORITY_CLOHING_GUARD_MSG = !g[Авторитет меню] !yВы договорились с !tохраной !yи получили !gформу!y.
+JBE_AUTHORITY_CLOSE_MSG = !g[Авторитет меню] !yИгрок !g%s !yзамял дело.
+JBE_AUTHORITY_SCREWDRIVER_MSG = !g[Авторитет меню]!y Вам подогнали !tотвёртку!y.
+
+
+JBE_GIVE_AUTHORITY_MAIN_TITLE = Меню выдачи авторитета
+JBE_GIVE_AUTHORITY_MSG = !g[Погоняла] !y%s !t%s !yвыдал !g%s !yавторитета !yигроку !t%s!y.
+
+
+JBE_MENU_TATOO_MAIN_TITLE = Меню перчаток
+JBE_MENU_TATOO_1 = Чёрные перчатки: \d[Стандарт]
+JBE_MENU_TATOO_2 = Перчатки: \d[\rКрасные\d]
+JBE_MENU_TATOO_2_LVL = \dПерчатки: [Красные] \r[Пакетик \y|5|\r]
+JBE_MENU_TATOO_3 = Перчатки: \d[\yСиние\d]
+JBE_MENU_TATOO_3_LVL = \dПерчатки: [Синие] \r[Мятый \y|9|\r]
+JBE_MENU_TATOO_4 = Перчатки: \d[\rФиолетовые\d]
+JBE_MENU_TATOO_4_LVL = \dПерчатки: [Фиолетовые] \r[Шестёрка \y|11|\r]
+JBE_MENU_TATOO_5 = Перчатки: \d[\yКосмо\d]
+JBE_MENU_TATOO_5_LVL = \dПерчатки: [Космо] \r[Лютый \y|13|\r]
+JBE_MENU_TATOO_6 = Перчатки: \d[\rОгненные\d]
+JBE_MENU_TATOO_6_LVL = \dПерчатки: [Огненные] \r[Авторитет Зоны \y|15|\r]
+
+JBE_TATOO_1_MSG = !yВы одели !tчёрные !yперчатки и содрали !gвсе !yнаколки.
+JBE_TATOO_2_MSG = !yВы одели !tкрасные !yперчатки и набили !yнаколку - !gВосток!y.
+JBE_TATOO_3_MSG = !yВы одели !tсиние !yперчатки и набили !yнаколку - !gМафия!y.
+JBE_TATOO_4_MSG = !yВы одели !tфиолетовые !yперчатки и набили !yнаколку - !gОрёл!y.
+JBE_TATOO_5_MSG = !yВы одели !tкосмо !yперчатки и набили !yнаколку - !gЗима!y.
+JBE_TATOO_6_MSG = !yВы одели !tогненные !yперчатки и набили !yнаколку - !gОгонь!y.

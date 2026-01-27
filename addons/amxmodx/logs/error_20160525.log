@@ -1,0 +1,4 @@
+L 05/25/2016 - 14:39:12: Start of error session.
+L 05/25/2016 - 14:39:12: Info (map "jail_west_v2") (file "addons/amxmodx/logs/error_20160525.log")
+L 05/25/2016 - 14:39:12: [AMXX] Plugin file open error (plugin "dm_hook.amxx")
+L 05/25/2016 - 14:39:12: [AMXX] Plugin file open error (plugin "jb_vipmenu.amxx")

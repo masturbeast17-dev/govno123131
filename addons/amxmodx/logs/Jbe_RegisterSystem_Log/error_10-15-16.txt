@@ -1,0 +1,10 @@
+L 10/15/2016 - 19:33:28: Log file started (file "cstrike\addons\amxmodx\logs\Jbe_RegisterSystem_Log\error_10-15-16.txt") (game "cstrike") (amx "1.8.1.3746")
+L 10/15/2016 - 19:33:28: MySQL query failed
+L 10/15/2016 - 19:33:28: [ 1 ] near "AUTO_INCREMENT": syntax error
+L 10/15/2016 - 19:33:28: [ SQL ] CREATE TABLE IF NOT EXISTS ``(`id` int(11) NOT NULL AUTO_INCREMENT,`login` varchar(64) NOT NULL,`pass` varchar(64) NOT NULL,`steamId` varchar(64) NOT NULL,`money_amount` int(11) NOT NULL DEFAULT '0',`auth_status` int(11) NOT NULL,`timestamp` timestamp NOT NULL DEFAULT CURRENT_TIMESTAMP ON UPDATE CURRENT_TIMESTAMP,PRIMARY KEY (`id`));ENGINE=MyISAM DEFAULT CHARSET=utf8 AUTO_INCREMENT=1; 
+L 10/15/2016 - 19:33:28: MySQL query failed
+L 10/15/2016 - 19:33:28: [ 1 ] no such table: 
+L 10/15/2016 - 19:33:28: [ SQL ] SELECT `steamId`, `auth_status` FROM ``;
+L 10/15/2016 - 19:33:52: MySQL query failed
+L 10/15/2016 - 19:33:52: [ 1 ] no such table: 
+L 10/15/2016 - 19:33:52: [ SQL ] SELECT * FROM `` WHERE `steamId` = "STEAM_0:0:87505889"
