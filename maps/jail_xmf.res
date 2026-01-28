@@ -1,3 +1,8 @@
-////////////////////////////////////////////////////////////////// © cs-files.net//// cs-files.net - это более 3.000 карт.//maps/jail_xmf.bsp
-maps/jail_xmf.res
-maps/jail_xmf.txt
+п»ї/////////////////////////////////////////////////////////////
+// Resources file, created with HLBox17b, free software!!! //
+//  В© Chapo 2005-2010 - Infos @ http://www.17buddies.net   //
+//            More than 50000 maps to download!            //
+/////////////////////////////////////////////////////////////
+// jail_xmf.res
+// Created: GMT 2011-02-24 20:51:24
+

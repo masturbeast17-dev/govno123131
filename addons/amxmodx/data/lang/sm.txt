@@ -1,0 +1,5 @@
+SM_MENU = Музыка
+SM_MUSIC1 = Трек 1
+SM_MUSIC2 = Трек 2
+SM_MUSIC3 = Трек 3
+SM_STOP = Остановить Музыку

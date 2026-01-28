@@ -1,0 +1,13 @@
+[en]
+FB_MSG1 = Дата [!g%s!y] Сервер [!team%s!y]
+FB_MSG2 = Ваше имя [!team%s!y] IP [!g%s!y] SteamID [!g%s!y]
+FB_MSG3 = Для разбана посетите [!team%s!y]
+FB_HUD = Дата: %s ^nСервер: %s ^nВаше имя: %s ^nIP: %s ^nSteamID: %s ^nДля разбана посетите: %s
+FB_DHUD = %s вы забанены на сервере %s ^nВаш IP: %s ^nВаш ID: %s
+
+[ru]
+FB_MSG1 = Дата [!g%s!y] Сервер [!team%s!y]
+FB_MSG2 = Ваше имя [!team%s!y] IP [!g%s!y] SteamID [!g%s!y]
+FB_MSG3 = Для разбана посетите [!team%s!y]
+FB_HUD = Дата: %s ^nСервер: %s ^nВаше имя: %s ^nIP: %s ^nSteamID: %s ^nДля разбана посетите: %s
+FB_DHUD = %s вы забанены на сервере %s ^nВаш IP: %s ^nВаш ID: %s

@@ -1,0 +1,15 @@
+MAP BY KKZ (Kierowca Kombajnu Zaglady)
+
+jb_dust2_KKZ
+
+Remake of de_dust2 map for JailBreak mod.
+
+Check also jb_dust_KKZ.
+
+Credits:
+
+Mgr.Panek
+CiasieQ
+Ubek
+MAGN
+Meldior

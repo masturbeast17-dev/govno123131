@@ -1,0 +1,89 @@
+[en]
+UM_CONFIG_NODIR = Конфигурационная директория: %s - не найдена!
+UM_CONFIG_NOFILE = Конфигурационный файл: %s - не найден!
+UM_ACTIVE_PLUGINOFF = Плагин: %s - требуется отключить!
+
+UM_FAIL_PASSWORD = У вас недостаточно прав
+
+UM_AMXMODMENU_NOACCESS = У вас недостаточно прав
+UM_AMXMODMENU_TITLE = AmxModMenu
+UM_AMXMODMENU_EDIT = Изменить пароль^n
+
+UM_PERIOD_UNLIMITED = \rВаши права \yне имею \rсрока \dдавности
+UM_PERIOD_DAY = У \rвас \dв  \dосталось: \r%s \dдо \r%s
+UM_PERIOD_LESS = \rВнимание! \yУ \rвас \dосталось: \r%s^n\dОбратитесь к администратору за продлением
+
+UM_MENUS_NEXT = Далее
+UM_MENUS_BACK = Назад
+UM_MENUS_EXIT = Выход
+
+UM_ENDPERIOD_1 = !y[ !gСервер !y]Спешим !tвас !gуведомить!y, что !tвы !gбольше !tне являетесь !gадминистратором. 
+UM_ENDPERIOD_2 = !y[ !gСервер !y]Если !tвы !gжелаете продлить !yсвои !gправа!y, то пожалуйста !tсвяжитесь с !gадминистрацией
+UM_ENDPERIOD_3 = !y[ !gСервер !y]!gSkype: !tваш скайп
+
+UM_EDITPASSWORD_INFO = !y[ !gСервер !y]Пожалуйста !gвведите !tжелаемый пароль !yв поле !tрасположенное !gвыше
+UM_EDITPASSWORD_NOLEN = !y[ !gСервер !y]!gНельзя !yоставлять !tпароль !gпустым!
+UM_EDITPASSWORD_INFONEW = !y[ !gСервер !y]!gПожалуйста !tповторите !gввод!
+UM_EDITPASSWORD_GOOD = !y[ !gСервер !y]!tВаш !gпароль !yуспешно !tизменен !yна !g%s
+UM_EDITPASSWORD_GOOD_INFO_1 = !y[ !gСервер !y]!yМы сделали попытку !tизменить вам !gsetinfo !yсамостоятельно, !yно !tничего не вышло
+UM_EDITPASSWORD_GOOD_INFO_2 = !y[ !gСервер !y]!tПожалуйста !gпропишите !yв консоль !gsetinfo _pw "%s"
+
+UM_CONFIRMATIONEDIT_TITLE = Подтверждение изменений!^n\dНовый пароль: \r%s^n\yИзменить?
+UM_CONFIRMATIONEDIT_ITEM_1 = Да, изменить
+UM_CONFIRMATIONEDIT_ITEM_2 = Нет, ввести заново^n
+UM_CONFIRMATIONEDIT_ITEM_3 = Я передумал
+
+ENDWORLD_DAY1 = день
+ENDWORLD_DAY2 = дня
+ENDWORLD_DAY3 = дней
+ENDWORLD_HOUR1 = час
+ENDWORLD_HOUR2 = часа
+ENDWORLD_HOUR3 = часов
+ENDWORLD_MIN1 = минута
+ENDWORLD_MIN2 = минуты
+ENDWORLD_MIN3 = минут
+
+[ru]
+UM_CONFIG_NODIR = Конфигурационная директория: %s - не найдена!
+UM_CONFIG_NOFILE = Конфигурационный файл: %s - не найден!
+UM_ACTIVE_PLUGINOFF = Плагин: %s - требуется отключить!
+
+UM_FAIL_PASSWORD = У вас недостаточно прав
+
+UM_AMXMODMENU_NOACCESS = У вас недостаточно прав
+UM_AMXMODMENU_TITLE = AmxModMenu
+UM_AMXMODMENU_EDIT = Изменить пароль^n
+
+UM_PERIOD_UNLIMITED = \rВаши права \yне имею \rсрока \dдавности
+UM_PERIOD_DAY = У \rвас \dв  \dосталось: \r%s \dдо \r%s
+UM_PERIOD_LESS = \rВнимание! \yУ \rвас \dосталось: \r%s^n\dОбратитесь к администратору за продлением
+
+UM_MENUS_NEXT = Далее
+UM_MENUS_BACK = Назад
+UM_MENUS_EXIT = Выход
+
+UM_ENDPERIOD_1 = !y[ !gСервер !y]Спешим !tвас !gуведомить!y, что !tвы !gбольше !tне являетесь !gадминистратором. 
+UM_ENDPERIOD_2 = !y[ !gСервер !y]Если !tвы !gжелаете продлить !yсвои !gправа!y, то пожалуйста !tсвяжитесь с !gадминистрацией
+UM_ENDPERIOD_3 = !y[ !gСервер !y]!gSkype: !tваш скайп
+
+UM_EDITPASSWORD_INFO = !y[ !gСервер !y]Пожалуйста !gвведите !tжелаемый пароль !yв поле !tрасположенное !gвыше
+UM_EDITPASSWORD_NOLEN = !y[ !gСервер !y]!gНельзя !yоставлять !tпароль !gпустым!
+UM_EDITPASSWORD_INFONEW = !y[ !gСервер !y]!gПожалуйста !tповторите !gввод!
+UM_EDITPASSWORD_GOOD = !y[ !gСервер !y]!tВаш !gпароль !yуспешно !tизменен !yна !g%s
+UM_EDITPASSWORD_GOOD_INFO_1 = !y[ !gСервер !y]!yМы сделали попытку !tизменить вам !gsetinfo !yсамостоятельно, !yно !tничего не вышло
+UM_EDITPASSWORD_GOOD_INFO_2 = !y[ !gСервер !y]!tПожалуйста !gпропишите !yв консоль !gsetinfo _pw "%s"
+
+UM_CONFIRMATIONEDIT_TITLE = Подтверждение изменений!^n\dНовый пароль: \r%s^n\yИзменить?
+UM_CONFIRMATIONEDIT_ITEM_1 = Да, изменить
+UM_CONFIRMATIONEDIT_ITEM_2 = Нет, ввести заново^n
+UM_CONFIRMATIONEDIT_ITEM_3 = Я передумал
+
+ENDWORLD_DAY1 = день
+ENDWORLD_DAY2 = дня
+ENDWORLD_DAY3 = дней
+ENDWORLD_HOUR1 = час
+ENDWORLD_HOUR2 = часа
+ENDWORLD_HOUR3 = часов
+ENDWORLD_MIN1 = минута
+ENDWORLD_MIN2 = минуты
+ENDWORLD_MIN3 = минут

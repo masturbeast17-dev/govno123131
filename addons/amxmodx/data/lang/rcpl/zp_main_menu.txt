@@ -1,0 +1,10 @@
+[ru]
+RC_SET_PETS = Меню питомцев
+
+RC_MENU_MODEL = Модель \r[\y%s\r]
+RC_MENU_LIGHT = Свечение \r[\y%s\r]
+
+RC_MENU_SETTINGS_MODEL = \r• \yВыбери модель:^n\dСтраница: \y%d \dиз \r%d
+RC_MENU_SETTINGS_LIGHT = \r• \yВыбери свечение:^n\dСтраница: \y%d \dиз \r%d
+
+RC_MENU_NO_FLAGS = %s \r[Не купил]

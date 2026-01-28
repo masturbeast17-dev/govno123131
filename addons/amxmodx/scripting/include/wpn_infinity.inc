@@ -1,1 +1,0 @@
-native give_inf(index)

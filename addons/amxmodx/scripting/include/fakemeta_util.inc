@@ -338,17 +338,6 @@ stock fm_get_speed(entity) {
 	return floatround(vector_length(Vel));
 }
 
-stock fm_get_user_money(index) return get_pdata_int(index, 115);
-stock fm_set_user_money(index, count, flash = true) {
-	set_pdata_int(index, 115, count);
-	message_begin(MSG_ONE_UNRELIABLE, get_user_msgid("Money"), _, index);
-	write_long(count);
-	write_byte(flash ? 1 : 0);
-	message_end();
-	
-	return true;
-}
-
 stock fm_set_rendering(entity, fx = kRenderFxNone, r = 255, g = 255, b = 255, render = kRenderNormal, amount = 16) {
 	new Float:RenderColor[3];
 	RenderColor[0] = float(r);
@@ -422,8 +411,6 @@ stock fm_set_user_armor(index, armor) {
 
 	return 1;
 }
-
-stock fm_get_user_health(index) return pev(index, pev_health);
 
 stock fm_set_user_health(index, health) {
 	health > 0 ? set_pev(index, pev_health, float(health)) : dllfunc(DLLFunc_ClientKill, index);
@@ -510,7 +497,7 @@ stock fm_set_user_noclip(index, noclip = 0) {
 	return (pev(index, pev_movetype) == MOVETYPE_NOCLIP) */
 
 // note: get_user_weapon will still return former weapon index
-stock fm_strip_user_weapons(index, knife = true) {
+stock fm_strip_user_weapons(index) {
 	new ent = fm_create_entity("player_weaponstrip");
 	if (!pev_valid(ent))
 		return 0;
@@ -518,8 +505,7 @@ stock fm_strip_user_weapons(index, knife = true) {
 	dllfunc(DLLFunc_Spawn, ent);
 	dllfunc(DLLFunc_Use, ent, index);
 	engfunc(EngFunc_RemoveEntity, ent);
-	
-	if(knife) fm_give_item(index, "weapon_knife");
+
 	return 1;
 }
 
@@ -695,29 +681,6 @@ stock bool:fm_strip_user_gun(index, wid = 0, const wname[] = "") {
 	dllfunc(DLLFunc_Think, ent_box);
 
 	return true;
-}
-
-stock fm_set_user_bpammo(pPlayer, iWeaponId, iAmount) {
-	new iOffset;
-	switch(iWeaponId)
-	{
-		case CSW_AWP: iOffset = 377; // ammo_338magnum
-		case CSW_SCOUT, CSW_AK47, CSW_G3SG1: iOffset = 378; // ammo_762nato
-		case CSW_M249: iOffset = 379; // ammo_556natobox
-		case CSW_FAMAS, CSW_M4A1, CSW_AUG, CSW_SG550, CSW_GALI, CSW_SG552: iOffset = 380; // ammo_556nato
-		case CSW_M3, CSW_XM1014: iOffset = 381; // ammo_buckshot
-		case CSW_USP, CSW_UMP45, CSW_MAC10: iOffset = 382; // ammo_45acp
-		case CSW_FIVESEVEN, CSW_P90: iOffset = 383; // ammo_57mm
-		case CSW_DEAGLE: iOffset = 384; // ammo_50ae
-		case CSW_P228: iOffset = 385; // ammo_357sig
-		case CSW_GLOCK18, CSW_MP5NAVY, CSW_TMP, CSW_ELITE: iOffset = 386; // ammo_9mm
-		case CSW_FLASHBANG: iOffset = 387;
-		case CSW_HEGRENADE: iOffset = 388;
-		case CSW_SMOKEGRENADE: iOffset = 389;
-		case CSW_C4: iOffset = 390;
-		default: return;
-	}
-	set_pdata_int(pPlayer, iOffset, iAmount, 5);
 }
 
 // only weapon index or its name can be passed, if neither is passed then the current gun will be transferred

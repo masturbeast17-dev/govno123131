@@ -1,0 +1,5 @@
+"Metamod plugin"
+{
+        "alias"		"Dosprotect"
+	"file"	"..\cstrike\addons\dosprotect\bin\dosprotect_mm.so"
+}

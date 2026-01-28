@@ -1,0 +1,21 @@
+﻿[en]
+JB_PC_PINCODE_INFO = !g[!tПинкод!g] !yВведите полученный вами !gпинкод !yв поле !tвыше
+JB_PC_PINCODE_NOTEXT = !g[!tПинкод!g] !yПоле не должно быть !tпустым
+JB_PC_PINCODE_NONUM = !g[!tПинкод!g] !yПинкод состоит !gтолько из !tцифп
+
+JB_PC_PINCODE_YES_1 = !g[!tПинкод!g] !yИгрок !g%s !tактивировал пинкод !g%s
+JB_PC_PINCODE_YES_2 = !g[!tПинкод!g] !yОн !tполучает !y: !g%s
+
+JB_PC_PINCODE_NO = !g[!tПинкод!g] !yПинкод !g%s !tне найден!!!
+JB_PC_PINCODE_ACTIVE = !g[!tПинкод!g] !yПинкод !g%s !yуже !tактивирован!!
+
+[ru]
+JB_PC_PINCODE_INFO = !g[!tПинкод!g] !yВведите полученный вами !gпинкод !yв поле !tвыше
+JB_PC_PINCODE_NOTEXT = !g[!tПинкод!g] !yПоле не должно быть !tпустым
+JB_PC_PINCODE_NONUM = !g[!tПинкод!g] !yПинкод состоит !gтолько из !tцифп
+
+JB_PC_PINCODE_YES_1 = !g[!tПинкод!g] !yИгрок !g%s !tактивировал пинкод !g%s
+JB_PC_PINCODE_YES_2 = !g[!tПинкод!g] !yОн !tполучает !y: !g%s
+
+JB_PC_PINCODE_NO = !g[!tПинкод!g] !yПинкод !g%s !tне найден!!!
+JB_PC_PINCODE_ACTIVE = !g[!tПинкод!g] !yПинкод !g%s !yуже !tактивирован!!

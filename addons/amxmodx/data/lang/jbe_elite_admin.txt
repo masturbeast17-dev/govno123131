@@ -1,0 +1,307 @@
+﻿[en]
+JBU_ELITE_ADMIN_NAME = \r[\yJailBreak\r] \wМеню \r[\yЛорда\r]:
+JBU_ELITE_ADMIN_1 = \y1 \r~ \y[\wВозродить игрока\y]
+JBU_ELITE_ADMIN_2 = \y2 \r~ \y[\wВыдать гравитацию\y]
+JBU_ELITE_ADMIN_3 = \y3 \r~ \y[\wВыдать скорость\y]
+JBU_ELITE_ADMIN_4 = \y4 \r~ \y[\wВыдать NoClip\y]
+JBU_ELITE_ADMIN_5 = \y5 \r~ \y[\wВыдать бессмертие\y]
+JBU_ELITE_ADMIN_6 = \y6 \r~ \w[\yУстановить 250 хп\w]
+JBU_ELITE_ADMIN_7 = \y7 \r~ \w[\yУстановить 100 хп\w]
+JBU_ELITE_ADMIN_8 = \y8 \r~ \w[\rМеню отбирания\w]
+JBU_ELITE_ADMIN_9 = \y9 \r~ \w[\yЦвет \rГРАБА\w]
+JBU_ELITE_ADMIN_EXIT = \y0 \r~ \wВыход
+
+JBU_ELITE_ADMIN_NO_FLAG = !g[!yJailBreak!g] !yВы не можете зайти в меню !tЛорда!y.
+JBU_ELITE_SPAWN_ADMIN_NAME = \yВозрождение игроков
+JBU_ELITE_SPAWN_ADMIN_1 = \y1 \r~ \wВозродить игрока
+JBU_ELITE_SPAWN_ADMIN_2 = \y2 \r~ \wВозродить заключенных
+JBU_ELITE_SPAWN_ADMIN_3 = \y3 \r~ \wВозродить охранников
+JBU_ELITE_SPAWN_ADMIN_4 = \y4 \r~ \wВозродить всех
+JBU_ELITE_SPAWN_ADMIN_EXIT = \y0 \r~ \wВыход
+
+JBU_ELITE_ADMIN_SPAWN_PLAYER = !g[!yJailBreak!g] !tЛорд !g%s !yвозродил !t%s
+JBU_ELITE_ADMIN_SPAWN_T = !g[!yJailBreak!g] !tЛорд !g%s !yвозродил всех !tзаключенных
+JBU_ELITE_ADMIN_SPAWN_CT = !g[!yJailBreak!g] !tЛорд !g%s !yвозродил всех !tохранников
+JBU_ELITE_ADMIN_SPAWN_ALL = !g[!yJailBreak!g] !tЛорд !g%s !yвозродил всех !tигроков
+
+JBU_ELITE_GRAVITY_ADMIN_NAME = \r[\yJailBreak\r] \yВыдать гравитацию
+JBU_ELITE_GRAVITY_ADMIN_1 = \y1 \r~ \wОдному Игроку
+JBU_ELITE_GRAVITY_ADMIN_2 = \y2 \r~ \wВсем заключенным
+JBU_ELITE_GRAVITY_ADMIN_3 = \y3 \r~ \wВсем охранникам
+JBU_ELITE_GRAVITY_ADMIN_4 = \y4 \r~ \wВсем игрокам
+JBU_ELITE_GRAVITY_ADMIN_EXIT = \y0 \r~ \wВыход
+
+JBU_ELITE_ADMIN_GRAVITY_PLAYER = !g[!yJailBreak!g] !tЛорд !g%s !yпонизил гравитацию !t%s
+JBU_ELITE_ADMIN_GRAVITY_T = !g[!yJailBreak!g] !tЛорд !g%s !yпонизил гравитацию всем !tзаключенным
+JBU_ELITE_ADMIN_GRAVITY_CT = !g[!yJailBreak!g] !tЛорд !g%s !yпонизил гравитацию всем !tохранникам
+JBU_ELITE_ADMIN_GRAVITY_ALL = !g[!yJailBreak!g] !tЛорд !g%s !yпонизил гравитацию всем !tигрокам
+
+JBU_ELITE_SPEED_ADMIN_NAME = \r[\yJailBreak\r] \yВыдать скорость
+JBU_ELITE_SPEED_ADMIN_1 = \y1 \r~ \wОдному Игроку
+JBU_ELITE_SPEED_ADMIN_2 = \y2 \r~ \wВсем заключенным
+JBU_ELITE_SPEED_ADMIN_3 = \y3 \r~ \wВсем охранникам
+JBU_ELITE_SPEED_ADMIN_4 = \y4 \r~ \wВсем игрокам
+JBU_ELITE_SPEED_ADMIN_EXIT = \y0 \r~ \wВыход
+
+JBU_ELITE_ADMIN_SPEED_PLAYER = !g[!yJailBreak!g] !tЛорд !g%s !yповысил скорость !t%s
+JBU_ELITE_ADMIN_SPEED_T = !g[!yJailBreak!g] !tЛорд !g%s !yповысил скорость всем !tзаключенным
+JBU_ELITE_ADMIN_SPEED_CT = !g[!yJailBreak!g] !tЛорд !g%s !yповысил скорость всем !tохранникам
+JBU_ELITE_ADMIN_SPEED_ALL = !g[!yJailBreak!g] !tЛорд !g%s !yповысил скорость всем !tигрокам
+
+JBU_ELITE_NOCLIP_ADMIN_NAME = \r[\yJailBreak\r] \yВыдать NoClip
+JBU_ELITE_NOCLIP_ADMIN_1 = \y1 \r~ \wОдному Игроку
+JBU_ELITE_NOCLIP_ADMIN_2 = \y2 \r~ \wВсем заключенным
+JBU_ELITE_NOCLIP_ADMIN_3 = \y3 \r~ \wВсем охранникам
+JBU_ELITE_NOCLIP_ADMIN_4 = \y4 \r~ \wВсем игрокам
+JBU_ELITE_NOCLIP_ADMIN_EXIT = \y0 \r~ \wВыход
+
+JBU_ELITE_ADMIN_NOCLIP_PLAYER = !g[!yJailBreak!g] !tЛорд !g%s !yвыдал NoClip !t%s
+JBU_ELITE_ADMIN_NOCLIP_T = !g[!yJailBreak!g] !tЛорд !g%s !yвыдал NoClip всем !tзаключенным
+JBU_ELITE_ADMIN_NOCLIP_CT = !g[!yJailBreak!g] !tЛорд !g%s !yвыдал NoClip всем !tохранникам
+JBU_ELITE_ADMIN_NOCLIP_ALL = !g[!yJailBreak!g] !tЛорд !g%s !yвыдал NoClip всем !tигрокам
+
+JBU_ELITE_GODMODE_ADMIN_NAME = \r[\yJailBreak\r] \yВыдать бессмертие
+JBU_ELITE_GODMODE_ADMIN_1 = \y1 \r~ \wОдному Игроку
+JBU_ELITE_GODMODE_ADMIN_2 = \y2 \r~ \wВсем заключенным
+JBU_ELITE_GODMODE_ADMIN_3 = \y3 \r~ \wВсем охранникам
+JBU_ELITE_GODMODE_ADMIN_4 = \y4 \r~ \wВсем игрокам
+JBU_ELITE_GODMODE_ADMIN_EXIT = \y0 \r~ \wВыход
+
+JBU_ELITE_ADMIN_GODMODE_PLAYER = !g[!yJailBreak!g] !tЛорд !g%s !yсделал бессмертным !t%s
+JBU_ELITE_ADMIN_GODMODE_T = !g[!yJailBreak!g] !tЛорд !g%s !yсделал бессмертными всех !tзаключенных
+JBU_ELITE_ADMIN_GODMODE_CT = !g[!yJailBreak!g] !tЛорд !g%s !yсделал бессмертными всех !tохранников
+JBU_ELITE_ADMIN_GODMODE_ALL = !g[!yJailBreak!g] !tЛорд !g%s !yсделал бессмертными всех !tигроков
+
+JBU_ELITE_HEALTH_ADMIN_NAME = \r[\yJailBreak\r] \yУстановить 250HP
+JBU_ELITE_HEALTH_ADMIN_1 = \y1 \r~ \wОдному Игроку
+JBU_ELITE_HEALTH_ADMIN_2 = \y2 \r~ \wВсем заключенным
+JBU_ELITE_HEALTH_ADMIN_3 = \y3 \r~ \wВсем охранникам
+JBU_ELITE_HEALTH_ADMIN_4 = \y4 \r~ \wВсем игрокам
+JBU_ELITE_HEALTH_ADMIN_EXIT = \y0 \r~ \wВыход
+
+JBU_ELITE_ADMIN_HEALTH_PLAYER = !g[!yJailBreak!g] !tЛорд !g%s !yустановил 250HP !t%s
+JBU_ELITE_ADMIN_HEALTH_T = !g[!yJailBreak!g] !tЛорд !g%s !yустановил 250HP всем !tзаключенным
+JBU_ELITE_ADMIN_HEALTH_CT = !g[!yJailBreak!g] !tЛорд !g%s !yустановил 250HP всем !tохранникам
+JBU_ELITE_ADMIN_HEALTH_ALL = !g[!yJailBreak!g] !tЛорд !g%s !yвыдал 250HP всем !tигрокам
+
+JBU_ELITE_HELATH100_ADMIN_NAME = \r[\yJailBreak\r] \yУстановить 100HP
+JBU_ELITE_HELATH100_ADMIN_1 = \y1 \r~ \wОдному Игроку
+JBU_ELITE_HELATH100_ADMIN_2 = \y2 \r~ \wВсем заключенным
+JBU_ELITE_HELATH100_ADMIN_3 = \y3 \r~ \wВсем охранникам
+JBU_ELITE_HELATH100_ADMIN_4 = \y4 \r~ \wВсем игрокам
+JBU_ELITE_HELATH100_ADMIN_EXIT = \y0 \r~ \wВыход
+
+JBU_ELITE_ADMIN_HELATH100_PLAYER = !g[!yJailBreak!g] !tЛорд !g%s !yвосстановил HP !t%s
+JBU_ELITE_ADMIN_HELATH100_T = !g[!yJailBreak!g] !tЛорд !g%s !yвосстановил HP всем !tзаключенным
+JBU_ELITE_ADMIN_HELATH100_CT = !g[!yJailBreak!g] !tЛорд !g%s !yвосстановил HP всем !tохранникам
+JBU_ELITE_ADMIN_HELATH100_ALL = !g[!yJailBreak!g] !tЛорд !g%s !yвосстановил HP всем !tигрокам
+
+JBU_ELITE_SPAWN_ADMIN_NAME = \r[\yJailBreak\r] \yМеню Лорда
+JBU_ELITE_OFF_ADMIN_1 = \y1 \r~ \wВосстановить гравитацию
+JBU_ELITE_OFF_ADMIN_2 = \y2 \r~ \wВосстановить скорость
+JBU_ELITE_OFF_ADMIN_3 = \y3 \r~ \wЗабрать NoClip
+JBU_ELITE_OFF_ADMIN_4 = \y4 \r~ \wСделать смертным^n
+JBU_ELITE_OFF_ADMIN_5 = \y5 \r~ \wЗабрать оружие
+JBU_ELITE_OFF_ADMIN_EXIT = \y0 \r~ \wВыход
+
+JBU_ELITE_GRAVITY_OFF_ADMIN_NAME = \r[\yJailBreak\r] \yВосстановить гравитацию
+JBU_ELITE_GRAVITY_OFF_ADMIN_1 = \y1 \r~ \wОдному Игроку
+JBU_ELITE_GRAVITY_OFF_ADMIN_2 = \y2 \r~ \wВсем заключенным
+JBU_ELITE_GRAVITY_OFF_ADMIN_3 = \y3 \r~ \wВсем охранникам
+JBU_ELITE_GRAVITY_OFF_ADMIN_4 = \y4 \r~ \wВсем игрокам
+JBU_ELITE_GRAVITY_OFF_ADMIN_EXIT = \y0 \r~ \wВыход
+
+JBU_ELITE_ADMIN_GRAVITY_OFF_PLAYER = !g[!yJailBreak!g] !tЛорд !g%s !yвосстановил гравитацию !t%s
+JBU_ELITE_ADMIN_GRAVITY_OFF_T = !g[!yJailBreak!g] !tЛорд !g%s !yвосстановил гравитацию всем !tзаключенным
+JBU_ELITE_ADMIN_GRAVITY_OFF_CT = !g[!yJailBreak!g] !tЛорд !g%s !yвосстановил гравитацию всем !tохранникам
+JBU_ELITE_ADMIN_GRAVITY_OFF_ALL = !g[!yJailBreak!g] !tЛорд !g%s !yвосстановил гравитацию всем !tигрокам
+
+JBU_ELITE_SPEED_OFF_ADMIN_NAME = \r[\yJailBreak\r] \yВосстановить скорость
+JBU_ELITE_SPEED_OFF_ADMIN_1 = \y1 \r~ \wОдному Игроку
+JBU_ELITE_SPEED_OFF_ADMIN_2 = \y2 \r~ \wВсем заключенным
+JBU_ELITE_SPEED_OFF_ADMIN_3 = \y3 \r~ \wВсем охранникам
+JBU_ELITE_SPEED_OFF_ADMIN_4 = \y4 \r~ \wВсем игрокам
+JBU_ELITE_SPEED_OFF_ADMIN_EXIT = \y0 \r~ \wВыход
+
+JBU_ELITE_ADMIN_SPEED_OFF_PLAYER = !g[!yJailBreak!g] !tЛорд !g%s !yвосстановил скорость !t%s
+JBU_ELITE_ADMIN_SPEED_OFF_T = !g[!yJailBreak!g] !tЛорд !g%s !yвосстановил скорость всем !tзаключенным
+JBU_ELITE_ADMIN_SPEED_OFF_CT = !g[!yJailBreak!g] !tЛорд !g%s !yвосстановил скорость всем !tохранникам
+JBU_ELITE_ADMIN_SPEED_OFF_ALL = !g[!yJailBreak!g] !tЛорд !g%s !yвосстановил скорость всем !tигрокам
+
+JBU_ELITE_NOCLIP_OFF_ADMIN_NAME = \r[\yJailBreak\r] \yЗабрать NoClip
+JBU_ELITE_NOCLIP_OFF_ADMIN_1 = \y1 \r~ \wУ одного игрока
+JBU_ELITE_NOCLIP_OFF_ADMIN_2 = \y2 \r~ \wУ всех заключенных
+JBU_ELITE_NOCLIP_OFF_ADMIN_3 = \y3 \r~ \wУ всех охранников
+JBU_ELITE_NOCLIP_OFF_ADMIN_4 = \y4 \r~ \wУ всех игроков
+JBU_ELITE_NOCLIP_OFF_ADMIN_EXIT = \y0 \r~ \wВыход
+
+JBU_ELITE_ADMIN_NOCLIP_OFF_PLAYER = !g[!yJailBreak!g] !tЛорд !g%s !yзабрал NoClip у !t%s
+JBU_ELITE_ADMIN_NOCLIP_OFF_T = !g[!yJailBreak!g] !tЛорд !g%s !yзабрал NoClip у всех !tзаключенных
+JBU_ELITE_ADMIN_NOCLIP_OFF_CT = !g[!yJailBreak!g] !tЛорд !g%s !yзабрал NoClip у всех !tохранников
+JBU_ELITE_ADMIN_NOCLIP_OFF_ALL = !g[!yJailBreak!g] !tЛорд !g%s !yзабрал NoClip у всех !tигроков
+
+JBU_ELITE_GODMODE_OFF_ADMIN_NAME = \r[\yJailBreak\r] \yЗабрать бессмертие
+JBU_ELITE_GODMODE_OFF_ADMIN_1 = \y1 \r~ \wУ одного игрока
+JBU_ELITE_GODMODE_OFF_ADMIN_2 = \y2 \r~ \wУ всех заключенных
+JBU_ELITE_GODMODE_OFF_ADMIN_3 = \y3 \r~ \wУ всех охранников
+JBU_ELITE_GODMODE_OFF_ADMIN_4 = \y4 \r~ \wУ всех игроков
+JBU_ELITE_GODMODE_OFF_ADMIN_EXIT = \y0 \r~ \wВыход
+
+JBU_ELITE_ADMIN_GODMODE_OFF_PLAYER = !g[!yJailBreak!g] !tЛорд !g%s !yзабрал бессмертие у !t%s
+JBU_ELITE_ADMIN_GODMODE_OFF_T = !g[!yJailBreak!g] !tЛорд !g%s !yзабрал бессмертие у всех !tзаключенных
+JBU_ELITE_ADMIN_GODMODE_OFF_CT = !g[!yJailBreak!g] !tЛорд !g%s !yзабрал бессмертие у всех !tохранников
+JBU_ELITE_ADMIN_GODMODE_OFF_ALL = !g[!yJailBreak!g] !tЛорд !g%s !yзабрал бессмертие у всех !tигроков
+
+[ru]
+JBU_ELITE_ADMIN_NAME = \r[\yJailBreak\r] \wМеню \r[\yЛорда\r]:
+JBU_ELITE_ADMIN_1 = \y1 \r~ \y[\wВозродить игрока\y]
+JBU_ELITE_ADMIN_2 = \y2 \r~ \y[\wВыдать гравитацию\y]
+JBU_ELITE_ADMIN_3 = \y3 \r~ \y[\wВыдать скорость\y]
+JBU_ELITE_ADMIN_4 = \y4 \r~ \y[\wВыдать NoClip\y]
+JBU_ELITE_ADMIN_5 = \y5 \r~ \y[\wВыдать бессмертие\y]
+JBU_ELITE_ADMIN_6 = \y6 \r~ \w[\yУстановить 250 хп\w]
+JBU_ELITE_ADMIN_7 = \y7 \r~ \w[\yУстановить 100 хп\w]
+JBU_ELITE_ADMIN_8 = \y8 \r~ \w[\rМеню отбирания\w]
+JBU_ELITE_ADMIN_9 = \y9 \r~ \w[\yЦвет \rГРАБА\w]
+JBU_ELITE_ADMIN_EXIT = \y0 \r~ \wВыход
+
+JBU_ELITE_ADMIN_NO_FLAG = !g[!yJailBreak!g] !yВы не можете зайти в меню !tЛорда!y.
+JBU_ELITE_SPAWN_ADMIN_NAME = \yВозрождение игроков
+JBU_ELITE_SPAWN_ADMIN_1 = \y1 \r~ \wВозродить игрока
+JBU_ELITE_SPAWN_ADMIN_2 = \y2 \r~ \wВозродить заключенных
+JBU_ELITE_SPAWN_ADMIN_3 = \y3 \r~ \wВозродить охранников
+JBU_ELITE_SPAWN_ADMIN_4 = \y4 \r~ \wВозродить всех
+JBU_ELITE_SPAWN_ADMIN_EXIT = \y0 \r~ \wВыход
+
+JBU_ELITE_ADMIN_SPAWN_PLAYER = !g[!yJailBreak!g] !tЛорд !g%s !yвозродил !t%s
+JBU_ELITE_ADMIN_SPAWN_T = !g[!yJailBreak!g] !tЛорд !g%s !yвозродил всех !tзаключенных
+JBU_ELITE_ADMIN_SPAWN_CT = !g[!yJailBreak!g] !tЛорд !g%s !yвозродил всех !tохранников
+JBU_ELITE_ADMIN_SPAWN_ALL = !g[!yJailBreak!g] !tЛорд !g%s !yвозродил всех !tигроков
+
+JBU_ELITE_GRAVITY_ADMIN_NAME = \r[\yJailBreak\r] \yВыдать гравитацию
+JBU_ELITE_GRAVITY_ADMIN_1 = \y1 \r~ \wОдному Игроку
+JBU_ELITE_GRAVITY_ADMIN_2 = \y2 \r~ \wВсем заключенным
+JBU_ELITE_GRAVITY_ADMIN_3 = \y3 \r~ \wВсем охранникам
+JBU_ELITE_GRAVITY_ADMIN_4 = \y4 \r~ \wВсем игрокам
+JBU_ELITE_GRAVITY_ADMIN_EXIT = \y0 \r~ \wВыход
+
+JBU_ELITE_ADMIN_GRAVITY_PLAYER = !g[!yJailBreak!g] !tЛорд !g%s !yпонизил гравитацию !t%s
+JBU_ELITE_ADMIN_GRAVITY_T = !g[!yJailBreak!g] !tЛорд !g%s !yпонизил гравитацию всем !tзаключенным
+JBU_ELITE_ADMIN_GRAVITY_CT = !g[!yJailBreak!g] !tЛорд !g%s !yпонизил гравитацию всем !tохранникам
+JBU_ELITE_ADMIN_GRAVITY_ALL = !g[!yJailBreak!g] !tЛорд !g%s !yпонизил гравитацию всем !tигрокам
+
+JBU_ELITE_SPEED_ADMIN_NAME = \r[\yJailBreak\r] \yВыдать скорость
+JBU_ELITE_SPEED_ADMIN_1 = \y1 \r~ \wОдному Игроку
+JBU_ELITE_SPEED_ADMIN_2 = \y2 \r~ \wВсем заключенным
+JBU_ELITE_SPEED_ADMIN_3 = \y3 \r~ \wВсем охранникам
+JBU_ELITE_SPEED_ADMIN_4 = \y4 \r~ \wВсем игрокам
+JBU_ELITE_SPEED_ADMIN_EXIT = \y0 \r~ \wВыход
+
+JBU_ELITE_ADMIN_SPEED_PLAYER = !g[!yJailBreak!g] !tЛорд !g%s !yповысил скорость !t%s
+JBU_ELITE_ADMIN_SPEED_T = !g[!yJailBreak!g] !tЛорд !g%s !yповысил скорость всем !tзаключенным
+JBU_ELITE_ADMIN_SPEED_CT = !g[!yJailBreak!g] !tЛорд !g%s !yповысил скорость всем !tохранникам
+JBU_ELITE_ADMIN_SPEED_ALL = !g[!yJailBreak!g] !tЛорд !g%s !yповысил скорость всем !tигрокам
+
+JBU_ELITE_NOCLIP_ADMIN_NAME = \r[\yJailBreak\r] \yВыдать NoClip
+JBU_ELITE_NOCLIP_ADMIN_1 = \y1 \r~ \wОдному Игроку
+JBU_ELITE_NOCLIP_ADMIN_2 = \y2 \r~ \wВсем заключенным
+JBU_ELITE_NOCLIP_ADMIN_3 = \y3 \r~ \wВсем охранникам
+JBU_ELITE_NOCLIP_ADMIN_4 = \y4 \r~ \wВсем игрокам
+JBU_ELITE_NOCLIP_ADMIN_EXIT = \y0 \r~ \wВыход
+
+JBU_ELITE_ADMIN_NOCLIP_PLAYER = !g[!yJailBreak!g] !tЛорд !g%s !yвыдал NoClip !t%s
+JBU_ELITE_ADMIN_NOCLIP_T = !g[!yJailBreak!g] !tЛорд !g%s !yвыдал NoClip всем !tзаключенным
+JBU_ELITE_ADMIN_NOCLIP_CT = !g[!yJailBreak!g] !tЛорд !g%s !yвыдал NoClip всем !tохранникам
+JBU_ELITE_ADMIN_NOCLIP_ALL = !g[!yJailBreak!g] !tЛорд !g%s !yвыдал NoClip всем !tигрокам
+
+JBU_ELITE_GODMODE_ADMIN_NAME = \r[\yJailBreak\r] \yВыдать бессмертие
+JBU_ELITE_GODMODE_ADMIN_1 = \y1 \r~ \wОдному Игроку
+JBU_ELITE_GODMODE_ADMIN_2 = \y2 \r~ \wВсем заключенным
+JBU_ELITE_GODMODE_ADMIN_3 = \y3 \r~ \wВсем охранникам
+JBU_ELITE_GODMODE_ADMIN_4 = \y4 \r~ \wВсем игрокам
+JBU_ELITE_GODMODE_ADMIN_EXIT = \y0 \r~ \wВыход
+
+JBU_ELITE_ADMIN_GODMODE_PLAYER = !g[!yJailBreak!g] !tЛорд !g%s !yсделал бессмертным !t%s
+JBU_ELITE_ADMIN_GODMODE_T = !g[!yJailBreak!g] !tЛорд !g%s !yсделал бессмертными всех !tзаключенных
+JBU_ELITE_ADMIN_GODMODE_CT = !g[!yJailBreak!g] !tЛорд !g%s !yсделал бессмертными всех !tохранников
+JBU_ELITE_ADMIN_GODMODE_ALL = !g[!yJailBreak!g] !tЛорд !g%s !yсделал бессмертными всех !tигроков
+
+JBU_ELITE_HEALTH_ADMIN_NAME = \r[\yJailBreak\r] \yУстановить 250HP
+JBU_ELITE_HEALTH_ADMIN_1 = \y1 \r~ \wОдному Игроку
+JBU_ELITE_HEALTH_ADMIN_2 = \y2 \r~ \wВсем заключенным
+JBU_ELITE_HEALTH_ADMIN_3 = \y3 \r~ \wВсем охранникам
+JBU_ELITE_HEALTH_ADMIN_4 = \y4 \r~ \wВсем игрокам
+JBU_ELITE_HEALTH_ADMIN_EXIT = \y0 \r~ \wВыход
+
+JBU_ELITE_ADMIN_HEALTH_PLAYER = !g[!yJailBreak!g] !tЛорд !g%s !yустановил 250HP !t%s
+JBU_ELITE_ADMIN_HEALTH_T = !g[!yJailBreak!g] !tЛорд !g%s !yустановил 250HP всем !tзаключенным
+JBU_ELITE_ADMIN_HEALTH_CT = !g[!yJailBreak!g] !tЛорд !g%s !yустановил 250HP всем !tохранникам
+JBU_ELITE_ADMIN_HEALTH_ALL = !g[!yJailBreak!g] !tЛорд !g%s !yвыдал 250HP всем !tигрокам
+
+JBU_ELITE_HELATH100_ADMIN_NAME = \r[\yJailBreak\r] \yУстановить 100HP
+JBU_ELITE_HELATH100_ADMIN_1 = \y1 \r~ \wОдному Игроку
+JBU_ELITE_HELATH100_ADMIN_2 = \y2 \r~ \wВсем заключенным
+JBU_ELITE_HELATH100_ADMIN_3 = \y3 \r~ \wВсем охранникам
+JBU_ELITE_HELATH100_ADMIN_4 = \y4 \r~ \wВсем игрокам
+JBU_ELITE_HELATH100_ADMIN_EXIT = \y0 \r~ \wВыход
+
+JBU_ELITE_ADMIN_HELATH100_PLAYER = !g[!yJailBreak!g] !tЛорд !g%s !yвосстановил HP !t%s
+JBU_ELITE_ADMIN_HELATH100_T = !g[!yJailBreak!g] !tЛорд !g%s !yвосстановил HP всем !tзаключенным
+JBU_ELITE_ADMIN_HELATH100_CT = !g[!yJailBreak!g] !tЛорд !g%s !yвосстановил HP всем !tохранникам
+JBU_ELITE_ADMIN_HELATH100_ALL = !g[!yJailBreak!g] !tЛорд !g%s !yвосстановил HP всем !tигрокам
+
+JBU_ELITE_SPAWN_ADMIN_NAME = \r[\yJailBreak\r] \yМеню Лорда
+JBU_ELITE_OFF_ADMIN_1 = \y1 \r~ \wВосстановить гравитацию
+JBU_ELITE_OFF_ADMIN_2 = \y2 \r~ \wВосстановить скорость
+JBU_ELITE_OFF_ADMIN_3 = \y3 \r~ \wЗабрать NoClip
+JBU_ELITE_OFF_ADMIN_4 = \y4 \r~ \wСделать смертным^n
+JBU_ELITE_OFF_ADMIN_5 = \y5 \r~ \wЗабрать оружие
+JBU_ELITE_OFF_ADMIN_EXIT = \y0 \r~ \wВыход
+
+JBU_ELITE_GRAVITY_OFF_ADMIN_NAME = \r[\yJailBreak\r] \yВосстановить гравитацию
+JBU_ELITE_GRAVITY_OFF_ADMIN_1 = \y1 \r~ \wОдному Игроку
+JBU_ELITE_GRAVITY_OFF_ADMIN_2 = \y2 \r~ \wВсем заключенным
+JBU_ELITE_GRAVITY_OFF_ADMIN_3 = \y3 \r~ \wВсем охранникам
+JBU_ELITE_GRAVITY_OFF_ADMIN_4 = \y4 \r~ \wВсем игрокам
+JBU_ELITE_GRAVITY_OFF_ADMIN_EXIT = \y0 \r~ \wВыход
+
+JBU_ELITE_ADMIN_GRAVITY_OFF_PLAYER = !g[!yJailBreak!g] !tЛорд !g%s !yвосстановил гравитацию !t%s
+JBU_ELITE_ADMIN_GRAVITY_OFF_T = !g[!yJailBreak!g] !tЛорд !g%s !yвосстановил гравитацию всем !tзаключенным
+JBU_ELITE_ADMIN_GRAVITY_OFF_CT = !g[!yJailBreak!g] !tЛорд !g%s !yвосстановил гравитацию всем !tохранникам
+JBU_ELITE_ADMIN_GRAVITY_OFF_ALL = !g[!yJailBreak!g] !tЛорд !g%s !yвосстановил гравитацию всем !tигрокам
+
+JBU_ELITE_SPEED_OFF_ADMIN_NAME = \r[\yJailBreak\r] \yВосстановить скорость
+JBU_ELITE_SPEED_OFF_ADMIN_1 = \y1 \r~ \wОдному Игроку
+JBU_ELITE_SPEED_OFF_ADMIN_2 = \y2 \r~ \wВсем заключенным
+JBU_ELITE_SPEED_OFF_ADMIN_3 = \y3 \r~ \wВсем охранникам
+JBU_ELITE_SPEED_OFF_ADMIN_4 = \y4 \r~ \wВсем игрокам
+JBU_ELITE_SPEED_OFF_ADMIN_EXIT = \y0 \r~ \wВыход
+
+JBU_ELITE_ADMIN_SPEED_OFF_PLAYER = !g[!yJailBreak!g] !tЛорд !g%s !yвосстановил скорость !t%s
+JBU_ELITE_ADMIN_SPEED_OFF_T = !g[!yJailBreak!g] !tЛорд !g%s !yвосстановил скорость всем !tзаключенным
+JBU_ELITE_ADMIN_SPEED_OFF_CT = !g[!yJailBreak!g] !tЛорд !g%s !yвосстановил скорость всем !tохранникам
+JBU_ELITE_ADMIN_SPEED_OFF_ALL = !g[!yJailBreak!g] !tЛорд !g%s !yвосстановил скорость всем !tигрокам
+
+JBU_ELITE_NOCLIP_OFF_ADMIN_NAME = \r[\yJailBreak\r] \yЗабрать NoClip
+JBU_ELITE_NOCLIP_OFF_ADMIN_1 = \y1 \r~ \wУ одного игрока
+JBU_ELITE_NOCLIP_OFF_ADMIN_2 = \y2 \r~ \wУ всех заключенных
+JBU_ELITE_NOCLIP_OFF_ADMIN_3 = \y3 \r~ \wУ всех охранников
+JBU_ELITE_NOCLIP_OFF_ADMIN_4 = \y4 \r~ \wУ всех игроков
+JBU_ELITE_NOCLIP_OFF_ADMIN_EXIT = \y0 \r~ \wВыход
+
+JBU_ELITE_ADMIN_NOCLIP_OFF_PLAYER = !g[!yJailBreak!g] !tЛорд !g%s !yзабрал NoClip у !t%s
+JBU_ELITE_ADMIN_NOCLIP_OFF_T = !g[!yJailBreak!g] !tЛорд !g%s !yзабрал NoClip у всех !tзаключенных
+JBU_ELITE_ADMIN_NOCLIP_OFF_CT = !g[!yJailBreak!g] !tЛорд !g%s !yзабрал NoClip у всех !tохранников
+JBU_ELITE_ADMIN_NOCLIP_OFF_ALL = !g[!yJailBreak!g] !tЛорд !g%s !yзабрал NoClip у всех !tигроков
+
+JBU_ELITE_GODMODE_OFF_ADMIN_NAME = \r[\yJailBreak\r] \yЗабрать бессмертие
+JBU_ELITE_GODMODE_OFF_ADMIN_1 = \y1 \r~ \wУ одного игрока
+JBU_ELITE_GODMODE_OFF_ADMIN_2 = \y2 \r~ \wУ всех заключенных
+JBU_ELITE_GODMODE_OFF_ADMIN_3 = \y3 \r~ \wУ всех охранников
+JBU_ELITE_GODMODE_OFF_ADMIN_4 = \y4 \r~ \wУ всех игроков
+JBU_ELITE_GODMODE_OFF_ADMIN_EXIT = \y0 \r~ \wВыход
+
+JBU_ELITE_ADMIN_GODMODE_OFF_PLAYER = !g[!yJailBreak!g] !tЛорд !g%s !yзабрал бессмертие у !t%s
+JBU_ELITE_ADMIN_GODMODE_OFF_T = !g[!yJailBreak!g] !tЛорд !g%s !yзабрал бессмертие у всех !tзаключенных
+JBU_ELITE_ADMIN_GODMODE_OFF_CT = !g[!yJailBreak!g] !tЛорд !g%s !yзабрал бессмертие у всех !tохранников
+JBU_ELITE_ADMIN_GODMODE_OFF_ALL = !g[!yJailBreak!g] !tЛорд !g%s !yзабрал бессмертие у всех !tигроков

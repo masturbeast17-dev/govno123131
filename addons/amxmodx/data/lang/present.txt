@@ -1,0 +1,37 @@
+﻿[en]
+PRESENTMENU_TITLE = Управление подарками^nУставлено подарков: \r%d
+
+PRESENTMENU_ITEM_1 = Создать подарок
+PRESENTMENU_ITEM_2 = Удалить подарок
+PRESENTMENU_ITEM_3 = Удалить все подарки
+PRESENTMENU_ITEM_4 = Сохранить подарки
+
+PRESENT_CREATED = !y[!gПодарок!y] !tПодарок !gсоздан!
+PRESENT_DELETED = !y[!gПодарок!y] !tПодарок !gудален!
+PRESENT_DELETED_ALL = !y[!gПодарок!y] !tПодарки !gудалены!
+PRESENT_SAVE = !y[!gПодарок!y] !tПодарки !gсохранены!
+
+PRESENT_HEALTH = !y[!gПодарок!y] !tВы получили !y[ !g%d HP !y]
+PRESENT_ARMOR = !y[!gПодарок!y] !tВы получили !y[ !g%d Брони !y]
+PRESENT_SPEED = !y[!gПодарок!y] !tВы получили !y[ !gСкорость !y]
+PRESENT_GRAVITY = !y[!gПодарок!y] !tВы получили !y[ !gГравитацию !y]
+PRESENT_MONEY = !y[!gПодарок!y] !tВы получили !y[ !g%d Денег !y]
+
+[ru]
+PRESENTMENU_TITLE = Управление подарками^nУставлено подарков: \r%d
+
+PRESENTMENU_ITEM_1 = Создать подарок
+PRESENTMENU_ITEM_2 = Удалить подарок
+PRESENTMENU_ITEM_3 = Удалить все подарки
+PRESENTMENU_ITEM_4 = Сохранить подарки
+
+PRESENT_CREATED = !y[!gПодарок!y] !tПодарок !gсоздан!
+PRESENT_DELETED = !y[!gПодарок!y] !tПодарок !gудален!
+PRESENT_DELETED_ALL = !y[!gПодарок!y] !tПодарки !gудалены!
+PRESENT_SAVE = !y[!gПодарок!y] !tПодарки !gсохранены!
+
+PRESENT_HEALTH = !y[!gПодарок!y] !tВы получили !y[ !g%d HP !y]
+PRESENT_ARMOR = !y[!gПодарок!y] !tВы получили !y[ !g%d Брони !y]
+PRESENT_SPEED = !y[!gПодарок!y] !tВы получили !y[ !gСкорость !y]
+PRESENT_GRAVITY = !y[!gПодарок!y] !tВы получили !y[ !gГравитацию !y]
+PRESENT_MONEY = !y[!gПодарок!y] !tВы получили !y[ !g%d Денег !y]

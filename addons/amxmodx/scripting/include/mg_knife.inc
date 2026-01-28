@@ -1,7 +1,0 @@
-native get_my_info(id)
-native mg_set_user_npc(id)
-native mg_set_user_kill(id)
-native set_monet(id, monets)
-native show_monet(id)
-native mg_set_user_hook(id)
-native mg_get_user_hook(id)

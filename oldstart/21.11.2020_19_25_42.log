@@ -1,0 +1,1572 @@
+Выполнена очистка консоли, слишком большой объем данных
+
+Currently loaded plugins:
+       name                    version     author            file             status   
+ [  1] Admin Loader            3.4         neygomon          admin_loader_fo  running  
+ [  2] FreshBans               1.4.3b      kanagava          fresh_bans_143_  running  
+ [  3] fb_forwards             0.1.4       Kanagava & Realu  fb_forwards.amx  running  
+ [  4] CSStatsX SQL            0.7.4       serfreeman1337    csstatsx_sql.am  running  
+ [  5] AMXX Gag                1.4         minibum           amx_gag.amxx     running  
+ [  6] CS Stats Logging        1.9.0.5241  AMXX Dev Team     stats_logging.a  running  
+ [  7] Admin Commands          1.9.0.5235  AMXX Dev Team     admincmd.amxx    running  
+ [  8] Admin_Log_IP            1.0         minion            admin_log_ip.am  running  
+ [  9] Контроль Ад�  0.1         minibam           check_admins.am  running  
+ [ 10] Anti Reklama            3.0b        minibam           antireklama.amx  running  
+ [ 11] Commands Menu           1.9.0.5241  AMXX Dev Team     cmdmenu.amxx     running  
+ [ 12] Info. Messages          1.9.0.5241  AMXX Dev Team     imessage.amxx    running  
+ [ 13] Players Menu            1.8.2       AMXX Dev Team     plmenu.amxx      running  
+ [ 14] Plugin Menu             1.9.0.5241  AMXX Dev Team     pluginmenu.amxx  running  
+ [ 15] Scrolling Message       1.9.0.5241  AMXX Dev Team     scrollmsg.amxx   running  
+ [ 16] Admin Votes             1.9.0.5241  AMXX Dev Team     adminvote.amxx   running  
+ [ 17] Stats Configuration     1.9.0.5241  AMXX Dev Team     statscfg.amxx    running  
+ [ 18] Advanced MapChooser     1.4.1       minibam           map_chooser_14.  running  
+ [ 19] Autoresponder/Advertis  0.5         MaximusBrood      reklama_in_chat  running  
+ [ 20] Custom Flashlight       0.4.0       ConnorMcLeod      custom_flashlig  running  
+ [ 21] cs-rp16.ru              1.0         minion            sam.amxx         running  
+ [ 22] Night VIP               0.1         F@nt0M            night_vip.amxx   running  
+ [ 23] AdminMenu               0.1         HoCok             super_menu.amxx  running  
+ [ 24] BanIP Fakes             0.2         Safety1st         banip_fakes.amx  running  
+ [ 25] Anim_EnadRound          1.0         ShaTalKiN         anim_endround.a  running  
+ [ 26] Give Weapon             1.0         OverGame          global_weapon.a  running  
+ [ 27] Christmas Tree Spawn    0.0.1b      wopox1337         christmas_tree_  running  
+ [ 28] Maps Menu               1.9.0.5241  AMXX Dev Team     mapsmenu.amxx    running  
+ [ 29] Proxy Detetor           1.0         _xvi              proxy_detetor.a  running  
+ [ 30] [HR] MapStart Random G  0.2         Hellr0ck          hr_mapstart_ran  running  
+ [ 31] Counter-advertising ni  Free        minibam           counter_adverti  running  
+ [ 32] Anti Fast Strafe        10.1        Proffi+Seroff     anti_fast_straf  running  
+ [ 33] Admin Chat              1.8.1.3746  AMXX Dev Team     adminchat_big_h  running  
+ [ 34] No Software Mode        0.1         panicaskill       no_software_mod  running  
+ [ 35] Anti Flood              1.9.0.5235  AMXX Dev Team     antiflood.amxx   running  
+ [ 36] Anti net_graph 2        1.0         Seroff            anti_net_graph_  running  
+ [ 37] ReAimDetector API       0.2.2       ReHLDS Team       reaimdetector.a  running  
+ [ 38] Game Namer              Version 1.  NeuroToxin        gamenamechanger  running  
+ [ 39] UnPrecacher             minibam -   Proo.Noob         limit_off.amxx   running  
+ [ 40] [JBE] Строител  1.1         minibam           jbe_building.am  running  
+ [ 41] Меню Диджея   1.1         minibam           menu_didjeya.am  running  
+ [ 42] HookManager             3.1         minibum           UltraHook.amxx   running  
+ [ 43] Normal Mode Kriss SV R  2.0         Asep, Credits :   normal-mode_kri  debug    
+ [ 44] [CSO] M4A1 Dark Knight  1.1         minibum           cso_buffm4_fix_  running  
+ [ 45] [CSO] AK47 PALADIN ||   1.0 || CLO  AsepKhairulAnam@  cso_buffak_fix_  running  
+ [ 46] Brick Peace V2          1.0         minibam           jbe_brickpeacev  running  
+ [ 47] [JBE] Grab + Menu       5.3         minibum           jbe_grab.amxx    debug    
+ [ 48] Paint                   1.0         minion            paint.amxx       running  
+ [ 49] Nade fixer              0.1         Mati              flyhighfix.amxx  debug    
+ [ 50] [JB] Weapon: AK-47 Kni  1.0         Crock / =)        jb_akknife.amxx  debug    
+ [ 51] jail_blue map enhancer  1.0         *CareFully*       jail_blue_enhan  running  
+ [ 52] Fix bug (say / say_tea  1.0         Ghost95V & popey  saycharfix.amxx  running  
+ [ 53] [Jail] Jail Core        4.2         minibam           jbe_core_mode.a  debug    
+ [ 54] Menu emotions           1.0         KEK+Seroff        emot.amxx        running  
+ [ 55] PLUGIN                  VERSION     AUTHOR            cam.amxx         running  
+ [ 56] [JBE] Лорд          1.0         minibum           jbe_elite_admin  debug    
+ [ 57] legenda                 1.0         minibum           jbe_legenda.amx  running  
+ [ 58] [JBE_DM] Birth Day      1.1         Freedo.m          jbe_dm_birthday  debug    
+ [ 59] [JBE] DOGONYLKI         1.1         BATYP             jbe_dm_dogon9lk  debug    
+ [ 60] [JBE_DM] Sniper         1.0         Freedo.m          jbe_dm_Day_no4.  debug    
+ [ 61] [JBE_DM] Hide And Seek  1.1         Freedo.m          jbe_dm_hideands  debug    
+ [ 62] ***[D-JAIL]~[J-GALAXY]  1.0         Notepad++         jbe_galaxy.amxx  debug    
+ [ 63] [JBE_DM] DRUG NAHUI SU  0.1         kR1m1naL | VK.CO  jbe_dm_drug.amx  debug    
+ [ 64] [JBE_DM] Shtyrm         1.0         Freedo.m          jbe_dm_shtyrm.a  debug    
+ [ 65] [JBE_DM] Starwars       1.1         DARLOK            jbe_dm_starwars  debug    
+ [ 66] [JBE_DM] Magic          1.0         Halyavshik        jbe_dm_magic.am  debug    
+ [ 67] [JBE_DM] snipers        1.1         mdNss             jbe_dm_snipers.  debug    
+ [ 68] [JBE_DM] jetpack        1.1         mdNss             jbe_dm_jetpack.  debug    
+ [ 69] New Jetpack             0.0.2       Bad_Bud,ZmOutSta  zp_item_jetpack  debug    
+ [ 70] [JBE_DM] snipers        1.1         mdNss             jbe_dm_1hp.amxx  debug    
+ [ 71] Zombie                  1.0         Madness           jbe_dm_zombie.a  running  
+ [ 72] [ZP] Extra: M134 EX     1.0         LARS-DAY[BR]EAKE  jbe_weapon_m134  debug    
+ [ 73] Colored Translit        3.0         Sho0ter           colored_transli  running  
+ [ 74] Colored Translit Confi  3.0         Sho0ter           colored_transli  running  
+ [ 75] Parachute               1.0         maeStro           parachute.amxx   debug    
+ [ 76] [JBE] dop               1.0         minibum           jbe_dopmenu.amx  running  
+ [ 77] [JBE] Chief Step        1.0         Geneor            jbe_chiefstep.a  debug    
+ [ 78] SpecList                1.3         minibum           speclist.amxx    running  
+ [ 79] [JBE] smotr             1.0         minibum           jbe_smotr_dop.a  running  
+ [ 80] SC Ban                  1.0 Beta    malniata          sc_ban.amxx      running  
+ [ 81] JBE SPLEAF + CREATE BL  1.0         cut by thezoloto  stroit.amxx      running  
+ [ 82] AMX Blind               1           snoopy            amx_blind.amxx   running  
+ [ 83] unknown                 unknown     unknown           covid_mode.amxx  error    
+( 83) Error: [ReAPI]: Api minor version mismatch; expected at least 16, real 8
+83 plugins, 82 running
+L 11/21/2020 - 23:40:19: "BoBuK<260><STEAM_1:0:464555138><CT>" attacked "minibam<259><STEAM_0:1:189314915><TERRORIST>" with "ak47" (damage "140") (damage_armor "0") (health "-40") (armor "0")
+L 11/21/2020 - 23:40:19: "BoBuK<260><STEAM_1:0:464555138><CT>" killed "minibam<259><STEAM_0:1:189314915><TERRORIST>" with "ak47"
+L 11/21/2020 - 23:40:23: "minibam<259><STEAM_0:1:189314915><TERRORIST>" joined team "SPECTATOR"
+L 11/21/2020 - 23:40:36: Function is not present (function "jbe_duel_timer") (plugin "jbe_core_mode.amxx")
+L 11/21/2020 - 23:40:36: [AMXX] Displaying debug trace (plugin "jbe_core_mode.amxx", version "4.2")
+L 11/21/2020 - 23:40:36: [AMXX] Run time error 10: native error (native "set_task")
+L 11/21/2020 - 23:40:36: [AMXX]    [0] jbe_core_mode.sma::jbe_duel_start_ready (line 8672)
+L 11/21/2020 - 23:40:36: [AMXX]    [1] jbe_core_mode.sma::Handle_DuelUsersMenu (line 6604)
+L 11/21/2020 - 23:41:31: "КИБОРГ УБИЦА<261><STEAM_1:0:538817610><TERRORIST>" attacked "BoBuK<260><STEAM_1:0:464555138><CT>" with "awp" (damage "111") (damage_armor "1") (health "-11") (armor "98")
+L 11/21/2020 - 23:41:31: "КИБОРГ УБИЦА<261><STEAM_1:0:538817610><TERRORIST>" killed "BoBuK<260><STEAM_1:0:464555138><CT>" with "awp"
+L 11/21/2020 - 23:41:31: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "1")
+L 11/21/2020 - 23:41:31: World triggered "Round_End"
+L 11/21/2020 - 23:41:36: World triggered "Round_Start"
+L 11/21/2020 - 23:41:50: "тера<262><STEAM_1:0:1419563630><>" connected, address "85.140.3.24:7917"
+L 11/21/2020 - 23:41:58: "КИБОРГ УБИЦА<261><STEAM_1:0:538817610><TERRORIST>" attacked "BoBuK<260><STEAM_1:0:464555138><CT>" with "deagle" (damage "204") (damage_armor "0") (health "296") (armor "350")
+L 11/21/2020 - 23:41:59: "КИБОРГ УБИЦА<261><STEAM_1:0:538817610><TERRORIST>" attacked "BoBuK<260><STEAM_1:0:464555138><CT>" with "deagle" (damage "200") (damage_armor "0") (health "96") (armor "350")
+L 11/21/2020 - 23:42:00: "КИБОРГ УБИЦА<261><STEAM_1:0:538817610><TERRORIST>" attacked "BoBuK<260><STEAM_1:0:464555138><CT>" with "deagle" (damage "36") (damage_armor "6") (health "59") (armor "343")
+L 11/21/2020 - 23:42:01: "КИБОРГ УБИЦА<261><STEAM_1:0:538817610><TERRORIST>" attacked "BoBuK<260><STEAM_1:0:464555138><CT>" with "deagle" (damage "36") (damage_armor "5") (health "23") (armor "337")
+L 11/21/2020 - 23:42:01: "КИБОРГ УБИЦА<261><STEAM_1:0:538817610><TERRORIST>" attacked "BoBuK<260><STEAM_1:0:464555138><CT>" with "deagle" (damage "36") (damage_armor "5") (health "-12") (armor "331")
+L 11/21/2020 - 23:42:01: "КИБОРГ УБИЦА<261><STEAM_1:0:538817610><TERRORIST>" killed "BoBuK<260><STEAM_1:0:464555138><CT>" with "deagle"
+L 11/21/2020 - 23:42:01: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "2")
+L 11/21/2020 - 23:42:01: World triggered "Round_End"
+L 11/21/2020 - 23:42:06: World triggered "Round_Start"
+L 11/21/2020 - 23:43:28: "КИБОРГ УБИЦА<261><STEAM_1:0:538817610><TERRORIST>" attacked "BoBuK<260><STEAM_1:0:464555138><CT>" with "ak47" (damage "27") (damage_armor "3") (health "472") (armor "346")
+L 11/21/2020 - 23:43:28: "КИБОРГ УБИЦА<261><STEAM_1:0:538817610><TERRORIST>" attacked "BoBuK<260><STEAM_1:0:464555138><CT>" with "ak47" (damage "27") (damage_armor "3") (health "445") (armor "342")
+L 11/21/2020 - 23:43:28: "КИБОРГ УБИЦА<261><STEAM_1:0:538817610><TERRORIST>" attacked "BoBuK<260><STEAM_1:0:464555138><CT>" with "ak47" (damage "27") (damage_armor "3") (health "418") (armor "338")
+L 11/21/2020 - 23:43:28: "КИБОРГ УБИЦА<261><STEAM_1:0:538817610><TERRORIST>" attacked "BoBuK<260><STEAM_1:0:464555138><CT>" with "ak47" (damage "27") (damage_armor "3") (health "391") (armor "334")
+L 11/21/2020 - 23:43:29: "КИБОРГ УБИЦА<261><STEAM_1:0:538817610><TERRORIST>" attacked "BoBuK<260><STEAM_1:0:464555138><CT>" with "ak47" (damage "27") (damage_armor "3") (health "364") (armor "330")
+L 11/21/2020 - 23:43:29: "КИБОРГ УБИЦА<261><STEAM_1:0:538817610><TERRORIST>" attacked "BoBuK<260><STEAM_1:0:464555138><CT>" with "ak47" (damage "27") (damage_armor "3") (health "337") (armor "326")
+L 11/21/2020 - 23:43:29: "КИБОРГ УБИЦА<261><STEAM_1:0:538817610><TERRORIST>" attacked "BoBuK<260><STEAM_1:0:464555138><CT>" with "ak47" (damage "27") (damage_armor "3") (health "310") (armor "322")
+L 11/21/2020 - 23:43:33: "КИБОРГ УБИЦА<261><STEAM_1:0:538817610><TERRORIST>" committed suicide with "worldspawn" (world)
+L 11/21/2020 - 23:43:33: Team "CT" triggered "CTs_Win" (CT "1") (T "2")
+L 11/21/2020 - 23:43:33: World triggered "Round_End"
+L 11/21/2020 - 23:43:38: World triggered "Round_Start"
+L 11/21/2020 - 23:44:04: "КИБОРГ УБИЦА<261><STEAM_1:0:538817610><TERRORIST>" triggered "weaponstats" (weapon "awp") (shots "9") (hits "1") (kills "1") (headshots "0") (tks "0") (damage "111") (deaths "0")
+L 11/21/2020 - 23:44:04: "КИБОРГ УБИЦА<261><STEAM_1:0:538817610><TERRORIST>" triggered "weaponstats2" (weapon "awp") (head "0") (chest "0") (stomach "0") (leftarm "1") (rightarm "0") (leftleg "0") (rightleg "0")
+L 11/21/2020 - 23:44:04: "КИБОРГ УБИЦА<261><STEAM_1:0:538817610><TERRORIST>" triggered "weaponstats" (weapon "deagle") (shots "6") (hits "5") (kills "1") (headshots "0") (tks "0") (damage "512") (deaths "0")
+L 11/21/2020 - 23:44:04: "КИБОРГ УБИЦА<261><STEAM_1:0:538817610><TERRORIST>" triggered "weaponstats2" (weapon "deagle") (head "2") (chest "1") (stomach "0") (leftarm "1") (rightarm "1") (leftleg "0") (rightleg "0")
+L 11/21/2020 - 23:44:04: "КИБОРГ УБИЦА<261><STEAM_1:0:538817610><TERRORIST>" triggered "weaponstats" (weapon "ak47") (shots "11") (hits "7") (kills "0") (headshots "0") (tks "0") (damage "189") (deaths "0")
+L 11/21/2020 - 23:44:04: "КИБОРГ УБИЦА<261><STEAM_1:0:538817610><TERRORIST>" triggered "weaponstats2" (weapon "ak47") (head "0") (chest "7") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 11/21/2020 - 23:44:04: "КИБОРГ УБИЦА<261><STEAM_1:0:538817610><TERRORIST>" triggered "weaponstats" (weapon "knife") (shots "8") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 11/21/2020 - 23:44:04: "КИБОРГ УБИЦА<261><STEAM_1:0:538817610><TERRORIST>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 11/21/2020 - 23:44:04: "КИБОРГ УБИЦА<261><STEAM_1:0:538817610><TERRORIST>" triggered "time" (time "4:54")
+L 11/21/2020 - 23:44:04: "КИБОРГ УБИЦА<261><STEAM_1:0:538817610><TERRORIST>" triggered "latency" (ping "28")
+L 11/21/2020 - 23:44:04: "КИБОРГ УБИЦА<261><STEAM_1:0:538817610><TERRORIST>" disconnected
+L 11/21/2020 - 23:44:27: "BoBuK<260><STEAM_1:0:464555138><CT>" committed suicide with "world"
+L 11/21/2020 - 23:44:27: World triggered "Round_Draw" (CT "1") (T "2")
+L 11/21/2020 - 23:44:27: World triggered "Round_End"
+L 11/21/2020 - 23:44:27: "BoBuK<260><STEAM_1:0:464555138><CT>" joined team "TERRORIST"
+L 11/21/2020 - 23:44:32: World triggered "Round_Start"
+L 11/21/2020 - 23:44:59: "BoBuK<260><STEAM_1:0:464555138><TERRORIST>" triggered "weaponstats" (weapon "awp") (shots "9") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "1")
+L 11/21/2020 - 23:44:59: "BoBuK<260><STEAM_1:0:464555138><TERRORIST>" triggered "weaponstats2" (weapon "awp") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 11/21/2020 - 23:44:59: "BoBuK<260><STEAM_1:0:464555138><TERRORIST>" triggered "weaponstats" (weapon "ak47") (shots "16") (hits "1") (kills "1") (headshots "1") (tks "0") (damage "140") (deaths "1")
+L 11/21/2020 - 23:44:59: "BoBuK<260><STEAM_1:0:464555138><TERRORIST>" triggered "weaponstats2" (weapon "ak47") (head "1") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 11/21/2020 - 23:44:59: "BoBuK<260><STEAM_1:0:464555138><TERRORIST>" triggered "weaponstats" (weapon "knife") (shots "2") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 11/21/2020 - 23:44:59: "BoBuK<260><STEAM_1:0:464555138><TERRORIST>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 11/21/2020 - 23:44:59: "BoBuK<260><STEAM_1:0:464555138><TERRORIST>" triggered "time" (time "6:03")
+L 11/21/2020 - 23:44:59: "BoBuK<260><STEAM_1:0:464555138><TERRORIST>" triggered "latency" (ping "33")
+L 11/21/2020 - 23:44:59: "BoBuK<260><STEAM_1:0:464555138><TERRORIST>" disconnected
+L 11/21/2020 - 23:44:59: World triggered "Round_Draw" (CT "1") (T "2")
+L 11/21/2020 - 23:44:59: World triggered "Round_End"
+L 11/21/2020 - 23:45:04: World triggered "Round_Start"
+85.140.3.24:7917:reconnect
+L 11/21/2020 - 23:45:27: "тера<263><STEAM_1:0:1419563630><>" connected, address "85.140.3.24:7917"
+L 11/21/2020 - 23:45:33: "тера<263><STEAM_1:0:1419563630><>" entered the game
+L 11/21/2020 - 23:45:41: "тера<263><STEAM_1:0:1419563630><>" joined team "TERRORIST"
+L 11/21/2020 - 23:45:41: World triggered "Round_Draw" (CT "1") (T "2")
+L 11/21/2020 - 23:45:41: World triggered "Round_End"
+L 11/21/2020 - 23:45:46: World triggered "Round_Start"
+Rcon from 195.88.208.116:33867:
+rcon 1768336768 "7K4YVX3KUfT8vzz7YLee-ZUZUzEXQ5ZjkvBrwzcjx" status
+L 11/21/2020 - 23:46:07: Rcon: "rcon 1768336768 "7K4YVX3KUfT8vzz7YLee-ZUZUzEXQ5ZjkvBrwzcjx" status" from "195.88.208.116:33867"
+L 11/21/2020 - 23:46:10: "minibam<259><STEAM_0:1:189314915><SPECTATOR>" triggered "time" (time "7:14")
+L 11/21/2020 - 23:46:10: "minibam<259><STEAM_0:1:189314915><SPECTATOR>" triggered "latency" (ping "46")
+L 11/21/2020 - 23:46:10: "тера<263><STEAM_1:0:1419563630><TERRORIST>" triggered "weaponstats" (weapon "ak47") (shots "6") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 11/21/2020 - 23:46:10: "тера<263><STEAM_1:0:1419563630><TERRORIST>" triggered "weaponstats2" (weapon "ak47") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 11/21/2020 - 23:46:10: "тера<263><STEAM_1:0:1419563630><TERRORIST>" triggered "time" (time "0:36")
+L 11/21/2020 - 23:46:10: "тера<263><STEAM_1:0:1419563630><TERRORIST>" triggered "latency" (ping "82")
+L 11/21/2020 - 23:46:10: Couldn't write file "cstrike/addons/amxmodx/configs/fb/oldmap_players.txt"
+L 11/21/2020 - 23:46:10: [AMXX] Run time error 10 (plugin "fresh_bans_143_183.amxx") (native "write_file") - debug not enabled!
+L 11/21/2020 - 23:46:10: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/21/2020 - 23:46:10: [META] ini: Begin re-reading plugins list: /servers/cs/1001/cstrike/addons/metamod/plugins.ini
+L 11/21/2020 - 23:46:10: [META] ini: Read plugin config for: AMX Mod X
+L 11/21/2020 - 23:46:10: [META] ini: Read plugin config for: LocalizeBug Fix
+L 11/21/2020 - 23:46:10: [META] ini: Read plugin config for: Reunion
+L 11/21/2020 - 23:46:10: [META] ini: Read plugin config for: WHBlocker
+L 11/21/2020 - 23:46:10: [META] ini: Read plugin config for: Revoice
+L 11/21/2020 - 23:46:10: [META] ini: Read plugin config for: Rechecker
+L 11/21/2020 - 23:46:10: [META] ini: Finished reading plugins list: /servers/cs/1001/cstrike/addons/metamod/plugins.ini; Found 6 plugins
+L 11/21/2020 - 23:46:10: [META] dll: Updating plugins...
+L 11/21/2020 - 23:46:10: [META] dll: Finished updating 16 plugins; kept 6, loaded 0, unloaded 0, reloaded 0, delayed 0
+L 11/21/2020 - 23:46:10: [META] dll: Rebuilding callbacks...
+L 11/21/2020 - 23:46:10: [META] dll: Callbacks rebuilded.
+L 11/21/2020 - 23:46:10: "minibam<259><STEAM_0:1:189314915><SPECTATOR>" disconnected
+L 11/21/2020 - 23:46:10: "тера<263><STEAM_1:0:1419563630><TERRORIST>" disconnected
+L 11/21/2020 - 23:46:10: World triggered "Round_Draw" (CT "1") (T "2")
+L 11/21/2020 - 23:46:10: World triggered "Round_End"
+L 11/21/2020 - 23:46:10: Log file closed
+Server logging data to file logs/L1121054.log
+L 11/21/2020 - 23:46:10: Log file started (file "logs/L1121054.log") (game "cstrike") (version "48/1.1.2.7/Stdio/2369")
+L 11/21/2020 - 23:46:10: Loading map "jail_anka_v1"
+L 11/21/2020 - 23:46:10: Server cvars start
+L 11/21/2020 - 23:46:10: Server cvar "[HR] MapStart Random GameName" = "0.2"
+L 11/21/2020 - 23:46:10: Server cvar "admin_loader_version" = "3.4"
+L 11/21/2020 - 23:46:10: Server cvar "allow_spectators" = "1"
+L 11/21/2020 - 23:46:10: Server cvar "amx_client_languages" = "0"
+L 11/21/2020 - 23:46:10: Server cvar "amx_language" = "ru"
+L 11/21/2020 - 23:46:10: Server cvar "amxmodx_version" = "1.9.0.5271"
+L 11/21/2020 - 23:46:10: Server cvar "antireklama" = "3.0b"
+L 11/21/2020 - 23:46:10: Server cvar "banipfakes_version" = "0.2"
+L 11/21/2020 - 23:46:10: Server cvar "brick_version" = "m4m3ts"
+L 11/21/2020 - 23:46:10: Server cvar "Colored Translit Cheat" = "Loaded"
+L 11/21/2020 - 23:46:10: Server cvar "Colored Translit Config" = "Loaded"
+L 11/21/2020 - 23:46:10: Server cvar "Colored Translit Ignores" = "Loaded"
+L 11/21/2020 - 23:46:10: Server cvar "Colored Translit Replace" = "Loaded"
+L 11/21/2020 - 23:46:10: Server cvar "Colored Translit Spam" = "Loaded"
+L 11/21/2020 - 23:46:10: Server cvar "Colored Translit Status" = "Loaded"
+L 11/21/2020 - 23:46:10: Server cvar "Colored Translit Swear" = "Loaded"
+L 11/21/2020 - 23:46:10: Server cvar "Colored Translit Version" = "2.0b Final"
+L 11/21/2020 - 23:46:10: Server cvar "coop" = "0"
+L 11/21/2020 - 23:46:10: Server cvar "csstatsx_sql" = "0.7.4"
+L 11/21/2020 - 23:46:10: Server cvar "deathmatch" = "1"
+L 11/21/2020 - 23:46:10: Server cvar "decalfrequency" = "30"
+L 11/21/2020 - 23:46:10: Server cvar "edgefriction" = "2"
+L 11/21/2020 - 23:46:10: Server cvar "ff_damage_reduction_bullets" = "0.35"
+L 11/21/2020 - 23:46:10: Server cvar "ff_damage_reduction_grenade" = "0.25"
+L 11/21/2020 - 23:46:10: Server cvar "ff_damage_reduction_grenade_self" = "1"
+L 11/21/2020 - 23:46:10: Server cvar "ff_damage_reduction_other" = "0.25"
+L 11/21/2020 - 23:46:10: Server cvar "game_version" = "5.11.0.420-dev+m"
+L 11/21/2020 - 23:46:10: Server cvar "humans_join_team" = "any"
+L 11/21/2020 - 23:46:10: Server cvar "max_queries_sec" = "3.0"
+L 11/21/2020 - 23:46:10: Server cvar "max_queries_sec_global" = "30"
+L 11/21/2020 - 23:46:10: Server cvar "max_queries_window" = "60"
+L 11/21/2020 - 23:46:10: Server cvar "metamod_version" = "1.3.0.128"
+L 11/21/2020 - 23:46:10: Server cvar "mp_afk_bomb_drop_time" = "0"
+L 11/21/2020 - 23:46:10: Server cvar "mp_autokick" = "0"
+L 11/21/2020 - 23:46:10: Server cvar "mp_autokick_timeout" = "-1"
+L 11/21/2020 - 23:46:10: Server cvar "mp_autoteambalance" = "0"
+L 11/21/2020 - 23:46:10: Server cvar "mp_buy_anywhere" = "0"
+L 11/21/2020 - 23:46:10: Server cvar "mp_buytime" = "0"
+L 11/21/2020 - 23:46:10: Server cvar "mp_c4timer" = "0"
+L 11/21/2020 - 23:46:10: Server cvar "mp_chattime" = "10"
+L 11/21/2020 - 23:46:10: Server cvar "mp_consistency" = "0"
+L 11/21/2020 - 23:46:10: Server cvar "mp_fadetoblack" = "0"
+L 11/21/2020 - 23:46:10: Server cvar "mp_flashlight" = "1"
+L 11/21/2020 - 23:46:10: Server cvar "mp_footsteps" = "1"
+L 11/21/2020 - 23:46:10: Server cvar "mp_forcecamera" = "2"
+L 11/21/2020 - 23:46:10: Server cvar "mp_forcechasecam" = "1"
+L 11/21/2020 - 23:46:10: Server cvar "mp_forcerespawn" = "0"
+L 11/21/2020 - 23:46:10: Server cvar "mp_fraglimit" = "0"
+L 11/21/2020 - 23:46:10: Server cvar "mp_fragsleft" = "0"
+L 11/21/2020 - 23:46:10: Server cvar "mp_freeforall" = "0"
+L 11/21/2020 - 23:46:10: Server cvar "mp_freezetime" = "0"
+L 11/21/2020 - 23:46:10: Server cvar "mp_friendlyfire" = "1"
+L 11/21/2020 - 23:46:10: Server cvar "mp_hostage_hurtable" = "1"
+L 11/21/2020 - 23:46:10: Server cvar "mp_hostagepenalty" = "0"
+L 11/21/2020 - 23:46:10: Server cvar "mp_infinite_ammo" = "0"
+L 11/21/2020 - 23:46:10: Server cvar "mp_infinite_grenades" = "0"
+L 11/21/2020 - 23:46:10: Server cvar "mp_item_staytime" = "300"
+L 11/21/2020 - 23:46:10: Server cvar "mp_kickpercent" = "0.66"
+L 11/21/2020 - 23:46:10: Server cvar "mp_limitteams" = "99"
+L 11/21/2020 - 23:46:10: Server cvar "mp_logdetail" = "3"
+L 11/21/2020 - 23:46:10: Server cvar "mp_logfile" = "1"
+L 11/21/2020 - 23:46:10: Server cvar "mp_logmessages" = "1"
+L 11/21/2020 - 23:46:10: Server cvar "mp_mapvoteratio" = "0.66"
+L 11/21/2020 - 23:46:10: Server cvar "mp_maxmoney" = "16000"
+L 11/21/2020 - 23:46:10: Server cvar "mp_maxrounds" = "0"
+L 11/21/2020 - 23:46:10: Server cvar "mp_mirrordamage" = "0"
+L 11/21/2020 - 23:46:10: Server cvar "mp_playerid" = "0"
+L 11/21/2020 - 23:46:10: Server cvar "mp_radio_maxinround" = "60"
+L 11/21/2020 - 23:46:10: Server cvar "mp_radio_timeout" = "1.5"
+L 11/21/2020 - 23:46:10: Server cvar "mp_respawn_immunity_effects" = "1"
+L 11/21/2020 - 23:46:10: Server cvar "mp_respawn_immunitytime" = "0"
+L 11/21/2020 - 23:46:10: Server cvar "mp_round_infinite" = "0"
+L 11/21/2020 - 23:46:10: Server cvar "mp_round_restart_delay" = "5"
+L 11/21/2020 - 23:46:10: Server cvar "mp_roundover" = "0"
+L 11/21/2020 - 23:46:10: Server cvar "mp_roundtime" = "0"
+L 11/21/2020 - 23:46:10: Server cvar "mp_show_scenarioicon" = "0"
+L 11/21/2020 - 23:46:10: Server cvar "mp_startmoney" = "1"
+L 11/21/2020 - 23:46:10: Server cvar "mp_timeleft" = "38:28"
+L 11/21/2020 - 23:46:10: Server cvar "mp_timelimit" = "45"
+L 11/21/2020 - 23:46:10: Server cvar "mp_tkpunish" = "0"
+L 11/21/2020 - 23:46:10: Server cvar "mp_windifference" = "1"
+L 11/21/2020 - 23:46:10: Server cvar "mp_winlimit" = "0"
+L 11/21/2020 - 23:46:10: Server cvar "pausable" = "0"
+L 11/21/2020 - 23:46:10: Server cvar "reaimdetector_version" = "0.2.2"
+L 11/21/2020 - 23:46:10: Server cvar "reu_version" = "0.1.0.92"
+L 11/21/2020 - 23:46:10: Server cvar "revoice_version" = "0.1.0.32"
+L 11/21/2020 - 23:46:10: Server cvar "sam_version" = "1.0"
+L 11/21/2020 - 23:46:10: Server cvar "SpecList" = "1.3"
+L 11/21/2020 - 23:46:10: Server cvar "sv_accelerate" = "5"
+L 11/21/2020 - 23:46:10: Server cvar "sv_aim" = "0"
+L 11/21/2020 - 23:46:10: Server cvar "sv_airaccelerate" = "10"
+L 11/21/2020 - 23:46:10: Server cvar "sv_allowupload" = "1"
+L 11/21/2020 - 23:46:10: Server cvar "sv_alltalk" = "1"
+L 11/21/2020 - 23:46:10: Server cvar "sv_bounce" = "1"
+L 11/21/2020 - 23:46:10: Server cvar "sv_cheats" = "0"
+L 11/21/2020 - 23:46:10: Server cvar "sv_clienttrace" = "1"
+L 11/21/2020 - 23:46:10: Server cvar "sv_contact" = ""
+L 11/21/2020 - 23:46:10: Server cvar "sv_friction" = "4"
+L 11/21/2020 - 23:46:10: Server cvar "sv_gravity" = "800"
+L 11/21/2020 - 23:46:10: Server cvar "sv_logblocks" = "0"
+L 11/21/2020 - 23:46:10: Server cvar "sv_maxrate" = "100000"
+L 11/21/2020 - 23:46:10: Server cvar "sv_maxspeed" = "320"
+L 11/21/2020 - 23:46:10: Server cvar "sv_minrate" = "15000"
+L 11/21/2020 - 23:46:10: Server cvar "sv_password" = ""
+L 11/21/2020 - 23:46:10: Server cvar "sv_proxies" = "1"
+L 11/21/2020 - 23:46:10: Server cvar "sv_restart" = "0"
+L 11/21/2020 - 23:46:10: Server cvar "sv_restartround" = "0"
+L 11/21/2020 - 23:46:10: Server cvar "sv_stepsize" = "18"
+L 11/21/2020 - 23:46:10: Server cvar "sv_stopspeed" = "75"
+L 11/21/2020 - 23:46:10: Server cvar "sv_uploadmax" = "0.5"
+L 11/21/2020 - 23:46:10: Server cvar "sv_version" = "1.1.2.7/Stdio,48,2369"
+L 11/21/2020 - 23:46:10: Server cvar "sv_voiceenable" = "1"
+L 11/21/2020 - 23:46:10: Server cvar "sv_wateraccelerate" = "10"
+L 11/21/2020 - 23:46:10: Server cvar "sv_waterfriction" = "1"
+L 11/21/2020 - 23:46:10: Server cvar "whb_version" = "1.5.696"
+L 11/21/2020 - 23:46:10: Server cvars end
+L 11/21/2020 - 23:46:10: -------- Mapchange to jail_anka_v1 --------
+L 11/21/2020 - 23:46:10: [AMXX] Plugin ("covid_mode.amxx") is setting itself as failed.
+L 11/21/2020 - 23:46:10: [AMXX] Plugin says: [ReAPI]: Api minor version mismatch; expected at least 16, real 8
+L 11/21/2020 - 23:46:10: [AMXX] Run time error 1 (plugin "covid_mode.amxx") - forced exit
+L 11/21/2020 - 23:46:11: Server cvar "sv_maxspeed" = "900"
+Executing ReGameDLL Configuration File 
+unknown command "bot_deathmatch"
+Executing ReGameDLL Configuration File 
+unknown command "bot_deathmatch"
+unknown command "amx_mode"
+unknown command "amx_reservation"
+unknown command "amx_hideslots"
+unknown command "amx_time_display"
+unknown command "amx_time_voice"
+unknown command "amx_extendmap_max"
+unknown command "amx_extendmap_step"
+unknown command "amx_language_display_msg"
+unknown command "amx_help_display_msg"
+unknown command "amx_help_display_msg_time"
+unknown command "amx_help_amount_per_page"
+unknown command "amx_statsx_duration"
+unknown command "amx_statsx_freeze"
+unknown command "amx_restrmapsettings"
+unknown command "amx_amxadmins_table"
+unknown command "amx_admins_table"
+unknown command "amx_mode"
+unknown command "amx_reservation"
+unknown command "amx_hideslots"
+unknown command "amx_time_display"
+unknown command "amx_time_voice"
+unknown command "amx_extendmap_max"
+unknown command "amx_extendmap_step"
+unknown command "amx_language_display_msg"
+unknown command "amx_help_display_msg"
+unknown command "amx_help_display_msg_time"
+unknown command "amx_help_amount_per_page"
+unknown command "amx_statsx_duration"
+unknown command "amx_statsx_freeze"
+unknown command "amx_restrmapsettings"
+IP Подошёл.
+L 11/21/2020 - 23:46:11: [colored_translit_config.amxx] Can't add menu item "Настройки чата" from plugin "Colored Translit Config" to menu set because the Menus Front-End plugin itself is not loaded!
+L 11/21/2020 - 23:46:11: [map_chooser_14.amxx] Загружено 48 карт из addons/amxmodx/configs/maps.ini
+L 11/21/2020 - 23:46:11: [map_chooser_14.amxx] Режим сортировки карт по онлайну выключен!
+========== [Colored Translit] START SET FCVAR ==========
+=========== [Colored Translit] END SET FCVAR ===========
+=========== [Colored Translit] START DEBUG =============
+[Colored Translit] Translit File Loaded. Symbols: 65
+[Colored Translit] Swear File Loaded. Swears: 0
+[Colored Translit] Replace File Loaded. Replacements: 1
+[Colored Translit] Ignore File Loaded. Ignore Words: 35
+[Colored Translit] Spam File Loaded. Spam Words: 172
+[Colored Translit] Cheat File Loaded. Cheat Words: 206
+[Colored Translit] Config File Executed. Version: 3.0
+=========== [Colored Translit] END DEBUG ===============
+unknown command "vk"
+couldn't exec addons/amxmodx/configs/jb_standard/all_cvars.cfg
+unknown command "jbe_last_prisoner_money"
+unknown command "jbe_vip_discount_shop"
+L 11/21/2020 - 23:46:11: [admin_loader_for_fb.amxx] Загружено 32 администраторов из MySQL
+L 11/21/2020 - 23:46:12: Started map "jail_anka_v1" (CRC "391372224")
+L 11/21/2020 - 23:46:12: Server cvar "sv_maxspeed" = "320"
+L 11/21/2020 - 23:46:12: Server cvar "mp_logdetail" = "1"
+L 11/21/2020 - 23:46:12: Log file closed
+Server logging data to file logs/L1121055.log
+L 11/21/2020 - 23:46:12: Log file started (file "logs/L1121055.log") (game "cstrike") (version "48/1.1.2.7/Stdio/2369")
+unknown command "sv_logecho"
+unknown command "sv_logfile"
+L 11/21/2020 - 23:46:12: Server cvar "mp_logdetail" = "3"
+unknown command "mp_autocrosshair"
+unknown command "sv_airmove"
+unknown command "sv_voicequality"
+unknown command "sv_voicecodec"
+unknown command "amx_extendmap_max"
+unknown command "amx_extendmap_step"
+unknown command "cam_change"
+unknown command "cam_connect"
+unknown command "cam_message"
+unknown command "sid_url"
+unknown command "]fastcup.net/rating.html"
+unknown command "precache_hl"
+unknown command "precache_weapons"
+unknown command "amx_extendmap_max"
+unknown command "amx_extendmap_step"
+unknown command "sv_consistency"
+L 11/21/2020 - 23:46:12: [AMXX] Displaying debug trace (plugin "jbe_core_mode.amxx", version "4.2")
+L 11/21/2020 - 23:46:12: [AMXX] Run time error 11: divide 
+L 11/21/2020 - 23:46:12: [AMXX]    [0] core.inc::abs (line 201)
+L 11/21/2020 - 23:46:12: [AMXX]    [1] jbe_core_mode.sma::Show_ChooseTeamMenu (line 2402)
+L 11/21/2020 - 23:46:12: [AMXX]    [2] jbe_core_mode.sma::ClCmd_ChooseTeam (line 1896)
+fsdfsd - 1 - 1
+unknown command "amx_amxadmins_table"
+unknown command "amx_admins_table"
+L 11/21/2020 - 23:46:12: [pluginmenu.amxx] Can't add menu item "Plugin Cvars" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+L 11/21/2020 - 23:46:12: [pluginmenu.amxx] Can't add menu item "Plugin Commands" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+L 11/21/2020 - 23:46:13: World triggered "Round_Start"
+92.38.70.135:11933:reconnect
+L 11/21/2020 - 23:46:14: "minibam<264><STEAM_0:1:189314915><>" connected, address "92.38.70.135:11933"
+L 11/21/2020 - 23:46:15: "minibam<264><STEAM_0:1:189314915><>" STEAM USERID validated
+85.140.3.24:7917:reconnect
+L 11/21/2020 - 23:46:15: "тера<265><STEAM_1:0:1419563630><>" connected, address "85.140.3.24:7917"
+L 11/21/2020 - 23:46:18: [admin_loader_for_fb.amxx] Login: "minibam<264><STEAM_0:1:189314915><>" became an admin (account "minibam") (nickname "minibam") (access "abcdefghjklopqrstu") (address "92.38.70.135")
+ -> file: (../demoplayer.dll), md5hex: (641d3c2c) for (minibam) 
+L 11/21/2020 - 23:46:18: "minibam<264><STEAM_0:1:189314915><>" entered the game
+Currently loaded plugins:
+       name                    version     author            file             status   
+ [  1] Admin Loader            3.4         neygomon          admin_loader_fo  running  
+ [  2] FreshBans               1.4.3b      kanagava          fresh_bans_143_  running  
+ [  3] fb_forwards             0.1.4       Kanagava & Realu  fb_forwards.amx  running  
+ [  4] CSStatsX SQL            0.7.4       serfreeman1337    csstatsx_sql.am  running  
+ [  5] AMXX Gag                1.4         minibum           amx_gag.amxx     running  
+ [  6] CS Stats Logging        1.9.0.5241  AMXX Dev Team     stats_logging.a  running  
+ [  7] Admin Commands          1.9.0.5235  AMXX Dev Team     admincmd.amxx    running  
+ [  8] Admin_Log_IP            1.0         minion            admin_log_ip.am  running  
+ [  9] Контроль Ад�  0.1         minibam           check_admins.am  running  
+ [ 10] Anti Reklama            3.0b        minibam           antireklama.amx  running  
+ [ 11] Commands Menu           1.9.0.5241  AMXX Dev Team     cmdmenu.amxx     running  
+ [ 12] Info. Messages          1.9.0.5241  AMXX Dev Team     imessage.amxx    running  
+ [ 13] Players Menu            1.8.2       AMXX Dev Team     plmenu.amxx      running  
+ [ 14] Plugin Menu             1.9.0.5241  AMXX Dev Team     pluginmenu.amxx  running  
+ [ 15] Scrolling Message       1.9.0.5241  AMXX Dev Team     scrollmsg.amxx   running  
+ [ 16] Admin Votes             1.9.0.5241  AMXX Dev Team     adminvote.amxx   running  
+ [ 17] Stats Configuration     1.9.0.5241  AMXX Dev Team     statscfg.amxx    running  
+ [ 18] Advanced MapChooser     1.4.1       minibam           map_chooser_14.  running  
+ [ 19] Autoresponder/Advertis  0.5         MaximusBrood      reklama_in_chat  running  
+ [ 20] Custom Flashlight       0.4.0       ConnorMcLeod      custom_flashlig  running  
+ [ 21] cs-rp16.ru              1.0         minion            sam.amxx         running  
+ [ 22] Night VIP               0.1         F@nt0M            night_vip.amxx   running  
+ [ 23] AdminMenu               0.1         HoCok             super_menu.amxx  running  
+ [ 24] BanIP Fakes             0.2         Safety1st         banip_fakes.amx  running  
+ [ 25] Anim_EnadRound          1.0         ShaTalKiN         anim_endround.a  running  
+ [ 26] Give Weapon             1.0         OverGame          global_weapon.a  running  
+ [ 27] Christmas Tree Spawn    0.0.1b      wopox1337         christmas_tree_  running  
+ [ 28] Maps Menu               1.9.0.5241  AMXX Dev Team     mapsmenu.amxx    running  
+ [ 29] Proxy Detetor           1.0         _xvi              proxy_detetor.a  running  
+ [ 30] [HR] MapStart Random G  0.2         Hellr0ck          hr_mapstart_ran  running  
+ [ 31] Counter-advertising ni  Free        minibam           counter_adverti  running  
+ [ 32] Anti Fast Strafe        10.1        Proffi+Seroff     anti_fast_straf  running  
+ [ 33] Admin Chat              1.8.1.3746  AMXX Dev Team     adminchat_big_h  running  
+ [ 34] No Software Mode        0.1         panicaskill       no_software_mod  running  
+ [ 35] Anti Flood              1.9.0.5235  AMXX Dev Team     antiflood.amxx   running  
+ [ 36] Anti net_graph 2        1.0         Seroff            anti_net_graph_  running  
+ [ 37] ReAimDetector API       0.2.2       ReHLDS Team       reaimdetector.a  running  
+ [ 38] Game Namer              Version 1.  NeuroToxin        gamenamechanger  running  
+ [ 39] UnPrecacher             minibam -   Proo.Noob         limit_off.amxx   running  
+ [ 40] [JBE] Строител  1.1         minibam           jbe_building.am  running  
+ [ 41] Меню Диджея   1.1         minibam           menu_didjeya.am  running  
+ [ 42] HookManager             3.1         minibum           UltraHook.amxx   running  
+ [ 43] Normal Mode Kriss SV R  2.0         Asep, Credits :   normal-mode_kri  debug    
+ [ 44] [CSO] M4A1 Dark Knight  1.1         minibum           cso_buffm4_fix_  running  
+ [ 45] [CSO] AK47 PALADIN ||   1.0 || CLO  AsepKhairulAnam@  cso_buffak_fix_  running  
+ [ 46] Brick Peace V2          1.0         minibam           jbe_brickpeacev  running  
+ [ 47] [JBE] Grab + Menu       5.3         minibum           jbe_grab.amxx    debug    
+ [ 48] Paint                   1.0         minion            paint.amxx       running  
+ [ 49] Nade fixer              0.1         Mati              flyhighfix.amxx  debug    
+ [ 50] [JB] Weapon: AK-47 Kni  1.0         Crock / =)        jb_akknife.amxx  debug    
+ [ 51] jail_blue map enhancer  1.0         *CareFully*       jail_blue_enhan  running  
+ [ 52] Fix bug (say / say_tea  1.0         Ghost95V & popey  saycharfix.amxx  running  
+ [ 53] [Jail] Jail Core        4.2         minibam           jbe_core_mode.a  debug    
+ [ 54] Menu emotions           1.0         KEK+Seroff        emot.amxx        running  
+ [ 55] PLUGIN                  VERSION     AUTHOR            cam.amxx         running  
+ [ 56] [JBE] Лорд          1.0         minibum           jbe_elite_admin  debug    
+ [ 57] legenda                 1.0         minibum           jbe_legenda.amx  running  
+ [ 58] [JBE_DM] Birth Day      1.1         Freedo.m          jbe_dm_birthday  debug    
+ [ 59] [JBE] DOGONYLKI         1.1         BATYP             jbe_dm_dogon9lk  debug    
+ [ 60] [JBE_DM] Sniper         1.0         Freedo.m          jbe_dm_Day_no4.  debug    
+ [ 61] [JBE_DM] Hide And Seek  1.1         Freedo.m          jbe_dm_hideands  debug    
+ [ 62] ***[D-JAIL]~[J-GALAXY]  1.0         Notepad++         jbe_galaxy.amxx  debug    
+ [ 63] [JBE_DM] DRUG NAHUI SU  0.1         kR1m1naL | VK.CO  jbe_dm_drug.amx  debug    
+ [ 64] [JBE_DM] Shtyrm         1.0         Freedo.m          jbe_dm_shtyrm.a  debug    
+ [ 65] [JBE_DM] Starwars       1.1         DARLOK            jbe_dm_starwars  debug    
+ [ 66] [JBE_DM] Magic          1.0         Halyavshik        jbe_dm_magic.am  debug    
+ [ 67] [JBE_DM] snipers        1.1         mdNss             jbe_dm_snipers.  debug    
+ [ 68] [JBE_DM] jetpack        1.1         mdNss             jbe_dm_jetpack.  debug    
+ [ 69] New Jetpack             0.0.2       Bad_Bud,ZmOutSta  zp_item_jetpack  debug    
+ [ 70] [JBE_DM] snipers        1.1         mdNss             jbe_dm_1hp.amxx  debug    
+ [ 71] Zombie                  1.0         Madness           jbe_dm_zombie.a  running  
+ [ 72] [ZP] Extra: M134 EX     1.0         LARS-DAY[BR]EAKE  jbe_weapon_m134  debug    
+ [ 73] Colored Translit        3.0         Sho0ter           colored_transli  running  
+ [ 74] Colored Translit Confi  3.0         Sho0ter           colored_transli  running  
+ [ 75] Parachute               1.0         maeStro           parachute.amxx   debug    
+ [ 76] [JBE] dop               1.0         minibum           jbe_dopmenu.amx  running  
+ [ 77] [JBE] Chief Step        1.0         Geneor            jbe_chiefstep.a  debug    
+ [ 78] SpecList                1.3         minibum           speclist.amxx    running  
+ [ 79] [JBE] smotr             1.0         minibum           jbe_smotr_dop.a  running  
+ [ 80] SC Ban                  1.0 Beta    malniata          sc_ban.amxx      running  
+ [ 81] JBE SPLEAF + CREATE BL  1.0         cut by thezoloto  stroit.amxx      running  
+ [ 82] AMX Blind               1           snoopy            amx_blind.amxx   running  
+ [ 83] unknown                 unknown     unknown           covid_mode.amxx  error    
+( 83) Error: [ReAPI]: Api minor version mismatch; expected at least 16, real 8
+83 plugins, 82 running
+L 11/21/2020 - 23:46:20: "тера<265><STEAM_1:0:1419563630><>" entered the game
+L 11/21/2020 - 23:46:23: "тера<265><STEAM_1:0:1419563630><>" joined team "CT"
+L 11/21/2020 - 23:46:23: World triggered "Round_Draw" (CT "0") (T "0")
+L 11/21/2020 - 23:46:23: World triggered "Round_End"
+L 11/21/2020 - 23:46:28: World triggered "Round_Start"
+Список загруженных модулей:
+Наименовани  Верси  Автор           Состо 
+CStrike                 1.9.0.5271  AMX Mod X Dev Team   running    
+CSX                     1.9.0.5271  AMX Mod X Dev Team   running    
+ReAPI                   5.8.0.166-  Asmodai & s1lent     running    
+MySQL                   1.9.0.5271  AMX Mod X Dev Team   running    
+FakeMeta                1.9.0.5271  AMX Mod X Dev Team   running    
+nVault                  1.9.0.5271  AMX Mod X Dev Team   running    
+Ham Sandwich            1.9.0.5271  AMX Mod X Dev Team   running    
+Engine                  1.9.0.5271  AMX Mod X Dev Team   running    
+GeoIP                   1.9.0.5271  AMX Mod X Dev Team   running    
+Fun                     1.9.0.5271  AMX Mod X Dev Team   running    
+ReAimDetector           0.2.2       ReHLDS Team          running    
+Всего 11 модулей
+L 11/21/2020 - 23:46:45: "тера<265><STEAM_1:0:1419563630><CT>" committed suicide with "world"
+L 11/21/2020 - 23:46:45: World triggered "Round_Draw" (CT "0") (T "0")
+L 11/21/2020 - 23:46:45: World triggered "Round_End"
+L 11/21/2020 - 23:46:45: "тера<265><STEAM_1:0:1419563630><CT>" joined team "TERRORIST"
+Currently loaded plugins:
+       name                    version     author            file             status   
+ [  1] Admin Loader            3.4         neygomon          admin_loader_fo  running  
+ [  2] FreshBans               1.4.3b      kanagava          fresh_bans_143_  running  
+ [  3] fb_forwards             0.1.4       Kanagava & Realu  fb_forwards.amx  running  
+ [  4] CSStatsX SQL            0.7.4       serfreeman1337    csstatsx_sql.am  running  
+ [  5] AMXX Gag                1.4         minibum           amx_gag.amxx     running  
+ [  6] CS Stats Logging        1.9.0.5241  AMXX Dev Team     stats_logging.a  running  
+ [  7] Admin Commands          1.9.0.5235  AMXX Dev Team     admincmd.amxx    running  
+ [  8] Admin_Log_IP            1.0         minion            admin_log_ip.am  running  
+ [  9] Контроль Ад�  0.1         minibam           check_admins.am  running  
+ [ 10] Anti Reklama            3.0b        minibam           antireklama.amx  running  
+ [ 11] Commands Menu           1.9.0.5241  AMXX Dev Team     cmdmenu.amxx     running  
+ [ 12] Info. Messages          1.9.0.5241  AMXX Dev Team     imessage.amxx    running  
+ [ 13] Players Menu            1.8.2       AMXX Dev Team     plmenu.amxx      running  
+ [ 14] Plugin Menu             1.9.0.5241  AMXX Dev Team     pluginmenu.amxx  running  
+ [ 15] Scrolling Message       1.9.0.5241  AMXX Dev Team     scrollmsg.amxx   running  
+ [ 16] Admin Votes             1.9.0.5241  AMXX Dev Team     adminvote.amxx   running  
+ [ 17] Stats Configuration     1.9.0.5241  AMXX Dev Team     statscfg.amxx    running  
+ [ 18] Advanced MapChooser     1.4.1       minibam           map_chooser_14.  running  
+ [ 19] Autoresponder/Advertis  0.5         MaximusBrood      reklama_in_chat  running  
+ [ 20] Custom Flashlight       0.4.0       ConnorMcLeod      custom_flashlig  running  
+ [ 21] cs-rp16.ru              1.0         minion            sam.amxx         running  
+ [ 22] Night VIP               0.1         F@nt0M            night_vip.amxx   running  
+ [ 23] AdminMenu               0.1         HoCok             super_menu.amxx  running  
+ [ 24] BanIP Fakes             0.2         Safety1st         banip_fakes.amx  running  
+ [ 25] Anim_EnadRound          1.0         ShaTalKiN         anim_endround.a  running  
+ [ 26] Give Weapon             1.0         OverGame          global_weapon.a  running  
+ [ 27] Christmas Tree Spawn    0.0.1b      wopox1337         christmas_tree_  running  
+ [ 28] Maps Menu               1.9.0.5241  AMXX Dev Team     mapsmenu.amxx    running  
+ [ 29] Proxy Detetor           1.0         _xvi              proxy_detetor.a  running  
+ [ 30] [HR] MapStart Random G  0.2         Hellr0ck          hr_mapstart_ran  running  
+ [ 31] Counter-advertising ni  Free        minibam           counter_adverti  running  
+ [ 32] Anti Fast Strafe        10.1        Proffi+Seroff     anti_fast_straf  running  
+ [ 33] Admin Chat              1.8.1.3746  AMXX Dev Team     adminchat_big_h  running  
+ [ 34] No Software Mode        0.1         panicaskill       no_software_mod  running  
+ [ 35] Anti Flood              1.9.0.5235  AMXX Dev Team     antiflood.amxx   running  
+ [ 36] Anti net_graph 2        1.0         Seroff            anti_net_graph_  running  
+ [ 37] ReAimDetector API       0.2.2       ReHLDS Team       reaimdetector.a  running  
+ [ 38] Game Namer              Version 1.  NeuroToxin        gamenamechanger  running  
+ [ 39] UnPrecacher             minibam -   Proo.Noob         limit_off.amxx   running  
+ [ 40] [JBE] Строител  1.1         minibam           jbe_building.am  running  
+ [ 41] Меню Диджея   1.1         minibam           menu_didjeya.am  running  
+ [ 42] HookManager             3.1         minibum           UltraHook.amxx   running  
+ [ 43] Normal Mode Kriss SV R  2.0         Asep, Credits :   normal-mode_kri  debug    
+ [ 44] [CSO] M4A1 Dark Knight  1.1         minibum           cso_buffm4_fix_  running  
+ [ 45] [CSO] AK47 PALADIN ||   1.0 || CLO  AsepKhairulAnam@  cso_buffak_fix_  running  
+ [ 46] Brick Peace V2          1.0         minibam           jbe_brickpeacev  running  
+ [ 47] [JBE] Grab + Menu       5.3         minibum           jbe_grab.amxx    debug    
+ [ 48] Paint                   1.0         minion            paint.amxx       running  
+ [ 49] Nade fixer              0.1         Mati              flyhighfix.amxx  debug    
+ [ 50] [JB] Weapon: AK-47 Kni  1.0         Crock / =)        jb_akknife.amxx  debug    
+ [ 51] jail_blue map enhancer  1.0         *CareFully*       jail_blue_enhan  running  
+ [ 52] Fix bug (say / say_tea  1.0         Ghost95V & popey  saycharfix.amxx  running  
+ [ 53] [Jail] Jail Core        4.2         minibam           jbe_core_mode.a  debug    
+ [ 54] Menu emotions           1.0         KEK+Seroff        emot.amxx        running  
+ [ 55] PLUGIN                  VERSION     AUTHOR            cam.amxx         running  
+ [ 56] [JBE] Лорд          1.0         minibum           jbe_elite_admin  debug    
+ [ 57] legenda                 1.0         minibum           jbe_legenda.amx  running  
+ [ 58] [JBE_DM] Birth Day      1.1         Freedo.m          jbe_dm_birthday  debug    
+ [ 59] [JBE] DOGONYLKI         1.1         BATYP             jbe_dm_dogon9lk  debug    
+ [ 60] [JBE_DM] Sniper         1.0         Freedo.m          jbe_dm_Day_no4.  debug    
+ [ 61] [JBE_DM] Hide And Seek  1.1         Freedo.m          jbe_dm_hideands  debug    
+ [ 62] ***[D-JAIL]~[J-GALAXY]  1.0         Notepad++         jbe_galaxy.amxx  debug    
+ [ 63] [JBE_DM] DRUG NAHUI SU  0.1         kR1m1naL | VK.CO  jbe_dm_drug.amx  debug    
+ [ 64] [JBE_DM] Shtyrm         1.0         Freedo.m          jbe_dm_shtyrm.a  debug    
+ [ 65] [JBE_DM] Starwars       1.1         DARLOK            jbe_dm_starwars  debug    
+ [ 66] [JBE_DM] Magic          1.0         Halyavshik        jbe_dm_magic.am  debug    
+ [ 67] [JBE_DM] snipers        1.1         mdNss             jbe_dm_snipers.  debug    
+ [ 68] [JBE_DM] jetpack        1.1         mdNss             jbe_dm_jetpack.  debug    
+ [ 69] New Jetpack             0.0.2       Bad_Bud,ZmOutSta  zp_item_jetpack  debug    
+ [ 70] [JBE_DM] snipers        1.1         mdNss             jbe_dm_1hp.amxx  debug    
+ [ 71] Zombie                  1.0         Madness           jbe_dm_zombie.a  running  
+ [ 72] [ZP] Extra: M134 EX     1.0         LARS-DAY[BR]EAKE  jbe_weapon_m134  debug    
+ [ 73] Colored Translit        3.0         Sho0ter           colored_transli  running  
+ [ 74] Colored Translit Confi  3.0         Sho0ter           colored_transli  running  
+ [ 75] Parachute               1.0         maeStro           parachute.amxx   debug    
+ [ 76] [JBE] dop               1.0         minibum           jbe_dopmenu.amx  running  
+ [ 77] [JBE] Chief Step        1.0         Geneor            jbe_chiefstep.a  debug    
+ [ 78] SpecList                1.3         minibum           speclist.amxx    running  
+ [ 79] [JBE] smotr             1.0         minibum           jbe_smotr_dop.a  running  
+ [ 80] SC Ban                  1.0 Beta    malniata          sc_ban.amxx      running  
+ [ 81] JBE SPLEAF + CREATE BL  1.0         cut by thezoloto  stroit.amxx      running  
+ [ 82] AMX Blind               1           snoopy            amx_blind.amxx   running  
+ [ 83] unknown                 unknown     unknown           covid_mode.amxx  error    
+( 83) Error: [ReAPI]: Api minor version mismatch; expected at least 16, real 8
+83 plugins, 82 running
+L 11/21/2020 - 23:46:50: World triggered "Round_Start"
+37.113.231.5:27005:reconnect
+L 11/21/2020 - 23:46:50: "КИБОРГ УБИЦА<266><STEAM_1:0:538817610><>" connected, address "37.113.231.5:27005"
+37.113.231.5:27005:reconnect
+L 11/21/2020 - 23:46:52: "КИБОРГ УБИЦА<267><STEAM_1:0:538817610><>" connected, address "37.113.231.5:27005"
+L 11/21/2020 - 23:46:59: Server cvar "sv_restart" = "5"
+L 11/21/2020 - 23:47:00: World triggered "Restart_Round_(5_seconds)"
+L 11/21/2020 - 23:47:00: Team "CT" scored "0" with "0" players
+L 11/21/2020 - 23:47:00: Team "TERRORIST" scored "0" with "1" players
+L 11/21/2020 - 23:47:00: Server cvar "sv_restart" = "0"
+L 11/21/2020 - 23:47:05: World triggered "Round_Start"
+L 11/21/2020 - 23:47:05: [admin_loader_for_fb.amxx] Login: "КИБОРГ УБИЦА<267><STEAM_1:0:538817610><>" became an admin (account "КИБОРГ УБИЦА") (nickname "КИБОРГ УБИЦА") (access "dist") (address "37.113.231.5")
+L 11/21/2020 - 23:47:05: "КИБОРГ УБИЦА<267><STEAM_1:0:538817610><>" entered the game
+L 11/21/2020 - 23:47:19: "КИБОРГ УБИЦА<267><STEAM_1:0:538817610><>" joined team "CT"
+L 11/21/2020 - 23:47:19: World triggered "Game_Commencing"
+L 11/21/2020 - 23:47:19: World triggered "Game_Commencing" (CT "0") (T "0")
+L 11/21/2020 - 23:47:19: World triggered "Round_End"
+L 11/21/2020 - 23:47:22: World triggered "Round_Start"
+Rcon from 195.88.208.116:52372:
+rcon 1768336768 "7K4YVX3KUfT8vzz7YLee-ZUZUzEXQ5ZjkvBrwzcjx" status
+L 11/21/2020 - 23:49:02: Rcon: "rcon 1768336768 "7K4YVX3KUfT8vzz7YLee-ZUZUzEXQ5ZjkvBrwzcjx" status" from "195.88.208.116:52372"
+L 11/21/2020 - 23:49:04: "minibam<264><STEAM_0:1:189314915><UNASSIGNED>" triggered "time" (time "2:46")
+L 11/21/2020 - 23:49:04: "minibam<264><STEAM_0:1:189314915><UNASSIGNED>" triggered "latency" (ping "43")
+L 11/21/2020 - 23:49:04: "тера<265><STEAM_1:0:1419563630><TERRORIST>" triggered "time" (time "2:44")
+L 11/21/2020 - 23:49:04: "тера<265><STEAM_1:0:1419563630><TERRORIST>" triggered "latency" (ping "89")
+L 11/21/2020 - 23:49:04: "КИБОРГ УБИЦА<267><STEAM_1:0:538817610><CT>" triggered "weaponstats" (weapon "ak47") (shots "3") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 11/21/2020 - 23:49:04: "КИБОРГ УБИЦА<267><STEAM_1:0:538817610><CT>" triggered "weaponstats2" (weapon "ak47") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 11/21/2020 - 23:49:04: "КИБОРГ УБИЦА<267><STEAM_1:0:538817610><CT>" triggered "time" (time "1:59")
+L 11/21/2020 - 23:49:04: "КИБОРГ УБИЦА<267><STEAM_1:0:538817610><CT>" triggered "latency" (ping "29")
+L 11/21/2020 - 23:49:04: Couldn't write file "cstrike/addons/amxmodx/configs/fb/oldmap_players.txt"
+L 11/21/2020 - 23:49:04: [AMXX] Run time error 10 (plugin "fresh_bans_143_183.amxx") (native "write_file") - debug not enabled!
+L 11/21/2020 - 23:49:04: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/21/2020 - 23:49:04: [META] ini: Begin re-reading plugins list: /servers/cs/1001/cstrike/addons/metamod/plugins.ini
+L 11/21/2020 - 23:49:04: [META] ini: Read plugin config for: AMX Mod X
+L 11/21/2020 - 23:49:04: [META] ini: Read plugin config for: LocalizeBug Fix
+L 11/21/2020 - 23:49:04: [META] ini: Read plugin config for: Reunion
+L 11/21/2020 - 23:49:04: [META] ini: Read plugin config for: WHBlocker
+L 11/21/2020 - 23:49:04: [META] ini: Read plugin config for: Revoice
+L 11/21/2020 - 23:49:04: [META] ini: Read plugin config for: Rechecker
+L 11/21/2020 - 23:49:04: [META] ini: Finished reading plugins list: /servers/cs/1001/cstrike/addons/metamod/plugins.ini; Found 6 plugins
+L 11/21/2020 - 23:49:04: [META] dll: Updating plugins...
+L 11/21/2020 - 23:49:04: [META] dll: Finished updating 16 plugins; kept 6, loaded 0, unloaded 0, reloaded 0, delayed 0
+L 11/21/2020 - 23:49:04: [META] dll: Rebuilding callbacks...
+L 11/21/2020 - 23:49:04: [META] dll: Callbacks rebuilded.
+L 11/21/2020 - 23:49:04: "minibam<264><STEAM_0:1:189314915><>" disconnected
+L 11/21/2020 - 23:49:04: "тера<265><STEAM_1:0:1419563630><TERRORIST>" disconnected
+L 11/21/2020 - 23:49:04: "КИБОРГ УБИЦА<267><STEAM_1:0:538817610><CT>" disconnected
+L 11/21/2020 - 23:49:04: World triggered "Round_Draw" (CT "0") (T "0")
+L 11/21/2020 - 23:49:04: World triggered "Round_End"
+L 11/21/2020 - 23:49:04: Log file closed
+Server logging data to file logs/L1121056.log
+L 11/21/2020 - 23:49:04: Log file started (file "logs/L1121056.log") (game "cstrike") (version "48/1.1.2.7/Stdio/2369")
+L 11/21/2020 - 23:49:04: Loading map "jail_budyn"
+L 11/21/2020 - 23:49:04: Server cvars start
+L 11/21/2020 - 23:49:04: Server cvar "[HR] MapStart Random GameName" = "0.2"
+L 11/21/2020 - 23:49:04: Server cvar "admin_loader_version" = "3.4"
+L 11/21/2020 - 23:49:04: Server cvar "allow_spectators" = "1"
+L 11/21/2020 - 23:49:04: Server cvar "amx_client_languages" = "0"
+L 11/21/2020 - 23:49:04: Server cvar "amx_language" = "ru"
+L 11/21/2020 - 23:49:04: Server cvar "amxmodx_version" = "1.9.0.5271"
+L 11/21/2020 - 23:49:04: Server cvar "antireklama" = "3.0b"
+L 11/21/2020 - 23:49:04: Server cvar "banipfakes_version" = "0.2"
+L 11/21/2020 - 23:49:04: Server cvar "brick_version" = "m4m3ts"
+L 11/21/2020 - 23:49:04: Server cvar "Colored Translit Cheat" = "Loaded"
+L 11/21/2020 - 23:49:04: Server cvar "Colored Translit Config" = "Loaded"
+L 11/21/2020 - 23:49:04: Server cvar "Colored Translit Ignores" = "Loaded"
+L 11/21/2020 - 23:49:04: Server cvar "Colored Translit Replace" = "Loaded"
+L 11/21/2020 - 23:49:04: Server cvar "Colored Translit Spam" = "Loaded"
+L 11/21/2020 - 23:49:04: Server cvar "Colored Translit Status" = "Loaded"
+L 11/21/2020 - 23:49:04: Server cvar "Colored Translit Swear" = "Loaded"
+L 11/21/2020 - 23:49:04: Server cvar "Colored Translit Version" = "2.0b Final"
+L 11/21/2020 - 23:49:04: Server cvar "coop" = "0"
+L 11/21/2020 - 23:49:04: Server cvar "csstatsx_sql" = "0.7.4"
+L 11/21/2020 - 23:49:04: Server cvar "deathmatch" = "1"
+L 11/21/2020 - 23:49:04: Server cvar "decalfrequency" = "30"
+L 11/21/2020 - 23:49:04: Server cvar "edgefriction" = "2"
+L 11/21/2020 - 23:49:04: Server cvar "ff_damage_reduction_bullets" = "0.35"
+L 11/21/2020 - 23:49:04: Server cvar "ff_damage_reduction_grenade" = "0.25"
+L 11/21/2020 - 23:49:04: Server cvar "ff_damage_reduction_grenade_self" = "1"
+L 11/21/2020 - 23:49:04: Server cvar "ff_damage_reduction_other" = "0.25"
+L 11/21/2020 - 23:49:04: Server cvar "game_version" = "5.11.0.420-dev+m"
+L 11/21/2020 - 23:49:04: Server cvar "humans_join_team" = "any"
+L 11/21/2020 - 23:49:04: Server cvar "max_queries_sec" = "3.0"
+L 11/21/2020 - 23:49:04: Server cvar "max_queries_sec_global" = "30"
+L 11/21/2020 - 23:49:04: Server cvar "max_queries_window" = "60"
+L 11/21/2020 - 23:49:04: Server cvar "metamod_version" = "1.3.0.128"
+L 11/21/2020 - 23:49:04: Server cvar "mp_afk_bomb_drop_time" = "0"
+L 11/21/2020 - 23:49:04: Server cvar "mp_autokick" = "0"
+L 11/21/2020 - 23:49:04: Server cvar "mp_autokick_timeout" = "-1"
+L 11/21/2020 - 23:49:04: Server cvar "mp_autoteambalance" = "0"
+L 11/21/2020 - 23:49:04: Server cvar "mp_buy_anywhere" = "0"
+L 11/21/2020 - 23:49:04: Server cvar "mp_buytime" = "0"
+L 11/21/2020 - 23:49:04: Server cvar "mp_c4timer" = "0"
+L 11/21/2020 - 23:49:04: Server cvar "mp_chattime" = "10"
+L 11/21/2020 - 23:49:04: Server cvar "mp_consistency" = "0"
+L 11/21/2020 - 23:49:04: Server cvar "mp_fadetoblack" = "0"
+L 11/21/2020 - 23:49:04: Server cvar "mp_flashlight" = "1"
+L 11/21/2020 - 23:49:04: Server cvar "mp_footsteps" = "1"
+L 11/21/2020 - 23:49:04: Server cvar "mp_forcecamera" = "2"
+L 11/21/2020 - 23:49:04: Server cvar "mp_forcechasecam" = "1"
+L 11/21/2020 - 23:49:04: Server cvar "mp_forcerespawn" = "0"
+L 11/21/2020 - 23:49:04: Server cvar "mp_fraglimit" = "0"
+L 11/21/2020 - 23:49:04: Server cvar "mp_fragsleft" = "0"
+L 11/21/2020 - 23:49:04: Server cvar "mp_freeforall" = "0"
+L 11/21/2020 - 23:49:04: Server cvar "mp_freezetime" = "0"
+L 11/21/2020 - 23:49:04: Server cvar "mp_friendlyfire" = "1"
+L 11/21/2020 - 23:49:04: Server cvar "mp_hostage_hurtable" = "1"
+L 11/21/2020 - 23:49:04: Server cvar "mp_hostagepenalty" = "0"
+L 11/21/2020 - 23:49:04: Server cvar "mp_infinite_ammo" = "0"
+L 11/21/2020 - 23:49:04: Server cvar "mp_infinite_grenades" = "0"
+L 11/21/2020 - 23:49:04: Server cvar "mp_item_staytime" = "300"
+L 11/21/2020 - 23:49:04: Server cvar "mp_kickpercent" = "0.66"
+L 11/21/2020 - 23:49:04: Server cvar "mp_limitteams" = "99"
+L 11/21/2020 - 23:49:04: Server cvar "mp_logdetail" = "3"
+L 11/21/2020 - 23:49:04: Server cvar "mp_logfile" = "1"
+L 11/21/2020 - 23:49:04: Server cvar "mp_logmessages" = "1"
+L 11/21/2020 - 23:49:04: Server cvar "mp_mapvoteratio" = "0.66"
+L 11/21/2020 - 23:49:04: Server cvar "mp_maxmoney" = "16000"
+L 11/21/2020 - 23:49:04: Server cvar "mp_maxrounds" = "0"
+L 11/21/2020 - 23:49:04: Server cvar "mp_mirrordamage" = "0"
+L 11/21/2020 - 23:49:04: Server cvar "mp_playerid" = "0"
+L 11/21/2020 - 23:49:04: Server cvar "mp_radio_maxinround" = "60"
+L 11/21/2020 - 23:49:04: Server cvar "mp_radio_timeout" = "1.5"
+L 11/21/2020 - 23:49:04: Server cvar "mp_respawn_immunity_effects" = "1"
+L 11/21/2020 - 23:49:04: Server cvar "mp_respawn_immunitytime" = "0"
+L 11/21/2020 - 23:49:04: Server cvar "mp_round_infinite" = "0"
+L 11/21/2020 - 23:49:04: Server cvar "mp_round_restart_delay" = "5"
+L 11/21/2020 - 23:49:04: Server cvar "mp_roundover" = "0"
+L 11/21/2020 - 23:49:04: Server cvar "mp_roundtime" = "0"
+L 11/21/2020 - 23:49:04: Server cvar "mp_show_scenarioicon" = "0"
+L 11/21/2020 - 23:49:04: Server cvar "mp_startmoney" = "1"
+L 11/21/2020 - 23:49:04: Server cvar "mp_timeleft" = "43:17"
+L 11/21/2020 - 23:49:04: Server cvar "mp_timelimit" = "45"
+L 11/21/2020 - 23:49:04: Server cvar "mp_tkpunish" = "0"
+L 11/21/2020 - 23:49:04: Server cvar "mp_windifference" = "1"
+L 11/21/2020 - 23:49:04: Server cvar "mp_winlimit" = "0"
+L 11/21/2020 - 23:49:04: Server cvar "pausable" = "0"
+L 11/21/2020 - 23:49:04: Server cvar "reaimdetector_version" = "0.2.2"
+L 11/21/2020 - 23:49:04: Server cvar "reu_version" = "0.1.0.92"
+L 11/21/2020 - 23:49:04: Server cvar "revoice_version" = "0.1.0.32"
+L 11/21/2020 - 23:49:04: Server cvar "sam_version" = "1.0"
+L 11/21/2020 - 23:49:04: Server cvar "SpecList" = "1.3"
+L 11/21/2020 - 23:49:04: Server cvar "sv_accelerate" = "5"
+L 11/21/2020 - 23:49:04: Server cvar "sv_aim" = "0"
+L 11/21/2020 - 23:49:04: Server cvar "sv_airaccelerate" = "10"
+L 11/21/2020 - 23:49:04: Server cvar "sv_allowupload" = "1"
+L 11/21/2020 - 23:49:04: Server cvar "sv_alltalk" = "1"
+L 11/21/2020 - 23:49:04: Server cvar "sv_bounce" = "1"
+L 11/21/2020 - 23:49:04: Server cvar "sv_cheats" = "0"
+L 11/21/2020 - 23:49:04: Server cvar "sv_clienttrace" = "1"
+L 11/21/2020 - 23:49:04: Server cvar "sv_contact" = ""
+L 11/21/2020 - 23:49:04: Server cvar "sv_friction" = "4"
+L 11/21/2020 - 23:49:04: Server cvar "sv_gravity" = "800"
+L 11/21/2020 - 23:49:04: Server cvar "sv_logblocks" = "0"
+L 11/21/2020 - 23:49:04: Server cvar "sv_maxrate" = "100000"
+L 11/21/2020 - 23:49:04: Server cvar "sv_maxspeed" = "320"
+L 11/21/2020 - 23:49:04: Server cvar "sv_minrate" = "15000"
+L 11/21/2020 - 23:49:04: Server cvar "sv_password" = ""
+L 11/21/2020 - 23:49:04: Server cvar "sv_proxies" = "1"
+L 11/21/2020 - 23:49:04: Server cvar "sv_restart" = "0"
+L 11/21/2020 - 23:49:04: Server cvar "sv_restartround" = "0"
+L 11/21/2020 - 23:49:04: Server cvar "sv_stepsize" = "18"
+L 11/21/2020 - 23:49:04: Server cvar "sv_stopspeed" = "75"
+L 11/21/2020 - 23:49:04: Server cvar "sv_uploadmax" = "0.5"
+L 11/21/2020 - 23:49:04: Server cvar "sv_version" = "1.1.2.7/Stdio,48,2369"
+L 11/21/2020 - 23:49:04: Server cvar "sv_voiceenable" = "1"
+L 11/21/2020 - 23:49:04: Server cvar "sv_wateraccelerate" = "10"
+L 11/21/2020 - 23:49:04: Server cvar "sv_waterfriction" = "1"
+L 11/21/2020 - 23:49:04: Server cvar "whb_version" = "1.5.696"
+L 11/21/2020 - 23:49:04: Server cvars end
+L 11/21/2020 - 23:49:05: -------- Mapchange to jail_budyn --------
+L 11/21/2020 - 23:49:05: [AMXX] Plugin ("covid_mode.amxx") is setting itself as failed.
+L 11/21/2020 - 23:49:05: [AMXX] Plugin says: [ReAPI]: Api minor version mismatch; expected at least 16, real 8
+L 11/21/2020 - 23:49:05: [AMXX] Run time error 1 (plugin "covid_mode.amxx") - forced exit
+L 11/21/2020 - 23:49:05: Server cvar "sv_maxspeed" = "900"
+Executing ReGameDLL Configuration File 
+unknown command "bot_deathmatch"
+Executing ReGameDLL Configuration File 
+unknown command "bot_deathmatch"
+unknown command "amx_mode"
+unknown command "amx_reservation"
+unknown command "amx_hideslots"
+unknown command "amx_time_display"
+unknown command "amx_time_voice"
+unknown command "amx_extendmap_max"
+unknown command "amx_extendmap_step"
+unknown command "amx_language_display_msg"
+unknown command "amx_help_display_msg"
+unknown command "amx_help_display_msg_time"
+unknown command "amx_help_amount_per_page"
+unknown command "amx_statsx_duration"
+unknown command "amx_statsx_freeze"
+unknown command "amx_restrmapsettings"
+unknown command "amx_amxadmins_table"
+unknown command "amx_admins_table"
+unknown command "amx_mode"
+unknown command "amx_reservation"
+unknown command "amx_hideslots"
+unknown command "amx_time_display"
+unknown command "amx_time_voice"
+unknown command "amx_extendmap_max"
+unknown command "amx_extendmap_step"
+unknown command "amx_language_display_msg"
+unknown command "amx_help_display_msg"
+unknown command "amx_help_display_msg_time"
+unknown command "amx_help_amount_per_page"
+unknown command "amx_statsx_duration"
+unknown command "amx_statsx_freeze"
+unknown command "amx_restrmapsettings"
+IP Подошёл.
+L 11/21/2020 - 23:49:06: [colored_translit_config.amxx] Can't add menu item "Настройки чата" from plugin "Colored Translit Config" to menu set because the Menus Front-End plugin itself is not loaded!
+L 11/21/2020 - 23:49:06: [map_chooser_14.amxx] Загружено 48 карт из addons/amxmodx/configs/maps.ini
+L 11/21/2020 - 23:49:06: [map_chooser_14.amxx] Режим сортировки карт по онлайну выключен!
+========== [Colored Translit] START SET FCVAR ==========
+=========== [Colored Translit] END SET FCVAR ===========
+=========== [Colored Translit] START DEBUG =============
+[Colored Translit] Translit File Loaded. Symbols: 65
+[Colored Translit] Swear File Loaded. Swears: 0
+[Colored Translit] Replace File Loaded. Replacements: 1
+[Colored Translit] Ignore File Loaded. Ignore Words: 35
+[Colored Translit] Spam File Loaded. Spam Words: 172
+[Colored Translit] Cheat File Loaded. Cheat Words: 206
+[Colored Translit] Config File Executed. Version: 3.0
+=========== [Colored Translit] END DEBUG ===============
+unknown command "vk"
+couldn't exec addons/amxmodx/configs/jb_standard/all_cvars.cfg
+unknown command "jbe_last_prisoner_money"
+unknown command "jbe_vip_discount_shop"
+L 11/21/2020 - 23:49:06: [admin_loader_for_fb.amxx] Загружено 32 администраторов из MySQL
+L 11/21/2020 - 23:49:06: Started map "jail_budyn" (CRC "196562186")
+L 11/21/2020 - 23:49:06: Server cvar "sv_maxspeed" = "320"
+L 11/21/2020 - 23:49:06: Server cvar "mp_logdetail" = "1"
+L 11/21/2020 - 23:49:06: Log file closed
+Server logging data to file logs/L1121057.log
+L 11/21/2020 - 23:49:06: Log file started (file "logs/L1121057.log") (game "cstrike") (version "48/1.1.2.7/Stdio/2369")
+unknown command "sv_logecho"
+unknown command "sv_logfile"
+L 11/21/2020 - 23:49:06: Server cvar "mp_logdetail" = "3"
+unknown command "mp_autocrosshair"
+unknown command "sv_airmove"
+unknown command "sv_voicequality"
+unknown command "sv_voicecodec"
+unknown command "amx_extendmap_max"
+unknown command "amx_extendmap_step"
+unknown command "cam_change"
+unknown command "cam_connect"
+unknown command "cam_message"
+unknown command "sid_url"
+unknown command "]fastcup.net/rating.html"
+unknown command "precache_hl"
+unknown command "precache_weapons"
+unknown command "amx_extendmap_max"
+unknown command "amx_extendmap_step"
+unknown command "sv_consistency"
+fsdfsd - 1 - 1
+unknown command "amx_amxadmins_table"
+unknown command "amx_admins_table"
+L 11/21/2020 - 23:49:06: [pluginmenu.amxx] Can't add menu item "Plugin Cvars" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+L 11/21/2020 - 23:49:06: [pluginmenu.amxx] Can't add menu item "Plugin Commands" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+L 11/21/2020 - 23:49:07: World triggered "Round_Start"
+37.113.231.5:27005:reconnect
+L 11/21/2020 - 23:49:08: "КИБОРГ УБИЦА<268><STEAM_1:0:538817610><>" connected, address "37.113.231.5:27005"
+Список загруженных модулей:
+Наименовани  Верси  Автор           Состо 
+CStrike                 1.9.0.5271  AMX Mod X Dev Team   running    
+CSX                     1.9.0.5271  AMX Mod X Dev Team   running    
+ReAPI                   5.8.0.166-  Asmodai & s1lent     running    
+MySQL                   1.9.0.5271  AMX Mod X Dev Team   running    
+FakeMeta                1.9.0.5271  AMX Mod X Dev Team   running    
+nVault                  1.9.0.5271  AMX Mod X Dev Team   running    
+Ham Sandwich            1.9.0.5271  AMX Mod X Dev Team   running    
+Engine                  1.9.0.5271  AMX Mod X Dev Team   running    
+GeoIP                   1.9.0.5271  AMX Mod X Dev Team   running    
+Fun                     1.9.0.5271  AMX Mod X Dev Team   running    
+ReAimDetector           0.2.2       ReHLDS Team          running    
+Всего 11 модулей
+92.38.70.135:11933:reconnect
+L 11/21/2020 - 23:49:08: "minibam<269><STEAM_0:1:189314915><>" connected, address "92.38.70.135:11933"
+L 11/21/2020 - 23:49:09: "minibam<269><STEAM_0:1:189314915><>" STEAM USERID validated
+L 11/21/2020 - 23:49:12: [admin_loader_for_fb.amxx] Login: "КИБОРГ УБИЦА<268><STEAM_1:0:538817610><>" became an admin (account "КИБОРГ УБИЦА") (nickname "КИБОРГ УБИЦА") (access "dist") (address "37.113.231.5")
+L 11/21/2020 - 23:49:12: "КИБОРГ УБИЦА<268><STEAM_1:0:538817610><>" entered the game
+L 11/21/2020 - 23:49:12: [admin_loader_for_fb.amxx] Login: "minibam<269><STEAM_0:1:189314915><>" became an admin (account "minibam") (nickname "minibam") (access "abcdefghjklopqrstu") (address "92.38.70.135")
+ -> file: (../demoplayer.dll), md5hex: (641d3c2c) for (minibam) 
+L 11/21/2020 - 23:49:12: "minibam<269><STEAM_0:1:189314915><>" entered the game
+L 11/21/2020 - 23:49:13: "КИБОРГ УБИЦА<268><STEAM_1:0:538817610><>" joined team "CT"
+L 11/21/2020 - 23:49:13: World triggered "Round_Draw" (CT "0") (T "0")
+L 11/21/2020 - 23:49:13: World triggered "Round_End"
+85.140.3.24:7917:reconnect
+L 11/21/2020 - 23:49:15: "тера<270><STEAM_1:0:1419563630><>" connected, address "85.140.3.24:7917"
+Currently loaded plugins:
+       name                    version     author            file             status   
+ [  1] Admin Loader            3.4         neygomon          admin_loader_fo  running  
+ [  2] FreshBans               1.4.3b      kanagava          fresh_bans_143_  running  
+ [  3] fb_forwards             0.1.4       Kanagava & Realu  fb_forwards.amx  running  
+ [  4] CSStatsX SQL            0.7.4       serfreeman1337    csstatsx_sql.am  running  
+ [  5] AMXX Gag                1.4         minibum           amx_gag.amxx     running  
+ [  6] CS Stats Logging        1.9.0.5241  AMXX Dev Team     stats_logging.a  running  
+ [  7] Admin Commands          1.9.0.5235  AMXX Dev Team     admincmd.amxx    running  
+ [  8] Admin_Log_IP            1.0         minion            admin_log_ip.am  running  
+ [  9] Контроль Ад�  0.1         minibam           check_admins.am  running  
+ [ 10] Anti Reklama            3.0b        minibam           antireklama.amx  running  
+ [ 11] Commands Menu           1.9.0.5241  AMXX Dev Team     cmdmenu.amxx     running  
+ [ 12] Info. Messages          1.9.0.5241  AMXX Dev Team     imessage.amxx    running  
+ [ 13] Players Menu            1.8.2       AMXX Dev Team     plmenu.amxx      running  
+ [ 14] Plugin Menu             1.9.0.5241  AMXX Dev Team     pluginmenu.amxx  running  
+ [ 15] Scrolling Message       1.9.0.5241  AMXX Dev Team     scrollmsg.amxx   running  
+ [ 16] Admin Votes             1.9.0.5241  AMXX Dev Team     adminvote.amxx   running  
+ [ 17] Stats Configuration     1.9.0.5241  AMXX Dev Team     statscfg.amxx    running  
+ [ 18] Advanced MapChooser     1.4.1       minibam           map_chooser_14.  running  
+ [ 19] Autoresponder/Advertis  0.5         MaximusBrood      reklama_in_chat  running  
+ [ 20] Custom Flashlight       0.4.0       ConnorMcLeod      custom_flashlig  running  
+ [ 21] cs-rp16.ru              1.0         minion            sam.amxx         running  
+ [ 22] Night VIP               0.1         F@nt0M            night_vip.amxx   running  
+ [ 23] AdminMenu               0.1         HoCok             super_menu.amxx  running  
+ [ 24] BanIP Fakes             0.2         Safety1st         banip_fakes.amx  running  
+ [ 25] Anim_EnadRound          1.0         ShaTalKiN         anim_endround.a  running  
+ [ 26] Give Weapon             1.0         OverGame          global_weapon.a  running  
+ [ 27] Christmas Tree Spawn    0.0.1b      wopox1337         christmas_tree_  running  
+ [ 28] Maps Menu               1.9.0.5241  AMXX Dev Team     mapsmenu.amxx    running  
+ [ 29] Proxy Detetor           1.0         _xvi              proxy_detetor.a  running  
+ [ 30] [HR] MapStart Random G  0.2         Hellr0ck          hr_mapstart_ran  running  
+ [ 31] Counter-advertising ni  Free        minibam           counter_adverti  running  
+ [ 32] Anti Fast Strafe        10.1        Proffi+Seroff     anti_fast_straf  running  
+ [ 33] Admin Chat              1.8.1.3746  AMXX Dev Team     adminchat_big_h  running  
+ [ 34] No Software Mode        0.1         panicaskill       no_software_mod  running  
+ [ 35] Anti Flood              1.9.0.5235  AMXX Dev Team     antiflood.amxx   running  
+ [ 36] Anti net_graph 2        1.0         Seroff            anti_net_graph_  running  
+ [ 37] ReAimDetector API       0.2.2       ReHLDS Team       reaimdetector.a  running  
+ [ 38] Game Namer              Version 1.  NeuroToxin        gamenamechanger  running  
+ [ 39] UnPrecacher             minibam -   Proo.Noob         limit_off.amxx   running  
+ [ 40] [JBE] Строител  1.1         minibam           jbe_building.am  running  
+ [ 41] Меню Диджея   1.1         minibam           menu_didjeya.am  running  
+ [ 42] HookManager             3.1         minibum           UltraHook.amxx   running  
+ [ 43] Normal Mode Kriss SV R  2.0         Asep, Credits :   normal-mode_kri  debug    
+ [ 44] [CSO] M4A1 Dark Knight  1.1         minibum           cso_buffm4_fix_  running  
+ [ 45] [CSO] AK47 PALADIN ||   1.0 || CLO  AsepKhairulAnam@  cso_buffak_fix_  running  
+ [ 46] Brick Peace V2          1.0         minibam           jbe_brickpeacev  running  
+ [ 47] [JBE] Grab + Menu       5.3         minibum           jbe_grab.amxx    debug    
+ [ 48] Paint                   1.0         minion            paint.amxx       running  
+ [ 49] Nade fixer              0.1         Mati              flyhighfix.amxx  debug    
+ [ 50] [JB] Weapon: AK-47 Kni  1.0         Crock / =)        jb_akknife.amxx  debug    
+ [ 51] jail_blue map enhancer  1.0         *CareFully*       jail_blue_enhan  running  
+ [ 52] Fix bug (say / say_tea  1.0         Ghost95V & popey  saycharfix.amxx  running  
+ [ 53] [Jail] Jail Core        4.2         minibam           jbe_core_mode.a  debug    
+ [ 54] Menu emotions           1.0         KEK+Seroff        emot.amxx        running  
+ [ 55] PLUGIN                  VERSION     AUTHOR            cam.amxx         running  
+ [ 56] [JBE] Лорд          1.0         minibum           jbe_elite_admin  debug    
+ [ 57] legenda                 1.0         minibum           jbe_legenda.amx  running  
+ [ 58] [JBE_DM] Birth Day      1.1         Freedo.m          jbe_dm_birthday  debug    
+ [ 59] [JBE] DOGONYLKI         1.1         BATYP             jbe_dm_dogon9lk  debug    
+ [ 60] [JBE_DM] Sniper         1.0         Freedo.m          jbe_dm_Day_no4.  debug    
+ [ 61] [JBE_DM] Hide And Seek  1.1         Freedo.m          jbe_dm_hideands  debug    
+ [ 62] ***[D-JAIL]~[J-GALAXY]  1.0         Notepad++         jbe_galaxy.amxx  debug    
+ [ 63] [JBE_DM] DRUG NAHUI SU  0.1         kR1m1naL | VK.CO  jbe_dm_drug.amx  debug    
+ [ 64] [JBE_DM] Shtyrm         1.0         Freedo.m          jbe_dm_shtyrm.a  debug    
+ [ 65] [JBE_DM] Starwars       1.1         DARLOK            jbe_dm_starwars  debug    
+ [ 66] [JBE_DM] Magic          1.0         Halyavshik        jbe_dm_magic.am  debug    
+ [ 67] [JBE_DM] snipers        1.1         mdNss             jbe_dm_snipers.  debug    
+ [ 68] [JBE_DM] jetpack        1.1         mdNss             jbe_dm_jetpack.  debug    
+ [ 69] New Jetpack             0.0.2       Bad_Bud,ZmOutSta  zp_item_jetpack  debug    
+ [ 70] [JBE_DM] snipers        1.1         mdNss             jbe_dm_1hp.amxx  debug    
+ [ 71] Zombie                  1.0         Madness           jbe_dm_zombie.a  running  
+ [ 72] [ZP] Extra: M134 EX     1.0         LARS-DAY[BR]EAKE  jbe_weapon_m134  debug    
+ [ 73] Colored Translit        3.0         Sho0ter           colored_transli  running  
+ [ 74] Colored Translit Confi  3.0         Sho0ter           colored_transli  running  
+ [ 75] Parachute               1.0         maeStro           parachute.amxx   debug    
+ [ 76] [JBE] dop               1.0         minibum           jbe_dopmenu.amx  running  
+ [ 77] [JBE] Chief Step        1.0         Geneor            jbe_chiefstep.a  debug    
+ [ 78] SpecList                1.3         minibum           speclist.amxx    running  
+ [ 79] [JBE] smotr             1.0         minibum           jbe_smotr_dop.a  running  
+ [ 80] SC Ban                  1.0 Beta    malniata          sc_ban.amxx      running  
+ [ 81] JBE SPLEAF + CREATE BL  1.0         cut by thezoloto  stroit.amxx      running  
+ [ 82] AMX Blind               1           snoopy            amx_blind.amxx   running  
+ [ 83] unknown                 unknown     unknown           covid_mode.amxx  error    
+( 83) Error: [ReAPI]: Api minor version mismatch; expected at least 16, real 8
+83 plugins, 82 running
+L 11/21/2020 - 23:49:18: World triggered "Round_Start"
+L 11/21/2020 - 23:49:19: "тера<270><STEAM_1:0:1419563630><>" entered the game
+Currently loaded plugins:
+      description      stat pend  file                        vers            src  load  unload
+ [ 1] AMX Mod X        RUN   -    amxmodx_mm_i386.so          v1.9.0.5271     ini  Start ANY  
+ [ 2] LocalizeBug Fix  RUN   -    localizebugfix.so           v2.4            ini  Start Never
+ [ 3] Reunion          RUN   -    reunion_mm_i386.so          v0.1.0.92       ini  Start Never
+ [ 4] WHBlocker        RUN   -    whblocker.so                v1.5.696        ini  Chlvl ANY  
+ [ 5] Revoice          RUN   -    revoice.so                  v0.1.0.32       ini  Start Never
+ [ 6] Rechecker        RUN   -    rechecker_mm_i386.so        v2.5            ini  Chlvl ANY  
+ [ 7] CStrike          RUN   -    cstrike_amxx_i386.so        v1.9.0.5271     pl1  ANY   ANY  
+ [ 8] CSX              RUN   -    csx_amxx_i386.so            v1.9.0.5271     pl1  ANY   ANY  
+ [ 9] ReAPI            RUN   -    reapi_amxx_i386.so          v5.8.0.166-dev  pl1  ANY   Never
+ [10] MySQL            RUN   -    mysql_amxx_i386.so          v1.9.0.5271     pl1  ANY   ANY  
+ [11] FakeMeta         RUN   -    fakemeta_amxx_i386.so       v1.9.0.5271     pl1  ANY   ANY  
+ [12] Ham Sandwich     RUN   -    hamsandwich_amxx_i386.so    v1.9.0.5271     pl1  ANY   ANY  
+ [13] Engine           RUN   -    engine_amxx_i386.so         v1.9.0.5271     pl1  ANY   ANY  
+ [14] GeoIP            RUN   -    geoip_amxx_i386.so          v1.9.0.5271     pl1  ANY   ANY  
+ [15] Fun              RUN   -    fun_amxx_i386.so            v1.9.0.5271     pl1  ANY   ANY  
+ [16] ReAimDetector    RUN   -    reaimdetector_amxx_i386.so  v0.2.2          pl1  ANY   Never
+16 plugins, 16 running
+L 11/21/2020 - 23:49:22: "тера<270><STEAM_1:0:1419563630><>" joined team "TERRORIST"
+L 11/21/2020 - 23:49:22: World triggered "Game_Commencing"
+L 11/21/2020 - 23:49:22: World triggered "Game_Commencing" (CT "0") (T "0")
+L 11/21/2020 - 23:49:22: World triggered "Round_End"
+L 11/21/2020 - 23:49:25: World triggered "Round_Start"
+L 11/21/2020 - 23:49:34: "КИБОРГ УБИЦА<268><STEAM_1:0:538817610><CT>" attacked "тера<270><STEAM_1:0:1419563630><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "35") (armor "0")
+L 11/21/2020 - 23:49:36: "тера<270><STEAM_1:0:1419563630><TERRORIST>" attacked "КИБОРГ УБИЦА<268><STEAM_1:0:538817610><CT>" with "knife" (damage "65") (damage_armor "0") (health "35") (armor "0")
+L 11/21/2020 - 23:49:37: "тера<270><STEAM_1:0:1419563630><TERRORIST>" attacked "КИБОРГ УБИЦА<268><STEAM_1:0:538817610><CT>" with "knife" (damage "65") (damage_armor "0") (health "-30") (armor "0")
+L 11/21/2020 - 23:49:37: "тера<270><STEAM_1:0:1419563630><TERRORIST>" killed "КИБОРГ УБИЦА<268><STEAM_1:0:538817610><CT>" with "knife"
+L 11/21/2020 - 23:49:37: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "1")
+L 11/21/2020 - 23:49:37: World triggered "Round_End"
+L 11/21/2020 - 23:49:40: "тера<270><STEAM_1:0:1419563630><TERRORIST>" committed suicide with "worldspawn" (world)
+L 11/21/2020 - 23:49:42: World triggered "Round_Start"
+L 11/21/2020 - 23:49:49: Server cvar "sv_restart" = "5"
+L 11/21/2020 - 23:49:50: World triggered "Restart_Round_(5_seconds)"
+L 11/21/2020 - 23:49:50: Team "CT" scored "0" with "1" players
+L 11/21/2020 - 23:49:50: Team "TERRORIST" scored "1" with "1" players
+L 11/21/2020 - 23:49:50: Server cvar "sv_restart" = "0"
+L 11/21/2020 - 23:49:50: "тера<270><STEAM_1:0:1419563630><TERRORIST>" attacked "КИБОРГ УБИЦА<268><STEAM_1:0:538817610><CT>" with "knife" (damage "55") (damage_armor "4") (health "44") (armor "95")
+L 11/21/2020 - 23:49:50: "КИБОРГ УБИЦА<268><STEAM_1:0:538817610><CT>" attacked "тера<270><STEAM_1:0:1419563630><TERRORIST>" with "aug" (damage "23") (damage_armor "0") (health "76") (armor "0")
+L 11/21/2020 - 23:49:51: "КИБОРГ УБИЦА<268><STEAM_1:0:538817610><CT>" attacked "тера<270><STEAM_1:0:1419563630><TERRORIST>" with "aug" (damage "23") (damage_armor "0") (health "53") (armor "0")
+L 11/21/2020 - 23:49:51: "КИБОРГ УБИЦА<268><STEAM_1:0:538817610><CT>" attacked "тера<270><STEAM_1:0:1419563630><TERRORIST>" with "aug" (damage "38") (damage_armor "0") (health "15") (armor "0")
+L 11/21/2020 - 23:49:51: "КИБОРГ УБИЦА<268><STEAM_1:0:538817610><CT>" attacked "тера<270><STEAM_1:0:1419563630><TERRORIST>" with "aug" (damage "38") (damage_armor "0") (health "-22") (armor "0")
+L 11/21/2020 - 23:49:51: "КИБОРГ УБИЦА<268><STEAM_1:0:538817610><CT>" killed "тера<270><STEAM_1:0:1419563630><TERRORIST>" with "aug"
+L 11/21/2020 - 23:49:51: Team "CT" triggered "CTs_Win" (CT "1") (T "1")
+L 11/21/2020 - 23:49:51: World triggered "Round_End"
+L 11/21/2020 - 23:49:56: World triggered "Round_Start"
+L 11/21/2020 - 23:51:33: "КИБОРГ УБИЦА<268><STEAM_1:0:538817610><CT>" attacked "тера<270><STEAM_1:0:1419563630><TERRORIST>" with "ak47" (damage "52") (damage_armor "0") (health "47") (armor "0")
+L 11/21/2020 - 23:51:38: "КИБОРГ УБИЦА<268><STEAM_1:0:538817610><CT>" attacked "тера<270><STEAM_1:0:1419563630><TERRORIST>" with "ak47" (damage "52") (damage_armor "0") (health "47") (armor "0")
+L 11/21/2020 - 23:51:42: "КИБОРГ УБИЦА<268><STEAM_1:0:538817610><CT>" attacked "тера<270><STEAM_1:0:1419563630><TERRORIST>" with "ak47" (damage "52") (damage_armor "0") (health "47") (armor "0")
+L 11/21/2020 - 23:51:46: "КИБОРГ УБИЦА<268><STEAM_1:0:538817610><CT>" attacked "тера<270><STEAM_1:0:1419563630><TERRORIST>" with "ak47" (damage "52") (damage_armor "0") (health "47") (armor "0")
+L 11/21/2020 - 23:51:55: "КИБОРГ УБИЦА<268><STEAM_1:0:538817610><CT>" attacked "тера<270><STEAM_1:0:1419563630><TERRORIST>" with "ak47" (damage "52") (damage_armor "0") (health "47") (armor "0")
+Rcon from 195.88.208.116:35871:
+rcon 1768336768 "7K4YVX3KUfT8vzz7YLee-ZUZUzEXQ5ZjkvBrwzcjx" status
+L 11/21/2020 - 23:51:56: Rcon: "rcon 1768336768 "7K4YVX3KUfT8vzz7YLee-ZUZUzEXQ5ZjkvBrwzcjx" status" from "195.88.208.116:35871"
+L 11/21/2020 - 23:51:57: "КИБОРГ УБИЦА<268><STEAM_1:0:538817610><CT>" attacked "тера<270><STEAM_1:0:1419563630><TERRORIST>" with "ak47" (damage "52") (damage_armor "0") (health "47") (armor "0")
+L 11/21/2020 - 23:52:00: "КИБОРГ УБИЦА<268><STEAM_1:0:538817610><CT>" attacked "тера<270><STEAM_1:0:1419563630><TERRORIST>" with "ak47" (damage "70") (damage_armor "0") (health "30") (armor "0")
+L 11/21/2020 - 23:52:02: "minibam<269><STEAM_0:1:189314915><UNASSIGNED>" triggered "time" (time "2:49")
+L 11/21/2020 - 23:52:02: "minibam<269><STEAM_0:1:189314915><UNASSIGNED>" triggered "latency" (ping "45")
+L 11/21/2020 - 23:52:02: "тера<270><STEAM_1:0:1419563630><TERRORIST>" triggered "weaponstats" (weapon "knife") (shots "5") (hits "3") (kills "1") (headshots "0") (tks "0") (damage "185") (deaths "1")
+L 11/21/2020 - 23:52:02: "тера<270><STEAM_1:0:1419563630><TERRORIST>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "1") (leftleg "0") (rightleg "0")
+L 11/21/2020 - 23:52:02: "тера<270><STEAM_1:0:1419563630><TERRORIST>" triggered "time" (time "2:42")
+L 11/21/2020 - 23:52:02: "тера<270><STEAM_1:0:1419563630><TERRORIST>" triggered "latency" (ping "93")
+L 11/21/2020 - 23:52:02: "КИБОРГ УБИЦА<268><STEAM_1:0:538817610><CT>" triggered "weaponstats" (weapon "aug") (shots "11") (hits "4") (kills "1") (headshots "0") (tks "0") (damage "122") (deaths "0")
+L 11/21/2020 - 23:52:02: "КИБОРГ УБИЦА<268><STEAM_1:0:538817610><CT>" triggered "weaponstats2" (weapon "aug") (head "0") (chest "0") (stomach "2") (leftarm "0") (rightarm "0") (leftleg "1") (rightleg "1")
+L 11/21/2020 - 23:52:02: "КИБОРГ УБИЦА<268><STEAM_1:0:538817610><CT>" triggered "weaponstats" (weapon "ak47") (shots "7") (hits "7") (kills "0") (headshots "0") (tks "0") (damage "382") (deaths "0")
+L 11/21/2020 - 23:52:02: "КИБОРГ УБИЦА<268><STEAM_1:0:538817610><CT>" triggered "weaponstats2" (weapon "ak47") (head "0") (chest "0") (stomach "0") (leftarm "1") (rightarm "0") (leftleg "4") (rightleg "2")
+L 11/21/2020 - 23:52:02: "КИБОРГ УБИЦА<268><STEAM_1:0:538817610><CT>" triggered "weaponstats" (weapon "knife") (shots "3") (hits "1") (kills "0") (headshots "0") (tks "0") (damage "65") (deaths "1")
+L 11/21/2020 - 23:52:02: "КИБОРГ УБИЦА<268><STEAM_1:0:538817610><CT>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "1") (rightleg "0")
+L 11/21/2020 - 23:52:02: "КИБОРГ УБИЦА<268><STEAM_1:0:538817610><CT>" triggered "time" (time "2:50")
+L 11/21/2020 - 23:52:02: "КИБОРГ УБИЦА<268><STEAM_1:0:538817610><CT>" triggered "latency" (ping "32")
+L 11/21/2020 - 23:52:02: Couldn't write file "cstrike/addons/amxmodx/configs/fb/oldmap_players.txt"
+L 11/21/2020 - 23:52:02: [AMXX] Run time error 10 (plugin "fresh_bans_143_183.amxx") (native "write_file") - debug not enabled!
+L 11/21/2020 - 23:52:02: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 11/21/2020 - 23:52:02: [META] ini: Begin re-reading plugins list: /servers/cs/1001/cstrike/addons/metamod/plugins.ini
+L 11/21/2020 - 23:52:02: [META] ini: Read plugin config for: AMX Mod X
+L 11/21/2020 - 23:52:02: [META] ini: Read plugin config for: LocalizeBug Fix
+L 11/21/2020 - 23:52:02: [META] ini: Read plugin config for: Reunion
+L 11/21/2020 - 23:52:02: [META] ini: Read plugin config for: WHBlocker
+L 11/21/2020 - 23:52:02: [META] ini: Read plugin config for: Revoice
+L 11/21/2020 - 23:52:02: [META] ini: Read plugin config for: Rechecker
+L 11/21/2020 - 23:52:02: [META] ini: Finished reading plugins list: /servers/cs/1001/cstrike/addons/metamod/plugins.ini; Found 6 plugins
+L 11/21/2020 - 23:52:02: [META] dll: Updating plugins...
+L 11/21/2020 - 23:52:02: [META] dll: Finished updating 16 plugins; kept 6, loaded 0, unloaded 0, reloaded 0, delayed 0
+L 11/21/2020 - 23:52:02: [META] dll: Rebuilding callbacks...
+L 11/21/2020 - 23:52:02: [META] dll: Callbacks rebuilded.
+L 11/21/2020 - 23:52:02: "minibam<269><STEAM_0:1:189314915><>" disconnected
+L 11/21/2020 - 23:52:02: "тера<270><STEAM_1:0:1419563630><TERRORIST>" disconnected
+L 11/21/2020 - 23:52:02: "КИБОРГ УБИЦА<268><STEAM_1:0:538817610><CT>" disconnected
+L 11/21/2020 - 23:52:02: World triggered "Round_Draw" (CT "0") (T "0")
+L 11/21/2020 - 23:52:02: World triggered "Round_End"
+L 11/21/2020 - 23:52:02: Log file closed
+Server logging data to file logs/L1121058.log
+L 11/21/2020 - 23:52:02: Log file started (file "logs/L1121058.log") (game "cstrike") (version "48/1.1.2.7/Stdio/2369")
+L 11/21/2020 - 23:52:02: Loading map "jail_especial_v1_fixed"
+L 11/21/2020 - 23:52:02: Server cvars start
+L 11/21/2020 - 23:52:02: Server cvar "[HR] MapStart Random GameName" = "0.2"
+L 11/21/2020 - 23:52:02: Server cvar "admin_loader_version" = "3.4"
+L 11/21/2020 - 23:52:02: Server cvar "allow_spectators" = "1"
+L 11/21/2020 - 23:52:02: Server cvar "amx_client_languages" = "0"
+L 11/21/2020 - 23:52:02: Server cvar "amx_language" = "ru"
+L 11/21/2020 - 23:52:02: Server cvar "amxmodx_version" = "1.9.0.5271"
+L 11/21/2020 - 23:52:02: Server cvar "antireklama" = "3.0b"
+L 11/21/2020 - 23:52:02: Server cvar "banipfakes_version" = "0.2"
+L 11/21/2020 - 23:52:02: Server cvar "brick_version" = "m4m3ts"
+L 11/21/2020 - 23:52:02: Server cvar "Colored Translit Cheat" = "Loaded"
+L 11/21/2020 - 23:52:02: Server cvar "Colored Translit Config" = "Loaded"
+L 11/21/2020 - 23:52:02: Server cvar "Colored Translit Ignores" = "Loaded"
+L 11/21/2020 - 23:52:02: Server cvar "Colored Translit Replace" = "Loaded"
+L 11/21/2020 - 23:52:02: Server cvar "Colored Translit Spam" = "Loaded"
+L 11/21/2020 - 23:52:02: Server cvar "Colored Translit Status" = "Loaded"
+L 11/21/2020 - 23:52:02: Server cvar "Colored Translit Swear" = "Loaded"
+L 11/21/2020 - 23:52:02: Server cvar "Colored Translit Version" = "2.0b Final"
+L 11/21/2020 - 23:52:02: Server cvar "coop" = "0"
+L 11/21/2020 - 23:52:02: Server cvar "csstatsx_sql" = "0.7.4"
+L 11/21/2020 - 23:52:02: Server cvar "deathmatch" = "1"
+L 11/21/2020 - 23:52:02: Server cvar "decalfrequency" = "30"
+L 11/21/2020 - 23:52:02: Server cvar "edgefriction" = "2"
+L 11/21/2020 - 23:52:02: Server cvar "ff_damage_reduction_bullets" = "0.35"
+L 11/21/2020 - 23:52:02: Server cvar "ff_damage_reduction_grenade" = "0.25"
+L 11/21/2020 - 23:52:02: Server cvar "ff_damage_reduction_grenade_self" = "1"
+L 11/21/2020 - 23:52:02: Server cvar "ff_damage_reduction_other" = "0.25"
+L 11/21/2020 - 23:52:02: Server cvar "game_version" = "5.11.0.420-dev+m"
+L 11/21/2020 - 23:52:02: Server cvar "humans_join_team" = "any"
+L 11/21/2020 - 23:52:02: Server cvar "max_queries_sec" = "3.0"
+L 11/21/2020 - 23:52:02: Server cvar "max_queries_sec_global" = "30"
+L 11/21/2020 - 23:52:02: Server cvar "max_queries_window" = "60"
+L 11/21/2020 - 23:52:02: Server cvar "metamod_version" = "1.3.0.128"
+L 11/21/2020 - 23:52:02: Server cvar "mp_afk_bomb_drop_time" = "0"
+L 11/21/2020 - 23:52:02: Server cvar "mp_autokick" = "0"
+L 11/21/2020 - 23:52:02: Server cvar "mp_autokick_timeout" = "-1"
+L 11/21/2020 - 23:52:02: Server cvar "mp_autoteambalance" = "0"
+L 11/21/2020 - 23:52:02: Server cvar "mp_buy_anywhere" = "0"
+L 11/21/2020 - 23:52:02: Server cvar "mp_buytime" = "0"
+L 11/21/2020 - 23:52:02: Server cvar "mp_c4timer" = "0"
+L 11/21/2020 - 23:52:02: Server cvar "mp_chattime" = "10"
+L 11/21/2020 - 23:52:02: Server cvar "mp_consistency" = "0"
+L 11/21/2020 - 23:52:02: Server cvar "mp_fadetoblack" = "0"
+L 11/21/2020 - 23:52:02: Server cvar "mp_flashlight" = "1"
+L 11/21/2020 - 23:52:02: Server cvar "mp_footsteps" = "1"
+L 11/21/2020 - 23:52:02: Server cvar "mp_forcecamera" = "2"
+L 11/21/2020 - 23:52:02: Server cvar "mp_forcechasecam" = "1"
+L 11/21/2020 - 23:52:02: Server cvar "mp_forcerespawn" = "0"
+L 11/21/2020 - 23:52:02: Server cvar "mp_fraglimit" = "0"
+L 11/21/2020 - 23:52:02: Server cvar "mp_fragsleft" = "0"
+L 11/21/2020 - 23:52:02: Server cvar "mp_freeforall" = "0"
+L 11/21/2020 - 23:52:02: Server cvar "mp_freezetime" = "0"
+L 11/21/2020 - 23:52:02: Server cvar "mp_friendlyfire" = "1"
+L 11/21/2020 - 23:52:02: Server cvar "mp_hostage_hurtable" = "1"
+L 11/21/2020 - 23:52:02: Server cvar "mp_hostagepenalty" = "0"
+L 11/21/2020 - 23:52:02: Server cvar "mp_infinite_ammo" = "0"
+L 11/21/2020 - 23:52:02: Server cvar "mp_infinite_grenades" = "0"
+L 11/21/2020 - 23:52:02: Server cvar "mp_item_staytime" = "300"
+L 11/21/2020 - 23:52:02: Server cvar "mp_kickpercent" = "0.66"
+L 11/21/2020 - 23:52:02: Server cvar "mp_limitteams" = "99"
+L 11/21/2020 - 23:52:02: Server cvar "mp_logdetail" = "3"
+L 11/21/2020 - 23:52:02: Server cvar "mp_logfile" = "1"
+L 11/21/2020 - 23:52:02: Server cvar "mp_logmessages" = "1"
+L 11/21/2020 - 23:52:02: Server cvar "mp_mapvoteratio" = "0.66"
+L 11/21/2020 - 23:52:02: Server cvar "mp_maxmoney" = "16000"
+L 11/21/2020 - 23:52:02: Server cvar "mp_maxrounds" = "0"
+L 11/21/2020 - 23:52:02: Server cvar "mp_mirrordamage" = "0"
+L 11/21/2020 - 23:52:02: Server cvar "mp_playerid" = "0"
+L 11/21/2020 - 23:52:02: Server cvar "mp_radio_maxinround" = "60"
+L 11/21/2020 - 23:52:02: Server cvar "mp_radio_timeout" = "1.5"
+L 11/21/2020 - 23:52:02: Server cvar "mp_respawn_immunity_effects" = "1"
+L 11/21/2020 - 23:52:02: Server cvar "mp_respawn_immunitytime" = "0"
+L 11/21/2020 - 23:52:02: Server cvar "mp_round_infinite" = "0"
+L 11/21/2020 - 23:52:02: Server cvar "mp_round_restart_delay" = "5"
+L 11/21/2020 - 23:52:02: Server cvar "mp_roundover" = "0"
+L 11/21/2020 - 23:52:02: Server cvar "mp_roundtime" = "0"
+L 11/21/2020 - 23:52:02: Server cvar "mp_show_scenarioicon" = "0"
+L 11/21/2020 - 23:52:02: Server cvar "mp_startmoney" = "1"
+L 11/21/2020 - 23:52:02: Server cvar "mp_timeleft" = "42:54"
+L 11/21/2020 - 23:52:02: Server cvar "mp_timelimit" = "45"
+L 11/21/2020 - 23:52:02: Server cvar "mp_tkpunish" = "0"
+L 11/21/2020 - 23:52:02: Server cvar "mp_windifference" = "1"
+L 11/21/2020 - 23:52:02: Server cvar "mp_winlimit" = "0"
+L 11/21/2020 - 23:52:02: Server cvar "pausable" = "0"
+L 11/21/2020 - 23:52:02: Server cvar "reaimdetector_version" = "0.2.2"
+L 11/21/2020 - 23:52:02: Server cvar "reu_version" = "0.1.0.92"
+L 11/21/2020 - 23:52:02: Server cvar "revoice_version" = "0.1.0.32"
+L 11/21/2020 - 23:52:02: Server cvar "sam_version" = "1.0"
+L 11/21/2020 - 23:52:02: Server cvar "SpecList" = "1.3"
+L 11/21/2020 - 23:52:02: Server cvar "sv_accelerate" = "5"
+L 11/21/2020 - 23:52:02: Server cvar "sv_aim" = "0"
+L 11/21/2020 - 23:52:02: Server cvar "sv_airaccelerate" = "10"
+L 11/21/2020 - 23:52:02: Server cvar "sv_allowupload" = "1"
+L 11/21/2020 - 23:52:02: Server cvar "sv_alltalk" = "1"
+L 11/21/2020 - 23:52:02: Server cvar "sv_bounce" = "1"
+L 11/21/2020 - 23:52:02: Server cvar "sv_cheats" = "0"
+L 11/21/2020 - 23:52:02: Server cvar "sv_clienttrace" = "1"
+L 11/21/2020 - 23:52:02: Server cvar "sv_contact" = ""
+L 11/21/2020 - 23:52:02: Server cvar "sv_friction" = "4"
+L 11/21/2020 - 23:52:02: Server cvar "sv_gravity" = "800"
+L 11/21/2020 - 23:52:02: Server cvar "sv_logblocks" = "0"
+L 11/21/2020 - 23:52:02: Server cvar "sv_maxrate" = "100000"
+L 11/21/2020 - 23:52:02: Server cvar "sv_maxspeed" = "320"
+L 11/21/2020 - 23:52:02: Server cvar "sv_minrate" = "15000"
+L 11/21/2020 - 23:52:02: Server cvar "sv_password" = ""
+L 11/21/2020 - 23:52:02: Server cvar "sv_proxies" = "1"
+L 11/21/2020 - 23:52:02: Server cvar "sv_restart" = "0"
+L 11/21/2020 - 23:52:02: Server cvar "sv_restartround" = "0"
+L 11/21/2020 - 23:52:02: Server cvar "sv_stepsize" = "18"
+L 11/21/2020 - 23:52:02: Server cvar "sv_stopspeed" = "75"
+L 11/21/2020 - 23:52:02: Server cvar "sv_uploadmax" = "0.5"
+L 11/21/2020 - 23:52:02: Server cvar "sv_version" = "1.1.2.7/Stdio,48,2369"
+L 11/21/2020 - 23:52:02: Server cvar "sv_voiceenable" = "1"
+L 11/21/2020 - 23:52:02: Server cvar "sv_wateraccelerate" = "10"
+L 11/21/2020 - 23:52:02: Server cvar "sv_waterfriction" = "1"
+L 11/21/2020 - 23:52:02: Server cvar "whb_version" = "1.5.696"
+L 11/21/2020 - 23:52:02: Server cvars end
+L 11/21/2020 - 23:52:03: -------- Mapchange to jail_especial_v1_fixed --------
+L 11/21/2020 - 23:52:03: [AMXX] Plugin ("covid_mode.amxx") is setting itself as failed.
+L 11/21/2020 - 23:52:03: [AMXX] Plugin says: [ReAPI]: Api minor version mismatch; expected at least 16, real 8
+L 11/21/2020 - 23:52:03: [AMXX] Run time error 1 (plugin "covid_mode.amxx") - forced exit
+L 11/21/2020 - 23:52:03: Server cvar "sv_maxspeed" = "900"
+Executing ReGameDLL Configuration File 
+unknown command "bot_deathmatch"
+Executing ReGameDLL Configuration File 
+unknown command "bot_deathmatch"
+unknown command "amx_mode"
+unknown command "amx_reservation"
+unknown command "amx_hideslots"
+unknown command "amx_time_display"
+unknown command "amx_time_voice"
+unknown command "amx_extendmap_max"
+unknown command "amx_extendmap_step"
+unknown command "amx_language_display_msg"
+unknown command "amx_help_display_msg"
+unknown command "amx_help_display_msg_time"
+unknown command "amx_help_amount_per_page"
+unknown command "amx_statsx_duration"
+unknown command "amx_statsx_freeze"
+unknown command "amx_restrmapsettings"
+unknown command "amx_amxadmins_table"
+unknown command "amx_admins_table"
+unknown command "amx_mode"
+unknown command "amx_reservation"
+unknown command "amx_hideslots"
+unknown command "amx_time_display"
+unknown command "amx_time_voice"
+unknown command "amx_extendmap_max"
+unknown command "amx_extendmap_step"
+unknown command "amx_language_display_msg"
+unknown command "amx_help_display_msg"
+unknown command "amx_help_display_msg_time"
+unknown command "amx_help_amount_per_page"
+unknown command "amx_statsx_duration"
+unknown command "amx_statsx_freeze"
+unknown command "amx_restrmapsettings"
+IP Подошёл.
+L 11/21/2020 - 23:52:04: [colored_translit_config.amxx] Can't add menu item "Настройки чата" from plugin "Colored Translit Config" to menu set because the Menus Front-End plugin itself is not loaded!
+L 11/21/2020 - 23:52:04: [map_chooser_14.amxx] Загружено 48 карт из addons/amxmodx/configs/maps.ini
+L 11/21/2020 - 23:52:04: [map_chooser_14.amxx] Режим сортировки карт по онлайну выключен!
+========== [Colored Translit] START SET FCVAR ==========
+=========== [Colored Translit] END SET FCVAR ===========
+=========== [Colored Translit] START DEBUG =============
+[Colored Translit] Translit File Loaded. Symbols: 65
+[Colored Translit] Swear File Loaded. Swears: 0
+[Colored Translit] Replace File Loaded. Replacements: 1
+[Colored Translit] Ignore File Loaded. Ignore Words: 35
+[Colored Translit] Spam File Loaded. Spam Words: 172
+[Colored Translit] Cheat File Loaded. Cheat Words: 206
+[Colored Translit] Config File Executed. Version: 3.0
+=========== [Colored Translit] END DEBUG ===============
+unknown command "vk"
+couldn't exec addons/amxmodx/configs/jb_standard/all_cvars.cfg
+unknown command "jbe_last_prisoner_money"
+unknown command "jbe_vip_discount_shop"
+L 11/21/2020 - 23:52:04: [admin_loader_for_fb.amxx] Загружено 32 администраторов из MySQL
+L 11/21/2020 - 23:52:05: Started map "jail_especial_v1_fixed" (CRC "-720323283")
+L 11/21/2020 - 23:52:05: Server cvar "sv_maxspeed" = "320"
+L 11/21/2020 - 23:52:05: Server cvar "mp_logdetail" = "1"
+L 11/21/2020 - 23:52:05: Log file closed
+Server logging data to file logs/L1121059.log
+L 11/21/2020 - 23:52:05: Log file started (file "logs/L1121059.log") (game "cstrike") (version "48/1.1.2.7/Stdio/2369")
+unknown command "sv_logecho"
+unknown command "sv_logfile"
+L 11/21/2020 - 23:52:05: Server cvar "mp_logdetail" = "3"
+unknown command "mp_autocrosshair"
+unknown command "sv_airmove"
+unknown command "sv_voicequality"
+unknown command "sv_voicecodec"
+unknown command "amx_extendmap_max"
+unknown command "amx_extendmap_step"
+unknown command "cam_change"
+unknown command "cam_connect"
+unknown command "cam_message"
+unknown command "sid_url"
+unknown command "]fastcup.net/rating.html"
+unknown command "precache_hl"
+unknown command "precache_weapons"
+unknown command "amx_extendmap_max"
+unknown command "amx_extendmap_step"
+unknown command "sv_consistency"
+fsdfsd - 1 - 1
+unknown command "amx_amxadmins_table"
+unknown command "amx_admins_table"
+L 11/21/2020 - 23:52:05: [pluginmenu.amxx] Can't add menu item "Plugin Cvars" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+L 11/21/2020 - 23:52:05: [pluginmenu.amxx] Can't add menu item "Plugin Commands" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+L 11/21/2020 - 23:52:05: World triggered "Round_Start"
+92.38.70.135:11933:reconnect
+L 11/21/2020 - 23:52:07: "minibam<271><STEAM_0:1:189314915><>" connected, address "92.38.70.135:11933"
+37.113.231.5:27005:reconnect
+L 11/21/2020 - 23:52:07: "КИБОРГ УБИЦА<272><STEAM_1:0:538817610><>" connected, address "37.113.231.5:27005"
+L 11/21/2020 - 23:52:07: "minibam<271><STEAM_0:1:189314915><>" STEAM USERID validated
+85.140.3.24:7917:reconnect
+L 11/21/2020 - 23:52:07: "тера<273><STEAM_1:0:1419563630><>" connected, address "85.140.3.24:7917"
+Currently loaded plugins:
+       name                    version     author            file             status   
+ [  1] Admin Loader            3.4         neygomon          admin_loader_fo  running  
+ [  2] FreshBans               1.4.3b      kanagava          fresh_bans_143_  running  
+ [  3] fb_forwards             0.1.4       Kanagava & Realu  fb_forwards.amx  running  
+ [  4] CSStatsX SQL            0.7.4       serfreeman1337    csstatsx_sql.am  running  
+ [  5] AMXX Gag                1.4         minibum           amx_gag.amxx     running  
+ [  6] CS Stats Logging        1.9.0.5241  AMXX Dev Team     stats_logging.a  running  
+ [  7] Admin Commands          1.9.0.5235  AMXX Dev Team     admincmd.amxx    running  
+ [  8] Admin_Log_IP            1.0         minion            admin_log_ip.am  running  
+ [  9] Контроль Ад�  0.1         minibam           check_admins.am  running  
+ [ 10] Anti Reklama            3.0b        minibam           antireklama.amx  running  
+ [ 11] Commands Menu           1.9.0.5241  AMXX Dev Team     cmdmenu.amxx     running  
+ [ 12] Info. Messages          1.9.0.5241  AMXX Dev Team     imessage.amxx    running  
+ [ 13] Players Menu            1.8.2       AMXX Dev Team     plmenu.amxx      running  
+ [ 14] Plugin Menu             1.9.0.5241  AMXX Dev Team     pluginmenu.amxx  running  
+ [ 15] Scrolling Message       1.9.0.5241  AMXX Dev Team     scrollmsg.amxx   running  
+ [ 16] Admin Votes             1.9.0.5241  AMXX Dev Team     adminvote.amxx   running  
+ [ 17] Stats Configuration     1.9.0.5241  AMXX Dev Team     statscfg.amxx    running  
+ [ 18] Advanced MapChooser     1.4.1       minibam           map_chooser_14.  running  
+ [ 19] Autoresponder/Advertis  0.5         MaximusBrood      reklama_in_chat  running  
+ [ 20] Custom Flashlight       0.4.0       ConnorMcLeod      custom_flashlig  running  
+ [ 21] cs-rp16.ru              1.0         minion            sam.amxx         running  
+ [ 22] Night VIP               0.1         F@nt0M            night_vip.amxx   running  
+ [ 23] AdminMenu               0.1         HoCok             super_menu.amxx  running  
+ [ 24] BanIP Fakes             0.2         Safety1st         banip_fakes.amx  running  
+ [ 25] Anim_EnadRound          1.0         ShaTalKiN         anim_endround.a  running  
+ [ 26] Give Weapon             1.0         OverGame          global_weapon.a  running  
+ [ 27] Christmas Tree Spawn    0.0.1b      wopox1337         christmas_tree_  running  
+ [ 28] Maps Menu               1.9.0.5241  AMXX Dev Team     mapsmenu.amxx    running  
+ [ 29] Proxy Detetor           1.0         _xvi              proxy_detetor.a  running  
+ [ 30] [HR] MapStart Random G  0.2         Hellr0ck          hr_mapstart_ran  running  
+ [ 31] Counter-advertising ni  Free        minibam           counter_adverti  running  
+ [ 32] Anti Fast Strafe        10.1        Proffi+Seroff     anti_fast_straf  running  
+ [ 33] Admin Chat              1.8.1.3746  AMXX Dev Team     adminchat_big_h  running  
+ [ 34] No Software Mode        0.1         panicaskill       no_software_mod  running  
+ [ 35] Anti Flood              1.9.0.5235  AMXX Dev Team     antiflood.amxx   running  
+ [ 36] Anti net_graph 2        1.0         Seroff            anti_net_graph_  running  
+ [ 37] ReAimDetector API       0.2.2       ReHLDS Team       reaimdetector.a  running  
+ [ 38] Game Namer              Version 1.  NeuroToxin        gamenamechanger  running  
+ [ 39] UnPrecacher             minibam -   Proo.Noob         limit_off.amxx   running  
+ [ 40] [JBE] Строител  1.1         minibam           jbe_building.am  running  
+ [ 41] Меню Диджея   1.1         minibam           menu_didjeya.am  running  
+ [ 42] HookManager             3.1         minibum           UltraHook.amxx   running  
+ [ 43] Normal Mode Kriss SV R  2.0         Asep, Credits :   normal-mode_kri  debug    
+ [ 44] [CSO] M4A1 Dark Knight  1.1         minibum           cso_buffm4_fix_  running  
+ [ 45] [CSO] AK47 PALADIN ||   1.0 || CLO  AsepKhairulAnam@  cso_buffak_fix_  running  
+ [ 46] Brick Peace V2          1.0         minibam           jbe_brickpeacev  running  
+ [ 47] [JBE] Grab + Menu       5.3         minibum           jbe_grab.amxx    debug    
+ [ 48] Paint                   1.0         minion            paint.amxx       running  
+ [ 49] Nade fixer              0.1         Mati              flyhighfix.amxx  debug    
+ [ 50] [JB] Weapon: AK-47 Kni  1.0         Crock / =)        jb_akknife.amxx  debug    
+ [ 51] jail_blue map enhancer  1.0         *CareFully*       jail_blue_enhan  running  
+ [ 52] Fix bug (say / say_tea  1.0         Ghost95V & popey  saycharfix.amxx  running  
+ [ 53] [Jail] Jail Core        4.2         minibam           jbe_core_mode.a  debug    
+ [ 54] Menu emotions           1.0         KEK+Seroff        emot.amxx        running  
+ [ 55] PLUGIN                  VERSION     AUTHOR            cam.amxx         running  
+ [ 56] [JBE] Лорд          1.0         minibum           jbe_elite_admin  debug    
+ [ 57] legenda                 1.0         minibum           jbe_legenda.amx  running  
+ [ 58] [JBE_DM] Birth Day      1.1         Freedo.m          jbe_dm_birthday  debug    
+ [ 59] [JBE] DOGONYLKI         1.1         BATYP             jbe_dm_dogon9lk  debug    
+ [ 60] [JBE_DM] Sniper         1.0         Freedo.m          jbe_dm_Day_no4.  debug    
+ [ 61] [JBE_DM] Hide And Seek  1.1         Freedo.m          jbe_dm_hideands  debug    
+ [ 62] ***[D-JAIL]~[J-GALAXY]  1.0         Notepad++         jbe_galaxy.amxx  debug    
+ [ 63] [JBE_DM] DRUG NAHUI SU  0.1         kR1m1naL | VK.CO  jbe_dm_drug.amx  debug    
+ [ 64] [JBE_DM] Shtyrm         1.0         Freedo.m          jbe_dm_shtyrm.a  debug    
+ [ 65] [JBE_DM] Starwars       1.1         DARLOK            jbe_dm_starwars  debug    
+ [ 66] [JBE_DM] Magic          1.0         Halyavshik        jbe_dm_magic.am  debug    
+ [ 67] [JBE_DM] snipers        1.1         mdNss             jbe_dm_snipers.  debug    
+ [ 68] [JBE_DM] jetpack        1.1         mdNss             jbe_dm_jetpack.  debug    
+ [ 69] New Jetpack             0.0.2       Bad_Bud,ZmOutSta  zp_item_jetpack  debug    
+ [ 70] [JBE_DM] snipers        1.1         mdNss             jbe_dm_1hp.amxx  debug    
+ [ 71] Zombie                  1.0         Madness           jbe_dm_zombie.a  running  
+ [ 72] [ZP] Extra: M134 EX     1.0         LARS-DAY[BR]EAKE  jbe_weapon_m134  debug    
+ [ 73] Colored Translit        3.0         Sho0ter           colored_transli  running  
+ [ 74] Colored Translit Confi  3.0         Sho0ter           colored_transli  running  
+ [ 75] Parachute               1.0         maeStro           parachute.amxx   debug    
+ [ 76] [JBE] dop               1.0         minibum           jbe_dopmenu.amx  running  
+ [ 77] [JBE] Chief Step        1.0         Geneor            jbe_chiefstep.a  debug    
+ [ 78] SpecList                1.3         minibum           speclist.amxx    running  
+ [ 79] [JBE] smotr             1.0         minibum           jbe_smotr_dop.a  running  
+ [ 80] SC Ban                  1.0 Beta    malniata          sc_ban.amxx      running  
+ [ 81] JBE SPLEAF + CREATE BL  1.0         cut by thezoloto  stroit.amxx      running  
+ [ 82] AMX Blind               1           snoopy            amx_blind.amxx   running  
+ [ 83] unknown                 unknown     unknown           covid_mode.amxx  error    
+( 83) Error: [ReAPI]: Api minor version mismatch; expected at least 16, real 8
+83 plugins, 82 running
+L 11/21/2020 - 23:52:10: [admin_loader_for_fb.amxx] Login: "minibam<271><STEAM_0:1:189314915><>" became an admin (account "minibam") (nickname "minibam") (access "abcdefghjklopqrstu") (address "92.38.70.135")
+ -> file: (../demoplayer.dll), md5hex: (641d3c2c) for (minibam) 
+L 11/21/2020 - 23:52:11: "minibam<271><STEAM_0:1:189314915><>" entered the game
+L 11/21/2020 - 23:52:11: [admin_loader_for_fb.amxx] Login: "КИБОРГ УБИЦА<272><STEAM_1:0:538817610><>" became an admin (account "КИБОРГ УБИЦА") (nickname "КИБОРГ УБИЦА") (access "dist") (address "37.113.231.5")
+L 11/21/2020 - 23:52:11: "КИБОРГ УБИЦА<272><STEAM_1:0:538817610><>" entered the game
+L 11/21/2020 - 23:52:13: "тера<273><STEAM_1:0:1419563630><>" entered the game
+Currently loaded plugins:
+      description      stat pend  file                        vers            src  load  unload
+ [ 1] AMX Mod X        RUN   -    amxmodx_mm_i386.so          v1.9.0.5271     ini  Start ANY  
+ [ 2] LocalizeBug Fix  RUN   -    localizebugfix.so           v2.4            ini  Start Never
+ [ 3] Reunion          RUN   -    reunion_mm_i386.so          v0.1.0.92       ini  Start Never
+ [ 4] WHBlocker        RUN   -    whblocker.so                v1.5.696        ini  Chlvl ANY  
+ [ 5] Revoice          RUN   -    revoice.so                  v0.1.0.32       ini  Start Never
+ [ 6] Rechecker        RUN   -    rechecker_mm_i386.so        v2.5            ini  Chlvl ANY  
+ [ 7] CStrike          RUN   -    cstrike_amxx_i386.so        v1.9.0.5271     pl1  ANY   ANY  
+ [ 8] CSX              RUN   -    csx_amxx_i386.so            v1.9.0.5271     pl1  ANY   ANY  
+ [ 9] ReAPI            RUN   -    reapi_amxx_i386.so          v5.8.0.166-dev  pl1  ANY   Never
+ [10] MySQL            RUN   -    mysql_amxx_i386.so          v1.9.0.5271     pl1  ANY   ANY  
+ [11] FakeMeta         RUN   -    fakemeta_amxx_i386.so       v1.9.0.5271     pl1  ANY   ANY  
+ [12] Ham Sandwich     RUN   -    hamsandwich_amxx_i386.so    v1.9.0.5271     pl1  ANY   ANY  
+ [13] Engine           RUN   -    engine_amxx_i386.so         v1.9.0.5271     pl1  ANY   ANY  
+ [14] GeoIP            RUN   -    geoip_amxx_i386.so          v1.9.0.5271     pl1  ANY   ANY  
+ [15] Fun              RUN   -    fun_amxx_i386.so            v1.9.0.5271     pl1  ANY   ANY  
+ [16] ReAimDetector    RUN   -    reaimdetector_amxx_i386.so  v0.2.2          pl1  ANY   Never
+16 plugins, 16 running
+L 11/21/2020 - 23:52:14: "КИБОРГ УБИЦА<272><STEAM_1:0:538817610><>" joined team "CT"
+L 11/21/2020 - 23:52:14: World triggered "Round_Draw" (CT "0") (T "0")
+L 11/21/2020 - 23:52:14: World triggered "Round_End"
+L 11/21/2020 - 23:52:15: "тера<273><STEAM_1:0:1419563630><>" joined team "TERRORIST"
+L 11/21/2020 - 23:52:19: World triggered "Round_Start"
+L 11/21/2020 - 23:52:34: "тера<273><STEAM_1:0:1419563630><TERRORIST>" attacked "КИБОРГ УБИЦА<272><STEAM_1:0:538817610><CT>" with "awp" (damage "432") (damage_armor "0") (health "-332") (armor "100")
+L 11/21/2020 - 23:52:34: "тера<273><STEAM_1:0:1419563630><TERRORIST>" killed "КИБОРГ УБИЦА<272><STEAM_1:0:538817610><CT>" with "awp"
+L 11/21/2020 - 23:52:34: World triggered "Game_Commencing"
+L 11/21/2020 - 23:52:34: World triggered "Game_Commencing" (CT "0") (T "0")
+L 11/21/2020 - 23:52:34: World triggered "Round_End"
+L 11/21/2020 - 23:52:37: World triggered "Round_Start"
+Currently loaded plugins:
+       name                    version     author            file             status   
+ [  1] Admin Loader            3.4         neygomon          admin_loader_fo  running  
+ [  2] FreshBans               1.4.3b      kanagava          fresh_bans_143_  running  
+ [  3] fb_forwards             0.1.4       Kanagava & Realu  fb_forwards.amx  running  
+ [  4] CSStatsX SQL            0.7.4       serfreeman1337    csstatsx_sql.am  running  
+ [  5] AMXX Gag                1.4         minibum           amx_gag.amxx     running  
+ [  6] CS Stats Logging        1.9.0.5241  AMXX Dev Team     stats_logging.a  running  
+ [  7] Admin Commands          1.9.0.5235  AMXX Dev Team     admincmd.amxx    running  
+ [  8] Admin_Log_IP            1.0         minion            admin_log_ip.am  running  
+ [  9] Контроль Ад�  0.1         minibam           check_admins.am  running  
+ [ 10] Anti Reklama            3.0b        minibam           antireklama.amx  running  
+ [ 11] Commands Menu           1.9.0.5241  AMXX Dev Team     cmdmenu.amxx     running  
+ [ 12] Info. Messages          1.9.0.5241  AMXX Dev Team     imessage.amxx    running  
+ [ 13] Players Menu            1.8.2       AMXX Dev Team     plmenu.amxx      running  
+ [ 14] Plugin Menu             1.9.0.5241  AMXX Dev Team     pluginmenu.amxx  running  
+ [ 15] Scrolling Message       1.9.0.5241  AMXX Dev Team     scrollmsg.amxx   running  
+ [ 16] Admin Votes             1.9.0.5241  AMXX Dev Team     adminvote.amxx   running  
+ [ 17] Stats Configuration     1.9.0.5241  AMXX Dev Team     statscfg.amxx    running  
+ [ 18] Advanced MapChooser     1.4.1       minibam           map_chooser_14.  running  
+ [ 19] Autoresponder/Advertis  0.5         MaximusBrood      reklama_in_chat  running  
+ [ 20] Custom Flashlight       0.4.0       ConnorMcLeod      custom_flashlig  running  
+ [ 21] cs-rp16.ru              1.0         minion            sam.amxx         running  
+ [ 22] Night VIP               0.1         F@nt0M            night_vip.amxx   running  
+ [ 23] AdminMenu               0.1         HoCok             super_menu.amxx  running  
+ [ 24] BanIP Fakes             0.2         Safety1st         banip_fakes.amx  running  
+ [ 25] Anim_EnadRound          1.0         ShaTalKiN         anim_endround.a  running  
+ [ 26] Give Weapon             1.0         OverGame          global_weapon.a  running  
+ [ 27] Christmas Tree Spawn    0.0.1b      wopox1337         christmas_tree_  running  
+ [ 28] Maps Menu               1.9.0.5241  AMXX Dev Team     mapsmenu.amxx    running  
+ [ 29] Proxy Detetor           1.0         _xvi              proxy_detetor.a  running  
+ [ 30] [HR] MapStart Random G  0.2         Hellr0ck          hr_mapstart_ran  running  
+ [ 31] Counter-advertising ni  Free        minibam           counter_adverti  running  
+ [ 32] Anti Fast Strafe        10.1        Proffi+Seroff     anti_fast_straf  running  
+ [ 33] Admin Chat              1.8.1.3746  AMXX Dev Team     adminchat_big_h  running  
+ [ 34] No Software Mode        0.1         panicaskill       no_software_mod  running  
+ [ 35] Anti Flood              1.9.0.5235  AMXX Dev Team     antiflood.amxx   running  
+ [ 36] Anti net_graph 2        1.0         Seroff            anti_net_graph_  running  
+ [ 37] ReAimDetector API       0.2.2       ReHLDS Team       reaimdetector.a  running  
+ [ 38] Game Namer              Version 1.  NeuroToxin        gamenamechanger  running  
+ [ 39] UnPrecacher             minibam -   Proo.Noob         limit_off.amxx   running  
+ [ 40] [JBE] Строител  1.1         minibam           jbe_building.am  running  
+ [ 41] Меню Диджея   1.1         minibam           menu_didjeya.am  running  
+ [ 42] HookManager             3.1         minibum           UltraHook.amxx   running  
+ [ 43] Normal Mode Kriss SV R  2.0         Asep, Credits :   normal-mode_kri  debug    
+ [ 44] [CSO] M4A1 Dark Knight  1.1         minibum           cso_buffm4_fix_  running  
+ [ 45] [CSO] AK47 PALADIN ||   1.0 || CLO  AsepKhairulAnam@  cso_buffak_fix_  running  
+ [ 46] Brick Peace V2          1.0         minibam           jbe_brickpeacev  running  
+ [ 47] [JBE] Grab + Menu       5.3         minibum           jbe_grab.amxx    debug    
+ [ 48] Paint                   1.0         minion            paint.amxx       running  
+ [ 49] Nade fixer              0.1         Mati              flyhighfix.amxx  debug    
+ [ 50] [JB] Weapon: AK-47 Kni  1.0         Crock / =)        jb_akknife.amxx  debug    
+ [ 51] jail_blue map enhancer  1.0         *CareFully*       jail_blue_enhan  running  
+ [ 52] Fix bug (say / say_tea  1.0         Ghost95V & popey  saycharfix.amxx  running  
+ [ 53] [Jail] Jail Core        4.2         minibam           jbe_core_mode.a  debug    
+ [ 54] Menu emotions           1.0         KEK+Seroff        emot.amxx        running  
+ [ 55] PLUGIN                  VERSION     AUTHOR            cam.amxx         running  
+ [ 56] [JBE] Лорд          1.0         minibum           jbe_elite_admin  debug    
+ [ 57] legenda                 1.0         minibum           jbe_legenda.amx  running  
+ [ 58] [JBE_DM] Birth Day      1.1         Freedo.m          jbe_dm_birthday  debug    
+ [ 59] [JBE] DOGONYLKI         1.1         BATYP             jbe_dm_dogon9lk  debug    
+ [ 60] [JBE_DM] Sniper         1.0         Freedo.m          jbe_dm_Day_no4.  debug    
+ [ 61] [JBE_DM] Hide And Seek  1.1         Freedo.m          jbe_dm_hideands  debug    
+ [ 62] ***[D-JAIL]~[J-GALAXY]  1.0         Notepad++         jbe_galaxy.amxx  debug    
+ [ 63] [JBE_DM] DRUG NAHUI SU  0.1         kR1m1naL | VK.CO  jbe_dm_drug.amx  debug    
+ [ 64] [JBE_DM] Shtyrm         1.0         Freedo.m          jbe_dm_shtyrm.a  debug    
+ [ 65] [JBE_DM] Starwars       1.1         DARLOK            jbe_dm_starwars  debug    
+ [ 66] [JBE_DM] Magic          1.0         Halyavshik        jbe_dm_magic.am  debug    
+ [ 67] [JBE_DM] snipers        1.1         mdNss             jbe_dm_snipers.  debug    
+ [ 68] [JBE_DM] jetpack        1.1         mdNss             jbe_dm_jetpack.  debug    
+ [ 69] New Jetpack             0.0.2       Bad_Bud,ZmOutSta  zp_item_jetpack  debug    
+ [ 70] [JBE_DM] snipers        1.1         mdNss             jbe_dm_1hp.amxx  debug    
+ [ 71] Zombie                  1.0         Madness           jbe_dm_zombie.a  running  
+ [ 72] [ZP] Extra: M134 EX     1.0         LARS-DAY[BR]EAKE  jbe_weapon_m134  debug    
+ [ 73] Colored Translit        3.0         Sho0ter           colored_transli  running  
+ [ 74] Colored Translit Confi  3.0         Sho0ter           colored_transli  running  
+ [ 75] Parachute               1.0         maeStro           parachute.amxx   debug    
+ [ 76] [JBE] dop               1.0         minibum           jbe_dopmenu.amx  running  
+ [ 77] [JBE] Chief Step        1.0         Geneor            jbe_chiefstep.a  debug    
+ [ 78] SpecList                1.3         minibum           speclist.amxx    running  
+ [ 79] [JBE] smotr             1.0         minibum           jbe_smotr_dop.a  running  
+ [ 80] SC Ban                  1.0 Beta    malniata          sc_ban.amxx      running  
+ [ 81] JBE SPLEAF + CREATE BL  1.0         cut by thezoloto  stroit.amxx      running  
+ [ 82] AMX Blind               1           snoopy            amx_blind.amxx   running  
+ [ 83] unknown                 unknown     unknown           covid_mode.amxx  error    
+( 83) Error: [ReAPI]: Api minor version mismatch; expected at least 16, real 8
+83 plugins, 82 running
+L 11/21/2020 - 23:52:50: Server cvar "sv_restart" = "5"
+L 11/21/2020 - 23:52:51: World triggered "Restart_Round_(5_seconds)"
+L 11/21/2020 - 23:52:51: Team "CT" scored "0" with "1" players
+L 11/21/2020 - 23:52:51: Team "TERRORIST" scored "0" with "1" players
+L 11/21/2020 - 23:52:51: Server cvar "sv_restart" = "0"
+L 11/21/2020 - 23:52:56: World triggered "Round_Start"
+L 11/21/2020 - 23:53:26: "КИБОРГ УБИЦА<272><STEAM_1:0:538817610><CT>" attacked "тера<273><STEAM_1:0:1419563630><TERRORIST>" with "m4a1" (damage "32") (damage_armor "0") (health "28") (armor "0")
+L 11/21/2020 - 23:53:26: "КИБОРГ УБИЦА<272><STEAM_1:0:538817610><CT>" attacked "тера<273><STEAM_1:0:1419563630><TERRORIST>" with "m4a1" (damage "32") (damage_armor "0") (health "-4") (armor "0")
+L 11/21/2020 - 23:53:26: "КИБОРГ УБИЦА<272><STEAM_1:0:538817610><CT>" killed "тера<273><STEAM_1:0:1419563630><TERRORIST>" with "m4a1"
+L 11/21/2020 - 23:53:26: Team "CT" triggered "CTs_Win" (CT "1") (T "0")
+L 11/21/2020 - 23:53:26: World triggered "Round_End"
+L 11/21/2020 - 23:53:31: World triggered "Round_Start"
+L 11/21/2020 - 23:53:41: "l Knife l Tomat<274><STEAM_1:0:883294881><>" connected, address "80.93.123.49:58182"
+80.93.123.49:58182:reconnect
+L 11/21/2020 - 23:53:52: "l Knife l Tomat<275><STEAM_1:0:883294881><>" connected, address "80.93.123.49:58182"
+L 11/21/2020 - 23:54:09: "l Knife l Tomat<275><STEAM_1:0:883294881><>" entered the game
+L 11/21/2020 - 23:54:13: "l Knife l Tomat<275><STEAM_1:0:883294881><>" joined team "TERRORIST"
+L 11/21/2020 - 23:54:18: "КИБОРГ УБИЦА<272><STEAM_1:0:538817610><CT>" attacked "тера<273><STEAM_1:0:1419563630><TERRORIST>" with "mp5navy" (damage "35") (damage_armor "0") (health "65") (armor "0")
+L 11/21/2020 - 23:54:18: "КИБОРГ УБИЦА<272><STEAM_1:0:538817610><CT>" attacked "тера<273><STEAM_1:0:1419563630><TERRORIST>" with "mp5navy" (damage "43") (damage_armor "0") (health "21") (armor "0")
+L 11/21/2020 - 23:54:18: "КИБОРГ УБИЦА<272><STEAM_1:0:538817610><CT>" attacked "тера<273><STEAM_1:0:1419563630><TERRORIST>" with "mp5navy" (damage "35") (damage_armor "0") (health "-13") (armor "0")
+L 11/21/2020 - 23:54:18: "КИБОРГ УБИЦА<272><STEAM_1:0:538817610><CT>" killed "тера<273><STEAM_1:0:1419563630><TERRORIST>" with "mp5navy"
+L 11/21/2020 - 23:54:18: Team "CT" triggered "CTs_Win" (CT "2") (T "0")
+L 11/21/2020 - 23:54:18: World triggered "Round_End"
+L 11/21/2020 - 23:54:23: World triggered "Round_Start"
+L 11/21/2020 - 23:54:24: "Чел он Влад<276><STEAM_0:0:569200943><>" connected, address "109.252.83.151:2777"
+L 11/21/2020 - 23:54:25: "Чел он Влад<276><STEAM_0:0:569200943><>" STEAM USERID validated
+109.252.83.151:2777:reconnect
+L 11/21/2020 - 23:54:28: "Чел он Влад<277><STEAM_0:0:569200943><>" connected, address "109.252.83.151:2777"
+L 11/21/2020 - 23:54:28: "Чел он Влад<277><STEAM_0:0:569200943><>" STEAM USERID validated
+L 11/21/2020 - 23:54:48: [admin_loader_for_fb.amxx] Login: "Чел он Влад<277><STEAM_0:0:569200943><>" became an admin (account "Чел он Влад") (nickname "Чел он Влад") (access "adgiklprst") (address "109.252.83.151")
+ -> file: (../demoplayer.dll), md5hex: (641d3c2c) for (Чел он Влад) 
+L 11/21/2020 - 23:54:48: "Чел он Влад<277><STEAM_0:0:569200943><>" entered the game
+L 11/21/2020 - 23:54:53: "Чел он Влад<277><STEAM_0:0:569200943><>" joined team "TERRORIST"
+Rcon from 195.88.208.116:37375:
+rcon 1768336768 "7K4YVX3KUfT8vzz7YLee-ZUZUzEXQ5ZjkvBrwzcjx" status
+L 11/21/2020 - 23:54:57: Rcon: "rcon 1768336768 "7K4YVX3KUfT8vzz7YLee-ZUZUzEXQ5ZjkvBrwzcjx" status" from "195.88.208.116:37375"
+(ВСЕМ) Ради Победы [ Jail ]  :  restart
+L 11/21/2020 - 23:55:08: [adminchat_big_hud_msg.amxx] Chat: "Ради Победы [ Jail ] <0><><>" say "restart"
+L 11/21/2020 - 23:55:08: "Ради Победы [ Jail ] <0><><>" triggered "amx_say" (text "restart")
+(ВСЕМ) Ради Победы [ Jail ]  :  restart
+L 11/21/2020 - 23:55:08: [adminchat_big_hud_msg.amxx] Chat: "Ради Победы [ Jail ] <0><><>" say "restart"
+L 11/21/2020 - 23:55:08: "Ради Победы [ Jail ] <0><><>" triggered "amx_say" (text "restart")
+(ВСЕМ) Ради Победы [ Jail ]  :  restart
+L 11/21/2020 - 23:55:09: [adminchat_big_hud_msg.amxx] Chat: "Ради Победы [ Jail ] <0><><>" say "restart"
+L 11/21/2020 - 23:55:09: "Ради Победы [ Jail ] <0><><>" triggered "amx_say" (text "restart")
+(ВСЕМ) Ради Победы [ Jail ]  :  restart
+L 11/21/2020 - 23:55:09: [adminchat_big_hud_msg.amxx] Chat: "Ради Победы [ Jail ] <0><><>" say "restart"
+L 11/21/2020 - 23:55:09: "Ради Победы [ Jail ] <0><><>" triggered "amx_say" (text "restart")
+(ВСЕМ) Ради Победы [ Jail ]  :  restart
+L 11/21/2020 - 23:55:09: [adminchat_big_hud_msg.amxx] Chat: "Ради Победы [ Jail ] <0><><>" say "restart"
+L 11/21/2020 - 23:55:09: "Ради Победы [ Jail ] <0><><>" triggered "amx_say" (text "restart")
+(ВСЕМ) Ради Победы [ Jail ]  :  restart
+L 11/21/2020 - 23:55:09: [adminchat_big_hud_msg.amxx] Chat: "Ради Победы [ Jail ] <0><><>" say "restart"
+L 11/21/2020 - 23:55:09: "Ради Победы [ Jail ] <0><><>" triggered "amx_say" (text "restart")
+(ВСЕМ) Ради Победы [ Jail ]  :  restart
+L 11/21/2020 - 23:55:09: [adminchat_big_hud_msg.amxx] Chat: "Ради Победы [ Jail ] <0><><>" say "restart"
+L 11/21/2020 - 23:55:09: "Ради Победы [ Jail ] <0><><>" triggered "amx_say" (text "restart")
+(ВСЕМ) Ради Победы [ Jail ]  :  restart
+L 11/21/2020 - 23:55:10: [adminchat_big_hud_msg.amxx] Chat: "Ради Победы [ Jail ] <0><><>" say "restart"
+L 11/21/2020 - 23:55:10: "Ради Победы [ Jail ] <0><><>" triggered "amx_say" (text "restart")
+(ВСЕМ) Ради Победы [ Jail ]  :  restart
+L 11/21/2020 - 23:55:10: [adminchat_big_hud_msg.amxx] Chat: "Ради Победы [ Jail ] <0><><>" say "restart"
+L 11/21/2020 - 23:55:10: "Ради Победы [ Jail ] <0><><>" triggered "amx_say" (text "restart")
+(ВСЕМ) Ради Победы [ Jail ]  :  restart
+L 11/21/2020 - 23:55:10: [adminchat_big_hud_msg.amxx] Chat: "Ради Победы [ Jail ] <0><><>" say "restart"
+L 11/21/2020 - 23:55:10: "Ради Победы [ Jail ] <0><><>" triggered "amx_say" (text "restart")
+Rcon from 195.88.208.116:39246:
+rcon 1768336768 "7K4YVX3KUfT8vzz7YLee-ZUZUzEXQ5ZjkvBrwzcjx" status
+L 11/21/2020 - 23:55:15: Rcon: "rcon 1768336768 "7K4YVX3KUfT8vzz7YLee-ZUZUzEXQ5ZjkvBrwzcjx" status" from "195.88.208.116:39246"

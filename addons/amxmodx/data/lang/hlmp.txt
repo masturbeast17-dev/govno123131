@@ -1,0 +1,23 @@
+﻿[ru]
+HLMP_CONFIG = Настройки
+HLMP_STOPMUSIC = Остановить
+HLMP_CLOSEWINDOW = Закройте это окно
+HLMP_GROUPS =
+HLMP_RADIOS = Станции
+HLMP_REPEAT = Авто повтор
+HLMP_VOLUME = Громкость
+HLMP_ABOUT = О плагине
+HLMP_CONFIGMENUTIP = Примечание: Изменения вступят в силу со следующей песни.
+HLMP_LISTENING = "%s" сейчас слушает радио >> %s
+
+[en]
+HLMP_CONFIG = Настройки
+HLMP_STOPMUSIC = Остановить
+HLMP_CLOSEWINDOW = Закройте это окно
+HLMP_GROUPS =
+HLMP_RADIOS = Станции
+HLMP_REPEAT = Авто повтор
+HLMP_VOLUME = Громкость
+HLMP_ABOUT = О плагине
+HLMP_CONFIGMENUTIP = Примечание: Изменения вступят в силу со следующей песни.
+HLMP_LISTENING = "%s" сейчас слушает радио >> %s

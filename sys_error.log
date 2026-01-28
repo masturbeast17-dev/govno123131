@@ -1,0 +1,223 @@
+L 16/10/2019 - 20:40:55: (map "de_dust2") Mod_LoadModel: models/ruka.mdl not found
+L 16/10/2019 - 20:43:49: (map "de_dust2") Mod_LoadModel: models/ruka.mdl not found
+L 16/10/2019 - 20:46:54: (map "de_dust2") Mod_LoadModel: models/ruka.mdl not found
+L 16/10/2019 - 20:49:50: (map "de_dust2") Mod_LoadModel: models/ruka.mdl not found
+L 16/10/2019 - 20:52:57: (map "de_dust2") Mod_LoadModel: models/ruka.mdl not found
+L 16/10/2019 - 20:55:59: (map "de_dust2") Mod_LoadModel: sprites/UltraHook/hook_T.spr not found
+L 16/10/2019 - 20:58:50: (map "de_dust2") Mod_LoadModel: sprites/UltraHook/hook_T.spr not found
+L 16/10/2019 - 21:00:43: (map "de_dust2") Mod_LoadModel: sprites/UltraHook/hook_T.spr not found
+L 16/10/2019 - 21:02:41: (map "de_dust2") Mod_LoadModel: sprites/UltraHook/hook_T.spr not found
+L 16/10/2019 - 21:05:52: (map "de_dust2") Mod_LoadModel: sprites/UltraHook/hook_T.spr not found
+L 16/10/2019 - 21:08:51: (map "de_dust2") Mod_LoadModel: sprites/UltraHook/hook_T.spr not found
+L 16/10/2019 - 21:11:54: (map "de_dust2") Mod_LoadModel: sprites/UltraHook/hook_T.spr not found
+L 16/10/2019 - 21:14:56: (map "de_dust2") Mod_LoadModel: sprites/UltraHook/hook_T.spr not found
+L 16/10/2019 - 21:18:53: (map "de_dust2") Mod_LoadModel: sprites/UltraHook/hook_T.spr not found
+L 16/10/2019 - 21:21:42: (map "de_dust2") Mod_LoadModel: sprites/UltraHook/hook_T.spr not found
+L 16/10/2019 - 21:25:11: (map "de_dust2") Mod_LoadModel: sprites/UltraHook/hook_T.spr not found
+L 16/10/2019 - 21:28:51: (map "de_dust2") Mod_LoadModel: sprites/UltraHook/hook_T.spr not found
+L 16/10/2019 - 21:31:52: (map "de_dust2") Mod_LoadModel: sprites/UltraHook/hook_T.spr not found
+L 16/10/2019 - 21:34:47: (map "de_dust2") Mod_LoadModel: sprites/UltraHook/hook_T.spr not found
+L 16/10/2019 - 21:37:55: (map "de_dust2") Mod_LoadModel: sprites/UltraHook/hook_T.spr not found
+L 16/10/2019 - 21:38:21: (map "de_dust2") Mod_LoadModel: sprites/UltraHook/hook_T.spr not found
+L 16/10/2019 - 21:41:01: (map "de_dust2") Mod_LoadModel: sprites/UltraHook/hook_T.spr not found
+L 16/10/2019 - 21:43:47: (map "de_dust2") Mod_LoadModel: sprites/UltraHook/hook_T.spr not found
+L 16/10/2019 - 21:46:43: (map "de_dust2") Mod_LoadModel: sprites/UltraHook/hook_T.spr not found
+L 16/10/2019 - 21:49:52: (map "de_dust2") Mod_LoadModel: sprites/UltraHook/hook_T.spr not found
+L 16/10/2019 - 21:52:38: (map "de_dust2") Mod_LoadModel: sprites/UltraHook/hook_T.spr not found
+L 16/10/2019 - 21:55:38: (map "de_dust2") Mod_LoadModel: sprites/UltraHook/hook_T.spr not found
+L 16/10/2019 - 21:58:43: (map "de_dust2") Mod_LoadModel: sprites/UltraHook/hook_T.spr not found
+L 16/10/2019 - 22:01:43: (map "de_dust2") Mod_LoadModel: sprites/UltraHook/hook_T.spr not found
+L 16/10/2019 - 22:03:37: (map "de_dust2") Mod_LoadModel: sprites/UltraHook/hook_T.spr not found
+L 16/10/2019 - 22:06:37: (map "de_dust2") Mod_LoadModel: sprites/UltraHook/hook_T.spr not found
+L 16/10/2019 - 22:08:31: (map "de_dust2") Mod_LoadModel: sprites/UltraHook/hook_T.spr not found
+L 16/10/2019 - 22:10:43: (map "de_dust2") Mod_LoadModel: sprites/UltraHook/hook_T.spr not found
+L 16/10/2019 - 22:28:03: (map "jail_especial_v2") Host_Error: ED_ParseEdict: Model '*206' failed to precache because the item count is over the 512 limit.
+Reduce the number of brush models and/or regular models in the map to correct this.
+
+L 16/10/2019 - 22:30:40: (map "jail_especial_v2") Host_Error: ED_ParseEdict: Model '*206' failed to precache because the item count is over the 512 limit.
+Reduce the number of brush models and/or regular models in the map to correct this.
+
+L 16/10/2019 - 22:30:57: (map "jail_especial_v2") Host_Error: ED_ParseEdict: Model '*206' failed to precache because the item count is over the 512 limit.
+Reduce the number of brush models and/or regular models in the map to correct this.
+
+L 17/10/2019 - 17:24:08: (map "jb_snow") Host_Error: ED_ParseEdict: Model '*261' failed to precache because the item count is over the 512 limit.
+Reduce the number of brush models and/or regular models in the map to correct this.
+
+L 17/10/2019 - 17:26:06: (map "jail_nuke_v3") Host_Error: ED_ParseEdict: Model '*265' failed to precache because the item count is over the 512 limit.
+Reduce the number of brush models and/or regular models in the map to correct this.
+
+L 17/10/2019 - 17:27:55: (map "jail_phoenix") Host_Error: ED_ParseEdict: Model '*265' failed to precache because the item count is over the 512 limit.
+Reduce the number of brush models and/or regular models in the map to correct this.
+
+L 17/10/2019 - 17:28:46: (map "jail_phoenix") Host_Error: ED_ParseEdict: Model '*265' failed to precache because the item count is over the 512 limit.
+Reduce the number of brush models and/or regular models in the map to correct this.
+
+L 29/12/2019 - 19:43:39: (map "de_dust2") Mod_LoadModel: models/jb_engine/weapons/v_hand.mdl not found
+L 29/12/2019 - 19:44:26: (map "de_dust2") Mod_LoadModel: models/jb_engine/days_mode/sparta/v_sword_shield.mdl not found
+L 29/12/2019 - 19:45:11: (map "de_dust2") Mod_LoadModel: models/jb_engine/days_mode/sparta/v_sword_shield.mdl not found
+L 29/12/2019 - 19:46:20: (map "de_dust2") Mod_LoadModel: models/jb_engine/days_mode/sparta/v_sword_shield.mdl not found
+L 31/12/2019 - 17:38:31: (map "de_dust2") Mod_LoadModel: models/jb_engine/weapons/p_hand.mdl not found
+L 31/12/2019 - 17:40:24: (map "de_dust2") Mod_LoadModel: models/jb_engine/days_mode/sparta/v_sword_shield.mdl not found
+L 21/03/2020 - 17:23:57: (map "jail_especial_v2") Host_Error: ED_ParseEdict: Model '*245' failed to precache because the item count is over the 512 limit.
+Reduce the number of brush models and/or regular models in the map to correct this.
+
+L 21/03/2020 - 19:46:29: (map "jail_rats") Host_Error: ED_ParseEdict: Model '*243' failed to precache because the item count is over the 512 limit.
+Reduce the number of brush models and/or regular models in the map to correct this.
+
+L 22/03/2020 - 03:05:02: (map "jail_especial_v2") Host_Error: ED_ParseEdict: Model '*245' failed to precache because the item count is over the 512 limit.
+Reduce the number of brush models and/or regular models in the map to correct this.
+
+L 22/03/2020 - 09:07:55: (map "jail_especial_v2") Host_Error: ED_ParseEdict: Model '*245' failed to precache because the item count is over the 512 limit.
+Reduce the number of brush models and/or regular models in the map to correct this.
+
+L 22/03/2020 - 11:14:40: (map "jb_russia_v1") Host_Error: ED_ParseEdict: Model '*242' failed to precache because the item count is over the 512 limit.
+Reduce the number of brush models and/or regular models in the map to correct this.
+
+L 22/03/2020 - 11:19:18: (map "jail_especial_v2") Host_Error: ED_ParseEdict: Model '*245' failed to precache because the item count is over the 512 limit.
+Reduce the number of brush models and/or regular models in the map to correct this.
+
+L 22/03/2020 - 11:27:39: (map "jb_russia_v1") Host_Error: ED_ParseEdict: Model '*242' failed to precache because the item count is over the 512 limit.
+Reduce the number of brush models and/or regular models in the map to correct this.
+
+L 22/03/2020 - 11:28:21: (map "jb_russia_v1") Host_Error: ED_ParseEdict: Model '*242' failed to precache because the item count is over the 512 limit.
+Reduce the number of brush models and/or regular models in the map to correct this.
+
+L 22/03/2020 - 11:29:49: (map "jail_rats") Host_Error: ED_ParseEdict: Model '*243' failed to precache because the item count is over the 512 limit.
+Reduce the number of brush models and/or regular models in the map to correct this.
+
+L 22/03/2020 - 11:35:07: (map "jail_crime") Host_Error: PF_setmodel_I: no precache: models/w_xm1014.mdl
+
+
+L 22/03/2020 - 11:36:27: (map "jail_panpa_v2") Host_Error: PF_setmodel_I: no precache: models/w_xm1014.mdl
+
+
+L 22/03/2020 - 11:37:19: (map "jail_nuke_v3") Host_Error: ED_ParseEdict: Model '*245' failed to precache because the item count is over the 512 limit.
+Reduce the number of brush models and/or regular models in the map to correct this.
+
+L 22/03/2020 - 11:39:36: (map "jail_west_b1") Host_Error: PF_setmodel_I: no precache: models/jail_west_new/jail_grass.mdl
+
+
+L 22/03/2020 - 11:41:07: (map "jail_phoenix") Host_Error: ED_ParseEdict: Model '*245' failed to precache because the item count is over the 512 limit.
+Reduce the number of brush models and/or regular models in the map to correct this.
+
+L 22/03/2020 - 11:43:13: (map "jail_xgames") Host_Error: PF_setmodel_I: no precache: models/w_galil.mdl
+
+
+L 22/03/2020 - 11:44:11: (map "jail_adampro_v2") Host_Error: PF_setmodel_I: no precache: models/w_xm1014.mdl
+
+
+L 22/03/2020 - 11:44:58: (map "jail_killer_v1") Host_Error: PF_setmodel_I: no precache: models/w_xm1014.mdl
+
+
+L 22/03/2020 - 11:49:04: (map "jail_xmf_play4ever") Host_Error: PF_precache_model_I: Model 'models/play4ever_maps/props/gramadinho2.mdl' failed to precache because the item count is over the 512 limit.
+Reduce the number of brush models and/or regular models in the map to correct this.
+
+L 22/03/2020 - 11:50:10: (map "jb_sexy") Host_Error: PF_setmodel_I: no precache: models/w_xm1014.mdl
+
+
+L 22/03/2020 - 11:50:59: (map "jail_darkover") Host_Error: ED_ParseEdict: Model '*242' failed to precache because the item count is over the 512 limit.
+Reduce the number of brush models and/or regular models in the map to correct this.
+
+L 22/03/2020 - 11:51:45: (map "jb_criminals") Host_Error: ED_ParseEdict: Model '*243' failed to precache because the item count is over the 512 limit.
+Reduce the number of brush models and/or regular models in the map to correct this.
+
+L 22/03/2020 - 11:52:42: (map "jail_hm_fisnesuyu") Host_Error: PF_setmodel_I: no precache: models/w_xm1014.mdl
+
+
+L 22/03/2020 - 11:53:25: (map "jail_hm_fisnesuyu") Mod_LoadModel: sprites/laserbeam.spr has been modified since starting the engine.  Consider running system diagnostics to check for faulty hardware.
+
+L 22/03/2020 - 11:55:48: (map "jail_mafia_csbr") Host_Error: PF_setmodel_I: no precache: models/pred_plant.mdl
+
+
+L 22/03/2020 - 11:56:18: (map "jail_lithuania") Host_Error: ED_ParseEdict: Model '*244' failed to precache because the item count is over the 512 limit.
+Reduce the number of brush models and/or regular models in the map to correct this.
+
+L 22/03/2020 - 11:58:14: (map "jail_dortduvar_v1") Host_Error: ED_ParseEdict: Model '*243' failed to precache because the item count is over the 512 limit.
+Reduce the number of brush models and/or regular models in the map to correct this.
+
+L 22/03/2020 - 11:58:46: (map "jailbreak_isyankar") Host_Error: PF_setmodel_I: no precache: models/lv_bottle.mdl
+
+
+L 22/03/2020 - 11:59:22: (map "jailbreak_isyankar") Host_Error: PF_setmodel_I: no precache: models/lv_bottle.mdl
+
+
+L 22/03/2020 - 12:00:03: (map "jail_summer") Mod_LoadModel: models/summer/toilet.mdl not found
+L 22/03/2020 - 12:01:39: (map "jail_coolf") Host_Error: PF_setmodel_I: no precache: models/chick.mdl
+
+
+L 22/03/2020 - 12:02:22: (map "jb_cp_assis") Host_Error: PF_setmodel_I: no precache: models/jb_ceh/grass.mdl
+
+
+L 22/03/2020 - 12:03:25: (map "jail_frz") Host_Error: PF_setmodel_I: no precache: models/palmtree.mdl
+
+
+L 22/03/2020 - 12:05:50: (map "jailbreak_nexus") Host_Error: PF_setmodel_I: no precache: models/w_xm1014.mdl
+
+
+L 22/03/2020 - 12:06:19: (map "jail_complexo_1") Host_Error: ED_ParseEdict: Model '*238' failed to precache because the item count is over the 512 limit.
+Reduce the number of brush models and/or regular models in the map to correct this.
+
+L 22/03/2020 - 12:08:03: (map "jail_arctic_rese_v4") Host_Error: PF_setmodel_I: no precache: models/w_xm1014.mdl
+
+
+L 22/03/2020 - 12:08:37: (map "jail_armageddon") Host_Error: ED_ParseEdict: Model '*245' failed to precache because the item count is over the 512 limit.
+Reduce the number of brush models and/or regular models in the map to correct this.
+
+L 22/03/2020 - 12:12:18: (map "jb_snow_book_v4") Host_Error: ED_ParseEdict: Model '*246' failed to precache because the item count is over the 512 limit.
+Reduce the number of brush models and/or regular models in the map to correct this.
+
+L 22/03/2020 - 12:12:59: (map "jb_night") Host_Error: PF_setmodel_I: no precache: models/w_xm1014.mdl
+
+
+L 22/03/2020 - 12:14:12: (map "jail_atomic_2011") Host_Error: PF_setmodel_I: no precache: models/w_xm1014.mdl
+
+
+L 22/03/2020 - 12:14:41: (map "jb_nwk") Host_Error: PF_setmodel_I: no precache: models/w_xm1014.mdl
+
+
+L 22/03/2020 - 12:15:11: (map "jb_eldorado_csbr") Host_Error: PF_setmodel_I: no precache: models/w_galil.mdl
+
+
+L 22/03/2020 - 12:15:45: (map "jail_snow_bypd311") Mod_LoadModel: models/jail_snow_bypd311/lozko.mdl not found
+L 22/03/2020 - 12:18:52: (map "jb_station5_a5") Host_Error: PF_setmodel_I: no precache: models/w_xm1014.mdl
+
+
+L 22/03/2020 - 12:24:50: (map "jail_buyukinfaz") Host_Error: PF_setmodel_I: no precache: models/w_xm1014.mdl
+
+
+L 22/03/2020 - 12:26:12: (map "jailbreak_xprince_globals") Host_Error: PF_setmodel_I: no precache: models/w_xm1014.mdl
+
+
+L 22/03/2020 - 12:27:18: (map "jail_dustier_v1b") Host_Error: PF_setmodel_I: no precache: models/w_galil.mdl
+
+
+L 22/03/2020 - 12:27:51: (map "jail_eglencex2") Host_Error: PF_setmodel_I: no precache: models/w_xm1014.mdl
+
+
+L 22/03/2020 - 12:29:11: (map "jail_js_snow") Host_Error: PF_setmodel_I: no precache: models/w_xm1014.mdl
+
+
+L 22/03/2020 - 12:29:41: (map "jail_beach_v2") Host_Error: PF_setmodel_I: no precache: models/w_xm1014.mdl
+
+
+L 22/03/2020 - 12:33:03: (map "jail_healbrake") Host_Error: ED_ParseEdict: Model '*244' failed to precache because the item count is over the 512 limit.
+Reduce the number of brush models and/or regular models in the map to correct this.
+
+L 22/03/2020 - 13:02:36: (map "") Host_Error: PF_setmodel_I: no precache: models/w_backpack.mdl
+
+
+L 22/03/2020 - 13:45:48: (map "") Host_Error: PF_setmodel_I: no precache: models/w_thighpack.mdl
+
+
+L 22/03/2020 - 13:49:36: (map "") Host_Error: PF_setmodel_I: no precache: models/w_thighpack.mdl
+
+
+L 22/03/2020 - 16:01:20: (map "") Host_Error: PF_setmodel_I: no precache: models/w_thighpack.mdl
+
+
+L 22/03/2020 - 20:37:25: (map "") Host_Error: PF_setmodel_I: no precache: models/w_shield.mdl
+
+
+L 22/03/2020 - 22:35:16: (map "") Host_Error: PF_setmodel_I: no precache: models/w_shield.mdl
+
+

@@ -1,0 +1,284 @@
+﻿[ru]
+HTML_META = <META http-equiv=Content-Type content='text/html;charset=UTF-8'>
+HTML_STYLE = <link href=^"http://demo.cscontrol.ru/serverp/motd2/stats_skill.css^" rel=stylesheet type=text/css>
+HTML_TOP_BODY = %s<p></p><center><table cellspacing=0 class=q>
+HTML_TOP_HEADER = <tr><th>#<th>&nbsp;Имя<th>&nbsp;Убил<th>&nbsp;Смертей<th>&nbsp;Попаданий<th>&nbsp;Выстрелов<th>&nbsp;В голову<th>&nbsp;Эфф<th>&nbsp;Акк
+HTML_TOP_TABLE = <tr%s><td>%d<td>%s<td>%d<td>%d<td>%d<td>%d<td>%d<td>%0.1f%%<td>%0.1f%%
+HTML_RANK_BODY = <div class="o"><img src="http://demo.cscontrol.ru/serverp/motd2/cstrike_icon_motd.png" width="14" height="18">&nbsp;Общая статистика игрока</div><p></p><table cellspacing=10 cellpadding=0><tr><td width=50%% class=q><table cellspacing=0><tr><th colspan=2>
+HTML_RANK_HEADER = <tr><td>&nbsp;Убито<td>%d (в голову: %d)<tr class=b><td>&nbsp;Смертей<td>%d<tr><td>&nbsp;Попаданий<td>%d<tr class=b><td>&nbsp;Выстрелов<td>%d<tr><td>&nbsp;Общий урон<td>%d<tr class=b><td>&nbsp;Эффективность<td>%0.2f%%<tr><td>&nbsp;Точность<td>%0.2f%%<tr><td>&nbsp;Скилл<td>%s</table><td width=50%% class=q><table cellspacing=0><tr><th colspan=2>Статистика попаданий
+HTML_RANK_TABLE = <tr%s><td>&nbsp;%s<td>&nbsp;%d
+HTML_STATS_BODY = <div class="o"><img src="http://demo.cscontrol.ru/serverp/motd2/cstrike_icon_motd.png" width="14" height="18">&nbsp;Личная статистика за карту</div><p></p>
+HTML_STATS_HEADER1 = <table cellspacing=10 cellpadding=0><tr><td valign=top width=20%% class=q><table cellspacing=0 width=100%%><tr><th colspan=2>&nbsp;Статистика<tr><td>&nbsp;Убито<br>&nbsp;Убито в голову<td>%d<br>%d<tr class=b><td>&nbsp;Смертей<td>%d<tr><td>&nbsp;Попаданий<td>%d<tr class=b><td>&nbsp;Выстрелов<td>%d<tr><td>&nbsp;Урон<td>%d<tr class=b><td>&nbsp;Эффективность<td>%0.2f%%<tr><td>&nbsp;Точность<td>%0.2f%%
+HTML_STATS_HEADER2 = </table><td valign=top width=80%% class=q><table cellspacing=0 width=100%%><tr><th>&nbsp;Оружие<th>&nbsp;Убито<th>&nbsp;Смертей<th>&nbsp;Попаданий<th>&nbsp;Выстрелов<th>&nbsp;Урон<th>&nbsp;Точность
+HTML_STATS_TABLE = <tr%s><td>&nbsp;%s<td>&nbsp;%d<td>&nbsp;%d<td>&nbsp;%d<td>&nbsp;%d<td>&nbsp;%d<td>&nbsp;%0.1f%%
+HTML_CLOSE = </table>
+HTML_BOT_TOP = Топ ботов
+HTML_PLAYER_TOP = <div class="o">Топ лучших игроков</div>
+HTML_RANKS_PLAYERS = <div class="o">Топ играющих</div>
+HTML_RANK_IS = %s на %d-ом месте из %d
+
+X_RANK_IS = %s на %d-ом месте из %d
+
+HTML_YOU = Вы
+HTML_PLAYER = Игрок
+IN_HEAD = В голову
+IN_CHEST = В грудь
+IN_STOMACH = В живот
+IN_LARM = В левую руку
+IN_RARM = В правую руку
+IN_LLEG = В левую ногу
+IN_RLEG = В правую ногу
+INFORANK_GOOD = !tВы поднялись на !n[!g%i!n] !tпозиций в статистике
+INFORANK_BAD = !tВы опустились на !n[!g%i!n] !tпозиций в статистике
+INFORANK_IS = !tВы на !n[!g%i!n] !tместе из !n[!g%i!n]. !tУбил !n[!g%i!n], !tсмертей !n[!g%i!n], !tпопал !n[!g%i!n], !tВаш !gSKILL !n[!g%s!n]
+DISABLE_ALIVE_MSG = !tДанная функция не доступна !n[!gживому!n] !tигроку
+HTML_NAME = Имя
+HTML_KILLS = Убил
+HTML_DEATHS = Смертей
+HTML_HITS = Попаданий
+HTML_SHOTS = Выстрелов
+HTML_HS = В голову
+HTML_EFF = Эфф
+HTML_ACC = Акк
+HTML_SKILL = Cкилл
+HTML_SKILL_VALUE = <div class="%s"></div>
+YOUR_RANK_IS_SKILL = !tВы занимаете !n[!g%d-е!n] !tместо из !n[!g%d!n], !tубив !n[!g%d!n], !tпопав !n[!g%d!n] !tраз, !gSKILL !n[!g%s!n]
+YOU_HIT = !tВы стреляли в !n[!g%s!n], !tпопав !n[!g%d!n] !tраз и нанесли !n[!g%d%%!n] !tурона
+
+WHOLEBODY = !n[!tТело!n]!g
+HEAD = !n[!tГолова!n]!g
+CHEST = !n[!tГрудь!n]!g
+STOMACH = !n[!tЖивот!n]!g
+LEFTARM = !n[!tЛ. рука!n]!g
+RIGHTARM = !n[!tПр. рука!n]!g
+LEFTLEG = !n[!tЛ. нога!n]!g
+RIGHTLEG = !n[!tПр. нога!n]!g
+MODE_SET_TO = "amx_statsx_mode" изменен на "%s"
+ATTACKERS = Нападавшие
+ACC = АКК
+HIT_S = попаданий
+DMG = урон
+VICTIMS = Обороняющиеся
+MOST_DMG = Наибольший урон нанес
+KILLED_YOU_DIST = !tВас убил !n[!g%s!n] !tс !n[!g%s!n], !tрасстояния !n[!g%0.0f м!n]!t
+DID_DMG_HITS = !tВы нанесли !n[!g%d!n] !tурона!n, !tпопав !n[!g%d!n] !tраз^n!n, !tно у него осталось !n[!g%dHP!n] !tи !n[!g%dAR!n]
+YOU_DID_DMG = !tВы нанесли !n[!g%d!n] !tурона!n, !tпопав !n[!g%d!n] !tраз
+EFF = ЭФФ.
+BEST_SCORE = Лучший результат
+KILL_S = убито
+TOTAL = Всего
+SHOT_S = выстрелов
+HITS_YOU_IN = %s попал Вам в
+KILLED_BY_WITH = !tВас убил !n[!g%s!n] !tс !n[!g%s!n], !tрасстояния !n[!g%0.0f м!n]
+NO_HITS = !tНи одного попадания 
+YOU_NO_KILLER = !tВас никто не убивал !g:)
+YOU_HIT = !tВы стреляли в !n[!g%s!n], !tпопав !n[!g%d!n] !tраз и нанесли !n[!g%d%%!n] !tурона
+LAST_RES = !tПоследний результ!n: !n[!g%d!n] !tпопаданий!n, !n[!g%d%%!n] !tурона
+KILLS = Убито
+DEATHS = Смертей
+HITS = Попаданий
+SHOTS = Выстрелов
+YOUR = Ваш
+PLAYERS = Игроки
+RANK_IS = %d-е место из %d
+DAMAGE = Урон
+WEAPON = Оружие
+AMMO = Патроны
+HEALTH = Жизни
+ARMOR = Броня
+GAME_SCORE = Очки
+STATS_ANNOUNCE = Вы %s сообщения статистики
+ENABLED = включили
+DISABLED = выключили
+SERVER_STATS = Статистика сервера
+DISABLED_MSG = !tНа сервере заблокирована данная функция !g:(
+
+[ua]
+HTML_META = <META http-equiv=Content-Type content='text/html;charset=UTF-8'>
+HTML_STYLE = <link href=^"http://demo.cscontrol.ru/serverp/motd2/stats_skill.css^" rel=stylesheet type=text/css>
+HTML_TOP_BODY = %s<p></p><center><table cellspacing=0 class=q>
+HTML_TOP_HEADER = <tr><th>#<th>&nbsp;Имя<th>&nbsp;Убил<th>&nbsp;Смертей<th>&nbsp;Попаданий<th>&nbsp;Выстрелов<th>&nbsp;В голову<th>&nbsp;Эфф<th>&nbsp;Акк
+HTML_TOP_TABLE = <tr%s><td>%d<td>%s<td>%d<td>%d<td>%d<td>%d<td>%d<td>%0.1f%%<td>%0.1f%%
+HTML_RANK_BODY = <div class="o"><img src="http://demo.cscontrol.ru/serverp/motd2/cstrike_icon_motd.png" width="14" height="18">&nbsp;Общая статистика игрока</div><p></p><table cellspacing=10 cellpadding=0><tr><td width=50%% class=q><table cellspacing=0><tr><th colspan=2>
+HTML_RANK_HEADER = <tr><td>&nbsp;Убито<td>%d (в голову: %d)<tr class=b><td>&nbsp;Смертей<td>%d<tr><td>&nbsp;Попаданий<td>%d<tr class=b><td>&nbsp;Выстрелов<td>%d<tr><td>&nbsp;Общий урон<td>%d<tr class=b><td>&nbsp;Эффективность<td>%0.2f%%<tr><td>&nbsp;Точность<td>%0.2f%%<tr><td>&nbsp;Скилл<td>%s</table><td width=50%% class=q><table cellspacing=0><tr><th colspan=2>Статистика попаданий
+HTML_RANK_TABLE = <tr%s><td>&nbsp;%s<td>&nbsp;%d
+HTML_STATS_BODY = <div class="o"><img src="http://demo.cscontrol.ru/serverp/motd2/cstrike_icon_motd.png" width="14" height="18">&nbsp;Личная статистика за карту</div><p></p>
+HTML_STATS_HEADER1 = <table cellspacing=10 cellpadding=0><tr><td valign=top width=20%% class=q><table cellspacing=0 width=100%%><tr><th colspan=2>&nbsp;Статистика<tr><td>&nbsp;Убито<br>&nbsp;Убито в голову<td>%d<br>%d<tr class=b><td>&nbsp;Смертей<td>%d<tr><td>&nbsp;Попаданий<td>%d<tr class=b><td>&nbsp;Выстрелов<td>%d<tr><td>&nbsp;Урон<td>%d<tr class=b><td>&nbsp;Эффективность<td>%0.2f%%<tr><td>&nbsp;Точность<td>%0.2f%%
+HTML_STATS_HEADER2 = </table><td valign=top width=80%% class=q><table cellspacing=0 width=100%%><tr><th>&nbsp;Оружие<th>&nbsp;Убито<th>&nbsp;Смертей<th>&nbsp;Попаданий<th>&nbsp;Выстрелов<th>&nbsp;Урон<th>&nbsp;Точность
+HTML_STATS_TABLE = <tr%s><td>&nbsp;%s<td>&nbsp;%d<td>&nbsp;%d<td>&nbsp;%d<td>&nbsp;%d<td>&nbsp;%d<td>&nbsp;%0.1f%%
+HTML_CLOSE = </table>
+HTML_BOT_TOP = Топ ботов
+HTML_PLAYER_TOP = <div class="o">Топ лучших игроков</div>
+HTML_RANKS_PLAYERS = <div class="o">Топ играющих</div>
+HTML_RANK_IS = %s на %d-ом месте из %d
+
+X_RANK_IS = %s на %d-ом месте из %d
+
+HTML_YOU = Вы
+HTML_PLAYER = Игрок
+IN_HEAD = В голову
+IN_CHEST = В грудь
+IN_STOMACH = В живот
+IN_LARM = В левую руку
+IN_RARM = В правую руку
+IN_LLEG = В левую ногу
+IN_RLEG = В правую ногу
+INFORANK_GOOD = !tВы поднялись на !n[!g%i!n] !tпозиций в статистике
+INFORANK_BAD = !tВы опустились на !n[!g%i!n] !tпозиций в статистике
+INFORANK_IS = !tВы на !n[!g%i!n] !tместе из !n[!g%i!n]. !tУбил !n[!g%i!n], !tсмертей !n[!g%i!n], !tпопал !n[!g%i!n], !tВаш !gSKILL !n[!g%s!n]
+DISABLE_ALIVE_MSG = !tДанная функция не доступна !n[!gживому!n] !tигроку
+HTML_NAME = Имя
+HTML_KILLS = Убил
+HTML_DEATHS = Смертей
+HTML_HITS = Попаданий
+HTML_SHOTS = Выстрелов
+HTML_HS = В голову
+HTML_EFF = Эфф
+HTML_ACC = Акк
+HTML_SKILL = Cкилл
+HTML_SKILL_VALUE = <div class="%s"></div>
+YOUR_RANK_IS_SKILL = !tВы занимаете !n[!g%d-е!n] !tместо из !n[!g%d!n], !tубив !n[!g%d!n], !tпопав !n[!g%d!n] !tраз, !gSKILL !n[!g%s!n]
+YOU_HIT = !tВы стреляли в !n[!g%s!n], !tпопав !n[!g%d!n] !tраз и нанесли !n[!g%d%%!n] !tурона
+
+WHOLEBODY = !n[!tТело!n]!g
+HEAD = !n[!tГолова!n]!g
+CHEST = !n[!tГрудь!n]!g
+STOMACH = !n[!tЖивот!n]!g
+LEFTARM = !n[!tЛ. рука!n]!g
+RIGHTARM = !n[!tПр. рука!n]!g
+LEFTLEG = !n[!tЛ. нога!n]!g
+RIGHTLEG = !n[!tПр. нога!n]!g
+MODE_SET_TO = "amx_statsx_mode" изменен на "%s"
+ATTACKERS = Нападавшие
+ACC = АКК
+HIT_S = попаданий
+DMG = урон
+VICTIMS = Обороняющиеся
+MOST_DMG = Наибольший урон нанес
+KILLED_YOU_DIST = !tВас убил !n[!g%s!n] !tс !n[!g%s!n], !tрасстояния !n[!g%0.0f м!n]!t
+DID_DMG_HITS = !tВы нанесли !n[!g%d!n] !tурона!n, !tпопав !n[!g%d!n] !tраз^n!n, !tно у него осталось !n[!g%dHP!n] !tи !n[!g%dAR!n]
+YOU_DID_DMG = !tВы нанесли !n[!g%d!n] !tурона!n, !tпопав !n[!g%d!n] !tраз
+EFF = ЭФФ.
+BEST_SCORE = Лучший результат
+KILL_S = убито
+TOTAL = Всего
+SHOT_S = выстрелов
+HITS_YOU_IN = %s попал Вам в
+KILLED_BY_WITH = !tВас убил !n[!g%s!n] !tс !n[!g%s!n], !tрасстояния !n[!g%0.0f м!n]
+NO_HITS = !tНи одного попадания 
+YOU_NO_KILLER = !tВас никто не убивал !g:)
+YOU_HIT = !tВы стреляли в !n[!g%s!n], !tпопав !n[!g%d!n] !tраз и нанесли !n[!g%d%%!n] !tурона
+LAST_RES = !tПоследний результ!n: !n[!g%d!n] !tпопаданий!n, !n[!g%d%%!n] !tурона
+KILLS = Убито
+DEATHS = Смертей
+HITS = Попаданий
+SHOTS = Выстрелов
+YOUR = Ваш
+PLAYERS = Игроки
+RANK_IS = %d-е место из %d
+DAMAGE = Урон
+WEAPON = Оружие
+AMMO = Патроны
+HEALTH = Жизни
+ARMOR = Броня
+GAME_SCORE = Очки
+STATS_ANNOUNCE = Вы %s сообщения статистики
+ENABLED = включили
+DISABLED = выключили
+SERVER_STATS = Статистика сервера
+DISABLED_MSG = !tНа сервере заблокирована данная функция !g:(
+
+[en]
+HTML_META = <META http-equiv=Content-Type content='text/html;charset=UTF-8'>
+HTML_STYLE = <link href=^"http://demo.cscontrol.ru/serverp/motd2/stats_skill.css^" rel=stylesheet type=text/css>
+HTML_TOP_BODY = %s<p></p><center><table cellspacing=0 class=q>
+HTML_TOP_HEADER = <tr><th>#<th>&nbsp;Имя<th>&nbsp;Убил<th>&nbsp;Смертей<th>&nbsp;Попаданий<th>&nbsp;Выстрелов<th>&nbsp;В голову<th>&nbsp;Эфф<th>&nbsp;Акк
+HTML_TOP_TABLE = <tr%s><td>%d<td>%s<td>%d<td>%d<td>%d<td>%d<td>%d<td>%0.1f%%<td>%0.1f%%
+HTML_RANK_BODY = <div class="o"><img src="http://demo.cscontrol.ru/serverp/motd2/cstrike_icon_motd.png" width="14" height="18">&nbsp;Общая статистика игрока</div><p></p><table cellspacing=10 cellpadding=0><tr><td width=50%% class=q><table cellspacing=0><tr><th colspan=2>
+HTML_RANK_HEADER = <tr><td>&nbsp;Убито<td>%d (в голову: %d)<tr class=b><td>&nbsp;Смертей<td>%d<tr><td>&nbsp;Попаданий<td>%d<tr class=b><td>&nbsp;Выстрелов<td>%d<tr><td>&nbsp;Общий урон<td>%d<tr class=b><td>&nbsp;Эффективность<td>%0.2f%%<tr><td>&nbsp;Точность<td>%0.2f%%<tr><td>&nbsp;Скилл<td>%s</table><td width=50%% class=q><table cellspacing=0><tr><th colspan=2>Статистика попаданий
+HTML_RANK_TABLE = <tr%s><td>&nbsp;%s<td>&nbsp;%d
+HTML_STATS_BODY = <div class="o"><img src="http://demo.cscontrol.ru/serverp/motd2/cstrike_icon_motd.png" width="14" height="18">&nbsp;Личная статистика за карту</div><p></p>
+HTML_STATS_HEADER1 = <table cellspacing=10 cellpadding=0><tr><td valign=top width=20%% class=q><table cellspacing=0 width=100%%><tr><th colspan=2>&nbsp;Статистика<tr><td>&nbsp;Убито<br>&nbsp;Убито в голову<td>%d<br>%d<tr class=b><td>&nbsp;Смертей<td>%d<tr><td>&nbsp;Попаданий<td>%d<tr class=b><td>&nbsp;Выстрелов<td>%d<tr><td>&nbsp;Урон<td>%d<tr class=b><td>&nbsp;Эффективность<td>%0.2f%%<tr><td>&nbsp;Точность<td>%0.2f%%
+HTML_STATS_HEADER2 = </table><td valign=top width=80%% class=q><table cellspacing=0 width=100%%><tr><th>&nbsp;Оружие<th>&nbsp;Убито<th>&nbsp;Смертей<th>&nbsp;Попаданий<th>&nbsp;Выстрелов<th>&nbsp;Урон<th>&nbsp;Точность
+HTML_STATS_TABLE = <tr%s><td>&nbsp;%s<td>&nbsp;%d<td>&nbsp;%d<td>&nbsp;%d<td>&nbsp;%d<td>&nbsp;%d<td>&nbsp;%0.1f%%
+HTML_CLOSE = </table>
+HTML_BOT_TOP = Топ ботов
+HTML_PLAYER_TOP = <div class="o">Топ лучших игроков</div>
+HTML_RANKS_PLAYERS = <div class="o">Топ играющих</div>
+HTML_RANK_IS = %s на %d-ом месте из %d
+
+X_RANK_IS = %s на %d-ом месте из %d
+
+HTML_YOU = Вы
+HTML_PLAYER = Игрок
+IN_HEAD = В голову
+IN_CHEST = В грудь
+IN_STOMACH = В живот
+IN_LARM = В левую руку
+IN_RARM = В правую руку
+IN_LLEG = В левую ногу
+IN_RLEG = В правую ногу
+INFORANK_GOOD = !tВы поднялись на !n[!g%i!n] !tпозиций в статистике
+INFORANK_BAD = !tВы опустились на !n[!g%i!n] !tпозиций в статистике
+INFORANK_IS = !tВы на !n[!g%i!n] !tместе из !n[!g%i!n]. !tУбил !n[!g%i!n], !tсмертей !n[!g%i!n], !tпопал !n[!g%i!n], !tВаш !gSKILL !n[!g%s!n]
+DISABLE_ALIVE_MSG = !tДанная функция не доступна !n[!gживому!n] !tигроку
+HTML_NAME = Имя
+HTML_KILLS = Убил
+HTML_DEATHS = Смертей
+HTML_HITS = Попаданий
+HTML_SHOTS = Выстрелов
+HTML_HS = В голову
+HTML_EFF = Эфф
+HTML_ACC = Акк
+HTML_SKILL = Cкилл
+HTML_SKILL_VALUE = <div class="%s"></div>
+YOUR_RANK_IS_SKILL = !tВы занимаете !n[!g%d-е!n] !tместо из !n[!g%d!n], !tубив !n[!g%d!n], !tпопав !n[!g%d!n] !tраз, !gSKILL !n[!g%s!n]
+YOU_HIT = !tВы стреляли в !n[!g%s!n], !tпопав !n[!g%d!n] !tраз и нанесли !n[!g%d%%!n] !tурона
+
+WHOLEBODY = !n[!tТело!n]!g
+HEAD = !n[!tГолова!n]!g
+CHEST = !n[!tГрудь!n]!g
+STOMACH = !n[!tЖивот!n]!g
+LEFTARM = !n[!tЛ. рука!n]!g
+RIGHTARM = !n[!tПр. рука!n]!g
+LEFTLEG = !n[!tЛ. нога!n]!g
+RIGHTLEG = !n[!tПр. нога!n]!g
+MODE_SET_TO = "amx_statsx_mode" изменен на "%s"
+ATTACKERS = Нападавшие
+ACC = АКК
+HIT_S = попаданий
+DMG = урон
+VICTIMS = Обороняющиеся
+MOST_DMG = Наибольший урон нанес
+KILLED_YOU_DIST = !tВас убил !n[!g%s!n] !tс !n[!g%s!n], !tрасстояния !n[!g%0.0f м!n]!t
+DID_DMG_HITS = !tВы нанесли !n[!g%d!n] !tурона!n, !tпопав !n[!g%d!n] !tраз^n!n, !tно у него осталось !n[!g%dHP!n] !tи !n[!g%dAR!n]
+YOU_DID_DMG = !tВы нанесли !n[!g%d!n] !tурона!n, !tпопав !n[!g%d!n] !tраз
+EFF = ЭФФ.
+BEST_SCORE = Лучший результат
+KILL_S = убито
+TOTAL = Всего
+SHOT_S = выстрелов
+HITS_YOU_IN = %s попал Вам в
+KILLED_BY_WITH = !tВас убил !n[!g%s!n] !tс !n[!g%s!n], !tрасстояния !n[!g%0.0f м!n]
+NO_HITS = !tНи одного попадания 
+YOU_NO_KILLER = !tВас никто не убивал !g:)
+YOU_HIT = !tВы стреляли в !n[!g%s!n], !tпопав !n[!g%d!n] !tраз и нанесли !n[!g%d%%!n] !tурона
+LAST_RES = !tПоследний результ!n: !n[!g%d!n] !tпопаданий!n, !n[!g%d%%!n] !tурона
+KILLS = Убито
+DEATHS = Смертей
+HITS = Попаданий
+SHOTS = Выстрелов
+YOUR = Ваш
+PLAYERS = Игроки
+RANK_IS = %d-е место из %d
+DAMAGE = Урон
+WEAPON = Оружие
+AMMO = Патроны
+HEALTH = Жизни
+ARMOR = Броня
+GAME_SCORE = Очки
+STATS_ANNOUNCE = Вы %s сообщения статистики
+ENABLED = включили
+DISABLED = выключили
+SERVER_STATS = Статистика сервера
+DISABLED_MSG = !tНа сервере заблокирована данная функция !g:(

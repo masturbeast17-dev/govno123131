@@ -1,0 +1,6 @@
+Map name: jail_xmf.
+Version map: Counter Strike 1.6
+Category: Jail
+
+Download from cs-files.net (rus).
+In site cs-files.net there is still more than 3000 maps.

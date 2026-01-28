@@ -1,0 +1,530 @@
+Protocol version 48
+Exe version 1.1.2.7/Stdio (cstrike)
+Exe build: 16:23:03 Oct  6 2020 (2369)
+Executing ReGameDLL Configuration File 
+unknown command "mp_freeforall"
+unknown command "mp_maxmoney"
+unknown command "mp_round_infinite"
+unknown command "mp_hegrenade_penetration"
+unknown command "mp_nadedrops"
+unknown command "mp_roundrespawn_time"
+unknown command "mp_auto_reload_weapons"
+unknown command "mp_refill_bpammo_weapons"
+unknown command "bot_deathmatch"
+unknown command "mp_auto_join_team"
+Executing ReGameDLL Configuration File 
+unknown command "mp_freeforall"
+unknown command "mp_maxmoney"
+unknown command "mp_round_infinite"
+unknown command "mp_hegrenade_penetration"
+unknown command "mp_nadedrops"
+unknown command "mp_roundrespawn_time"
+unknown command "mp_auto_reload_weapons"
+unknown command "mp_refill_bpammo_weapons"
+unknown command "bot_deathmatch"
+unknown command "mp_auto_join_team"
+Server IP address 195.88.208.116:27015
+   
+   Metamod-r version 1.3.0.128 Copyright (c) 2016-2018 ReHLDS Team (rebuild of original Metamod by Will Day and Jussi Kivilinna)
+   Metamod-r comes with ABSOLUTELY NO WARRANTY; for details type `meta gpl'.
+   This is free software, and you are welcome to redistribute it
+   under certain conditions; type `meta gpl' for details.
+   
+Metamod-r v1.3.0.128, API (5:13)
+Metamod-r build: 17:47:48 Aug 24 2018
+Metamod-r from: https://github.com/theAsmodai/metamod-r/commit/0cf2f70
+
+   AMX Mod X version 1.9.0.5271 Copyright (c) 2004-2015 AMX Mod X Development Team 
+   AMX Mod X comes with ABSOLUTELY NO WARRANTY; for details type `amxx gpl'.
+   This is free software and you are welcome to redistribute it under 
+   certain conditions; type 'amxx gpl' for details.
+  
+[WHB] Version: 1.5.696 Linux (Usage SSE 4.1)
+[WHB] Success: Build ReHLDS version defined Linux '2369'
+[WHB] Success: Configuration executed.
+ReGameDLL version: 5.11.0.420-dev+m
+L 11/22/2020 - 12:51:22: -------- Mapchange to jail_float --------
+L 11/22/2020 - 12:51:22: [GEOIP] Database info: GeoLite2 Country database 2.0
+[ReAimDetector] Version: 0.2.2 Linux 'Counter-Strike 1.6'
+[ReAimDetector] Success: Build ReHLDS version defined Linux '2369'.
+Executing ReGameDLL Configuration File 
+unknown command "bot_deathmatch"
+Executing ReGameDLL Configuration File 
+unknown command "bot_deathmatch"
+unknown command "amx_default_access"
+unknown command "amx_password_field"
+unknown command "amx_mode"
+unknown command "amx_show_activity"
+unknown command "amx_imessage"
+unknown command "amx_freq_imessage"
+unknown command "amx_plmenu_bantimes"
+unknown command "amx_tempban_maxtime"
+unknown command "amx_plmenu_slapdmg"
+unknown command "amx_flood_time"
+unknown command "amx_reservation"
+unknown command "amx_hideslots"
+unknown command "amx_time_display"
+unknown command "amx_time_voice"
+unknown command "amx_vote_delay"
+unknown command "amx_vote_time"
+unknown command "amx_vote_answers"
+unknown command "amx_votekick_ratio"
+unknown command "amx_voteban_ratio"
+unknown command "amx_votemap_ratio"
+unknown command "amx_vote_ratio"
+unknown command "amx_extendmap_max"
+unknown command "amx_extendmap_step"
+unknown command "amx_language_display_msg"
+unknown command "amx_help_display_msg"
+unknown command "amx_help_display_msg_time"
+unknown command "amx_help_amount_per_page"
+unknown command "amx_statsx_duration"
+unknown command "amx_statsx_freeze"
+unknown command "amx_restrmapsettings"
+unknown command "amx_password_field"
+unknown command "amx_amxadmins_table"
+unknown command "amx_admins_table"
+unknown command "amx_mode"
+unknown command "amx_imessage"
+unknown command "amx_freq_imessage"
+unknown command "amx_plmenu_bantimes"
+unknown command "amx_tempban_maxtime"
+unknown command "amx_plmenu_slapdmg"
+unknown command "amx_flood_time"
+unknown command "amx_reservation"
+unknown command "amx_hideslots"
+unknown command "amx_time_display"
+unknown command "amx_time_voice"
+unknown command "amx_extendmap_max"
+unknown command "amx_extendmap_step"
+unknown command "amx_language_display_msg"
+unknown command "amx_help_display_msg"
+unknown command "amx_help_display_msg_time"
+unknown command "amx_help_amount_per_page"
+unknown command "amx_statsx_duration"
+unknown command "amx_statsx_freeze"
+unknown command "amx_restrmapsettings"
+IP Подошёл.
+L 11/22/2020 - 12:51:23: [colored_translit_config.amxx] Can't add menu item "Настройки чата" from plugin "Colored Translit Config" to menu set because the Menus Front-End plugin itself is not loaded!
+[COVID mode]: Everything is fine! The configuration file is loaded! 
+L 11/22/2020 - 12:51:23: [map_chooser_14.amxx] Загружено 49 карт из addons/amxmodx/configs/maps.ini
+L 11/22/2020 - 12:51:23: [map_chooser_14.amxx] Режим сортировки карт по онлайну выключен!
+========== [Colored Translit] START SET FCVAR ==========
+=========== [Colored Translit] END SET FCVAR ===========
+=========== [Colored Translit] START DEBUG =============
+[Colored Translit] Translit File Loaded. Symbols: 65
+[Colored Translit] Swear File Loaded. Swears: 0
+[Colored Translit] Replace File Loaded. Replacements: 1
+[Colored Translit] Ignore File Loaded. Ignore Words: 35
+[Colored Translit] Spam File Loaded. Spam Words: 172
+[Colored Translit] Cheat File Loaded. Cheat Words: 206
+[Colored Translit] Config File Executed. Version: 3.0
+=========== [Colored Translit] END DEBUG ===============
+unknown command "vk"
+couldn't exec addons/amxmodx/configs/jb_standard/all_cvars.cfg
+unknown command "jbe_last_prisoner_money"
+unknown command "jbe_vip_discount_shop"
+L 11/22/2020 - 12:51:24: [admin_loader_for_fb.amxx] Загружено 32 администраторов из MySQL
+Server logging data to file logs/L1122027.log
+L 11/22/2020 - 12:51:24: Log file started (file "logs/L1122027.log") (game "cstrike") (version "48/1.1.2.7/Stdio/2369")
+unknown command "sv_logecho"
+unknown command "sv_logfile"
+L 11/22/2020 - 12:51:24: Server cvar "mp_logdetail" = "3"
+unknown command "mp_autocrosshair"
+L 11/22/2020 - 12:51:24: Server cvar "sv_aim" = "0"
+unknown command "sv_airmove"
+unknown command "sv_voicequality"
+unknown command "sv_voicecodec"
+unknown command "amx_extendmap_max"
+unknown command "amx_extendmap_step"
+unknown command "cam_change"
+unknown command "cam_connect"
+unknown command "cam_message"
+unknown command "sid_url"
+unknown command "]fastcup.net/rating.html"
+unknown command "precache_hl"
+unknown command "precache_weapons"
+unknown command "amx_extendmap_max"
+unknown command "amx_extendmap_step"
+unknown command "sv_consistency"
+unknown command "amx_amxadmins_table"
+unknown command "amx_admins_table"
+L 11/22/2020 - 12:51:24: [pluginmenu.amxx] Can't add menu item "Plugin Cvars" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+L 11/22/2020 - 12:51:24: [pluginmenu.amxx] Can't add menu item "Plugin Commands" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+fsdfsd - 1 - 1
+Connection to Steam servers successful.
+   VAC secure mode disabled.
+L 11/22/2020 - 12:51:27: "minibam<1><STEAM_0:1:189314915><>" connected, address "92.38.68.242:12379"
+L 11/22/2020 - 12:51:28: "minibam<1><STEAM_0:1:189314915><>" STEAM USERID validated
+L 11/22/2020 - 12:51:29: "PROFESSOR<2><STEAM_1:0:879078399><>" connected, address "212.109.27.193:1555"
+L 11/22/2020 - 12:51:30: "КИБОРГ УБИЦА<3><STEAM_1:0:538817610><>" connected, address "37.113.231.5:27005"
+L 11/22/2020 - 12:51:30: [admin_loader_for_fb.amxx] Login: "minibam<1><STEAM_0:1:189314915><>" became an admin (account "minibam") (nickname "minibam") (access "abcdefghjklopqrstu") (address "92.38.68.242")
+ -> file: (../demoplayer.dll), md5hex: (641d3c2c) for (minibam) 
+L 11/22/2020 - 12:51:30: "minibam<1><STEAM_0:1:189314915><>" entered the game
+212.109.27.193:1555:reconnect
+L 11/22/2020 - 12:51:31: "PROFESSOR<4><STEAM_1:0:879078399><>" connected, address "212.109.27.193:1555"
+L 11/22/2020 - 12:51:32: World triggered "Round_Start"
+212.109.27.193:1555:reconnect
+L 11/22/2020 - 12:51:32: "PROFESSOR<5><STEAM_1:0:879078399><>" connected, address "212.109.27.193:1555"
+L 11/22/2020 - 12:51:32: "minibam<1><STEAM_0:1:189314915><>" joined team "TERRORIST"
+L 11/22/2020 - 12:51:32: World triggered "Round_Draw" (CT "0") (T "0")
+L 11/22/2020 - 12:51:32: World triggered "Round_End"
+L 11/22/2020 - 12:51:35: "PROFESSOR<5><STEAM_1:0:879078399><>" entered the game
+L 11/22/2020 - 12:51:36: "PROFESSOR<5><STEAM_1:0:879078399><>" joined team "TERRORIST"
+L 11/22/2020 - 12:51:37: World triggered "Round_Start"
+L 11/22/2020 - 12:51:40: [admin_loader_for_fb.amxx] Login: "КИБОРГ УБИЦА<3><STEAM_1:0:538817610><>" became an admin (account "КИБОРГ УБИЦА") (nickname "КИБОРГ УБИЦА") (access "dist") (address "37.113.231.5")
+L 11/22/2020 - 12:51:40: "КИБОРГ УБИЦА<3><STEAM_1:0:538817610><>" entered the game
+L 11/22/2020 - 12:51:44: "КИБОРГ УБИЦА<3><STEAM_1:0:538817610><>" joined team "CT"
+L 11/22/2020 - 12:51:44: World triggered "Game_Commencing"
+L 11/22/2020 - 12:51:44: World triggered "Game_Commencing" (CT "0") (T "0")
+L 11/22/2020 - 12:51:44: World triggered "Round_End"
+L 11/22/2020 - 12:51:44: "Bogdan<6><STEAM_1:0:1771238044><>" connected, address "91.231.42.215:38091"
+91.231.42.215:38091:reconnect
+L 11/22/2020 - 12:51:45: "Bogdan<7><STEAM_1:0:1771238044><>" connected, address "91.231.42.215:38091"
+L 11/22/2020 - 12:51:47: World triggered "Round_Start"
+L 11/22/2020 - 12:51:49: "Bogdan<7><STEAM_1:0:1771238044><>" entered the game
+L 11/22/2020 - 12:51:53: "Bogdan<7><STEAM_1:0:1771238044><>" joined team "TERRORIST"
+L 11/22/2020 - 12:51:58: "CMEPTb<8><STEAM_1:0:310586829><>" connected, address "145.255.1.88:27005"
+L 11/22/2020 - 12:52:00: "minibam<1><STEAM_0:1:189314915><TERRORIST>" committed suicide with "world"
+L 11/22/2020 - 12:52:00: "minibam<1><STEAM_0:1:189314915><TERRORIST>" joined team "SPECTATOR"
+145.255.1.88:27005:reconnect
+L 11/22/2020 - 12:52:00: "CMEPTb<9><STEAM_1:0:310586829><>" connected, address "145.255.1.88:27005"
+L 11/22/2020 - 12:52:03: "koli 1231<10><STEAM_1:0:1960141105><>" connected, address "188.65.245.73:64488"
+L 11/22/2020 - 12:52:08: Server cvar "sv_restart" = "5"
+188.65.245.73:64488:reconnect
+L 11/22/2020 - 12:52:08: "koli 1231<11><STEAM_1:0:1960141105><>" connected, address "188.65.245.73:64488"
+L 11/22/2020 - 12:52:08: "КИБОРГ УБИЦА<3><STEAM_1:0:538817610><CT>" committed suicide with "worldspawn" (world)
+L 11/22/2020 - 12:52:08: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "1")
+L 11/22/2020 - 12:52:08: World triggered "Round_End"
+L 11/22/2020 - 12:52:09: World triggered "Restart_Round_(5_seconds)"
+L 11/22/2020 - 12:52:09: Team "CT" scored "0" with "1" players
+L 11/22/2020 - 12:52:09: Team "TERRORIST" scored "1" with "2" players
+L 11/22/2020 - 12:52:09: Server cvar "sv_restart" = "0"
+L 11/22/2020 - 12:52:10: [admin_loader_for_fb.amxx] Login: "CMEPTb<9><STEAM_1:0:310586829><>" became an admin (account "CMEPTb") (nickname "CMEPTb") (access "diqrst") (address "145.255.1.88")
+L 11/22/2020 - 12:52:10: "CMEPTb<9><STEAM_1:0:310586829><>" entered the game
+L 11/22/2020 - 12:52:12: "PROFESSOR<5><STEAM_1:0:879078399><TERRORIST>" committed suicide with "worldspawn" (world)
+L 11/22/2020 - 12:52:13: "CMEPTb<9><STEAM_1:0:310586829><>" joined team "TERRORIST"
+L 11/22/2020 - 12:52:14: World triggered "Round_Start"
+ -> file: (../demoplayer.dll), md5hex: (55ceb842) for (koli 1231) 
+L 11/22/2020 - 12:52:21: "koli 1231<11><STEAM_1:0:1960141105><>" entered the game
+L 11/22/2020 - 12:52:22: "еп<12><STEAM_1:0:603183723><>" connected, address "91.241.193.8:27005"
+91.241.193.8:27005:reconnect
+L 11/22/2020 - 12:52:26: "еп<13><STEAM_1:0:603183723><>" connected, address "91.241.193.8:27005"
+L 11/22/2020 - 12:52:27: "koli 1231<11><STEAM_1:0:1960141105><>" joined team "TERRORIST"
+L 11/22/2020 - 12:52:48: "еп<13><STEAM_1:0:603183723><>" entered the game
+L 11/22/2020 - 12:52:53: "еп<13><STEAM_1:0:603183723><>" joined team "TERRORIST"
+L 11/22/2020 - 12:53:21: "Bogdan<7><STEAM_1:0:1771238044><TERRORIST>" attacked "КИБОРГ УБИЦА<3><STEAM_1:0:538817610><CT>" with "m4a1" (damage "184") (damage_armor "0") (health "316") (armor "350")
+L 11/22/2020 - 12:53:22: "Bogdan<7><STEAM_1:0:1771238044><TERRORIST>" attacked "КИБОРГ УБИЦА<3><STEAM_1:0:538817610><CT>" with "m4a1" (damage "184") (damage_armor "0") (health "132") (armor "350")
+L 11/22/2020 - 12:53:22: "Bogdan<7><STEAM_1:0:1771238044><TERRORIST>" attacked "КИБОРГ УБИЦА<3><STEAM_1:0:538817610><CT>" with "m4a1" (damage "184") (damage_armor "0") (health "-52") (armor "350")
+L 11/22/2020 - 12:53:22: "Bogdan<7><STEAM_1:0:1771238044><TERRORIST>" killed "КИБОРГ УБИЦА<3><STEAM_1:0:538817610><CT>" with "m4a1"
+L 11/22/2020 - 12:53:22: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "1")
+L 11/22/2020 - 12:53:22: World triggered "Round_End"
+L 11/22/2020 - 12:53:27: World triggered "Round_Start"
+L 11/22/2020 - 12:53:45: "PROFESSOR<5><STEAM_1:0:879078399><TERRORIST>" committed suicide with "worldspawn" (world)
+L 11/22/2020 - 12:54:06: "еп<13><STEAM_1:0:603183723><TERRORIST>" attacked "КИБОРГ УБИЦА<3><STEAM_1:0:538817610><CT>" with "knife" (damage "1560") (damage_armor "0") (health "-1060") (armor "350")
+L 11/22/2020 - 12:54:06: "еп<13><STEAM_1:0:603183723><TERRORIST>" killed "КИБОРГ УБИЦА<3><STEAM_1:0:538817610><CT>" with "knife"
+L 11/22/2020 - 12:54:06: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "2")
+L 11/22/2020 - 12:54:06: World triggered "Round_End"
+L 11/22/2020 - 12:54:11: World triggered "Round_Start"
+L 11/22/2020 - 12:54:30: "koli 1231<11><STEAM_1:0:1960141105><TERRORIST>" triggered "weaponstats" (weapon "knife") (shots "13") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 11/22/2020 - 12:54:30: "koli 1231<11><STEAM_1:0:1960141105><TERRORIST>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 11/22/2020 - 12:54:30: "koli 1231<11><STEAM_1:0:1960141105><TERRORIST>" triggered "time" (time "2:08")
+L 11/22/2020 - 12:54:30: "koli 1231<11><STEAM_1:0:1960141105><TERRORIST>" triggered "latency" (ping "56")
+L 11/22/2020 - 12:54:30: "koli 1231<11><STEAM_1:0:1960141105><TERRORIST>" disconnected
+L 11/22/2020 - 12:54:51: "КИБОРГ УБИЦА<3><STEAM_1:0:538817610><CT>" attacked "еп<13><STEAM_1:0:603183723><TERRORIST>" with "ak47" (damage "217") (damage_armor "31") (health "-117") (armor "68")
+L 11/22/2020 - 12:54:51: "КИБОРГ УБИЦА<3><STEAM_1:0:538817610><CT>" killed "еп<13><STEAM_1:0:603183723><TERRORIST>" with "ak47"
+L 11/22/2020 - 12:55:53: "z1ba228<14><STEAM_1:0:1413989200><>" connected, address "37.212.69.194:27005"
+37.212.69.194:27005:reconnect
+L 11/22/2020 - 12:55:54: "z1ba228<15><STEAM_1:0:1413989200><>" connected, address "37.212.69.194:27005"
+L 11/22/2020 - 12:55:58: [admin_loader_for_fb.amxx] Login: "z1ba228<15><STEAM_1:0:1413989200><>" became an admin (account "z1ba228") (nickname "z1ba228") (access "diqrst") (address "37.212.69.194")
+L 11/22/2020 - 12:55:58: "z1ba228<15><STEAM_1:0:1413989200><>" entered the game
+L 11/22/2020 - 12:55:59: "z1ba228<15><STEAM_1:0:1413989200><>" joined team "TERRORIST"
+L 11/22/2020 - 12:56:32: "миша бан<16><STEAM_1:0:1500364440><>" connected, address "37.113.172.90:14129"
+37.113.172.90:14129:reconnect
+L 11/22/2020 - 12:56:35: "миша бан<17><STEAM_1:0:1500364440><>" connected, address "37.113.172.90:14129"
+L 11/22/2020 - 12:56:45: "еп<13><STEAM_1:0:603183723><TERRORIST>" triggered "weaponstats" (weapon "knife") (shots "6") (hits "1") (kills "1") (headshots "1") (tks "0") (damage "1560") (deaths "0")
+L 11/22/2020 - 12:56:45: "еп<13><STEAM_1:0:603183723><TERRORIST>" triggered "weaponstats2" (weapon "knife") (head "1") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 11/22/2020 - 12:56:45: "еп<13><STEAM_1:0:603183723><TERRORIST>" triggered "time" (time "3:56")
+L 11/22/2020 - 12:56:45: "еп<13><STEAM_1:0:603183723><TERRORIST>" triggered "latency" (ping "69")
+L 11/22/2020 - 12:56:45: "еп<13><STEAM_1:0:603183723><TERRORIST>" disconnected
+L 11/22/2020 - 12:56:47: "миша бан<17><STEAM_1:0:1500364440><>" entered the game
+L 11/22/2020 - 12:56:52: "миша бан<17><STEAM_1:0:1500364440><>" joined team "TERRORIST"
+L 11/22/2020 - 12:57:51: "PROFESSOR<5><STEAM_1:0:879078399><TERRORIST>" committed suicide with "worldspawn" (world)
+L 11/22/2020 - 12:57:59: "The_(LENDARY)_CТРАХ<18><STEAM_1:0:66674238><>" connected, address "176.101.230.74:4485"
+176.101.230.74:4485:reconnect
+L 11/22/2020 - 12:58:02: "The_(LENDARY)_CТРАХ<19><STEAM_1:0:66674238><>" connected, address "176.101.230.74:4485"
+L 11/22/2020 - 12:58:14: "The_(LENDARY)_CТРАХ<19><STEAM_1:0:66674238><>" entered the game
+L 11/22/2020 - 12:58:22: "The_(LENDARY)_CТРАХ<19><STEAM_1:0:66674238><>" joined team "TERRORIST"
+L 11/22/2020 - 12:58:56: "миша бан<17><STEAM_1:0:1500364440><TERRORIST>" attacked "КИБОРГ УБИЦА<3><STEAM_1:0:538817610><CT>" with "grenade" (damage "25") (damage_armor "12") (health "474") (armor "337")
+L 11/22/2020 - 13:01:11: "миша бан<17><STEAM_1:0:1500364440><TERRORIST>" attacked "КИБОРГ УБИЦА<3><STEAM_1:0:538817610><CT>" with "grenade" (damage "46") (damage_armor "22") (health "428") (armor "314")
+L 11/22/2020 - 13:01:12: "миша бан<17><STEAM_1:0:1500364440><TERRORIST>" attacked "КИБОРГ УБИЦА<3><STEAM_1:0:538817610><CT>" with "deagle" (damage "392") (damage_armor "0") (health "37") (armor "314")
+L 11/22/2020 - 13:01:13: "миша бан<17><STEAM_1:0:1500364440><TERRORIST>" attacked "КИБОРГ УБИЦА<3><STEAM_1:0:538817610><CT>" with "deagle" (damage "392") (damage_armor "0") (health "-355") (armor "314")
+L 11/22/2020 - 13:01:13: "миша бан<17><STEAM_1:0:1500364440><TERRORIST>" killed "КИБОРГ УБИЦА<3><STEAM_1:0:538817610><CT>" with "deagle"
+L 11/22/2020 - 13:01:13: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "3")
+L 11/22/2020 - 13:01:13: World triggered "Round_End"
+L 11/22/2020 - 13:01:18: World triggered "Round_Start"
+L 11/22/2020 - 13:01:23: "PROFESSOR<5><STEAM_1:0:879078399><TERRORIST>" committed suicide with "worldspawn" (world)
+L 11/22/2020 - 13:01:35: "The_(LENDARY)_CТРАХ<19><STEAM_1:0:66674238><TERRORIST>" committed suicide with "world"
+L 11/22/2020 - 13:01:35: "The_(LENDARY)_CТРАХ<19><STEAM_1:0:66674238><TERRORIST>" joined team "CT"
+L 11/22/2020 - 13:01:41: [plmenu.amxx] Cmd: "CMEPTb<9><STEAM_1:0:310586829><>" transfer "The_(LENDARY)_CТРАХ<19><STEAM_1:0:66674238><>" (team "Ментов")
+L 11/22/2020 - 13:01:41: "The_(LENDARY)_CТРАХ<19><STEAM_1:0:66674238><CT>" joined team "TERRORIST"
+L 11/22/2020 - 13:02:19: "fleuzer111<20><STEAM_1:0:345354162><>" connected, address "95.153.131.63:41410"
+L 11/22/2020 - 13:04:10: "КИБОРГ УБИЦА<3><STEAM_1:0:538817610><CT>" attacked "миша бан<17><STEAM_1:0:1500364440><TERRORIST>" with "ak47" (damage "280") (damage_armor "0") (health "-180") (armor "0")
+L 11/22/2020 - 13:04:10: "КИБОРГ УБИЦА<3><STEAM_1:0:538817610><CT>" killed "миша бан<17><STEAM_1:0:1500364440><TERRORIST>" with "ak47"
+L 11/22/2020 - 13:06:02: "!<21><STEAM_1:0:583430775><>" connected, address "5.76.166.232:27005"
+L 11/22/2020 - 13:06:06: "!<21><STEAM_1:0:583430775><>" entered the game
+L 11/22/2020 - 13:06:07: Kick: "!<21><STEAM_1:0:583430775><>" was kicked by "Console" (message ""Вы забанены. Подробная информация в вашей консоли."")
+L 11/22/2020 - 13:06:07: "!<21><STEAM_1:0:583430775><UNASSIGNED>" triggered "time" (time "0:01")
+L 11/22/2020 - 13:06:07: "!<21><STEAM_1:0:583430775><UNASSIGNED>" triggered "latency" (ping "0")
+L 11/22/2020 - 13:06:07: "!<21><STEAM_1:0:583430775><>" disconnected
+L 11/22/2020 - 13:06:15: "нюхай бебру<22><STEAM_1:0:183038469><>" connected, address "213.59.151.227:27005"
+L 11/22/2020 - 13:06:20: "PROFESSOR<5><STEAM_1:0:879078399><TERRORIST>" triggered "weaponstats" (weapon "m4a1") (shots "30") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 11/22/2020 - 13:06:20: "PROFESSOR<5><STEAM_1:0:879078399><TERRORIST>" triggered "weaponstats2" (weapon "m4a1") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 11/22/2020 - 13:06:20: "PROFESSOR<5><STEAM_1:0:879078399><TERRORIST>" triggered "weaponstats" (weapon "deagle") (shots "13") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 11/22/2020 - 13:06:20: "PROFESSOR<5><STEAM_1:0:879078399><TERRORIST>" triggered "weaponstats2" (weapon "deagle") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 11/22/2020 - 13:06:20: "PROFESSOR<5><STEAM_1:0:879078399><TERRORIST>" triggered "weaponstats" (weapon "knife") (shots "55") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 11/22/2020 - 13:06:20: "PROFESSOR<5><STEAM_1:0:879078399><TERRORIST>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 11/22/2020 - 13:06:20: "PROFESSOR<5><STEAM_1:0:879078399><TERRORIST>" triggered "time" (time "14:45")
+L 11/22/2020 - 13:06:20: "PROFESSOR<5><STEAM_1:0:879078399><TERRORIST>" triggered "latency" (ping "48")
+L 11/22/2020 - 13:06:20: "PROFESSOR<5><STEAM_1:0:879078399><TERRORIST>" disconnected
+213.59.151.227:27005:reconnect
+L 11/22/2020 - 13:06:22: "нюхай бебру<23><STEAM_1:0:183038469><>" connected, address "213.59.151.227:27005"
+ -> file: (../demoplayer.dll), md5hex: (55ceb842) for (нюхай бебру) 
+L 11/22/2020 - 13:06:49: "нюхай бебру<23><STEAM_1:0:183038469><>" entered the game
+L 11/22/2020 - 13:06:54: "нюхай бебру<23><STEAM_1:0:183038469><>" joined team "TERRORIST"
+L 11/22/2020 - 13:10:21: "koli 1231<24><STEAM_1:0:1960141105><>" connected, address "188.65.245.73:64530"
+188.65.245.73:64530:reconnect
+L 11/22/2020 - 13:10:26: "koli 1231<25><STEAM_1:0:1960141105><>" connected, address "188.65.245.73:64530"
+ -> file: (../demoplayer.dll), md5hex: (55ceb842) for (koli 1231) 
+L 11/22/2020 - 13:10:38: "koli 1231<25><STEAM_1:0:1960141105><>" entered the game
+L 11/22/2020 - 13:10:40: "koli 1231<25><STEAM_1:0:1960141105><>" joined team "TERRORIST"
+L 11/22/2020 - 13:12:17: "КИБОРГ УБИЦА<3><STEAM_1:0:538817610><CT>" attacked "The_(LENDARY)_CТРАХ<19><STEAM_1:0:66674238><TERRORIST>" with "ak47" (damage "280") (damage_armor "0") (health "-180") (armor "0")
+L 11/22/2020 - 13:12:17: "КИБОРГ УБИЦА<3><STEAM_1:0:538817610><CT>" killed "The_(LENDARY)_CТРАХ<19><STEAM_1:0:66674238><TERRORIST>" with "ak47"
+L 11/22/2020 - 13:12:39: "ZAHARIKPRO<26><STEAM_1:0:1720786605><>" connected, address "31.128.253.22:27005"
+L 11/22/2020 - 13:12:51: "КИБОРГ УБИЦА<3><STEAM_1:0:538817610><CT>" attacked "CMEPTb<9><STEAM_1:0:310586829><TERRORIST>" with "ak47" (damage "280") (damage_armor "0") (health "-180") (armor "0")
+L 11/22/2020 - 13:12:51: "КИБОРГ УБИЦА<3><STEAM_1:0:538817610><CT>" killed "CMEPTb<9><STEAM_1:0:310586829><TERRORIST>" with "ak47"
+L 11/22/2020 - 13:13:15: "The_(LENDARY)_CТРАХ<19><STEAM_1:0:66674238><TERRORIST>" joined team "CT"
+31.128.253.22:27005:reconnect
+L 11/22/2020 - 13:14:00: "ZAHARIKPRO<27><STEAM_1:0:1720786605><>" connected, address "31.128.253.22:27005"
+L 11/22/2020 - 13:14:06: "ZAHARIKPRO<27><STEAM_1:0:1720786605><>" entered the game
+L 11/22/2020 - 13:14:15: "ZAHARIKPRO<27><STEAM_1:0:1720786605><>" joined team "TERRORIST"
+L 11/22/2020 - 13:14:20: "КИБОРГ УБИЦА<3><STEAM_1:0:538817610><CT>" attacked "Bogdan<7><STEAM_1:0:1771238044><TERRORIST>" with "ak47" (damage "54") (damage_armor "7") (health "195") (armor "92")
+L 11/22/2020 - 13:14:20: "КИБОРГ УБИЦА<3><STEAM_1:0:538817610><CT>" attacked "Bogdan<7><STEAM_1:0:1771238044><TERRORIST>" with "ak47" (damage "54") (damage_armor "7") (health "141") (armor "84")
+L 11/22/2020 - 13:14:20: "КИБОРГ УБИЦА<3><STEAM_1:0:538817610><CT>" attacked "Bogdan<7><STEAM_1:0:1771238044><TERRORIST>" with "ak47" (damage "217") (damage_armor "31") (health "-75") (armor "52")
+L 11/22/2020 - 13:14:20: "КИБОРГ УБИЦА<3><STEAM_1:0:538817610><CT>" killed "Bogdan<7><STEAM_1:0:1771238044><TERRORIST>" with "ak47"
+L 11/22/2020 - 13:14:31: Function is not present (function "jbe_duel_timer") (plugin "jbe_core_mode.amxx")
+L 11/22/2020 - 13:14:31: [AMXX] Displaying debug trace (plugin "jbe_core_mode.amxx", version "4.2")
+L 11/22/2020 - 13:14:31: [AMXX] Run time error 10: native error (native "set_task")
+L 11/22/2020 - 13:14:31: [AMXX]    [0] jbe_core_mode.sma::jbe_duel_start_ready (line 8674)
+L 11/22/2020 - 13:14:31: [AMXX]    [1] jbe_core_mode.sma::Handle_DuelUsersMenu (line 6606)
+L 11/22/2020 - 13:14:55: "z1ba228<15><STEAM_1:0:1413989200><TERRORIST>" attacked "КИБОРГ УБИЦА<3><STEAM_1:0:538817610><CT>" with "deagle" (damage "33") (damage_armor "5") (health "67") (armor "94")
+L 11/22/2020 - 13:14:57: "КИБОРГ УБИЦА<3><STEAM_1:0:538817610><CT>" attacked "z1ba228<15><STEAM_1:0:1413989200><TERRORIST>" with "deagle" (damage "31") (damage_armor "5") (health "68") (armor "94")
+L 11/22/2020 - 13:15:03: "Bogdan<7><STEAM_1:0:1771238044><TERRORIST>" triggered "weaponstats" (weapon "m4a1") (shots "5") (hits "3") (kills "1") (headshots "1") (tks "0") (damage "552") (deaths "0")
+L 11/22/2020 - 13:15:03: "Bogdan<7><STEAM_1:0:1771238044><TERRORIST>" triggered "weaponstats2" (weapon "m4a1") (head "3") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 11/22/2020 - 13:15:03: "Bogdan<7><STEAM_1:0:1771238044><TERRORIST>" triggered "weaponstats" (weapon "deagle") (shots "12") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "1")
+L 11/22/2020 - 13:15:03: "Bogdan<7><STEAM_1:0:1771238044><TERRORIST>" triggered "weaponstats2" (weapon "deagle") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 11/22/2020 - 13:15:03: "Bogdan<7><STEAM_1:0:1771238044><TERRORIST>" triggered "weaponstats" (weapon "ak47") (shots "25") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 11/22/2020 - 13:15:03: "Bogdan<7><STEAM_1:0:1771238044><TERRORIST>" triggered "weaponstats2" (weapon "ak47") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 11/22/2020 - 13:15:03: "Bogdan<7><STEAM_1:0:1771238044><TERRORIST>" triggered "weaponstats" (weapon "knife") (shots "60") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 11/22/2020 - 13:15:03: "Bogdan<7><STEAM_1:0:1771238044><TERRORIST>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 11/22/2020 - 13:15:03: "Bogdan<7><STEAM_1:0:1771238044><TERRORIST>" triggered "time" (time "23:13")
+L 11/22/2020 - 13:15:03: "Bogdan<7><STEAM_1:0:1771238044><TERRORIST>" triggered "latency" (ping "38")
+L 11/22/2020 - 13:15:03: "Bogdan<7><STEAM_1:0:1771238044><TERRORIST>" disconnected
+L 11/22/2020 - 13:15:13: [amx_blind.amxx] Cmd: ADMIN minibam: blinded КИБОРГ УБИЦА ,Ip: 37.113.231.5
+L 11/22/2020 - 13:15:24: "z1ba228<15><STEAM_1:0:1413989200><TERRORIST>" attacked "КИБОРГ УБИЦА<3><STEAM_1:0:538817610><CT>" with "deagle" (damage "33") (damage_armor "5") (health "33") (armor "88")
+L 11/22/2020 - 13:15:24: [amx_blind.amxx] Cmd: ADMIN minibam: unblinded КИБОРГ УБИЦА ,Ip: 37.113.231.5
+L 11/22/2020 - 13:15:27: "КИБОРГ УБИЦА<3><STEAM_1:0:538817610><CT>" attacked "z1ba228<15><STEAM_1:0:1413989200><TERRORIST>" with "deagle" (damage "135") (damage_armor "21") (health "-66") (armor "72")
+L 11/22/2020 - 13:15:27: "КИБОРГ УБИЦА<3><STEAM_1:0:538817610><CT>" killed "z1ba228<15><STEAM_1:0:1413989200><TERRORIST>" with "deagle"
+L 11/22/2020 - 13:15:27: Team "CT" triggered "CTs_Win" (CT "1") (T "3")
+L 11/22/2020 - 13:15:27: World triggered "Round_End"
+L 11/22/2020 - 13:15:31: [amx_blind.amxx] Cmd: ADMIN minibam: blinded КИБОРГ УБИЦА ,Ip: 37.113.231.5
+L 11/22/2020 - 13:15:32: World triggered "Round_Start"
+L 11/22/2020 - 13:15:49: [amx_blind.amxx] Cmd: ADMIN minibam: blinded The_(LENDARY)_CТРАХ ,Ip: 176.101.230.74
+L 11/22/2020 - 13:15:56: "миша бан<17><STEAM_1:0:1500364440><TERRORIST>" committed suicide with "worldspawn" (world)
+L 11/22/2020 - 13:16:16: [amx_blind.amxx] Cmd: ADMIN minibam: unblinded The_(LENDARY)_CТРАХ ,Ip: 176.101.230.74
+L 11/22/2020 - 13:16:22: [amx_blind.amxx] Cmd: ADMIN minibam: unblinded КИБОРГ УБИЦА ,Ip: 37.113.231.5
+L 11/22/2020 - 13:16:38: [amx_blind.amxx] Cmd: ADMIN minibam: blinded CMEPTb ,Ip: 145.255.1.88
+L 11/22/2020 - 13:16:41: "K P A C U B O<28><STEAM_1:0:40932237><>" connected, address "92.37.166.32:27005"
+L 11/22/2020 - 13:16:44: "ZAHARIKPRO<27><STEAM_1:0:1720786605><TERRORIST>" committed suicide with "trigger_hurt" (world)
+92.37.166.32:27005:reconnect
+L 11/22/2020 - 13:16:46: "K P A C U B O<29><STEAM_1:0:40932237><>" connected, address "92.37.166.32:27005"
+L 11/22/2020 - 13:16:52: "КИБОРГ УБИЦА<3><STEAM_1:0:538817610><CT>" attacked "z1ba228<15><STEAM_1:0:1413989200><TERRORIST>" with "knife" (damage "55") (damage_armor "4") (health "44") (armor "95")
+L 11/22/2020 - 13:16:54: "K P A C U B O<29><STEAM_1:0:40932237><>" entered the game
+L 11/22/2020 - 13:16:54: [amx_blind.amxx] Cmd: ADMIN minibam: unblinded CMEPTb ,Ip: 145.255.1.88
+L 11/22/2020 - 13:16:55: Kick: "K P A C U B O<29><STEAM_1:0:40932237><>" was kicked by "Console" (message ""Вы забанены. Подробная информация в вашей консоли."")
+L 11/22/2020 - 13:16:55: "K P A C U B O<29><STEAM_1:0:40932237><UNASSIGNED>" triggered "time" (time "0:01")
+L 11/22/2020 - 13:16:55: "K P A C U B O<29><STEAM_1:0:40932237><UNASSIGNED>" triggered "latency" (ping "0")
+L 11/22/2020 - 13:16:55: "K P A C U B O<29><STEAM_1:0:40932237><>" disconnected
+L 11/22/2020 - 13:16:57: [amx_blind.amxx] Cmd: ADMIN minibam: blinded CMEPTb ,Ip: 145.255.1.88
+L 11/22/2020 - 13:17:01: [amx_blind.amxx] Cmd: ADMIN minibam: unblinded CMEPTb ,Ip: 145.255.1.88
+L 11/22/2020 - 13:17:04: [amx_blind.amxx] Cmd: ADMIN minibam: blinded CMEPTb ,Ip: 145.255.1.88
+L 11/22/2020 - 13:17:09: [amx_blind.amxx] Cmd: ADMIN minibam: unblinded CMEPTb ,Ip: 145.255.1.88
+L 11/22/2020 - 13:17:26: [amx_blind.amxx] Cmd: ADMIN minibam: blinded CMEPTb ,Ip: 145.255.1.88
+L 11/22/2020 - 13:17:38: "The_(LENDARY)_CТРАХ<19><STEAM_1:0:66674238><CT>" committed suicide with "world"
+L 11/22/2020 - 13:17:38: "The_(LENDARY)_CТРАХ<19><STEAM_1:0:66674238><CT>" joined team "TERRORIST"
+L 11/22/2020 - 13:17:39: "Zveruga<30><STEAM_1:0:948512310><>" connected, address "188.170.253.207:27005"
+L 11/22/2020 - 13:17:40: "CMEPTb<9><STEAM_1:0:310586829><TERRORIST>" committed suicide with "world"
+L 11/22/2020 - 13:17:40: "CMEPTb<9><STEAM_1:0:310586829><TERRORIST>" joined team "CT"
+188.170.253.207:27005:reconnect
+L 11/22/2020 - 13:17:41: "Zveruga<31><STEAM_1:0:948512310><>" connected, address "188.170.253.207:27005"
+L 11/22/2020 - 13:17:45: [admin_loader_for_fb.amxx] Login: "Zveruga<31><STEAM_1:0:948512310><>" became an admin (account "Zveruga") (nickname "Zveruga") (access "adfghilpqrst") (address "188.170.253.207")
+L 11/22/2020 - 13:17:45: "Zveruga<31><STEAM_1:0:948512310><>" entered the game
+L 11/22/2020 - 13:17:47: "ZAHARIKPRO<27><STEAM_1:0:1720786605><TERRORIST>" committed suicide with "trigger_hurt" (world)
+L 11/22/2020 - 13:17:49: "Zveruga<31><STEAM_1:0:948512310><>" joined team "TERRORIST"
+L 11/22/2020 - 13:18:19: [amx_blind.amxx] Cmd: ADMIN minibam: blinded koli 1231 ,Ip: 188.65.245.73
+L 11/22/2020 - 13:18:22: [amx_blind.amxx] Cmd: ADMIN minibam: unblinded CMEPTb ,Ip: 145.255.1.88
+L 11/22/2020 - 13:18:32: "Zveruga<31><STEAM_1:0:948512310><TERRORIST>" triggered "time" (time "0:46")
+L 11/22/2020 - 13:18:32: "Zveruga<31><STEAM_1:0:948512310><TERRORIST>" triggered "latency" (ping "75")
+L 11/22/2020 - 13:18:32: "Zveruga<31><STEAM_1:0:948512310><TERRORIST>" disconnected
+L 11/22/2020 - 13:18:58: "The_(LENDARY)_CТРАХ<19><STEAM_1:0:66674238><TERRORIST>" attacked "миша бан<17><STEAM_1:0:1500364440><TERRORIST>" with "deagle" (damage "71") (damage_armor "12") (health "28") (armor "88")
+L 11/22/2020 - 13:18:58: "The_(LENDARY)_CТРАХ<19><STEAM_1:0:66674238><TERRORIST>" attacked "миша бан<17><STEAM_1:0:1500364440><TERRORIST>" with "deagle" (damage "287") (damage_armor "48") (health "-258") (armor "40")
+L 11/22/2020 - 13:18:58: "The_(LENDARY)_CТРАХ<19><STEAM_1:0:66674238><TERRORIST>" killed "миша бан<17><STEAM_1:0:1500364440><TERRORIST>" with "deagle"
+L 11/22/2020 - 13:18:59: [amx_blind.amxx] Cmd: ADMIN minibam: unblinded koli 1231 ,Ip: 188.65.245.73
+L 11/22/2020 - 13:19:02: "The_(LENDARY)_CТРАХ<19><STEAM_1:0:66674238><TERRORIST>" attacked "нюхай бебру<23><STEAM_1:0:183038469><TERRORIST>" with "ak47" (damage "54") (damage_armor "7") (health "45") (armor "92")
+L 11/22/2020 - 13:19:02: "The_(LENDARY)_CТРАХ<19><STEAM_1:0:66674238><TERRORIST>" attacked "нюхай бебру<23><STEAM_1:0:183038469><TERRORIST>" with "ak47" (damage "54") (damage_armor "7") (health "-8") (armor "84")
+L 11/22/2020 - 13:19:02: "The_(LENDARY)_CТРАХ<19><STEAM_1:0:66674238><TERRORIST>" killed "нюхай бебру<23><STEAM_1:0:183038469><TERRORIST>" with "ak47"
+L 11/22/2020 - 13:19:03: "koli 1231<25><STEAM_1:0:1960141105><TERRORIST>" attacked "The_(LENDARY)_CТРАХ<19><STEAM_1:0:66674238><TERRORIST>" with "ak47" (damage "35") (damage_armor "0") (health "215") (armor "0")
+L 11/22/2020 - 13:19:03: "koli 1231<25><STEAM_1:0:1960141105><TERRORIST>" attacked "The_(LENDARY)_CТРАХ<19><STEAM_1:0:66674238><TERRORIST>" with "ak47" (damage "35") (damage_armor "0") (health "180") (armor "0")
+L 11/22/2020 - 13:19:03: "koli 1231<25><STEAM_1:0:1960141105><TERRORIST>" attacked "The_(LENDARY)_CТРАХ<19><STEAM_1:0:66674238><TERRORIST>" with "ak47" (damage "35") (damage_armor "0") (health "145") (armor "0")
+L 11/22/2020 - 13:19:03: "koli 1231<25><STEAM_1:0:1960141105><TERRORIST>" attacked "The_(LENDARY)_CТРАХ<19><STEAM_1:0:66674238><TERRORIST>" with "ak47" (damage "35") (damage_armor "0") (health "110") (armor "0")
+L 11/22/2020 - 13:19:03: "koli 1231<25><STEAM_1:0:1960141105><TERRORIST>" attacked "The_(LENDARY)_CТРАХ<19><STEAM_1:0:66674238><TERRORIST>" with "ak47" (damage "35") (damage_armor "0") (health "75") (armor "0")
+L 11/22/2020 - 13:19:03: "koli 1231<25><STEAM_1:0:1960141105><TERRORIST>" attacked "The_(LENDARY)_CТРАХ<19><STEAM_1:0:66674238><TERRORIST>" with "ak47" (damage "35") (damage_armor "0") (health "40") (armor "0")
+L 11/22/2020 - 13:19:05: "z1ba228<15><STEAM_1:0:1413989200><TERRORIST>" attacked "The_(LENDARY)_CТРАХ<19><STEAM_1:0:66674238><TERRORIST>" with "ak47" (damage "70") (damage_armor "0") (health "-30") (armor "0")
+L 11/22/2020 - 13:19:05: "z1ba228<15><STEAM_1:0:1413989200><TERRORIST>" killed "The_(LENDARY)_CТРАХ<19><STEAM_1:0:66674238><TERRORIST>" with "ak47"
+L 11/22/2020 - 13:19:06: "z1ba228<15><STEAM_1:0:1413989200><TERRORIST>" attacked "koli 1231<25><STEAM_1:0:1960141105><TERRORIST>" with "ak47" (damage "65") (damage_armor "9") (health "34") (armor "90")
+L 11/22/2020 - 13:19:06: "z1ba228<15><STEAM_1:0:1413989200><TERRORIST>" attacked "koli 1231<25><STEAM_1:0:1960141105><TERRORIST>" with "ak47" (damage "51") (damage_armor "0") (health "-16") (armor "90")
+L 11/22/2020 - 13:19:06: "z1ba228<15><STEAM_1:0:1413989200><TERRORIST>" killed "koli 1231<25><STEAM_1:0:1960141105><TERRORIST>" with "ak47"
+L 11/22/2020 - 13:19:18: "z1ba228<15><STEAM_1:0:1413989200><TERRORIST>" attacked "z1ba228<15><STEAM_1:0:1413989200><TERRORIST>" with "grenade" (damage "47") (damage_armor "23") (health "202") (armor "76")
+L 11/22/2020 - 13:20:09: "ZAHARIKPRO<27><STEAM_1:0:1720786605><TERRORIST>" attacked "z1ba228<15><STEAM_1:0:1413989200><TERRORIST>" with "deagle" (damage "37") (damage_armor "6") (health "165") (armor "69")
+L 11/22/2020 - 13:20:09: "ZAHARIKPRO<27><STEAM_1:0:1720786605><TERRORIST>" attacked "z1ba228<15><STEAM_1:0:1413989200><TERRORIST>" with "deagle" (damage "38") (damage_armor "5") (health "127") (armor "63")
+L 11/22/2020 - 13:20:09: "z1ba228<15><STEAM_1:0:1413989200><TERRORIST>" attacked "ZAHARIKPRO<27><STEAM_1:0:1720786605><TERRORIST>" with "ak47" (damage "70") (damage_armor "0") (health "30") (armor "0")
+L 11/22/2020 - 13:20:09: "z1ba228<15><STEAM_1:0:1413989200><TERRORIST>" attacked "ZAHARIKPRO<27><STEAM_1:0:1720786605><TERRORIST>" with "ak47" (damage "70") (damage_armor "0") (health "-40") (armor "0")
+L 11/22/2020 - 13:20:09: "z1ba228<15><STEAM_1:0:1413989200><TERRORIST>" killed "ZAHARIKPRO<27><STEAM_1:0:1720786605><TERRORIST>" with "ak47"
+L 11/22/2020 - 13:20:13: "ZAHARIKPRO<27><STEAM_1:0:1720786605><TERRORIST>" triggered "weaponstats" (weapon "deagle") (shots "2") (hits "2") (kills "0") (headshots "0") (tks "0") (damage "75") (deaths "1")
+L 11/22/2020 - 13:20:13: "ZAHARIKPRO<27><STEAM_1:0:1720786605><TERRORIST>" triggered "weaponstats2" (weapon "deagle") (head "0") (chest "0") (stomach "0") (leftarm "2") (rightarm "0") (leftleg "0") (rightleg "0")
+L 11/22/2020 - 13:20:13: "ZAHARIKPRO<27><STEAM_1:0:1720786605><TERRORIST>" triggered "weaponstats" (weapon "knife") (shots "1") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 11/22/2020 - 13:20:13: "ZAHARIKPRO<27><STEAM_1:0:1720786605><TERRORIST>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 11/22/2020 - 13:20:13: "ZAHARIKPRO<27><STEAM_1:0:1720786605><TERRORIST>" triggered "time" (time "6:07")
+L 11/22/2020 - 13:20:13: "ZAHARIKPRO<27><STEAM_1:0:1720786605><TERRORIST>" triggered "latency" (ping "39")
+L 11/22/2020 - 13:20:13: "ZAHARIKPRO<27><STEAM_1:0:1720786605><TERRORIST>" disconnected
+L 11/22/2020 - 13:20:17: Function is not present (function "jbe_duel_timer") (plugin "jbe_core_mode.amxx")
+L 11/22/2020 - 13:20:17: [AMXX] Displaying debug trace (plugin "jbe_core_mode.amxx", version "4.2")
+L 11/22/2020 - 13:20:17: [AMXX] Run time error 10: native error (native "set_task")
+L 11/22/2020 - 13:20:17: [AMXX]    [0] jbe_core_mode.sma::jbe_duel_start_ready (line 8674)
+L 11/22/2020 - 13:20:17: [AMXX]    [1] jbe_core_mode.sma::Handle_DuelUsersMenu (line 6606)
+L 11/22/2020 - 13:20:28: "Medet<32><STEAM_1:0:1658694881><>" connected, address "145.255.160.221:51365"
+L 11/22/2020 - 13:20:28: "z1ba228<15><STEAM_1:0:1413989200><TERRORIST>" attacked "CMEPTb<9><STEAM_1:0:310586829><CT>" with "deagle" (damage "36") (damage_armor "6") (health "63") (armor "343")
+145.255.160.221:51365:reconnect
+L 11/22/2020 - 13:20:38: "Medet<33><STEAM_1:0:1658694881><>" connected, address "145.255.160.221:51365"
+L 11/22/2020 - 13:20:44: "CMEPTb<9><STEAM_1:0:310586829><CT>" attacked "z1ba228<15><STEAM_1:0:1413989200><TERRORIST>" with "deagle" (damage "30") (damage_armor "5") (health "69") (armor "94")
+L 11/22/2020 - 13:20:49: "z1ba228<15><STEAM_1:0:1413989200><TERRORIST>" attacked "CMEPTb<9><STEAM_1:0:310586829><CT>" with "deagle" (damage "36") (damage_armor "5") (health "27") (armor "337")
+L 11/22/2020 - 13:20:50: "CMEPTb<9><STEAM_1:0:310586829><CT>" attacked "z1ba228<15><STEAM_1:0:1413989200><TERRORIST>" with "deagle" (damage "38") (damage_armor "5") (health "31") (armor "88")
+L 11/22/2020 - 13:20:53: [map_chooser_14.amxx] koli 1231 проголосовал за смену карты. Осталось 4 голосов
+L 11/22/2020 - 13:20:55: "Medet<33><STEAM_1:0:1658694881><>" entered the game
+L 11/22/2020 - 13:20:55: "z1ba228<15><STEAM_1:0:1413989200><TERRORIST>" attacked "CMEPTb<9><STEAM_1:0:310586829><CT>" with "deagle" (damage "39") (damage_armor "5") (health "-11") (armor "331")
+L 11/22/2020 - 13:20:55: "z1ba228<15><STEAM_1:0:1413989200><TERRORIST>" killed "CMEPTb<9><STEAM_1:0:310586829><CT>" with "deagle"
+L 11/22/2020 - 13:21:00: Function is not present (function "jbe_duel_timer") (plugin "jbe_core_mode.amxx")
+L 11/22/2020 - 13:21:00: [AMXX] Displaying debug trace (plugin "jbe_core_mode.amxx", version "4.2")
+L 11/22/2020 - 13:21:00: [AMXX] Run time error 10: native error (native "set_task")
+L 11/22/2020 - 13:21:00: [AMXX]    [0] jbe_core_mode.sma::jbe_duel_start_ready (line 8674)
+L 11/22/2020 - 13:21:00: [AMXX]    [1] jbe_core_mode.sma::Handle_DuelUsersMenu (line 6606)
+L 11/22/2020 - 13:21:03: [map_chooser_14.amxx] CMEPTb проголосовал за смену карты. Осталось 3 голосов
+L 11/22/2020 - 13:21:09: "z1ba228<15><STEAM_1:0:1413989200><TERRORIST>" attacked "КИБОРГ УБИЦА<3><STEAM_1:0:538817610><CT>" with "deagle" (damage "32") (damage_armor "5") (health "67") (armor "344")
+L 11/22/2020 - 13:21:12: "Medet<33><STEAM_1:0:1658694881><>" joined team "TERRORIST"
+L 11/22/2020 - 13:21:12: "z1ba228<15><STEAM_1:0:1413989200><TERRORIST>" attacked "КИБОРГ УБИЦА<3><STEAM_1:0:538817610><CT>" with "deagle" (damage "31") (damage_armor "4") (health "36") (armor "339")
+L 11/22/2020 - 13:21:30: "нюхай бебру<23><STEAM_1:0:183038469><TERRORIST>" triggered "weaponstats" (weapon "deagle") (shots "1") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 11/22/2020 - 13:21:30: "нюхай бебру<23><STEAM_1:0:183038469><TERRORIST>" triggered "weaponstats2" (weapon "deagle") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 11/22/2020 - 13:21:30: "нюхай бебру<23><STEAM_1:0:183038469><TERRORIST>" triggered "weaponstats" (weapon "ak47") (shots "1") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 11/22/2020 - 13:21:30: "нюхай бебру<23><STEAM_1:0:183038469><TERRORIST>" triggered "weaponstats2" (weapon "ak47") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 11/22/2020 - 13:21:30: "нюхай бебру<23><STEAM_1:0:183038469><TERRORIST>" triggered "time" (time "14:40")
+L 11/22/2020 - 13:21:30: "нюхай бебру<23><STEAM_1:0:183038469><TERRORIST>" triggered "latency" (ping "36")
+L 11/22/2020 - 13:21:30: "нюхай бебру<23><STEAM_1:0:183038469><TERRORIST>" disconnected
+L 11/22/2020 - 13:21:32: "z1ba228<15><STEAM_1:0:1413989200><TERRORIST>" attacked "КИБОРГ УБИЦА<3><STEAM_1:0:538817610><CT>" with "deagle" (damage "30") (damage_armor "4") (health "7") (armor "334")
+L 11/22/2020 - 13:21:37: "КИБОРГ УБИЦА<3><STEAM_1:0:538817610><CT>" attacked "z1ba228<15><STEAM_1:0:1413989200><TERRORIST>" with "deagle" (damage "30") (damage_armor "4") (health "70") (armor "83")
+L 11/22/2020 - 13:21:43: "z1ba228<15><STEAM_1:0:1413989200><TERRORIST>" attacked "КИБОРГ УБИЦА<3><STEAM_1:0:538817610><CT>" with "deagle" (damage "30") (damage_armor "4") (health "-23") (armor "329")
+L 11/22/2020 - 13:21:43: "z1ba228<15><STEAM_1:0:1413989200><TERRORIST>" killed "КИБОРГ УБИЦА<3><STEAM_1:0:538817610><CT>" with "deagle"
+L 11/22/2020 - 13:21:43: Team "TERRORIST" triggered "Terrorists_Win" (CT "1") (T "4")
+L 11/22/2020 - 13:21:43: World triggered "Round_End"
+L 11/22/2020 - 13:21:48: "z1ba228<15><STEAM_1:0:1413989200><TERRORIST>" committed suicide with "world"
+L 11/22/2020 - 13:21:48: World triggered "Round_Start"
+L 11/22/2020 - 13:22:23: "КИБОРГ УБИЦА<3><STEAM_1:0:538817610><CT>" attacked "koli 1231<25><STEAM_1:0:1960141105><TERRORIST>" with "smokegrenade" (damage "50") (damage_armor "0") (health "50") (armor "0")
+L 11/22/2020 - 13:22:23: "CMEPTb<9><STEAM_1:0:310586829><CT>" attacked "миша бан<17><STEAM_1:0:1500364440><TERRORIST>" with "smokegrenade" (damage "50") (damage_armor "0") (health "50") (armor "0")
+L 11/22/2020 - 13:22:25: "CMEPTb<9><STEAM_1:0:310586829><CT>" attacked "миша бан<17><STEAM_1:0:1500364440><TERRORIST>" with "smokegrenade" (damage "50") (damage_armor "0") (health "0") (armor "0")
+L 11/22/2020 - 13:22:25: "CMEPTb<9><STEAM_1:0:310586829><CT>" killed "миша бан<17><STEAM_1:0:1500364440><TERRORIST>" with "smokegrenade"
+L 11/22/2020 - 13:22:33: "КИБОРГ УБИЦА<3><STEAM_1:0:538817610><CT>" attacked "koli 1231<25><STEAM_1:0:1960141105><TERRORIST>" with "smokegrenade" (damage "50") (damage_armor "0") (health "0") (armor "0")
+L 11/22/2020 - 13:22:33: "КИБОРГ УБИЦА<3><STEAM_1:0:538817610><CT>" killed "koli 1231<25><STEAM_1:0:1960141105><TERRORIST>" with "smokegrenade"
+L 11/22/2020 - 13:22:37: "CMEPTb<9><STEAM_1:0:310586829><CT>" attacked "The_(LENDARY)_CТРАХ<19><STEAM_1:0:66674238><TERRORIST>" with "smokegrenade" (damage "50") (damage_armor "0") (health "50") (armor "0")
+L 11/22/2020 - 13:22:38: "CMEPTb<9><STEAM_1:0:310586829><CT>" attacked "The_(LENDARY)_CТРАХ<19><STEAM_1:0:66674238><TERRORIST>" with "smokegrenade" (damage "50") (damage_armor "0") (health "0") (armor "0")
+L 11/22/2020 - 13:22:38: "CMEPTb<9><STEAM_1:0:310586829><CT>" killed "The_(LENDARY)_CТРАХ<19><STEAM_1:0:66674238><TERRORIST>" with "smokegrenade"
+L 11/22/2020 - 13:23:53: "strelok1234<34><STEAM_1:0:1030552861><>" connected, address "91.217.4.66:27005"
+91.217.4.66:27005:reconnect
+L 11/22/2020 - 13:23:55: "strelok1234<35><STEAM_1:0:1030552861><>" connected, address "91.217.4.66:27005"
+L 11/22/2020 - 13:24:06: "Kuperr<36><STEAM_1:0:1742014726><>" connected, address "78.85.95.198:27005"
+L 11/22/2020 - 13:24:27: "strelok1234<35><STEAM_1:0:1030552861><>" entered the game
+L 11/22/2020 - 13:24:35: "strelok1234<35><STEAM_1:0:1030552861><>" joined team "TERRORIST"
+L 11/22/2020 - 13:25:13: "КИБОРГ УБИЦА<3><STEAM_1:0:538817610><CT>" committed suicide with "world"
+L 11/22/2020 - 13:25:13: "CMEPTb<9><STEAM_1:0:310586829><CT>" committed suicide with "world"
+L 11/22/2020 - 13:25:13: Team "TERRORIST" triggered "Terrorists_Win" (CT "1") (T "5")
+L 11/22/2020 - 13:25:13: World triggered "Round_End"
+L 11/22/2020 - 13:25:18: World triggered "Round_Start"
+L 11/22/2020 - 13:25:29: "CMEPTb<9><STEAM_1:0:310586829><CT>" triggered "weaponstats" (weapon "deagle") (shots "17") (hits "2") (kills "0") (headshots "0") (tks "0") (damage "68") (deaths "1")
+L 11/22/2020 - 13:25:29: "CMEPTb<9><STEAM_1:0:310586829><CT>" triggered "weaponstats2" (weapon "deagle") (head "0") (chest "1") (stomach "0") (leftarm "1") (rightarm "0") (leftleg "0") (rightleg "0")
+L 11/22/2020 - 13:25:29: "CMEPTb<9><STEAM_1:0:310586829><CT>" triggered "weaponstats" (weapon "knife") (shots "120") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "1")
+L 11/22/2020 - 13:25:29: "CMEPTb<9><STEAM_1:0:310586829><CT>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 11/22/2020 - 13:25:29: "CMEPTb<9><STEAM_1:0:310586829><CT>" triggered "time" (time "33:18")
+L 11/22/2020 - 13:25:29: "CMEPTb<9><STEAM_1:0:310586829><CT>" triggered "latency" (ping "53")
+L 11/22/2020 - 13:25:29: "CMEPTb<9><STEAM_1:0:310586829><CT>" disconnected
+L 11/22/2020 - 13:25:53: "Medet<33><STEAM_1:0:1658694881><TERRORIST>" attacked "КИБОРГ УБИЦА<3><STEAM_1:0:538817610><CT>" with "n4d_bazooka" (damage "24") (damage_armor "0") (health "-2") (armor "0")
+L 11/22/2020 - 13:25:53: "Medet<33><STEAM_1:0:1658694881><TERRORIST>" killed "КИБОРГ УБИЦА<3><STEAM_1:0:538817610><CT>" with "n4d_bazooka"
+L 11/22/2020 - 13:25:53: Team "TERRORIST" triggered "Terrorists_Win" (CT "1") (T "6")
+L 11/22/2020 - 13:25:53: World triggered "Round_End"
+L 11/22/2020 - 13:25:56: "The_(LENDARY)_CТРАХ<19><STEAM_1:0:66674238><TERRORIST>" committed suicide with "world"
+L 11/22/2020 - 13:25:56: "The_(LENDARY)_CТРАХ<19><STEAM_1:0:66674238><TERRORIST>" joined team "CT"
+L 11/22/2020 - 13:25:58: World triggered "Round_Start"
+78.85.95.198:27005:reconnect
+L 11/22/2020 - 13:26:08: "Kuperr<37><STEAM_1:0:1742014726><>" connected, address "78.85.95.198:27005"
+L 11/22/2020 - 13:26:13: "Kuperr<37><STEAM_1:0:1742014726><>" entered the game
+L 11/22/2020 - 13:26:15: "minibam<1><STEAM_0:1:189314915><SPECTATOR>" joined team "TERRORIST"
+L 11/22/2020 - 13:26:17: "minibam<1><STEAM_0:1:189314915><TERRORIST>" joined team "SPECTATOR"
+L 11/22/2020 - 13:26:24: "strelok1234<35><STEAM_1:0:1030552861><TERRORIST>" attacked "КИБОРГ УБИЦА<3><STEAM_1:0:538817610><CT>" with "m249" (damage "23") (damage_armor "3") (health "126") (armor "96")
+L 11/22/2020 - 13:26:24: "strelok1234<35><STEAM_1:0:1030552861><TERRORIST>" attacked "КИБОРГ УБИЦА<3><STEAM_1:0:538817610><CT>" with "m249" (damage "23") (damage_armor "3") (health "103") (armor "92")
+L 11/22/2020 - 13:26:24: "strelok1234<35><STEAM_1:0:1030552861><TERRORIST>" attacked "КИБОРГ УБИЦА<3><STEAM_1:0:538817610><CT>" with "m249" (damage "23") (damage_armor "3") (health "80") (armor "88")
+L 11/22/2020 - 13:26:24: "strelok1234<35><STEAM_1:0:1030552861><TERRORIST>" attacked "КИБОРГ УБИЦА<3><STEAM_1:0:538817610><CT>" with "m249" (damage "23") (damage_armor "3") (health "57") (armor "84")
+L 11/22/2020 - 13:26:24: "strelok1234<35><STEAM_1:0:1030552861><TERRORIST>" attacked "КИБОРГ УБИЦА<3><STEAM_1:0:538817610><CT>" with "m249" (damage "23") (damage_armor "3") (health "34") (armor "80")
+L 11/22/2020 - 13:26:24: "strelok1234<35><STEAM_1:0:1030552861><TERRORIST>" attacked "КИБОРГ УБИЦА<3><STEAM_1:0:538817610><CT>" with "m249" (damage "23") (damage_armor "3") (health "11") (armor "76")
+L 11/22/2020 - 13:26:24: "strelok1234<35><STEAM_1:0:1030552861><TERRORIST>" attacked "КИБОРГ УБИЦА<3><STEAM_1:0:538817610><CT>" with "m249" (damage "124") (damage_armor "0") (health "-112") (armor "76")
+L 11/22/2020 - 13:26:24: "strelok1234<35><STEAM_1:0:1030552861><TERRORIST>" killed "КИБОРГ УБИЦА<3><STEAM_1:0:538817610><CT>" with "m249"
+L 11/22/2020 - 13:26:33: "Kuperr<37><STEAM_1:0:1742014726><>" joined team "TERRORIST"
+L 11/22/2020 - 13:27:06: [plmenu.amxx] Cmd: "КИБОРГ УБИЦА<3><STEAM_1:0:538817610><>" transfer "The_(LENDARY)_CТРАХ<19><STEAM_1:0:66674238><>" (team "Ментов")
+L 11/22/2020 - 13:27:06: "The_(LENDARY)_CТРАХ<19><STEAM_1:0:66674238><CT>" committed suicide with "world"
+L 11/22/2020 - 13:27:06: "The_(LENDARY)_CТРАХ<19><STEAM_1:0:66674238><CT>" joined team "TERRORIST"
+L 11/22/2020 - 13:27:15: "The_(LENDARY)_CТРАХ<19><STEAM_1:0:66674238><TERRORIST>" joined team "CT"
+L 11/22/2020 - 13:27:27: "Medet<33><STEAM_1:0:1658694881><TERRORIST>" attacked "КИБОРГ УБИЦА<3><STEAM_1:0:538817610><CT>" with "ak47" (damage "35") (damage_armor "0") (health "65") (armor "0")
+L 11/22/2020 - 13:27:27: "Medet<33><STEAM_1:0:1658694881><TERRORIST>" attacked "КИБОРГ УБИЦА<3><STEAM_1:0:538817610><CT>" with "ak47" (damage "35") (damage_armor "0") (health "30") (armor "0")
+L 11/22/2020 - 13:27:27: "Medet<33><STEAM_1:0:1658694881><TERRORIST>" attacked "КИБОРГ УБИЦА<3><STEAM_1:0:538817610><CT>" with "ak47" (damage "35") (damage_armor "0") (health "-5") (armor "0")
+L 11/22/2020 - 13:27:27: "Medet<33><STEAM_1:0:1658694881><TERRORIST>" killed "КИБОРГ УБИЦА<3><STEAM_1:0:538817610><CT>" with "ak47"
+L 11/22/2020 - 13:27:27: Team "TERRORIST" triggered "Terrorists_Win" (CT "1") (T "7")
+L 11/22/2020 - 13:27:27: World triggered "Round_End"
+L 11/22/2020 - 13:27:32: "Medet<33><STEAM_1:0:1658694881><TERRORIST>" committed suicide with "worldspawn" (world)
+L 11/22/2020 - 13:27:32: World triggered "Round_Start"
+L 11/22/2020 - 13:27:32: [adminchat_big_hud_msg.amxx] Chat: "minibam<1><STEAM_0:1:189314915><>" tsay "кому черный экран"
+L 11/22/2020 - 13:27:32: "minibam<1><STEAM_0:1:189314915><>" triggered "amx_tsay" (text "кому черный экран") (color "yellow")
+L 11/22/2020 - 13:27:32: "Medet<33><STEAM_1:0:1658694881><TERRORIST>" triggered "weaponstats" (weapon "ak47") (shots "15") (hits "3") (kills "1") (headshots "0") (tks "0") (damage "105") (deaths "0")
+L 11/22/2020 - 13:27:32: "Medet<33><STEAM_1:0:1658694881><TERRORIST>" triggered "weaponstats2" (weapon "ak47") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "3") (leftleg "0") (rightleg "0")
+L 11/22/2020 - 13:27:32: "Medet<33><STEAM_1:0:1658694881><TERRORIST>" triggered "weaponstats" (weapon "knife") (shots "1") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 11/22/2020 - 13:27:32: "Medet<33><STEAM_1:0:1658694881><TERRORIST>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 11/22/2020 - 13:27:32: "Medet<33><STEAM_1:0:1658694881><TERRORIST>" triggered "time" (time "6:37")
+L 11/22/2020 - 13:27:32: "Medet<33><STEAM_1:0:1658694881><TERRORIST>" triggered "latency" (ping "354")
+L 11/22/2020 - 13:27:32: "Medet<33><STEAM_1:0:1658694881><TERRORIST>" disconnected
+L 11/22/2020 - 13:29:18: [plmenu.amxx] Cmd: "КИБОРГ УБИЦА<3><STEAM_1:0:538817610><>" transfer "The_(LENDARY)_CТРАХ<19><STEAM_1:0:66674238><>" (team "Ментов")
+L 11/22/2020 - 13:29:18: "The_(LENDARY)_CТРАХ<19><STEAM_1:0:66674238><CT>" committed suicide with "world"
+L 11/22/2020 - 13:29:18: "The_(LENDARY)_CТРАХ<19><STEAM_1:0:66674238><CT>" joined team "TERRORIST"
+SZ_GetSpace: overflow on minibam
+SZ_GetSpace: overflow on koli 1231
+SZ_GetSpace: overflow on миша бан
+WARNING: datagram overflowed for minibam
+WARNING: datagram overflowed for koli 1231
+WARNING: datagram overflowed for миша бан
+L 11/22/2020 - 13:31:21: "КИБОРГ УБИЦА<3><STEAM_1:0:538817610><CT>" attacked "Kuperr<37><STEAM_1:0:1742014726><TERRORIST>" with "ak47" (damage "70") (damage_armor "0") (health "30") (armor "0")
+L 11/22/2020 - 13:31:21: "КИБОРГ УБИЦА<3><STEAM_1:0:538817610><CT>" attacked "Kuperr<37><STEAM_1:0:1742014726><TERRORIST>" with "ak47" (damage "70") (damage_armor "0") (health "-40") (armor "0")
+L 11/22/2020 - 13:31:21: "КИБОРГ УБИЦА<3><STEAM_1:0:538817610><CT>" killed "Kuperr<37><STEAM_1:0:1742014726><TERRORIST>" with "ak47"

@@ -1,0 +1,7 @@
+       		jail_gml brought to you by TQL*!
+
+How to install : 
+
+Paste cstrike folder into your Counter-Strike directory . 
+
+Enjoy playing and thanks for trying it out!

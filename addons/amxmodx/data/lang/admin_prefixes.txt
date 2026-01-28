@@ -1,0 +1,10 @@
+[ru]
+PREFIX_PERMISSION = %s У вас нет прав, чтобы обновить список префиксов.
+PREFIX_NOT_FOUND = %s Файл префиксов -  %s не найден!
+PREFIX_LOAD_IP = %s ЗАГРУЖЕН: Префикс:  %s для играка с IP:  %s
+PREFIX_LOAD_NAME = %s ЗАГРУЖЕН: Префикс:  %s для игрока с ником:  %s
+PREFIX_LOAD_FLAG = %s ЗАГРУЖЕН: Префикс:  %s для игрока с флагом:  %s
+PREFIX_LOAD_STEAMID = %s ЗАГРУЖЕН: Префикс:  %s для игрока со SteamID:  %s
+PREFIX_NO = %s Префиксы не найдены!
+PREFIX_LOADED_BY = %s Файл префиксов загружен игроком %s
+PREFIX_LOADED = %s Файл префиксов загружен!

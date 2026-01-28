@@ -1,0 +1,460 @@
+Protocol version 48
+Exe version 1.1.2.7/Stdio (cstrike)
+Exe build: 16:23:03 Oct  6 2020 (2369)
+Executing ReGameDLL Configuration File 
+unknown command "mp_freeforall"
+unknown command "mp_maxmoney"
+unknown command "mp_round_infinite"
+unknown command "mp_hegrenade_penetration"
+unknown command "mp_nadedrops"
+unknown command "mp_roundrespawn_time"
+unknown command "mp_auto_reload_weapons"
+unknown command "mp_refill_bpammo_weapons"
+unknown command "bot_deathmatch"
+unknown command "mp_auto_join_team"
+Executing ReGameDLL Configuration File 
+unknown command "mp_freeforall"
+unknown command "mp_maxmoney"
+unknown command "mp_round_infinite"
+unknown command "mp_hegrenade_penetration"
+unknown command "mp_nadedrops"
+unknown command "mp_roundrespawn_time"
+unknown command "mp_auto_reload_weapons"
+unknown command "mp_refill_bpammo_weapons"
+unknown command "bot_deathmatch"
+unknown command "mp_auto_join_team"
+Server IP address 195.88.208.116:27015
+   
+   Metamod-r version 1.3.0.128 Copyright (c) 2016-2018 ReHLDS Team (rebuild of original Metamod by Will Day and Jussi Kivilinna)
+   Metamod-r comes with ABSOLUTELY NO WARRANTY; for details type `meta gpl'.
+   This is free software, and you are welcome to redistribute it
+   under certain conditions; type `meta gpl' for details.
+   
+Metamod-r v1.3.0.128, API (5:13)
+Metamod-r build: 17:47:48 Aug 24 2018
+Metamod-r from: https://github.com/theAsmodai/metamod-r/commit/0cf2f70
+
+   AMX Mod X version 1.9.0.5271 Copyright (c) 2004-2015 AMX Mod X Development Team 
+   AMX Mod X comes with ABSOLUTELY NO WARRANTY; for details type `amxx gpl'.
+   This is free software and you are welcome to redistribute it under 
+   certain conditions; type 'amxx gpl' for details.
+  
+[WHB] Version: 1.5.696 Linux (Usage SSE 4.1)
+[WHB] Success: Build ReHLDS version defined Linux '2369'
+[WHB] Success: Configuration executed.
+ReGameDLL version: 5.11.0.420-dev+m
+L 12/15/2020 - 15:13:19: -------- Mapchange to jail_float --------
+L 12/15/2020 - 15:13:19: [GEOIP] Database info: GeoLite2 Country database 2.0
+[ReAimDetector] Version: 0.2.2 Linux 'Counter-Strike 1.6'
+[ReAimDetector] Success: Build ReHLDS version defined Linux '2369'.
+Executing ReGameDLL Configuration File 
+unknown command "bot_deathmatch"
+Executing ReGameDLL Configuration File 
+unknown command "bot_deathmatch"
+unknown command "amx_default_access"
+unknown command "amx_password_field"
+unknown command "amx_mode"
+unknown command "amx_show_activity"
+unknown command "amx_imessage"
+unknown command "amx_freq_imessage"
+unknown command "amx_plmenu_bantimes"
+unknown command "amx_tempban_maxtime"
+unknown command "amx_plmenu_slapdmg"
+unknown command "amx_flood_time"
+unknown command "amx_reservation"
+unknown command "amx_hideslots"
+unknown command "amx_time_display"
+unknown command "amx_time_voice"
+unknown command "amx_vote_delay"
+unknown command "amx_vote_time"
+unknown command "amx_vote_answers"
+unknown command "amx_votekick_ratio"
+unknown command "amx_voteban_ratio"
+unknown command "amx_votemap_ratio"
+unknown command "amx_vote_ratio"
+unknown command "amx_extendmap_max"
+unknown command "amx_extendmap_step"
+unknown command "amx_language_display_msg"
+unknown command "amx_help_display_msg"
+unknown command "amx_help_display_msg_time"
+unknown command "amx_help_amount_per_page"
+unknown command "amx_statsx_duration"
+unknown command "amx_statsx_freeze"
+unknown command "amx_restrmapsettings"
+unknown command "fb_kick_delay"
+unknown command "fb_server_name"
+unknown command "fb_sql_table"
+unknown command "fb_sql_log_table"
+unknown command "fb_ip_ban_time"
+unknown command "fb_showhud"
+unknown command "fb_offline_time"
+unknown command "fb_unban_self"
+unknown command "fb_unban_all"
+unknown command "fb_oldmap_players"
+unknown command "fb_bantime_access"
+unknown command "fb_adminrcon_flag"
+unknown command "fb_bantime_limit"
+unknown command "fb_use_sql"
+unknown command "fb_nvault_clear"
+unknown command "fb_force_check"
+unknown command "fb_cachetime"
+unknown command "fb_oldkickinfo"
+unknown command "fb_logtype"
+unknown command "fb_loglevel"
+unknown command "fb_logdays"
+unknown command "fb_use_russian"
+unknown command "fb_sql_clear"
+unknown command "fb_subnet_except_ucp"
+unknown command "fb_subnet_clients"
+unknown command "fb_prefix_clients"
+unknown command "fb_rec_snet"
+unknown command "fb_rec_snet_time"
+unknown command "fb_rec_snet_count"
+unknown command "fb_rec_snet_bt"
+unknown command "fb_subnet_recheck"
+unknown command "fb_rec_snet_level"
+unknown command "fb_cachetime_kick"
+unknown command "fb_cacheonly"
+unknown command "fb_showchat"
+unknown command "fb_chatinfo"
+unknown command "fb_hudinfo"
+unknown command "fb_hudcolor"
+unknown command "fb_hudpos"
+unknown command "fb_serveronly"
+unknown command "fb_confirmchat"
+unknown command "fb_locknames"
+unknown command "fb_newmenu"
+unknown command "fb_show_bb"
+unknown command "fb_noip_as_allip"
+unknown command "fb_longtime_allservers"
+unknown command "fb_force_bantype_ip"
+unknown command "fb_no_confirm"
+unknown command "fb_lock_def_time"
+unknown command "fb_customreason_first"
+unknown command "fb_customreason_flag"
+unknown command "fb_plugin_prefix"
+unknown command "fb_plugin_hprefix"
+unknown command "fb_menu_nick_addons"
+unknown command "fb_acp_admin_uid"
+unknown command "fb_kick_all_from_ip"
+unknown command "fb_positive_cache_mc"
+unknown command "fb_menufilters"
+unknown command "fb_menusort"
+unknown command "amx_password_field"
+unknown command "amx_amxadmins_table"
+unknown command "amx_admins_table"
+unknown command "fb_adminban_flag"
+unknown command "amx_mode"
+unknown command "amx_imessage"
+unknown command "amx_freq_imessage"
+unknown command "amx_plmenu_bantimes"
+unknown command "amx_tempban_maxtime"
+unknown command "amx_plmenu_slapdmg"
+unknown command "amx_flood_time"
+unknown command "amx_reservation"
+unknown command "amx_hideslots"
+unknown command "amx_time_display"
+unknown command "amx_time_voice"
+unknown command "amx_extendmap_max"
+unknown command "amx_extendmap_step"
+unknown command "amx_language_display_msg"
+unknown command "amx_help_display_msg"
+unknown command "amx_help_display_msg_time"
+unknown command "amx_help_amount_per_page"
+unknown command "amx_statsx_duration"
+unknown command "amx_statsx_freeze"
+unknown command "amx_restrmapsettings"
+IP Подошёл.
+L 12/15/2020 - 15:13:21: [colored_translit_config.amxx] Can't add menu item "Настройки чата" from plugin "Colored Translit Config" to menu set because the Menus Front-End plugin itself is not loaded!
+L 12/15/2020 - 15:13:21: [map_chooser_14.amxx] Загружено 47 карт из addons/amxmodx/configs/maps.ini
+L 12/15/2020 - 15:13:21: [map_chooser_14.amxx] Режим сортировки карт по онлайну выключен!
+========== [Colored Translit] START SET FCVAR ==========
+=========== [Colored Translit] END SET FCVAR ===========
+=========== [Colored Translit] START DEBUG =============
+[Colored Translit] Translit File Loaded. Symbols: 65
+[Colored Translit] Swear File Loaded. Swears: 0
+[Colored Translit] Replace File Loaded. Replacements: 1
+[Colored Translit] Ignore File Loaded. Ignore Words: 35
+[Colored Translit] Spam File Loaded. Spam Words: 172
+[Colored Translit] Cheat File Loaded. Cheat Words: 206
+[Colored Translit] Config File Executed. Version: 3.0
+=========== [Colored Translit] END DEBUG ===============
+[COVID mode]: Everything is fine! The configuration file is loaded! 
+unknown command "vk"
+couldn't exec addons/amxmodx/configs/jb_standard/all_cvars.cfg
+unknown command "jbe_last_prisoner_money"
+unknown command "jbe_vip_discount_shop"
+L 12/15/2020 - 15:13:21: [admin_loader_for_fb.amxx] Загружено 21 администраторов из MySQL
+Server logging data to file logs/L1215022.log
+L 12/15/2020 - 15:13:21: Log file started (file "logs/L1215022.log") (game "cstrike") (version "48/1.1.2.7/Stdio/2369")
+unknown command "sv_logecho"
+unknown command "sv_logfile"
+L 12/15/2020 - 15:13:21: Server cvar "mp_logdetail" = "3"
+unknown command "mp_autocrosshair"
+L 12/15/2020 - 15:13:21: Server cvar "sv_aim" = "0"
+unknown command "sv_airmove"
+unknown command "sv_voicequality"
+unknown command "sv_voicecodec"
+unknown command "amx_extendmap_max"
+unknown command "amx_extendmap_step"
+unknown command "cam_change"
+unknown command "cam_connect"
+unknown command "cam_message"
+unknown command "sid_url"
+unknown command "]fastcup.net/rating.html"
+unknown command "precache_hl"
+unknown command "precache_weapons"
+unknown command "amx_extendmap_max"
+unknown command "amx_extendmap_step"
+unknown command "sv_consistency"
+unknown command "amx_amxadmins_table"
+unknown command "amx_admins_table"
+L 12/15/2020 - 15:13:21: [pluginmenu.amxx] Can't add menu item "Plugin Cvars" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+L 12/15/2020 - 15:13:21: [pluginmenu.amxx] Can't add menu item "Plugin Commands" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+L 12/15/2020 - 15:13:22: "FANAT SNOKI 2<1><STEAM_1:0:1082613223><>" connected, address "185.7.94.30:27005"
+fsdfsd - 1 - 1
+Connection to Steam servers successful.
+L 12/15/2020 - 15:13:22: "K0tik_Nar_KOTIK<2><STEAM_1:0:1840528214><>" connected, address "178.121.20.67:49647"
+   VAC secure mode disabled.
+L 12/15/2020 - 15:13:23: "<<<C@HEK>>><3><STEAM_1:0:2140271288><>" connected, address "178.44.92.1:27005"
+178.121.20.67:49647:reconnect
+L 12/15/2020 - 15:13:23: "K0tik_Nar_KOTIK<4><STEAM_1:0:1840528214><>" connected, address "178.121.20.67:49647"
+L 12/15/2020 - 15:13:24: "FANAT SNOKI 2<5><STEAM_1:0:1082613223><>" connected, address "185.7.94.30:27005"
+L 12/15/2020 - 15:13:25: "K0tik_Nar_KOTIK<4><STEAM_1:0:1840528214><>" entered the game
+L 12/15/2020 - 15:13:26: "K0tik_Nar_KOTIK<4><STEAM_1:0:1840528214><>" joined team "CT"
+L 12/15/2020 - 15:13:26: World triggered "Round_Draw" (CT "0") (T "0")
+L 12/15/2020 - 15:13:26: World triggered "Round_End"
+L 12/15/2020 - 15:13:27: "FANAT SNOKI 2<5><STEAM_1:0:1082613223><>" entered the game
+L 12/15/2020 - 15:13:27: [admin_loader_for_fb.amxx] Login: "FANAT SNOKI 2<5><STEAM_1:0:1082613223><>" kicked due to invalid password (account "FANAT SNOKI 2") (address "185.7.94.30")
+L 12/15/2020 - 15:13:27: Kick: "FANAT SNOKI 2<5><STEAM_1:0:1082613223><>" was kicked by "Console" (message "Invalid password! Use setinfo "_pw" "your pass"")
+L 12/15/2020 - 15:13:27: "FANAT SNOKI 2<5><STEAM_1:0:1082613223><UNASSIGNED>" triggered "time" (time "0:00")
+L 12/15/2020 - 15:13:27: "FANAT SNOKI 2<5><STEAM_1:0:1082613223><UNASSIGNED>" triggered "latency" (ping "0")
+L 12/15/2020 - 15:13:27: "FANAT SNOKI 2<5><STEAM_1:0:1082613223><>" disconnected
+L 12/15/2020 - 15:13:28: "<<<C@HEK>>><6><STEAM_1:0:2140271288><>" connected, address "178.44.92.1:27005"
+L 12/15/2020 - 15:13:29: World triggered "Round_Start"
+L 12/15/2020 - 15:13:30: "Exng1ern<7><STEAM_1:0:2039854542><>" connected, address "92.242.122.153:27005"
+L 12/15/2020 - 15:13:30: "<<<C@HEK>>><6><STEAM_1:0:2140271288><>" entered the game
+L 12/15/2020 - 15:13:31: World triggered "Round_Start"
+L 12/15/2020 - 15:13:33: "МиХаЛыЧ4658<8><STEAM_1:0:1525535123><>" connected, address "217.66.152.190:53737"
+L 12/15/2020 - 15:13:33: "Exng1ern<9><STEAM_1:0:2039854542><>" connected, address "92.242.122.153:27005"
+L 12/15/2020 - 15:13:34: "<<<C@HEK>>><6><STEAM_1:0:2140271288><>" joined team "TERRORIST"
+L 12/15/2020 - 15:13:34: World triggered "Game_Commencing"
+L 12/15/2020 - 15:13:34: World triggered "Game_Commencing" (CT "0") (T "0")
+L 12/15/2020 - 15:13:34: World triggered "Round_End"
+L 12/15/2020 - 15:13:34: "FANAT SNOKI 2<10><STEAM_1:0:321378097><>" connected, address "149.27.20.61:27005"
+L 12/15/2020 - 15:13:34: "BOMBist<11><STEAM_1:0:525850215><>" connected, address "178.44.97.213:27005"
+217.66.152.190:53737:reconnect
+L 12/15/2020 - 15:13:35: "МиХаЛыЧ4658<12><STEAM_1:0:1525535123><>" connected, address "217.66.152.190:53737"
+L 12/15/2020 - 15:13:37: World triggered "Round_Start"
+L 12/15/2020 - 15:13:37: "i CAT LOVE BAD<13><STEAM_1:0:259933706><>" connected, address "213.111.129.73:27005"
+L 12/15/2020 - 15:13:38: [admin_loader_for_fb.amxx] Login: "МиХаЛыЧ4658<12><STEAM_1:0:1525535123><>" became an admin (account "МиХаЛыЧ4658") (nickname "МиХаЛыЧ4658") (access "abdfghiklpqrst") (address "217.66.152.190")
+L 12/15/2020 - 15:13:38: Admin МиХаЛыЧ4658 connected, ip: 217.66.152.190, Steam_ID: STEAM_1:0:1525535123
+L 12/15/2020 - 15:13:38: "МиХаЛыЧ4658<12><STEAM_1:0:1525535123><>" entered the game
+L 12/15/2020 - 15:13:38: "Exng1ern<9><STEAM_1:0:2039854542><>" entered the game
+213.111.129.73:27005:reconnect
+L 12/15/2020 - 15:13:39: "i CAT LOVE BAD<14><STEAM_1:0:259933706><>" connected, address "213.111.129.73:27005"
+L 12/15/2020 - 15:13:40: "FANAT SNOKI 2<15><STEAM_1:0:321378097><>" connected, address "149.27.20.61:27005"
+L 12/15/2020 - 15:13:40: "МиХаЛыЧ4658<12><STEAM_1:0:1525535123><>" joined team "TERRORIST"
+L 12/15/2020 - 15:13:41: "Exng1ern<9><STEAM_1:0:2039854542><>" joined team "TERRORIST"
+L 12/15/2020 - 15:13:42: "i CAT LOVE BAD<14><STEAM_1:0:259933706><>" entered the game
+L 12/15/2020 - 15:13:42: "(1)FANAT SNOKI 2<16><STEAM_1:0:1082613223><>" connected, address "185.7.94.30:27005"
+L 12/15/2020 - 15:13:44: [admin_loader_for_fb.amxx] Login: "FANAT SNOKI 2<15><STEAM_1:0:321378097><>" became an admin (account "FANAT SNOKI 2") (nickname "FANAT SNOKI 2") (access "adfghilpqrst") (address "149.27.20.61")
+L 12/15/2020 - 15:13:44: Admin FANAT SNOKI 2 connected, ip: 149.27.20.61, Steam_ID: STEAM_1:0:321378097
+L 12/15/2020 - 15:13:44: "FANAT SNOKI 2<15><STEAM_1:0:321378097><>" entered the game
+L 12/15/2020 - 15:13:44: "(1)FANAT SNOKI 2<16><STEAM_1:0:1082613223><>" entered the game
+L 12/15/2020 - 15:13:46: "FANAT SNOKI 2<15><STEAM_1:0:321378097><>" joined team "TERRORIST"
+L 12/15/2020 - 15:13:46: "(1)FANAT SNOKI 2<16><STEAM_1:0:1082613223><>" joined team "TERRORIST"
+L 12/15/2020 - 15:13:48: "K0tik_Nar_KOTIK<4><STEAM_1:0:1840528214><CT>" attacked "<<<C@HEK>>><6><STEAM_1:0:2140271288><TERRORIST>" with "ak47" (damage "16") (damage_armor "0") (health "84") (armor "0")
+L 12/15/2020 - 15:13:49: "K0tik_Nar_KOTIK<4><STEAM_1:0:1840528214><CT>" attacked "<<<C@HEK>>><6><STEAM_1:0:2140271288><TERRORIST>" with "ak47" (damage "16") (damage_armor "0") (health "68") (armor "0")
+L 12/15/2020 - 15:13:49: "Exng1ern<9><STEAM_1:0:2039854542><TERRORIST>" joined team "CT"
+L 12/15/2020 - 15:13:49: "K0tik_Nar_KOTIK<4><STEAM_1:0:1840528214><CT>" attacked "<<<C@HEK>>><6><STEAM_1:0:2140271288><TERRORIST>" with "ak47" (damage "16") (damage_armor "0") (health "52") (armor "0")
+L 12/15/2020 - 15:13:49: "K0tik_Nar_KOTIK<4><STEAM_1:0:1840528214><CT>" attacked "<<<C@HEK>>><6><STEAM_1:0:2140271288><TERRORIST>" with "ak47" (damage "64") (damage_armor "0") (health "-12") (armor "0")
+L 12/15/2020 - 15:13:49: "K0tik_Nar_KOTIK<4><STEAM_1:0:1840528214><CT>" killed "<<<C@HEK>>><6><STEAM_1:0:2140271288><TERRORIST>" with "ak47"
+L 12/15/2020 - 15:13:49: Team "CT" triggered "CTs_Win" (CT "1") (T "0")
+L 12/15/2020 - 15:13:49: World triggered "Round_End"
+L 12/15/2020 - 15:13:51: "BOMBist<17><STEAM_1:0:525850215><>" connected, address "178.44.97.213:27005"
+L 12/15/2020 - 15:13:54: World triggered "Round_Start"
+L 12/15/2020 - 15:13:55: "BOMBist<17><STEAM_1:0:525850215><>" entered the game
+L 12/15/2020 - 15:14:00: "i CAT LOVE BAD<14><STEAM_1:0:259933706><>" joined team "TERRORIST"
+L 12/15/2020 - 15:14:02: Server cvar "sv_restart" = "5"
+L 12/15/2020 - 15:14:03: World triggered "Restart_Round_(5_seconds)"
+L 12/15/2020 - 15:14:03: Team "CT" scored "1" with "2" players
+L 12/15/2020 - 15:14:03: Team "TERRORIST" scored "0" with "5" players
+L 12/15/2020 - 15:14:03: Server cvar "sv_restart" = "0"
+L 12/15/2020 - 15:14:06: "BOMBist<17><STEAM_1:0:525850215><>" joined team "TERRORIST"
+L 12/15/2020 - 15:14:08: World triggered "Round_Start"
+L 12/15/2020 - 15:14:09: "1,2,3,4,5,6,7,<18><STEAM_1:0:1941552105><>" connected, address "5.44.170.41:27005"
+5.44.170.41:27005:reconnect
+L 12/15/2020 - 15:14:12: "1,2,3,4,5,6,7,<19><STEAM_1:0:1941552105><>" connected, address "5.44.170.41:27005"
+L 12/15/2020 - 15:14:16: "1,2,3,4,5,6,7,<19><STEAM_1:0:1941552105><>" entered the game
+L 12/15/2020 - 15:14:22: "1,2,3,4,5,6,7,<19><STEAM_1:0:1941552105><>" joined team "TERRORIST"
+L 12/15/2020 - 15:14:27: "(2)FANAT SNOKI 2<20><STEAM_1:0:522923652><>" connected, address "145.255.11.180:27005"
+145.255.11.180:27005:reconnect
+L 12/15/2020 - 15:14:30: "(2)FANAT SNOKI 2<21><STEAM_1:0:522923652><>" connected, address "145.255.11.180:27005"
+L 12/15/2020 - 15:14:39: "(2)FANAT SNOKI 2<21><STEAM_1:0:522923652><>" entered the game
+L 12/15/2020 - 15:14:41: "(2)FANAT SNOKI 2<21><STEAM_1:0:522923652><>" joined team "TERRORIST"
+L 12/15/2020 - 15:14:48: "(2)FANAT SNOKI 2<21><STEAM_1:0:522923652><TERRORIST>" triggered "time" (time "0:09")
+L 12/15/2020 - 15:14:48: "(2)FANAT SNOKI 2<21><STEAM_1:0:522923652><TERRORIST>" triggered "latency" (ping "0")
+L 12/15/2020 - 15:14:48: "(2)FANAT SNOKI 2<21><STEAM_1:0:522923652><TERRORIST>" disconnected
+SZ_GetSpace: overflow on 1,2,3,4,5,6,7,
+SZ_GetSpace: overflow on 1,2,3,4,5,6,7,
+SZ_GetSpace: overflow on 1,2,3,4,5,6,7,
+SZ_GetSpace: overflow on 1,2,3,4,5,6,7,
+SZ_GetSpace: overflow on 1,2,3,4,5,6,7,
+SZ_GetSpace: overflow on 1,2,3,4,5,6,7,
+SZ_GetSpace: overflow on 1,2,3,4,5,6,7,
+SZ_GetSpace: overflow on 1,2,3,4,5,6,7,
+SZ_GetSpace: overflow on 1,2,3,4,5,6,7,
+SZ_GetSpace: overflow on 1,2,3,4,5,6,7,
+SZ_GetSpace: overflow on 1,2,3,4,5,6,7,
+SZ_GetSpace: overflow on 1,2,3,4,5,6,7,
+SZ_GetSpace: overflow on 1,2,3,4,5,6,7,
+SZ_GetSpace: overflow on 1,2,3,4,5,6,7,
+L 12/15/2020 - 15:15:08: "gorillass<22><STEAM_1:0:1886795812><>" connected, address "193.238.44.111:27005"
+SZ_GetSpace: overflow on 1,2,3,4,5,6,7,
+SZ_GetSpace: overflow on 1,2,3,4,5,6,7,
+193.238.44.111:27005:reconnect
+L 12/15/2020 - 15:15:10: "gorillass<23><STEAM_1:0:1886795812><>" connected, address "193.238.44.111:27005"
+SZ_GetSpace: overflow on 1,2,3,4,5,6,7,
+SZ_GetSpace: overflow on 1,2,3,4,5,6,7,
+L 12/15/2020 - 15:15:12: [admin_loader_for_fb.amxx] Login: "gorillass<23><STEAM_1:0:1886795812><>" became an admin (account "gorillass") (nickname "gorillass") (access "adgiklprst") (address "193.238.44.111")
+L 12/15/2020 - 15:15:12: Admin gorillass connected, ip: 193.238.44.111, Steam_ID: STEAM_1:0:1886795812
+L 12/15/2020 - 15:15:12: "gorillass<23><STEAM_1:0:1886795812><>" entered the game
+SZ_GetSpace: overflow on 1,2,3,4,5,6,7,
+SZ_GetSpace: overflow on 1,2,3,4,5,6,7,
+SZ_GetSpace: overflow on 1,2,3,4,5,6,7,
+SZ_GetSpace: overflow on 1,2,3,4,5,6,7,
+SZ_GetSpace: overflow on 1,2,3,4,5,6,7,
+SZ_GetSpace: overflow on 1,2,3,4,5,6,7,
+SZ_GetSpace: overflow on 1,2,3,4,5,6,7,
+SZ_GetSpace: overflow on 1,2,3,4,5,6,7,
+L 12/15/2020 - 15:15:23: "gorillass<23><STEAM_1:0:1886795812><>" joined team "TERRORIST"
+SZ_GetSpace: overflow on 1,2,3,4,5,6,7,
+SZ_GetSpace: overflow on 1,2,3,4,5,6,7,
+SZ_GetSpace: overflow on 1,2,3,4,5,6,7,
+SZ_GetSpace: overflow on 1,2,3,4,5,6,7,
+SZ_GetSpace: overflow on 1,2,3,4,5,6,7,
+SZ_GetSpace: overflow on 1,2,3,4,5,6,7,
+SZ_GetSpace: overflow on 1,2,3,4,5,6,7,
+SZ_GetSpace: overflow on 1,2,3,4,5,6,7,
+SZ_GetSpace: overflow on 1,2,3,4,5,6,7,
+SZ_GetSpace: overflow on 1,2,3,4,5,6,7,
+SZ_GetSpace: overflow on 1,2,3,4,5,6,7,
+SZ_GetSpace: overflow on 1,2,3,4,5,6,7,
+SZ_GetSpace: overflow on МиХаЛыЧ4658
+WARNING: datagram overflowed for МиХаЛыЧ4658
+SZ_GetSpace: overflow on 1,2,3,4,5,6,7,
+SZ_GetSpace: overflow on 1,2,3,4,5,6,7,
+SZ_GetSpace: overflow on 1,2,3,4,5,6,7,
+SZ_GetSpace: overflow on 1,2,3,4,5,6,7,
+SZ_GetSpace: overflow on 1,2,3,4,5,6,7,
+SZ_GetSpace: overflow on 1,2,3,4,5,6,7,
+SZ_GetSpace: overflow on 1,2,3,4,5,6,7,
+SZ_GetSpace: overflow on 1,2,3,4,5,6,7,
+SZ_GetSpace: overflow on 1,2,3,4,5,6,7,
+SZ_GetSpace: overflow on 1,2,3,4,5,6,7,
+SZ_GetSpace: overflow on 1,2,3,4,5,6,7,
+L 12/15/2020 - 15:15:47: "artemka888<24><STEAM_1:0:1288359075><>" connected, address "89.23.21.104:27005"
+SZ_GetSpace: overflow on 1,2,3,4,5,6,7,
+SZ_GetSpace: overflow on 1,2,3,4,5,6,7,
+SZ_GetSpace: overflow on 1,2,3,4,5,6,7,
+SZ_GetSpace: overflow on 1,2,3,4,5,6,7,
+SZ_GetSpace: overflow on 1,2,3,4,5,6,7,
+SZ_GetSpace: overflow on 1,2,3,4,5,6,7,
+L 12/15/2020 - 15:15:54: "1,2,3,4,5,6,7,<19><STEAM_1:0:1941552105><TERRORIST>" triggered "time" (time "1:38")
+L 12/15/2020 - 15:15:54: "1,2,3,4,5,6,7,<19><STEAM_1:0:1941552105><TERRORIST>" triggered "latency" (ping "70")
+L 12/15/2020 - 15:15:54: "1,2,3,4,5,6,7,<19><STEAM_1:0:1941552105><TERRORIST>" disconnected
+L 12/15/2020 - 15:15:55: "BOMBist<17><STEAM_1:0:525850215><TERRORIST>" committed suicide with "trigger_hurt" (world)
+L 12/15/2020 - 15:16:10: "i CAT LOVE BAD<14><STEAM_1:0:259933706><TERRORIST>" committed suicide with "worldspawn" (world)
+L 12/15/2020 - 15:16:24: "FANAT SNOKI 2<15><STEAM_1:0:321378097><TERRORIST>" committed suicide with "trigger_hurt" (world)
+L 12/15/2020 - 15:16:31: "FANAT SNOKI 2<15><STEAM_1:0:321378097><TERRORIST>" joined team "SPECTATOR"
+L 12/15/2020 - 15:17:04: "FANAT SNOKI 2<15><STEAM_1:0:321378097><SPECTATOR>" joined team "TERRORIST"
+L 12/15/2020 - 15:17:21: [adminchat_big_hud_msg.amxx] Chat: "МиХаЛыЧ4658<12><STEAM_1:0:1525535123><>" tsay "кто убил кнопкой ?!"
+L 12/15/2020 - 15:17:21: "МиХаЛыЧ4658<12><STEAM_1:0:1525535123><>" triggered "amx_tsay" (text "кто убил кнопкой ?!") (color "white")
+89.23.21.104:27005:reconnect
+L 12/15/2020 - 15:17:25: "artemka888<25><STEAM_1:0:1288359075><>" connected, address "89.23.21.104:27005"
+L 12/15/2020 - 15:17:55: "artemka888<25><STEAM_1:0:1288359075><>" entered the game
+L 12/15/2020 - 15:18:01: "artemka888<25><STEAM_1:0:1288359075><UNASSIGNED>" triggered "time" (time "0:06")
+L 12/15/2020 - 15:18:01: "artemka888<25><STEAM_1:0:1288359075><UNASSIGNED>" triggered "latency" (ping "0")
+L 12/15/2020 - 15:18:01: "artemka888<25><STEAM_1:0:1288359075><>" disconnected
+SZ_GetSpace: overflow on <<<C@HEK>>>
+SZ_GetSpace: overflow on (1)FANAT SNOKI 2
+SZ_GetSpace: overflow on gorillass
+SZ_GetSpace: overflow on Exng1ern
+WARNING: datagram overflowed for Exng1ern
+SZ_GetSpace: overflow on BOMBist
+WARNING: datagram overflowed for <<<C@HEK>>>
+WARNING: datagram overflowed for gorillass
+WARNING: datagram overflowed for BOMBist
+WARNING: datagram overflowed for (1)FANAT SNOKI 2
+SZ_GetSpace: overflow on МиХаЛыЧ4658
+SZ_GetSpace: overflow on МиХаЛыЧ4658
+SZ_GetSpace: overflow on МиХаЛыЧ4658
+WARNING: datagram overflowed for МиХаЛыЧ4658
+L 12/15/2020 - 15:18:45: "i CAT LOVE BAD<14><STEAM_1:0:259933706><TERRORIST>" attacked "K0tik_Nar_KOTIK<4><STEAM_1:0:1840528214><CT>" with "knife" (damage "27") (damage_armor "2") (health "472") (armor "97")
+L 12/15/2020 - 15:18:48: "K0tik_Nar_KOTIK<4><STEAM_1:0:1840528214><CT>" attacked "i CAT LOVE BAD<14><STEAM_1:0:259933706><TERRORIST>" with "m4a1" (damage "128") (damage_armor "0") (health "-28") (armor "0")
+L 12/15/2020 - 15:18:48: "K0tik_Nar_KOTIK<4><STEAM_1:0:1840528214><CT>" killed "i CAT LOVE BAD<14><STEAM_1:0:259933706><TERRORIST>" with "m4a1"
+SZ_GetSpace: overflow on i CAT LOVE BAD
+SZ_GetSpace: overflow on i CAT LOVE BAD
+SZ_GetSpace: overflow on i CAT LOVE BAD
+SZ_GetSpace: overflow on i CAT LOVE BAD
+SZ_GetSpace: overflow on i CAT LOVE BAD
+SZ_GetSpace: overflow on i CAT LOVE BAD
+SZ_GetSpace: overflow on i CAT LOVE BAD
+SZ_GetSpace: overflow on i CAT LOVE BAD
+SZ_GetSpace: overflow on i CAT LOVE BAD
+SZ_GetSpace: overflow on i CAT LOVE BAD
+SZ_GetSpace: overflow on i CAT LOVE BAD
+SZ_GetSpace: overflow on (1)FANAT SNOKI 2
+SZ_GetSpace: overflow on gorillass
+SZ_GetSpace: overflow on Exng1ern
+SZ_GetSpace: overflow on BOMBist
+SZ_GetSpace: overflow on <<<C@HEK>>>
+SZ_GetSpace: overflow on i CAT LOVE BAD
+WARNING: datagram overflowed for gorillass
+WARNING: datagram overflowed for Exng1ern
+WARNING: datagram overflowed for (1)FANAT SNOKI 2
+WARNING: datagram overflowed for <<<C@HEK>>>
+WARNING: datagram overflowed for BOMBist
+L 12/15/2020 - 15:19:17: "Exng1ern<9><STEAM_1:0:2039854542><CT>" triggered "weaponstats" (weapon "ak47") (shots "1") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 12/15/2020 - 15:19:17: "Exng1ern<9><STEAM_1:0:2039854542><CT>" triggered "weaponstats2" (weapon "ak47") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 12/15/2020 - 15:19:17: "Exng1ern<9><STEAM_1:0:2039854542><CT>" triggered "time" (time "5:38")
+L 12/15/2020 - 15:19:17: "Exng1ern<9><STEAM_1:0:2039854542><CT>" triggered "latency" (ping "249")
+L 12/15/2020 - 15:19:17: "Exng1ern<9><STEAM_1:0:2039854542><CT>" disconnected
+SZ_GetSpace: overflow on i CAT LOVE BAD
+SZ_GetSpace: overflow on i CAT LOVE BAD
+SZ_GetSpace: overflow on K0tik_Nar_KOTIK
+SZ_GetSpace: overflow on FANAT SNOKI 2
+SZ_GetSpace: overflow on МиХаЛыЧ4658
+WARNING: datagram overflowed for K0tik_Nar_KOTIK
+SZ_GetSpace: overflow on i CAT LOVE BAD
+WARNING: datagram overflowed for МиХаЛыЧ4658
+WARNING: datagram overflowed for FANAT SNOKI 2
+SZ_GetSpace: overflow on i CAT LOVE BAD
+SZ_GetSpace: overflow on i CAT LOVE BAD
+SZ_GetSpace: overflow on i CAT LOVE BAD
+SZ_GetSpace: overflow on i CAT LOVE BAD
+SZ_GetSpace: overflow on i CAT LOVE BAD
+SZ_GetSpace: overflow on i CAT LOVE BAD
+SZ_GetSpace: overflow on i CAT LOVE BAD
+SZ_GetSpace: overflow on i CAT LOVE BAD
+SZ_GetSpace: overflow on i CAT LOVE BAD
+SZ_GetSpace: overflow on i CAT LOVE BAD
+SZ_GetSpace: overflow on i CAT LOVE BAD
+SZ_GetSpace: overflow on i CAT LOVE BAD
+SZ_GetSpace: overflow on i CAT LOVE BAD
+SZ_GetSpace: overflow on i CAT LOVE BAD
+SZ_GetSpace: overflow on i CAT LOVE BAD
+SZ_GetSpace: overflow on i CAT LOVE BAD
+SZ_GetSpace: overflow on i CAT LOVE BAD
+L 12/15/2020 - 15:19:54: "МиХаЛыЧ4658<12><STEAM_1:0:1525535123><TERRORIST>" triggered "weaponstats" (weapon "knife") (shots "2") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 12/15/2020 - 15:19:54: "МиХаЛыЧ4658<12><STEAM_1:0:1525535123><TERRORIST>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 12/15/2020 - 15:19:54: "МиХаЛыЧ4658<12><STEAM_1:0:1525535123><TERRORIST>" triggered "time" (time "6:16")
+L 12/15/2020 - 15:19:54: "МиХаЛыЧ4658<12><STEAM_1:0:1525535123><TERRORIST>" triggered "latency" (ping "166")
+L 12/15/2020 - 15:19:54: "МиХаЛыЧ4658<12><STEAM_1:0:1525535123><TERRORIST>" disconnected
+SZ_GetSpace: overflow on i CAT LOVE BAD
+L 12/15/2020 - 15:19:55: "i CAT LOVE BAD<14><STEAM_1:0:259933706><TERRORIST>" triggered "weaponstats" (weapon "knife") (shots "3") (hits "1") (kills "0") (headshots "0") (tks "0") (damage "27") (deaths "1")
+L 12/15/2020 - 15:19:55: "i CAT LOVE BAD<14><STEAM_1:0:259933706><TERRORIST>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 12/15/2020 - 15:19:55: "i CAT LOVE BAD<14><STEAM_1:0:259933706><TERRORIST>" triggered "time" (time "6:13")
+L 12/15/2020 - 15:19:55: "i CAT LOVE BAD<14><STEAM_1:0:259933706><TERRORIST>" triggered "latency" (ping "49")
+L 12/15/2020 - 15:19:55: "i CAT LOVE BAD<14><STEAM_1:0:259933706><TERRORIST>" disconnected

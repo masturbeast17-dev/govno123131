@@ -1,6 +1,0 @@
-L 05/14/2016 - 14:54:35: -------- Mapchange to jail_xmf --------
-L 05/14/2016 - 14:54:36: [GEOIP] Database info: GEO-106FREE 20080801 Build 1 Copyright (c) 2007 MaxMind LLC All Rights Reserved
-L 05/14/2016 - 14:54:45: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
-L 05/14/2016 - 14:54:45: [umm.amxx] Plugin matching "nextmap.amxx" stopped
-L 05/14/2016 - 14:54:45: [umm.amxx] Plugin matching "timeleft.amxx" stopped
-L 05/14/2016 - 14:54:45: [umm.amxx] Plugin matching "mapchooser.amxx" stopped

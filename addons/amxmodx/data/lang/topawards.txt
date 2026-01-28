@@ -1,0 +1,5 @@
+[en]
+TOP_AWARDS = [Top] !gYou got !tВип!g because you are in !tTOP%d!g the best players.
+
+[ru]
+TOP_AWARDS = [Top] !gВам выдан !tВип!g, потому что вы в !tTOP%d!g лучших игроков.

@@ -1,0 +1,5 @@
+[ru]
+JBR_PREFIX = !t[!gJailBreak!t]
+JBR_KILLED = !yВы !tполучили !y[!g%d опыта!y] за !tубийство игрока !y[!g%s!y]!
+JBR_GIVE_ROUND = !yВы !tполучили !y[!g%d опыта!y] за то, что !y[!gвыжили!y]!
+JBR_SPAWN_ADMIN	= !yВы !tполучили !y[!g%d опыта!y] за [!gпривилегии!y]!

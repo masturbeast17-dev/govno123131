@@ -1,4 +1,0 @@
-L 05/25/2016 - 14:39:11: -------- Mapchange to jail_west_v2 --------
-L 05/25/2016 - 14:39:12: [GEOIP] Database info: GEO-106FREE 20080801 Build 1 Copyright (c) 2007 MaxMind LLC All Rights Reserved
-L 05/25/2016 - 14:39:19: [AMXX] Failed to open dictionary file: cstrike\addons\amxmodx\data\lang\grab_plus.txt
-L 05/25/2016 - 14:39:19: [colored_translit_config.amxx] Can't add menu item "Настройки чата" from plugin "Colored Translit Config" to menu set because the Menus Front-End plugin itself is not loaded!

@@ -1,0 +1,770 @@
+Protocol version 48
+Exe version 1.1.2.7/Stdio (cstrike)
+Exe build: 16:23:03 Oct  6 2020 (2369)
+Executing ReGameDLL Configuration File 
+unknown command "mp_freeforall"
+unknown command "mp_maxmoney"
+unknown command "mp_round_infinite"
+unknown command "mp_hegrenade_penetration"
+unknown command "mp_nadedrops"
+unknown command "mp_roundrespawn_time"
+unknown command "mp_auto_reload_weapons"
+unknown command "mp_refill_bpammo_weapons"
+unknown command "bot_deathmatch"
+unknown command "mp_auto_join_team"
+Executing ReGameDLL Configuration File 
+unknown command "mp_freeforall"
+unknown command "mp_maxmoney"
+unknown command "mp_round_infinite"
+unknown command "mp_hegrenade_penetration"
+unknown command "mp_nadedrops"
+unknown command "mp_roundrespawn_time"
+unknown command "mp_auto_reload_weapons"
+unknown command "mp_refill_bpammo_weapons"
+unknown command "bot_deathmatch"
+unknown command "mp_auto_join_team"
+Server IP address 195.88.208.116:27015
+   
+   Metamod-r version 1.3.0.128 Copyright (c) 2016-2018 ReHLDS Team (rebuild of original Metamod by Will Day and Jussi Kivilinna)
+   Metamod-r comes with ABSOLUTELY NO WARRANTY; for details type `meta gpl'.
+   This is free software, and you are welcome to redistribute it
+   under certain conditions; type `meta gpl' for details.
+   
+Metamod-r v1.3.0.128, API (5:13)
+Metamod-r build: 17:47:48 Aug 24 2018
+Metamod-r from: https://github.com/theAsmodai/metamod-r/commit/0cf2f70
+
+   AMX Mod X version 1.9.0.5271 Copyright (c) 2004-2015 AMX Mod X Development Team 
+   AMX Mod X comes with ABSOLUTELY NO WARRANTY; for details type `amxx gpl'.
+   This is free software and you are welcome to redistribute it under 
+   certain conditions; type 'amxx gpl' for details.
+  
+[WHB] Version: 1.5.696 Linux (Usage SSE 4.1)
+[WHB] Success: Build ReHLDS version defined Linux '2369'
+[WHB] Success: Configuration executed.
+ReGameDLL version: 5.11.0.420-dev+m
+L 11/24/2020 - 13:38:06: -------- Mapchange to jail_float --------
+L 11/24/2020 - 13:38:06: [GEOIP] Database info: GeoLite2 Country database 2.0
+[ReAimDetector] Version: 0.2.2 Linux 'Counter-Strike 1.6'
+[ReAimDetector] Success: Build ReHLDS version defined Linux '2369'.
+Executing ReGameDLL Configuration File 
+unknown command "bot_deathmatch"
+Executing ReGameDLL Configuration File 
+unknown command "bot_deathmatch"
+unknown command "amx_default_access"
+unknown command "amx_password_field"
+unknown command "amx_mode"
+unknown command "amx_show_activity"
+unknown command "amx_imessage"
+unknown command "amx_freq_imessage"
+unknown command "amx_plmenu_bantimes"
+unknown command "amx_tempban_maxtime"
+unknown command "amx_plmenu_slapdmg"
+unknown command "amx_flood_time"
+unknown command "amx_reservation"
+unknown command "amx_hideslots"
+unknown command "amx_time_display"
+unknown command "amx_time_voice"
+unknown command "amx_vote_delay"
+unknown command "amx_vote_time"
+unknown command "amx_vote_answers"
+unknown command "amx_votekick_ratio"
+unknown command "amx_voteban_ratio"
+unknown command "amx_votemap_ratio"
+unknown command "amx_vote_ratio"
+unknown command "amx_extendmap_max"
+unknown command "amx_extendmap_step"
+unknown command "amx_language_display_msg"
+unknown command "amx_help_display_msg"
+unknown command "amx_help_display_msg_time"
+unknown command "amx_help_amount_per_page"
+unknown command "amx_statsx_duration"
+unknown command "amx_statsx_freeze"
+unknown command "amx_restrmapsettings"
+unknown command "fb_kick_delay"
+unknown command "fb_server_name"
+unknown command "fb_sql_table"
+unknown command "fb_sql_log_table"
+unknown command "fb_ip_ban_time"
+unknown command "fb_showhud"
+unknown command "fb_offline_time"
+unknown command "fb_unban_self"
+unknown command "fb_unban_all"
+unknown command "fb_oldmap_players"
+unknown command "fb_bantime_access"
+unknown command "fb_adminrcon_flag"
+unknown command "fb_bantime_limit"
+unknown command "fb_use_sql"
+unknown command "fb_nvault_clear"
+unknown command "fb_force_check"
+unknown command "fb_cachetime"
+unknown command "fb_oldkickinfo"
+unknown command "fb_logtype"
+unknown command "fb_loglevel"
+unknown command "fb_logdays"
+unknown command "fb_use_russian"
+unknown command "fb_sql_clear"
+unknown command "fb_subnet_except_ucp"
+unknown command "fb_subnet_clients"
+unknown command "fb_prefix_clients"
+unknown command "fb_rec_snet"
+unknown command "fb_rec_snet_time"
+unknown command "fb_rec_snet_count"
+unknown command "fb_rec_snet_bt"
+unknown command "fb_subnet_recheck"
+unknown command "fb_rec_snet_level"
+unknown command "fb_cachetime_kick"
+unknown command "fb_cacheonly"
+unknown command "fb_showchat"
+unknown command "fb_chatinfo"
+unknown command "fb_hudinfo"
+unknown command "fb_hudcolor"
+unknown command "fb_hudpos"
+unknown command "fb_serveronly"
+unknown command "fb_confirmchat"
+unknown command "fb_locknames"
+unknown command "fb_newmenu"
+unknown command "fb_show_bb"
+unknown command "fb_noip_as_allip"
+unknown command "fb_longtime_allservers"
+unknown command "fb_force_bantype_ip"
+unknown command "fb_no_confirm"
+unknown command "fb_lock_def_time"
+unknown command "fb_customreason_first"
+unknown command "fb_customreason_flag"
+unknown command "fb_plugin_prefix"
+unknown command "fb_plugin_hprefix"
+unknown command "fb_menu_nick_addons"
+unknown command "fb_acp_admin_uid"
+unknown command "fb_kick_all_from_ip"
+unknown command "fb_positive_cache_mc"
+unknown command "fb_menufilters"
+unknown command "fb_menusort"
+unknown command "amx_password_field"
+unknown command "amx_amxadmins_table"
+unknown command "amx_admins_table"
+unknown command "fb_adminban_flag"
+unknown command "amx_mode"
+unknown command "amx_imessage"
+unknown command "amx_freq_imessage"
+unknown command "amx_plmenu_bantimes"
+unknown command "amx_tempban_maxtime"
+unknown command "amx_plmenu_slapdmg"
+unknown command "amx_flood_time"
+unknown command "amx_reservation"
+unknown command "amx_hideslots"
+unknown command "amx_time_display"
+unknown command "amx_time_voice"
+unknown command "amx_extendmap_max"
+unknown command "amx_extendmap_step"
+unknown command "amx_language_display_msg"
+unknown command "amx_help_display_msg"
+unknown command "amx_help_display_msg_time"
+unknown command "amx_help_amount_per_page"
+unknown command "amx_statsx_duration"
+unknown command "amx_statsx_freeze"
+unknown command "amx_restrmapsettings"
+IP Подошёл.
+L 11/24/2020 - 13:38:08: [colored_translit_config.amxx] Can't add menu item "Настройки чата" from plugin "Colored Translit Config" to menu set because the Menus Front-End plugin itself is not loaded!
+L 11/24/2020 - 13:38:08: [map_chooser_14.amxx] Загружено 49 карт из addons/amxmodx/configs/maps.ini
+L 11/24/2020 - 13:38:08: [map_chooser_14.amxx] Режим сортировки карт по онлайну выключен!
+========== [Colored Translit] START SET FCVAR ==========
+=========== [Colored Translit] END SET FCVAR ===========
+=========== [Colored Translit] START DEBUG =============
+[Colored Translit] Translit File Loaded. Symbols: 65
+[Colored Translit] Swear File Loaded. Swears: 0
+[Colored Translit] Replace File Loaded. Replacements: 1
+[Colored Translit] Ignore File Loaded. Ignore Words: 35
+[Colored Translit] Spam File Loaded. Spam Words: 172
+[Colored Translit] Cheat File Loaded. Cheat Words: 206
+[Colored Translit] Config File Executed. Version: 3.0
+=========== [Colored Translit] END DEBUG ===============
+unknown command "vk"
+couldn't exec addons/amxmodx/configs/jb_standard/all_cvars.cfg
+unknown command "jbe_last_prisoner_money"
+unknown command "jbe_vip_discount_shop"
+[COVID mode]: Everything is fine! The configuration file is loaded! 
+L 11/24/2020 - 13:38:08: [admin_loader_for_fb.amxx] Загружено 32 администраторов из MySQL
+Server logging data to file logs/L1124023.log
+L 11/24/2020 - 13:38:08: Log file started (file "logs/L1124023.log") (game "cstrike") (version "48/1.1.2.7/Stdio/2369")
+unknown command "sv_logecho"
+unknown command "sv_logfile"
+L 11/24/2020 - 13:38:08: Server cvar "mp_logdetail" = "3"
+unknown command "mp_autocrosshair"
+L 11/24/2020 - 13:38:08: Server cvar "sv_aim" = "0"
+unknown command "sv_airmove"
+unknown command "sv_voicequality"
+unknown command "sv_voicecodec"
+unknown command "amx_extendmap_max"
+unknown command "amx_extendmap_step"
+unknown command "cam_change"
+unknown command "cam_connect"
+unknown command "cam_message"
+unknown command "sid_url"
+unknown command "]fastcup.net/rating.html"
+unknown command "precache_hl"
+unknown command "precache_weapons"
+unknown command "amx_extendmap_max"
+unknown command "amx_extendmap_step"
+unknown command "sv_consistency"
+unknown command "amx_amxadmins_table"
+unknown command "amx_admins_table"
+L 11/24/2020 - 13:38:08: [pluginmenu.amxx] Can't add menu item "Plugin Cvars" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+L 11/24/2020 - 13:38:08: [pluginmenu.amxx] Can't add menu item "Plugin Commands" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+Connection to Steam servers successful.
+fsdfsd - 1 - 1
+   VAC secure mode disabled.
+L 11/24/2020 - 13:38:12: "Alkatras<1><STEAM_1:0:1718162856><>" connected, address "46.0.208.51:39653"
+L 11/24/2020 - 13:38:13: "Zveruga<2><STEAM_1:0:948512310><>" connected, address "188.170.253.207:27005"
+L 11/24/2020 - 13:38:16: [admin_loader_for_fb.amxx] Login: "Zveruga<2><STEAM_1:0:948512310><>" became an admin (account "Zveruga") (nickname "Zveruga") (access "adfghilpqrst") (address "188.170.253.207")
+L 11/24/2020 - 13:38:16: Admin Zveruga connected, ip: 188.170.253.207, Steam_ID: STEAM_1:0:948512310
+L 11/24/2020 - 13:38:16: "Zveruga<2><STEAM_1:0:948512310><>" entered the game
+L 11/24/2020 - 13:38:16: World triggered "Round_Start"
+L 11/24/2020 - 13:38:17: [admin_loader_for_fb.amxx] Login: "Alkatras<1><STEAM_1:0:1718162856><>" became an admin (account "Alkatras") (nickname "Alkatras") (access "abdfghiklnpqrst") (address "46.0.208.51")
+L 11/24/2020 - 13:38:17: Admin Alkatras connected, ip: 46.0.208.51, Steam_ID: STEAM_1:0:1718162856
+L 11/24/2020 - 13:38:17: "Alkatras<1><STEAM_1:0:1718162856><>" entered the game
+L 11/24/2020 - 13:38:23: "Alkatras<1><STEAM_1:0:1718162856><>" joined team "TERRORIST"
+L 11/24/2020 - 13:38:23: World triggered "Round_Draw" (CT "0") (T "0")
+L 11/24/2020 - 13:38:23: World triggered "Round_End"
+L 11/24/2020 - 13:38:25: "Alkatras<1><STEAM_1:0:1718162856><TERRORIST>" joined team "CT"
+L 11/24/2020 - 13:38:28: World triggered "Round_Start"
+L 11/24/2020 - 13:38:59: Server cvar "sv_restart" = "5"
+L 11/24/2020 - 13:38:59: World triggered "Restart_Round_(5_seconds)"
+L 11/24/2020 - 13:38:59: Team "CT" scored "0" with "1" players
+L 11/24/2020 - 13:38:59: Team "TERRORIST" scored "0" with "0" players
+L 11/24/2020 - 13:38:59: Server cvar "sv_restart" = "0"
+L 11/24/2020 - 13:39:04: World triggered "Round_Start"
+L 11/24/2020 - 13:39:09: "Zveruga<2><STEAM_1:0:948512310><>" joined team "TERRORIST"
+L 11/24/2020 - 13:39:09: World triggered "Game_Commencing"
+L 11/24/2020 - 13:39:09: World triggered "Game_Commencing" (CT "0") (T "0")
+L 11/24/2020 - 13:39:09: World triggered "Round_End"
+L 11/24/2020 - 13:39:12: World triggered "Round_Start"
+L 11/24/2020 - 13:39:54: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "Zveruga<2><STEAM_1:0:948512310><TERRORIST>" with "worldspawn" (damage "75") (damage_armor "0") (health "23") (armor "0")
+L 11/24/2020 - 13:39:57: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "Zveruga<2><STEAM_1:0:948512310><TERRORIST>" with "worldspawn" (damage "75") (damage_armor "0") (health "23") (armor "0")
+L 11/24/2020 - 13:40:06: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "Zveruga<2><STEAM_1:0:948512310><TERRORIST>" with "worldspawn" (damage "75") (damage_armor "0") (health "25") (armor "0")
+L 11/24/2020 - 13:40:11: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "Zveruga<2><STEAM_1:0:948512310><TERRORIST>" with "worldspawn" (damage "75") (damage_armor "0") (health "25") (armor "0")
+L 11/24/2020 - 13:40:11: "PROFESSOR<3><STEAM_1:0:879078399><>" connected, address "212.109.27.193:2563"
+L 11/24/2020 - 13:40:12: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "Zveruga<2><STEAM_1:0:948512310><TERRORIST>" with "worldspawn" (damage "75") (damage_armor "0") (health "25") (armor "0")
+L 11/24/2020 - 13:40:14: "PROFESSOR<3><STEAM_1:0:879078399><>" entered the game
+L 11/24/2020 - 13:40:16: "PROFESSOR<3><STEAM_1:0:879078399><>" joined team "TERRORIST"
+L 11/24/2020 - 13:40:18: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "Zveruga<2><STEAM_1:0:948512310><TERRORIST>" with "worldspawn" (damage "75") (damage_armor "0") (health "25") (armor "0")
+L 11/24/2020 - 13:40:26: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "Zveruga<2><STEAM_1:0:948512310><TERRORIST>" with "worldspawn" (damage "75") (damage_armor "0") (health "25") (armor "0")
+L 11/24/2020 - 13:40:29: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "Zveruga<2><STEAM_1:0:948512310><TERRORIST>" with "worldspawn" (damage "75") (damage_armor "0") (health "25") (armor "0")
+L 11/24/2020 - 13:40:43: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "Zveruga<2><STEAM_1:0:948512310><TERRORIST>" with "worldspawn" (damage "75") (damage_armor "0") (health "25") (armor "0")
+L 11/24/2020 - 13:40:45: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "Zveruga<2><STEAM_1:0:948512310><TERRORIST>" with "worldspawn" (damage "75") (damage_armor "0") (health "25") (armor "0")
+L 11/24/2020 - 13:40:46: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "Zveruga<2><STEAM_1:0:948512310><TERRORIST>" with "worldspawn" (damage "75") (damage_armor "0") (health "25") (armor "0")
+L 11/24/2020 - 13:40:55: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "Zveruga<2><STEAM_1:0:948512310><TERRORIST>" with "worldspawn" (damage "75") (damage_armor "0") (health "25") (armor "0")
+L 11/24/2020 - 13:41:00: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "Zveruga<2><STEAM_1:0:948512310><TERRORIST>" with "worldspawn" (damage "75") (damage_armor "0") (health "25") (armor "0")
+L 11/24/2020 - 13:41:14: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "Zveruga<2><STEAM_1:0:948512310><TERRORIST>" with "worldspawn" (damage "75") (damage_armor "0") (health "25") (armor "0")
+L 11/24/2020 - 13:41:31: "Xto Ya<4><STEAM_1:0:1431999595><>" connected, address "5.153.138.230:27005"
+5.153.138.230:27005:reconnect
+L 11/24/2020 - 13:41:32: "Xto Ya<5><STEAM_1:0:1431999595><>" connected, address "5.153.138.230:27005"
+L 11/24/2020 - 13:41:35: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "Zveruga<2><STEAM_1:0:948512310><TERRORIST>" with "worldspawn" (damage "75") (damage_armor "0") (health "25") (armor "0")
+L 11/24/2020 - 13:41:39: "Xto Ya<5><STEAM_1:0:1431999595><>" entered the game
+L 11/24/2020 - 13:41:40: "Xto Ya<5><STEAM_1:0:1431999595><>" joined team "TERRORIST"
+L 11/24/2020 - 13:41:41: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "Zveruga<2><STEAM_1:0:948512310><TERRORIST>" with "worldspawn" (damage "75") (damage_armor "0") (health "25") (armor "0")
+L 11/24/2020 - 13:41:42: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "Zveruga<2><STEAM_1:0:948512310><TERRORIST>" with "worldspawn" (damage "75") (damage_armor "0") (health "25") (armor "0")
+L 11/24/2020 - 13:41:58: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "PROFESSOR<3><STEAM_1:0:879078399><TERRORIST>" with "worldspawn" (damage "75") (damage_armor "0") (health "25") (armor "0")
+L 11/24/2020 - 13:41:59: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "PROFESSOR<3><STEAM_1:0:879078399><TERRORIST>" with "worldspawn" (damage "75") (damage_armor "0") (health "25") (armor "0")
+L 11/24/2020 - 13:42:00: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "PROFESSOR<3><STEAM_1:0:879078399><TERRORIST>" with "worldspawn" (damage "75") (damage_armor "0") (health "25") (armor "0")
+L 11/24/2020 - 13:42:01: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "PROFESSOR<3><STEAM_1:0:879078399><TERRORIST>" with "worldspawn" (damage "75") (damage_armor "0") (health "25") (armor "0")
+L 11/24/2020 - 13:42:02: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "Zveruga<2><STEAM_1:0:948512310><TERRORIST>" with "worldspawn" (damage "75") (damage_armor "0") (health "25") (armor "0")
+L 11/24/2020 - 13:42:03: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "Zveruga<2><STEAM_1:0:948512310><TERRORIST>" with "worldspawn" (damage "75") (damage_armor "0") (health "25") (armor "0")
+L 11/24/2020 - 13:42:04: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "Zveruga<2><STEAM_1:0:948512310><TERRORIST>" with "worldspawn" (damage "75") (damage_armor "0") (health "25") (armor "0")
+L 11/24/2020 - 13:42:06: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "Zveruga<2><STEAM_1:0:948512310><TERRORIST>" with "worldspawn" (damage "75") (damage_armor "0") (health "25") (armor "0")
+L 11/24/2020 - 13:42:08: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "PROFESSOR<3><STEAM_1:0:879078399><TERRORIST>" with "worldspawn" (damage "75") (damage_armor "0") (health "25") (armor "0")
+L 11/24/2020 - 13:42:10: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "PROFESSOR<3><STEAM_1:0:879078399><TERRORIST>" with "worldspawn" (damage "75") (damage_armor "0") (health "25") (armor "0")
+L 11/24/2020 - 13:42:13: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "Zveruga<2><STEAM_1:0:948512310><TERRORIST>" with "worldspawn" (damage "75") (damage_armor "0") (health "25") (armor "0")
+L 11/24/2020 - 13:42:24: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "Zveruga<2><STEAM_1:0:948512310><TERRORIST>" with "worldspawn" (damage "75") (damage_armor "0") (health "25") (armor "0")
+L 11/24/2020 - 13:42:26: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "Zveruga<2><STEAM_1:0:948512310><TERRORIST>" with "worldspawn" (damage "75") (damage_armor "0") (health "25") (armor "0")
+L 11/24/2020 - 13:42:27: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "Zveruga<2><STEAM_1:0:948512310><TERRORIST>" with "worldspawn" (damage "75") (damage_armor "0") (health "25") (armor "0")
+L 11/24/2020 - 13:42:29: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "Zveruga<2><STEAM_1:0:948512310><TERRORIST>" with "worldspawn" (damage "75") (damage_armor "0") (health "25") (armor "0")
+L 11/24/2020 - 13:42:30: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "Zveruga<2><STEAM_1:0:948512310><TERRORIST>" with "worldspawn" (damage "75") (damage_armor "0") (health "25") (armor "0")
+L 11/24/2020 - 13:42:31: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "Zveruga<2><STEAM_1:0:948512310><TERRORIST>" with "worldspawn" (damage "75") (damage_armor "0") (health "25") (armor "0")
+L 11/24/2020 - 13:42:34: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "Zveruga<2><STEAM_1:0:948512310><TERRORIST>" with "worldspawn" (damage "75") (damage_armor "0") (health "25") (armor "0")
+L 11/24/2020 - 13:42:34: "z1ba228<6><STEAM_1:0:1413989200><>" connected, address "178.124.219.109:27005"
+178.124.219.109:27005:reconnect
+L 11/24/2020 - 13:42:38: "z1ba228<7><STEAM_1:0:1413989200><>" connected, address "178.124.219.109:27005"
+L 11/24/2020 - 13:42:48: [admin_loader_for_fb.amxx] Login: "z1ba228<7><STEAM_1:0:1413989200><>" became an admin (account "z1ba228") (nickname "z1ba228") (access "diqrst") (address "178.124.219.109")
+L 11/24/2020 - 13:42:48: Admin z1ba228 connected, ip: 178.124.219.109, Steam_ID: STEAM_1:0:1413989200
+L 11/24/2020 - 13:42:48: "z1ba228<7><STEAM_1:0:1413989200><>" entered the game
+L 11/24/2020 - 13:42:50: "z1ba228<7><STEAM_1:0:1413989200><>" joined team "TERRORIST"
+L 11/24/2020 - 13:43:08: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "PROFESSOR<3><STEAM_1:0:879078399><TERRORIST>" with "worldspawn" (damage "58") (damage_armor "8") (health "41") (armor "91")
+L 11/24/2020 - 13:43:10: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "Xto Ya<5><STEAM_1:0:1431999595><TERRORIST>" with "worldspawn" (damage "75") (damage_armor "0") (health "25") (armor "0")
+L 11/24/2020 - 13:43:13: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "Xto Ya<5><STEAM_1:0:1431999595><TERRORIST>" with "worldspawn" (damage "75") (damage_armor "0") (health "25") (armor "0")
+L 11/24/2020 - 13:43:20: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "Zveruga<2><STEAM_1:0:948512310><TERRORIST>" with "worldspawn" (damage "75") (damage_armor "0") (health "25") (armor "0")
+L 11/24/2020 - 13:43:21: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "Xto Ya<5><STEAM_1:0:1431999595><TERRORIST>" with "worldspawn" (damage "75") (damage_armor "0") (health "25") (armor "0")
+L 11/24/2020 - 13:43:21: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "Zveruga<2><STEAM_1:0:948512310><TERRORIST>" with "worldspawn" (damage "75") (damage_armor "0") (health "25") (armor "0")
+L 11/24/2020 - 13:43:22: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "Zveruga<2><STEAM_1:0:948512310><TERRORIST>" with "worldspawn" (damage "75") (damage_armor "0") (health "25") (armor "0")
+L 11/24/2020 - 13:43:23: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "Zveruga<2><STEAM_1:0:948512310><TERRORIST>" with "worldspawn" (damage "75") (damage_armor "0") (health "25") (armor "0")
+L 11/24/2020 - 13:43:26: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "Zveruga<2><STEAM_1:0:948512310><TERRORIST>" with "worldspawn" (damage "75") (damage_armor "0") (health "25") (armor "0")
+L 11/24/2020 - 13:43:27: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "PROFESSOR<3><STEAM_1:0:879078399><TERRORIST>" with "worldspawn" (damage "58") (damage_armor "7") (health "41") (armor "83")
+L 11/24/2020 - 13:43:28: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "PROFESSOR<3><STEAM_1:0:879078399><TERRORIST>" with "worldspawn" (damage "58") (damage_armor "8") (health "41") (armor "74")
+L 11/24/2020 - 13:43:29: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "PROFESSOR<3><STEAM_1:0:879078399><TERRORIST>" with "worldspawn" (damage "58") (damage_armor "7") (health "41") (armor "66")
+L 11/24/2020 - 13:43:29: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "PROFESSOR<3><STEAM_1:0:879078399><TERRORIST>" with "worldspawn" (damage "58") (damage_armor "8") (health "41") (armor "57")
+L 11/24/2020 - 13:43:30: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "PROFESSOR<3><STEAM_1:0:879078399><TERRORIST>" with "worldspawn" (damage "58") (damage_armor "7") (health "41") (armor "49")
+L 11/24/2020 - 13:43:31: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "PROFESSOR<3><STEAM_1:0:879078399><TERRORIST>" with "worldspawn" (damage "58") (damage_armor "8") (health "41") (armor "40")
+L 11/24/2020 - 13:43:32: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "PROFESSOR<3><STEAM_1:0:879078399><TERRORIST>" with "ak47" (damage "54") (damage_armor "6") (health "45") (armor "33")
+L 11/24/2020 - 13:43:32: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "PROFESSOR<3><STEAM_1:0:879078399><TERRORIST>" with "ak47" (damage "54") (damage_armor "7") (health "45") (armor "25")
+L 11/24/2020 - 13:43:32: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "Zveruga<2><STEAM_1:0:948512310><TERRORIST>" with "ak47" (damage "70") (damage_armor "0") (health "30") (armor "0")
+L 11/24/2020 - 13:43:32: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "Zveruga<2><STEAM_1:0:948512310><TERRORIST>" with "ak47" (damage "70") (damage_armor "0") (health "30") (armor "0")
+L 11/24/2020 - 13:43:32: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "Zveruga<2><STEAM_1:0:948512310><TERRORIST>" with "ak47" (damage "70") (damage_armor "0") (health "30") (armor "0")
+L 11/24/2020 - 13:43:33: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "Zveruga<2><STEAM_1:0:948512310><TERRORIST>" with "ak47" (damage "70") (damage_armor "0") (health "30") (armor "0")
+L 11/24/2020 - 13:43:33: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "Zveruga<2><STEAM_1:0:948512310><TERRORIST>" with "ak47" (damage "70") (damage_armor "0") (health "30") (armor "0")
+L 11/24/2020 - 13:43:33: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "Zveruga<2><STEAM_1:0:948512310><TERRORIST>" with "ak47" (damage "70") (damage_armor "0") (health "30") (armor "0")
+L 11/24/2020 - 13:43:33: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "Zveruga<2><STEAM_1:0:948512310><TERRORIST>" with "ak47" (damage "70") (damage_armor "0") (health "30") (armor "0")
+L 11/24/2020 - 13:43:33: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "Zveruga<2><STEAM_1:0:948512310><TERRORIST>" with "ak47" (damage "70") (damage_armor "0") (health "30") (armor "0")
+L 11/24/2020 - 13:43:33: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "PROFESSOR<3><STEAM_1:0:879078399><TERRORIST>" with "ak47" (damage "38") (damage_armor "5") (health "61") (armor "19")
+L 11/24/2020 - 13:43:33: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "Zveruga<2><STEAM_1:0:948512310><TERRORIST>" with "ak47" (damage "70") (damage_armor "0") (health "30") (armor "0")
+L 11/24/2020 - 13:43:33: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "PROFESSOR<3><STEAM_1:0:879078399><TERRORIST>" with "ak47" (damage "38") (damage_armor "5") (health "61") (armor "13")
+L 11/24/2020 - 13:43:33: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "Zveruga<2><STEAM_1:0:948512310><TERRORIST>" with "ak47" (damage "70") (damage_armor "0") (health "30") (armor "0")
+L 11/24/2020 - 13:43:33: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "PROFESSOR<3><STEAM_1:0:879078399><TERRORIST>" with "ak47" (damage "38") (damage_armor "4") (health "61") (armor "8")
+L 11/24/2020 - 13:43:33: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "Zveruga<2><STEAM_1:0:948512310><TERRORIST>" with "ak47" (damage "70") (damage_armor "0") (health "30") (armor "0")
+L 11/24/2020 - 13:43:33: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "PROFESSOR<3><STEAM_1:0:879078399><TERRORIST>" with "ak47" (damage "38") (damage_armor "5") (health "61") (armor "2")
+L 11/24/2020 - 13:43:34: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "Zveruga<2><STEAM_1:0:948512310><TERRORIST>" with "ak47" (damage "70") (damage_armor "0") (health "30") (armor "0")
+L 11/24/2020 - 13:43:34: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "Zveruga<2><STEAM_1:0:948512310><TERRORIST>" with "ak47" (damage "70") (damage_armor "0") (health "30") (armor "0")
+L 11/24/2020 - 13:43:34: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "Zveruga<2><STEAM_1:0:948512310><TERRORIST>" with "ak47" (damage "70") (damage_armor "0") (health "30") (armor "0")
+L 11/24/2020 - 13:43:34: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "Zveruga<2><STEAM_1:0:948512310><TERRORIST>" with "ak47" (damage "70") (damage_armor "0") (health "30") (armor "0")
+L 11/24/2020 - 13:43:34: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "Zveruga<2><STEAM_1:0:948512310><TERRORIST>" with "ak47" (damage "70") (damage_armor "0") (health "30") (armor "0")
+L 11/24/2020 - 13:43:34: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "Zveruga<2><STEAM_1:0:948512310><TERRORIST>" with "ak47" (damage "70") (damage_armor "0") (health "30") (armor "0")
+L 11/24/2020 - 13:43:34: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "Zveruga<2><STEAM_1:0:948512310><TERRORIST>" with "ak47" (damage "70") (damage_armor "0") (health "30") (armor "0")
+L 11/24/2020 - 13:43:34: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "Zveruga<2><STEAM_1:0:948512310><TERRORIST>" with "ak47" (damage "70") (damage_armor "0") (health "30") (armor "0")
+L 11/24/2020 - 13:43:46: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "PROFESSOR<3><STEAM_1:0:879078399><TERRORIST>" with "worldspawn" (damage "69") (damage_armor "8") (health "30") (armor "0")
+L 11/24/2020 - 13:43:48: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "PROFESSOR<3><STEAM_1:0:879078399><TERRORIST>" with "worldspawn" (damage "75") (damage_armor "0") (health "25") (armor "0")
+L 11/24/2020 - 13:43:49: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "PROFESSOR<3><STEAM_1:0:879078399><TERRORIST>" with "worldspawn" (damage "75") (damage_armor "0") (health "25") (armor "0")
+L 11/24/2020 - 13:43:52: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "Xto Ya<5><STEAM_1:0:1431999595><TERRORIST>" with "worldspawn" (damage "75") (damage_armor "0") (health "25") (armor "0")
+L 11/24/2020 - 13:43:54: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "Xto Ya<5><STEAM_1:0:1431999595><TERRORIST>" with "worldspawn" (damage "75") (damage_armor "0") (health "25") (armor "0")
+L 11/24/2020 - 13:43:55: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "Xto Ya<5><STEAM_1:0:1431999595><TERRORIST>" with "worldspawn" (damage "75") (damage_armor "0") (health "25") (armor "0")
+L 11/24/2020 - 13:43:56: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "Xto Ya<5><STEAM_1:0:1431999595><TERRORIST>" with "worldspawn" (damage "75") (damage_armor "0") (health "25") (armor "0")
+L 11/24/2020 - 13:43:57: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "Xto Ya<5><STEAM_1:0:1431999595><TERRORIST>" with "worldspawn" (damage "75") (damage_armor "0") (health "25") (armor "0")
+L 11/24/2020 - 13:44:01: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "z1ba228<7><STEAM_1:0:1413989200><TERRORIST>" with "worldspawn" (damage "75") (damage_armor "0") (health "175") (armor "0")
+L 11/24/2020 - 13:44:02: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "z1ba228<7><STEAM_1:0:1413989200><TERRORIST>" with "worldspawn" (damage "75") (damage_armor "0") (health "175") (armor "0")
+L 11/24/2020 - 13:44:03: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "z1ba228<7><STEAM_1:0:1413989200><TERRORIST>" with "worldspawn" (damage "75") (damage_armor "0") (health "175") (armor "0")
+L 11/24/2020 - 13:44:04: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "z1ba228<7><STEAM_1:0:1413989200><TERRORIST>" with "worldspawn" (damage "75") (damage_armor "0") (health "175") (armor "0")
+L 11/24/2020 - 13:44:04: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "z1ba228<7><STEAM_1:0:1413989200><TERRORIST>" with "worldspawn" (damage "75") (damage_armor "0") (health "175") (armor "0")
+L 11/24/2020 - 13:44:06: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "z1ba228<7><STEAM_1:0:1413989200><TERRORIST>" with "worldspawn" (damage "75") (damage_armor "0") (health "175") (armor "0")
+L 11/24/2020 - 13:44:08: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "Zveruga<2><STEAM_1:0:948512310><TERRORIST>" with "worldspawn" (damage "75") (damage_armor "0") (health "25") (armor "0")
+L 11/24/2020 - 13:44:13: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "Xto Ya<5><STEAM_1:0:1431999595><TERRORIST>" with "worldspawn" (damage "75") (damage_armor "0") (health "25") (armor "0")
+L 11/24/2020 - 13:44:13: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "PROFESSOR<3><STEAM_1:0:879078399><TERRORIST>" with "worldspawn" (damage "75") (damage_armor "0") (health "25") (armor "0")
+L 11/24/2020 - 13:44:16: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "Zveruga<2><STEAM_1:0:948512310><TERRORIST>" with "worldspawn" (damage "75") (damage_armor "0") (health "25") (armor "0")
+L 11/24/2020 - 13:44:28: "Zveruga<2><STEAM_1:0:948512310><TERRORIST>" attacked "Alkatras<1><STEAM_1:0:1718162856><CT>" with "knife" (damage "994") (damage_armor "87") (health "-498") (armor "262")
+L 11/24/2020 - 13:44:28: "Zveruga<2><STEAM_1:0:948512310><TERRORIST>" killed "Alkatras<1><STEAM_1:0:1718162856><CT>" with "knife"
+L 11/24/2020 - 13:44:28: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "1")
+L 11/24/2020 - 13:44:28: World triggered "Round_End"
+L 11/24/2020 - 13:44:33: World triggered "Round_Start"
+L 11/24/2020 - 13:45:37: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "z1ba228<7><STEAM_1:0:1413989200><TERRORIST>" with "ak47" (damage "52") (damage_armor "0") (health "197") (armor "0")
+L 11/24/2020 - 13:45:37: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "z1ba228<7><STEAM_1:0:1413989200><TERRORIST>" with "ak47" (damage "52") (damage_armor "0") (health "145") (armor "0")
+L 11/24/2020 - 13:45:54: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "PROFESSOR<3><STEAM_1:0:879078399><TERRORIST>" with "ak47" (damage "54") (damage_armor "7") (health "45") (armor "92")
+L 11/24/2020 - 13:45:54: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "PROFESSOR<3><STEAM_1:0:879078399><TERRORIST>" with "ak47" (damage "217") (damage_armor "31") (health "-171") (armor "60")
+L 11/24/2020 - 13:45:54: "Alkatras<1><STEAM_1:0:1718162856><CT>" killed "PROFESSOR<3><STEAM_1:0:879078399><TERRORIST>" with "ak47"
+L 11/24/2020 - 13:46:08: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "Zveruga<2><STEAM_1:0:948512310><TERRORIST>" with "ak47" (damage "35") (damage_armor "0") (health "215") (armor "0")
+L 11/24/2020 - 13:46:18: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "Zveruga<2><STEAM_1:0:948512310><TERRORIST>" with "ak47" (damage "34") (damage_armor "0") (health "181") (armor "0")
+L 11/24/2020 - 13:46:18: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "Zveruga<2><STEAM_1:0:948512310><TERRORIST>" with "ak47" (damage "34") (damage_armor "0") (health "147") (armor "0")
+L 11/24/2020 - 13:46:19: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "Zveruga<2><STEAM_1:0:948512310><TERRORIST>" with "ak47" (damage "136") (damage_armor "0") (health "11") (armor "0")
+L 11/24/2020 - 13:46:21: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "Zveruga<2><STEAM_1:0:948512310><TERRORIST>" with "ak47" (damage "136") (damage_armor "0") (health "-125") (armor "0")
+L 11/24/2020 - 13:46:21: "Alkatras<1><STEAM_1:0:1718162856><CT>" killed "Zveruga<2><STEAM_1:0:948512310><TERRORIST>" with "ak47"
+L 11/24/2020 - 13:46:38: "Zveruga<2><STEAM_1:0:948512310><TERRORIST>" joined team "SPECTATOR"
+L 11/24/2020 - 13:46:39: "Xto Ya<5><STEAM_1:0:1431999595><TERRORIST>" attacked "Alkatras<1><STEAM_1:0:1718162856><CT>" with "knife" (damage "331") (damage_armor "29") (health "168") (armor "320")
+L 11/24/2020 - 13:46:41: "Xto Ya<5><STEAM_1:0:1431999595><TERRORIST>" attacked "Alkatras<1><STEAM_1:0:1718162856><CT>" with "m249" (damage "23") (damage_armor "3") (health "145") (armor "316")
+L 11/24/2020 - 13:46:41: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "Xto Ya<5><STEAM_1:0:1431999595><TERRORIST>" with "ak47" (damage "52") (damage_armor "0") (health "197") (armor "0")
+L 11/24/2020 - 13:46:41: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "Xto Ya<5><STEAM_1:0:1431999595><TERRORIST>" with "ak47" (damage "87") (damage_armor "0") (health "110") (armor "0")
+L 11/24/2020 - 13:46:41: "Xto Ya<5><STEAM_1:0:1431999595><TERRORIST>" attacked "Alkatras<1><STEAM_1:0:1718162856><CT>" with "m249" (damage "23") (damage_armor "0") (health "122") (armor "316")
+L 11/24/2020 - 13:46:41: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "Xto Ya<5><STEAM_1:0:1431999595><TERRORIST>" with "ak47" (damage "52") (damage_armor "0") (health "58") (armor "0")
+L 11/24/2020 - 13:46:42: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "Xto Ya<5><STEAM_1:0:1431999595><TERRORIST>" with "ak47" (damage "52") (damage_armor "0") (health "6") (armor "0")
+L 11/24/2020 - 13:46:42: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "Xto Ya<5><STEAM_1:0:1431999595><TERRORIST>" with "ak47" (damage "87") (damage_armor "0") (health "-80") (armor "0")
+L 11/24/2020 - 13:46:42: "Alkatras<1><STEAM_1:0:1718162856><CT>" killed "Xto Ya<5><STEAM_1:0:1431999595><TERRORIST>" with "ak47"
+L 11/24/2020 - 13:46:49: "z1ba228<7><STEAM_1:0:1413989200><TERRORIST>" committed suicide with "world"
+L 11/24/2020 - 13:46:49: Team "CT" triggered "CTs_Win" (CT "1") (T "1")
+L 11/24/2020 - 13:46:49: World triggered "Round_End"
+L 11/24/2020 - 13:46:52: "Zveruga<2><STEAM_1:0:948512310><SPECTATOR>" joined team "TERRORIST"
+L 11/24/2020 - 13:46:55: World triggered "Round_Start"
+L 11/24/2020 - 13:46:59: "PROFESSOR<3><STEAM_1:0:879078399><TERRORIST>" committed suicide with "worldspawn" (world)
+L 11/24/2020 - 13:48:12: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "Zveruga<2><STEAM_1:0:948512310><TERRORIST>" with "mp5navy" (damage "36") (damage_armor "0") (health "46") (armor "0")
+L 11/24/2020 - 13:48:12: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "Zveruga<2><STEAM_1:0:948512310><TERRORIST>" with "mp5navy" (damage "36") (damage_armor "0") (health "10") (armor "0")
+L 11/24/2020 - 13:48:12: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "Zveruga<2><STEAM_1:0:948512310><TERRORIST>" with "mp5navy" (damage "27") (damage_armor "0") (health "-16") (armor "0")
+L 11/24/2020 - 13:48:12: "Alkatras<1><STEAM_1:0:1718162856><CT>" killed "Zveruga<2><STEAM_1:0:948512310><TERRORIST>" with "mp5navy"
+L 11/24/2020 - 13:48:17: "Zveruga<2><STEAM_1:0:948512310><TERRORIST>" joined team "SPECTATOR"
+L 11/24/2020 - 13:48:32: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "Xto Ya<5><STEAM_1:0:1431999595><TERRORIST>" with "mp5navy" (damage "161") (damage_armor "0") (health "89") (armor "0")
+L 11/24/2020 - 13:48:32: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "Xto Ya<5><STEAM_1:0:1431999595><TERRORIST>" with "mp5navy" (damage "161") (damage_armor "0") (health "-72") (armor "0")
+L 11/24/2020 - 13:48:32: "Alkatras<1><STEAM_1:0:1718162856><CT>" killed "Xto Ya<5><STEAM_1:0:1431999595><TERRORIST>" with "mp5navy"
+L 11/24/2020 - 13:49:03: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "z1ba228<7><STEAM_1:0:1413989200><TERRORIST>" with "m3" (damage "17") (damage_armor "8") (health "83") (armor "91")
+L 11/24/2020 - 13:49:09: "z1ba228<7><STEAM_1:0:1413989200><TERRORIST>" attacked "Alkatras<1><STEAM_1:0:1718162856><CT>" with "m3" (damage "54") (damage_armor "27") (health "46") (armor "73")
+L 11/24/2020 - 13:49:13: "z1ba228<7><STEAM_1:0:1413989200><TERRORIST>" attacked "Alkatras<1><STEAM_1:0:1718162856><CT>" with "m3" (damage "40") (damage_armor "20") (health "5") (armor "52")
+L 11/24/2020 - 13:49:20: "KNIGA S IGRAMI<8><STEAM_1:0:2139325993><>" connected, address "5.59.41.114:35412"
+L 11/24/2020 - 13:49:25: "KNIGA S IGRAMI<8><STEAM_1:0:2139325993><>" entered the game
+L 11/24/2020 - 13:49:27: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "z1ba228<7><STEAM_1:0:1413989200><TERRORIST>" with "m3" (damage "17") (damage_armor "8") (health "65") (armor "82")
+L 11/24/2020 - 13:49:29: "KNIGA S IGRAMI<8><STEAM_1:0:2139325993><>" joined team "TERRORIST"
+L 11/24/2020 - 13:49:47: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "z1ba228<7><STEAM_1:0:1413989200><TERRORIST>" with "m3" (damage "22") (damage_armor "10") (health "44") (armor "71")
+L 11/24/2020 - 13:49:51: "z1ba228<7><STEAM_1:0:1413989200><TERRORIST>" attacked "Alkatras<1><STEAM_1:0:1718162856><CT>" with "m3" (damage "95") (damage_armor "46") (health "-89") (armor "5")
+L 11/24/2020 - 13:49:51: "z1ba228<7><STEAM_1:0:1413989200><TERRORIST>" killed "Alkatras<1><STEAM_1:0:1718162856><CT>" with "m3"
+L 11/24/2020 - 13:49:51: Team "TERRORIST" triggered "Terrorists_Win" (CT "1") (T "2")
+L 11/24/2020 - 13:49:51: World triggered "Round_End"
+L 11/24/2020 - 13:49:55: "Zveruga<2><STEAM_1:0:948512310><SPECTATOR>" joined team "TERRORIST"
+L 11/24/2020 - 13:49:56: "z1ba228<7><STEAM_1:0:1413989200><TERRORIST>" committed suicide with "world"
+L 11/24/2020 - 13:49:56: World triggered "Round_Start"
+L 11/24/2020 - 13:50:36: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "Xto Ya<5><STEAM_1:0:1431999595><TERRORIST>" with "ak47" (damage "70") (damage_armor "0") (health "180") (armor "0")
+L 11/24/2020 - 13:50:36: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "Xto Ya<5><STEAM_1:0:1431999595><TERRORIST>" with "ak47" (damage "70") (damage_armor "0") (health "110") (armor "0")
+L 11/24/2020 - 13:50:36: "Server321<9><STEAM_1:0:1198259211><>" connected, address "185.126.130.52:27005"
+L 11/24/2020 - 13:50:36: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "Xto Ya<5><STEAM_1:0:1431999595><TERRORIST>" with "ak47" (damage "70") (damage_armor "0") (health "40") (armor "0")
+L 11/24/2020 - 13:50:36: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "Xto Ya<5><STEAM_1:0:1431999595><TERRORIST>" with "ak47" (damage "70") (damage_armor "0") (health "-30") (armor "0")
+L 11/24/2020 - 13:50:36: "Alkatras<1><STEAM_1:0:1718162856><CT>" killed "Xto Ya<5><STEAM_1:0:1431999595><TERRORIST>" with "ak47"
+L 11/24/2020 - 13:50:37: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "Zveruga<2><STEAM_1:0:948512310><TERRORIST>" with "ak47" (damage "35") (damage_armor "0") (health "65") (armor "0")
+L 11/24/2020 - 13:50:37: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "Zveruga<2><STEAM_1:0:948512310><TERRORIST>" with "ak47" (damage "35") (damage_armor "0") (health "30") (armor "0")
+L 11/24/2020 - 13:50:37: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "Zveruga<2><STEAM_1:0:948512310><TERRORIST>" with "ak47" (damage "140") (damage_armor "0") (health "-110") (armor "0")
+L 11/24/2020 - 13:50:37: "Alkatras<1><STEAM_1:0:1718162856><CT>" killed "Zveruga<2><STEAM_1:0:948512310><TERRORIST>" with "ak47"
+L 11/24/2020 - 13:50:39: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "PROFESSOR<3><STEAM_1:0:879078399><TERRORIST>" with "ak47" (damage "24") (damage_armor "0") (health "76") (armor "0")
+L 11/24/2020 - 13:50:40: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "PROFESSOR<3><STEAM_1:0:879078399><TERRORIST>" with "ak47" (damage "32") (damage_armor "0") (health "44") (armor "0")
+L 11/24/2020 - 13:50:40: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "PROFESSOR<3><STEAM_1:0:879078399><TERRORIST>" with "ak47" (damage "24") (damage_armor "0") (health "20") (armor "0")
+L 11/24/2020 - 13:50:40: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "PROFESSOR<3><STEAM_1:0:879078399><TERRORIST>" with "ak47" (damage "24") (damage_armor "0") (health "-4") (armor "0")
+L 11/24/2020 - 13:50:40: "Alkatras<1><STEAM_1:0:1718162856><CT>" killed "PROFESSOR<3><STEAM_1:0:879078399><TERRORIST>" with "ak47"
+L 11/24/2020 - 13:50:50: "Zveruga<2><STEAM_1:0:948512310><TERRORIST>" joined team "SPECTATOR"
+L 11/24/2020 - 13:51:24: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "KNIGA S IGRAMI<8><STEAM_1:0:2139325993><TERRORIST>" with "ak47" (damage "280") (damage_armor "0") (health "-180") (armor "0")
+L 11/24/2020 - 13:51:24: "Alkatras<1><STEAM_1:0:1718162856><CT>" killed "KNIGA S IGRAMI<8><STEAM_1:0:2139325993><TERRORIST>" with "ak47"
+L 11/24/2020 - 13:51:33: "Zveruga<2><STEAM_1:0:948512310><SPECTATOR>" joined team "TERRORIST"
+L 11/24/2020 - 13:51:43: "KNIGA S IGRAMI<8><STEAM_1:0:2139325993><TERRORIST>" triggered "weaponstats" (weapon "knife") (shots "14") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "1")
+L 11/24/2020 - 13:51:43: "KNIGA S IGRAMI<8><STEAM_1:0:2139325993><TERRORIST>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 11/24/2020 - 13:51:43: "KNIGA S IGRAMI<8><STEAM_1:0:2139325993><TERRORIST>" triggered "time" (time "2:17")
+L 11/24/2020 - 13:51:43: "KNIGA S IGRAMI<8><STEAM_1:0:2139325993><TERRORIST>" triggered "latency" (ping "79")
+L 11/24/2020 - 13:51:43: "KNIGA S IGRAMI<8><STEAM_1:0:2139325993><TERRORIST>" disconnected
+L 11/24/2020 - 13:51:43: "z1ba228<7><STEAM_1:0:1413989200><TERRORIST>" attacked "Alkatras<1><STEAM_1:0:1718162856><CT>" with "ak47" (damage "52") (damage_armor "0") (health "357") (armor "100")
+L 11/24/2020 - 13:51:44: "z1ba228<7><STEAM_1:0:1413989200><TERRORIST>" attacked "Alkatras<1><STEAM_1:0:1718162856><CT>" with "ak47" (damage "52") (damage_armor "7") (health "305") (armor "92")
+L 11/24/2020 - 13:51:44: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "z1ba228<7><STEAM_1:0:1413989200><TERRORIST>" with "ak47" (damage "26") (damage_armor "3") (health "383") (armor "96")
+L 11/24/2020 - 13:51:44: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "z1ba228<7><STEAM_1:0:1413989200><TERRORIST>" with "ak47" (damage "26") (damage_armor "3") (health "357") (armor "92")
+L 11/24/2020 - 13:51:45: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "z1ba228<7><STEAM_1:0:1413989200><TERRORIST>" with "ak47" (damage "105") (damage_armor "14") (health "252") (armor "77")
+L 11/24/2020 - 13:51:45: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "z1ba228<7><STEAM_1:0:1413989200><TERRORIST>" with "ak47" (damage "105") (damage_armor "15") (health "147") (armor "61")
+L 11/24/2020 - 13:51:46: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "z1ba228<7><STEAM_1:0:1413989200><TERRORIST>" with "ak47" (damage "12") (damage_armor "1") (health "135") (armor "59")
+L 11/24/2020 - 13:51:46: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "z1ba228<7><STEAM_1:0:1413989200><TERRORIST>" with "ak47" (damage "49") (damage_armor "6") (health "86") (armor "52")
+185.126.130.52:27005:reconnect
+L 11/24/2020 - 13:51:47: "Server321<10><STEAM_1:0:1198259211><>" connected, address "185.126.130.52:27005"
+L 11/24/2020 - 13:51:47: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "z1ba228<7><STEAM_1:0:1413989200><TERRORIST>" with "ak47" (damage "26") (damage_armor "3") (health "60") (armor "48")
+L 11/24/2020 - 13:51:47: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "z1ba228<7><STEAM_1:0:1413989200><TERRORIST>" with "ak47" (damage "105") (damage_armor "14") (health "-44") (armor "33")
+L 11/24/2020 - 13:51:47: "Alkatras<1><STEAM_1:0:1718162856><CT>" killed "z1ba228<7><STEAM_1:0:1413989200><TERRORIST>" with "ak47"
+L 11/24/2020 - 13:51:47: Team "CT" triggered "CTs_Win" (CT "2") (T "2")
+L 11/24/2020 - 13:51:47: World triggered "Round_End"
+L 11/24/2020 - 13:51:52: World triggered "Round_Start"
+185.126.130.52:27005:reconnect
+L 11/24/2020 - 13:51:58: "Server321<11><STEAM_1:0:1198259211><>" connected, address "185.126.130.52:27005"
+L 11/24/2020 - 13:52:22: "Server321<11><STEAM_1:0:1198259211><>" entered the game
+L 11/24/2020 - 13:52:26: "Server321<11><STEAM_1:0:1198259211><>" joined team "TERRORIST"
+L 11/24/2020 - 13:54:07: "z1ba228<7><STEAM_1:0:1413989200><TERRORIST>" attacked "Xto Ya<5><STEAM_1:0:1431999595><TERRORIST>" with "ak47" (damage "70") (damage_armor "0") (health "150") (armor "0")
+L 11/24/2020 - 13:54:07: "z1ba228<7><STEAM_1:0:1413989200><TERRORIST>" attacked "Xto Ya<5><STEAM_1:0:1431999595><TERRORIST>" with "ak47" (damage "37") (damage_armor "0") (health "112") (armor "0")
+L 11/24/2020 - 13:54:08: "z1ba228<7><STEAM_1:0:1413989200><TERRORIST>" attacked "Xto Ya<5><STEAM_1:0:1431999595><TERRORIST>" with "ak47" (damage "52") (damage_armor "0") (health "60") (armor "0")
+L 11/24/2020 - 13:54:08: "z1ba228<7><STEAM_1:0:1413989200><TERRORIST>" attacked "Xto Ya<5><STEAM_1:0:1431999595><TERRORIST>" with "ak47" (damage "52") (damage_armor "0") (health "8") (armor "0")
+L 11/24/2020 - 13:54:08: "z1ba228<7><STEAM_1:0:1413989200><TERRORIST>" attacked "Xto Ya<5><STEAM_1:0:1431999595><TERRORIST>" with "ak47" (damage "52") (damage_armor "0") (health "-43") (armor "0")
+L 11/24/2020 - 13:54:08: "z1ba228<7><STEAM_1:0:1413989200><TERRORIST>" killed "Xto Ya<5><STEAM_1:0:1431999595><TERRORIST>" with "ak47"
+L 11/24/2020 - 13:54:31: "z1ba228<7><STEAM_1:0:1413989200><TERRORIST>" attacked "Zveruga<2><STEAM_1:0:948512310><TERRORIST>" with "ak47" (damage "34") (damage_armor "0") (health "216") (armor "0")
+L 11/24/2020 - 13:54:32: "z1ba228<7><STEAM_1:0:1413989200><TERRORIST>" attacked "Zveruga<2><STEAM_1:0:948512310><TERRORIST>" with "ak47" (damage "25") (damage_armor "0") (health "190") (armor "0")
+L 11/24/2020 - 13:54:32: "z1ba228<7><STEAM_1:0:1413989200><TERRORIST>" attacked "Zveruga<2><STEAM_1:0:948512310><TERRORIST>" with "ak47" (damage "34") (damage_armor "0") (health "157") (armor "0")
+L 11/24/2020 - 13:54:32: "Zveruga<2><STEAM_1:0:948512310><TERRORIST>" attacked "z1ba228<7><STEAM_1:0:1413989200><TERRORIST>" with "ak47" (damage "68") (damage_armor "0") (health "182") (armor "0")
+L 11/24/2020 - 13:54:32: "z1ba228<7><STEAM_1:0:1413989200><TERRORIST>" attacked "Zveruga<2><STEAM_1:0:948512310><TERRORIST>" with "ak47" (damage "25") (damage_armor "0") (health "131") (armor "0")
+L 11/24/2020 - 13:54:34: "z1ba228<7><STEAM_1:0:1413989200><TERRORIST>" attacked "Zveruga<2><STEAM_1:0:948512310><TERRORIST>" with "ak47" (damage "34") (damage_armor "0") (health "98") (armor "0")
+L 11/24/2020 - 13:54:34: "z1ba228<7><STEAM_1:0:1413989200><TERRORIST>" attacked "Zveruga<2><STEAM_1:0:948512310><TERRORIST>" with "ak47" (damage "25") (damage_armor "0") (health "72") (armor "0")
+L 11/24/2020 - 13:54:34: "Zveruga<2><STEAM_1:0:948512310><TERRORIST>" attacked "z1ba228<7><STEAM_1:0:1413989200><TERRORIST>" with "ak47" (damage "68") (damage_armor "0") (health "114") (armor "0")
+L 11/24/2020 - 13:54:35: "z1ba228<7><STEAM_1:0:1413989200><TERRORIST>" attacked "Zveruga<2><STEAM_1:0:948512310><TERRORIST>" with "ak47" (damage "34") (damage_armor "0") (health "39") (armor "0")
+L 11/24/2020 - 13:54:36: "z1ba228<7><STEAM_1:0:1413989200><TERRORIST>" attacked "Zveruga<2><STEAM_1:0:948512310><TERRORIST>" with "ak47" (damage "42") (damage_armor "0") (health "-3") (armor "0")
+L 11/24/2020 - 13:54:36: "z1ba228<7><STEAM_1:0:1413989200><TERRORIST>" killed "Zveruga<2><STEAM_1:0:948512310><TERRORIST>" with "ak47"
+L 11/24/2020 - 13:55:03: "PROFESSOR<3><STEAM_1:0:879078399><TERRORIST>" attacked "Alkatras<1><STEAM_1:0:1718162856><CT>" with "ak47" (damage "12") (damage_armor "1") (health "487") (armor "348")
+L 11/24/2020 - 13:55:04: "PROFESSOR<3><STEAM_1:0:879078399><TERRORIST>" attacked "Alkatras<1><STEAM_1:0:1718162856><CT>" with "ak47" (damage "12") (damage_armor "1") (health "475") (armor "346")
+L 11/24/2020 - 13:55:04: "PROFESSOR<3><STEAM_1:0:879078399><TERRORIST>" attacked "Alkatras<1><STEAM_1:0:1718162856><CT>" with "ak47" (damage "49") (damage_armor "6") (health "426") (armor "339")
+L 11/24/2020 - 13:55:04: "PROFESSOR<3><STEAM_1:0:879078399><TERRORIST>" attacked "Alkatras<1><STEAM_1:0:1718162856><CT>" with "ak47" (damage "12") (damage_armor "1") (health "414") (armor "337")
+L 11/24/2020 - 13:55:04: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "PROFESSOR<3><STEAM_1:0:879078399><TERRORIST>" with "ak47" (damage "40") (damage_armor "0") (health "60") (armor "0")
+L 11/24/2020 - 13:55:05: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "PROFESSOR<3><STEAM_1:0:879078399><TERRORIST>" with "ak47" (damage "40") (damage_armor "0") (health "20") (armor "0")
+L 11/24/2020 - 13:55:05: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "PROFESSOR<3><STEAM_1:0:879078399><TERRORIST>" with "ak47" (damage "24") (damage_armor "0") (health "-4") (armor "0")
+L 11/24/2020 - 13:55:05: "Alkatras<1><STEAM_1:0:1718162856><CT>" killed "PROFESSOR<3><STEAM_1:0:879078399><TERRORIST>" with "ak47"
+L 11/24/2020 - 13:55:07: "PROFESSOR<3><STEAM_1:0:879078399><TERRORIST>" joined team "CT"
+L 11/24/2020 - 13:55:08: "PROFESSOR<3><STEAM_1:0:879078399><CT>" joined team "TERRORIST"
+L 11/24/2020 - 13:55:15: "korollevsky<12><STEAM_1:0:1740504086><>" connected, address "46.165.4.109:27005"
+L 11/24/2020 - 13:55:17: "z1ba228<7><STEAM_1:0:1413989200><TERRORIST>" attacked "Alkatras<1><STEAM_1:0:1718162856><CT>" with "ak47" (damage "26") (damage_armor "3") (health "383") (armor "333")
+L 11/24/2020 - 13:55:18: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "z1ba228<7><STEAM_1:0:1413989200><TERRORIST>" with "ak47" (damage "26") (damage_armor "3") (health "383") (armor "96")
+46.165.4.109:27005:reconnect
+L 11/24/2020 - 13:55:18: "korollevsky<13><STEAM_1:0:1740504086><>" connected, address "46.165.4.109:27005"
+L 11/24/2020 - 13:55:18: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "z1ba228<7><STEAM_1:0:1413989200><TERRORIST>" with "ak47" (damage "26") (damage_armor "3") (health "357") (armor "92")
+L 11/24/2020 - 13:55:18: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "z1ba228<7><STEAM_1:0:1413989200><TERRORIST>" with "ak47" (damage "26") (damage_armor "3") (health "331") (armor "88")
+L 11/24/2020 - 13:55:19: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "z1ba228<7><STEAM_1:0:1413989200><TERRORIST>" with "ak47" (damage "26") (damage_armor "3") (health "305") (armor "84")
+L 11/24/2020 - 13:55:19: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "z1ba228<7><STEAM_1:0:1413989200><TERRORIST>" with "ak47" (damage "26") (damage_armor "3") (health "279") (armor "80")
+L 11/24/2020 - 13:55:19: "z1ba228<7><STEAM_1:0:1413989200><TERRORIST>" attacked "Alkatras<1><STEAM_1:0:1718162856><CT>" with "ak47" (damage "26") (damage_armor "3") (health "357") (armor "329")
+L 11/24/2020 - 13:55:19: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "z1ba228<7><STEAM_1:0:1413989200><TERRORIST>" with "ak47" (damage "32") (damage_armor "3") (health "247") (armor "76")
+L 11/24/2020 - 13:55:20: "z1ba228<7><STEAM_1:0:1413989200><TERRORIST>" attacked "Alkatras<1><STEAM_1:0:1718162856><CT>" with "ak47" (damage "26") (damage_armor "3") (health "331") (armor "325")
+L 11/24/2020 - 13:55:20: "z1ba228<7><STEAM_1:0:1413989200><TERRORIST>" attacked "Alkatras<1><STEAM_1:0:1718162856><CT>" with "ak47" (damage "105") (damage_armor "14") (health "226") (armor "310")
+L 11/24/2020 - 13:55:20: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "z1ba228<7><STEAM_1:0:1413989200><TERRORIST>" with "ak47" (damage "26") (damage_armor "3") (health "221") (armor "72")
+L 11/24/2020 - 13:55:21: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "z1ba228<7><STEAM_1:0:1413989200><TERRORIST>" with "ak47" (damage "105") (damage_armor "15") (health "116") (armor "56")
+L 11/24/2020 - 13:55:21: "z1ba228<7><STEAM_1:0:1413989200><TERRORIST>" attacked "Alkatras<1><STEAM_1:0:1718162856><CT>" with "ak47" (damage "26") (damage_armor "3") (health "200") (armor "306")
+L 11/24/2020 - 13:55:21: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "z1ba228<7><STEAM_1:0:1413989200><TERRORIST>" with "ak47" (damage "26") (damage_armor "2") (health "90") (armor "53")
+L 11/24/2020 - 13:55:21: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "z1ba228<7><STEAM_1:0:1413989200><TERRORIST>" with "ak47" (damage "25") (damage_armor "0") (health "65") (armor "53")
+L 11/24/2020 - 13:55:21: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "z1ba228<7><STEAM_1:0:1413989200><TERRORIST>" with "ak47" (damage "32") (damage_armor "4") (health "33") (armor "48")
+L 11/24/2020 - 13:55:21: "z1ba228<7><STEAM_1:0:1413989200><TERRORIST>" attacked "Alkatras<1><STEAM_1:0:1718162856><CT>" with "ak47" (damage "25") (damage_armor "0") (health "175") (armor "306")
+L 11/24/2020 - 13:55:21: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "z1ba228<7><STEAM_1:0:1413989200><TERRORIST>" with "ak47" (damage "26") (damage_armor "3") (health "7") (armor "44")
+L 11/24/2020 - 13:55:23: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "z1ba228<7><STEAM_1:0:1413989200><TERRORIST>" with "ak47" (damage "105") (damage_armor "14") (health "-97") (armor "29")
+L 11/24/2020 - 13:55:23: "Alkatras<1><STEAM_1:0:1718162856><CT>" killed "z1ba228<7><STEAM_1:0:1413989200><TERRORIST>" with "ak47"
+L 11/24/2020 - 13:55:23: Team "CT" triggered "CTs_Win" (CT "3") (T "2")
+L 11/24/2020 - 13:55:23: World triggered "Round_End"
+L 11/24/2020 - 13:55:25: "korollevsky<13><STEAM_1:0:1740504086><>" entered the game
+L 11/24/2020 - 13:55:28: World triggered "Round_Start"
+L 11/24/2020 - 13:55:30: "korollevsky<13><STEAM_1:0:1740504086><>" joined team "TERRORIST"
+L 11/24/2020 - 13:55:38: "korollevsky<13><STEAM_1:0:1740504086><TERRORIST>" triggered "time" (time "0:13")
+L 11/24/2020 - 13:55:38: "korollevsky<13><STEAM_1:0:1740504086><TERRORIST>" triggered "latency" (ping "0")
+L 11/24/2020 - 13:55:38: "korollevsky<13><STEAM_1:0:1740504086><TERRORIST>" disconnected
+L 11/24/2020 - 13:56:37: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "z1ba228<7><STEAM_1:0:1413989200><TERRORIST>" with "smokegrenade" (damage "50") (damage_armor "0") (health "50") (armor "0")
+L 11/24/2020 - 13:56:44: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "z1ba228<7><STEAM_1:0:1413989200><TERRORIST>" with "smokegrenade" (damage "50") (damage_armor "0") (health "0") (armor "0")
+L 11/24/2020 - 13:56:44: "Alkatras<1><STEAM_1:0:1718162856><CT>" killed "z1ba228<7><STEAM_1:0:1413989200><TERRORIST>" with "smokegrenade"
+L 11/24/2020 - 13:57:00: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "PROFESSOR<3><STEAM_1:0:879078399><TERRORIST>" with "smokegrenade" (damage "50") (damage_armor "0") (health "50") (armor "0")
+L 11/24/2020 - 13:57:03: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "PROFESSOR<3><STEAM_1:0:879078399><TERRORIST>" with "smokegrenade" (damage "50") (damage_armor "0") (health "0") (armor "0")
+L 11/24/2020 - 13:57:03: "Alkatras<1><STEAM_1:0:1718162856><CT>" killed "PROFESSOR<3><STEAM_1:0:879078399><TERRORIST>" with "smokegrenade"
+L 11/24/2020 - 13:58:52: "Alkatras<1><STEAM_1:0:1718162856><CT>" committed suicide with "world"
+L 11/24/2020 - 13:58:52: Team "TERRORIST" triggered "Terrorists_Win" (CT "3") (T "3")
+L 11/24/2020 - 13:58:52: World triggered "Round_End"
+L 11/24/2020 - 13:58:57: World triggered "Round_Start"
+L 11/24/2020 - 13:59:40: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "PROFESSOR<3><STEAM_1:0:879078399><TERRORIST>" with "smokegrenade" (damage "50") (damage_armor "0") (health "50") (armor "0")
+L 11/24/2020 - 13:59:41: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "PROFESSOR<3><STEAM_1:0:879078399><TERRORIST>" with "smokegrenade" (damage "50") (damage_armor "0") (health "0") (armor "0")
+L 11/24/2020 - 13:59:41: "Alkatras<1><STEAM_1:0:1718162856><CT>" killed "PROFESSOR<3><STEAM_1:0:879078399><TERRORIST>" with "smokegrenade"
+L 11/24/2020 - 14:00:42: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "Zveruga<2><STEAM_1:0:948512310><TERRORIST>" with "smokegrenade" (damage "50") (damage_armor "0") (health "50") (armor "0")
+L 11/24/2020 - 14:00:44: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "Zveruga<2><STEAM_1:0:948512310><TERRORIST>" with "smokegrenade" (damage "50") (damage_armor "0") (health "0") (armor "0")
+L 11/24/2020 - 14:00:44: "Alkatras<1><STEAM_1:0:1718162856><CT>" killed "Zveruga<2><STEAM_1:0:948512310><TERRORIST>" with "smokegrenade"
+L 11/24/2020 - 14:01:05: "PROFESSOR<3><STEAM_1:0:879078399><TERRORIST>" triggered "weaponstats" (weapon "grenade") (shots "1") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 11/24/2020 - 14:01:05: "PROFESSOR<3><STEAM_1:0:879078399><TERRORIST>" triggered "weaponstats2" (weapon "grenade") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 11/24/2020 - 14:01:05: "PROFESSOR<3><STEAM_1:0:879078399><TERRORIST>" triggered "weaponstats" (weapon "awp") (shots "2") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 11/24/2020 - 14:01:05: "PROFESSOR<3><STEAM_1:0:879078399><TERRORIST>" triggered "weaponstats2" (weapon "awp") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 11/24/2020 - 14:01:05: "PROFESSOR<3><STEAM_1:0:879078399><TERRORIST>" triggered "weaponstats" (weapon "m249") (shots "65") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 11/24/2020 - 14:01:05: "PROFESSOR<3><STEAM_1:0:879078399><TERRORIST>" triggered "weaponstats2" (weapon "m249") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 11/24/2020 - 14:01:05: "PROFESSOR<3><STEAM_1:0:879078399><TERRORIST>" triggered "weaponstats" (weapon "m4a1") (shots "30") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 11/24/2020 - 14:01:05: "PROFESSOR<3><STEAM_1:0:879078399><TERRORIST>" triggered "weaponstats2" (weapon "m4a1") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 11/24/2020 - 14:01:05: "PROFESSOR<3><STEAM_1:0:879078399><TERRORIST>" triggered "weaponstats" (weapon "deagle") (shots "14") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 11/24/2020 - 14:01:05: "PROFESSOR<3><STEAM_1:0:879078399><TERRORIST>" triggered "weaponstats2" (weapon "deagle") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 11/24/2020 - 14:01:05: "PROFESSOR<3><STEAM_1:0:879078399><TERRORIST>" triggered "weaponstats" (weapon "ak47") (shots "13") (hits "4") (kills "0") (headshots "0") (tks "0") (damage "85") (deaths "1")
+L 11/24/2020 - 14:01:05: "PROFESSOR<3><STEAM_1:0:879078399><TERRORIST>" triggered "weaponstats2" (weapon "ak47") (head "1") (chest "0") (stomach "0") (leftarm "3") (rightarm "0") (leftleg "0") (rightleg "0")
+L 11/24/2020 - 14:01:05: "PROFESSOR<3><STEAM_1:0:879078399><TERRORIST>" triggered "weaponstats" (weapon "knife") (shots "35") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "4")
+L 11/24/2020 - 14:01:05: "PROFESSOR<3><STEAM_1:0:879078399><TERRORIST>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 11/24/2020 - 14:01:05: "PROFESSOR<3><STEAM_1:0:879078399><TERRORIST>" triggered "time" (time "20:50")
+L 11/24/2020 - 14:01:05: "PROFESSOR<3><STEAM_1:0:879078399><TERRORIST>" triggered "latency" (ping "48")
+L 11/24/2020 - 14:01:05: "PROFESSOR<3><STEAM_1:0:879078399><TERRORIST>" disconnected
+L 11/24/2020 - 14:01:05: "Zveruga<2><STEAM_1:0:948512310><TERRORIST>" joined team "SPECTATOR"
+L 11/24/2020 - 14:01:45: "makcim<14><STEAM_1:0:216031138><>" connected, address "188.17.90.54:27005"
+L 11/24/2020 - 14:02:22: "Alkatras<1><STEAM_1:0:1718162856><CT>" committed suicide with "world"
+L 11/24/2020 - 14:02:22: Team "TERRORIST" triggered "Terrorists_Win" (CT "3") (T "4")
+L 11/24/2020 - 14:02:22: World triggered "Round_End"
+L 11/24/2020 - 14:02:27: World triggered "Round_Start"
+L 11/24/2020 - 14:03:01: "PROFESSOR<15><STEAM_1:0:879078399><>" connected, address "212.109.27.193:2563"
+212.109.27.193:2563:reconnect
+L 11/24/2020 - 14:03:02: "PROFESSOR<16><STEAM_1:0:879078399><>" connected, address "212.109.27.193:2563"
+L 11/24/2020 - 14:03:05: "PROFESSOR<16><STEAM_1:0:879078399><>" entered the game
+L 11/24/2020 - 14:03:08: "PROFESSOR<16><STEAM_1:0:879078399><>" joined team "TERRORIST"
+L 11/24/2020 - 14:03:19: "Zveruga<2><STEAM_1:0:948512310><SPECTATOR>" joined team "TERRORIST"
+L 11/24/2020 - 14:03:21: "Zveruga<2><STEAM_1:0:948512310><TERRORIST>" joined team "SPECTATOR"
+L 11/24/2020 - 14:03:22: "Zveruga<2><STEAM_1:0:948512310><SPECTATOR>" joined team "TERRORIST"
+L 11/24/2020 - 14:03:37: "makcim<17><STEAM_1:0:216031138><>" connected, address "188.17.90.54:27005"
+L 11/24/2020 - 14:04:09: "Server321<11><STEAM_1:0:1198259211><TERRORIST>" committed suicide with "worldspawn" (world)
+L 11/24/2020 - 14:05:27: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "Zveruga<2><STEAM_1:0:948512310><TERRORIST>" with "knife" (damage "15") (damage_armor "0") (health "85") (armor "0")
+L 11/24/2020 - 14:05:32: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "Zveruga<2><STEAM_1:0:948512310><TERRORIST>" with "knife" (damage "15") (damage_armor "0") (health "85") (armor "0")
+L 11/24/2020 - 14:07:03: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "PROFESSOR<16><STEAM_1:0:879078399><TERRORIST>" with "ak47" (damage "70") (damage_armor "0") (health "30") (armor "0")
+L 11/24/2020 - 14:07:03: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "PROFESSOR<16><STEAM_1:0:879078399><TERRORIST>" with "ak47" (damage "70") (damage_armor "0") (health "-40") (armor "0")
+L 11/24/2020 - 14:07:03: "Alkatras<1><STEAM_1:0:1718162856><CT>" killed "PROFESSOR<16><STEAM_1:0:879078399><TERRORIST>" with "ak47"
+L 11/24/2020 - 14:07:25: "PROFESSOR<16><STEAM_1:0:879078399><TERRORIST>" triggered "weaponstats" (weapon "knife") (shots "15") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "1")
+L 11/24/2020 - 14:07:25: "PROFESSOR<16><STEAM_1:0:879078399><TERRORIST>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 11/24/2020 - 14:07:25: "PROFESSOR<16><STEAM_1:0:879078399><TERRORIST>" triggered "time" (time "4:17")
+L 11/24/2020 - 14:07:25: "PROFESSOR<16><STEAM_1:0:879078399><TERRORIST>" triggered "latency" (ping "48")
+L 11/24/2020 - 14:07:25: "PROFESSOR<16><STEAM_1:0:879078399><TERRORIST>" disconnected
+L 11/24/2020 - 14:07:25: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "Zveruga<2><STEAM_1:0:948512310><TERRORIST>" with "ak47" (damage "26") (damage_armor "0") (health "73") (armor "0")
+L 11/24/2020 - 14:07:42: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "Zveruga<2><STEAM_1:0:948512310><TERRORIST>" with "ak47" (damage "35") (damage_armor "0") (health "215") (armor "0")
+L 11/24/2020 - 14:09:31: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "z1ba228<7><STEAM_1:0:1413989200><TERRORIST>" with "ak47" (damage "52") (damage_armor "0") (health "197") (armor "0")
+L 11/24/2020 - 14:09:32: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "z1ba228<7><STEAM_1:0:1413989200><TERRORIST>" with "ak47" (damage "52") (damage_armor "0") (health "145") (armor "0")
+L 11/24/2020 - 14:09:32: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "z1ba228<7><STEAM_1:0:1413989200><TERRORIST>" with "ak47" (damage "70") (damage_armor "0") (health "76") (armor "0")
+L 11/24/2020 - 14:09:34: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "z1ba228<7><STEAM_1:0:1413989200><TERRORIST>" with "ak47" (damage "70") (damage_armor "0") (health "6") (armor "0")
+L 11/24/2020 - 14:09:35: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "z1ba228<7><STEAM_1:0:1413989200><TERRORIST>" with "ak47" (damage "70") (damage_armor "0") (health "-64") (armor "0")
+L 11/24/2020 - 14:09:35: "Alkatras<1><STEAM_1:0:1718162856><CT>" killed "z1ba228<7><STEAM_1:0:1413989200><TERRORIST>" with "ak47"
+L 11/24/2020 - 14:11:10: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "Zveruga<2><STEAM_1:0:948512310><TERRORIST>" with "ak47" (damage "140") (damage_armor "0") (health "110") (armor "0")
+L 11/24/2020 - 14:11:13: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "Zveruga<2><STEAM_1:0:948512310><TERRORIST>" with "ak47" (damage "140") (damage_armor "0") (health "-30") (armor "0")
+L 11/24/2020 - 14:11:13: "Alkatras<1><STEAM_1:0:1718162856><CT>" killed "Zveruga<2><STEAM_1:0:948512310><TERRORIST>" with "ak47"
+L 11/24/2020 - 14:11:22: "Zveruga<2><STEAM_1:0:948512310><TERRORIST>" joined team "SPECTATOR"
+L 11/24/2020 - 14:11:24: "Zveruga<2><STEAM_1:0:948512310><SPECTATOR>" joined team "TERRORIST"
+L 11/24/2020 - 14:11:51: "Xto Ya<5><STEAM_1:0:1431999595><TERRORIST>" attacked "Alkatras<1><STEAM_1:0:1718162856><CT>" with "awp" (damage "84") (damage_armor "0") (health "16") (armor "100")
+L 11/24/2020 - 14:11:57: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "Xto Ya<5><STEAM_1:0:1431999595><TERRORIST>" with "awp" (damage "138") (damage_armor "1") (health "-38") (armor "98")
+L 11/24/2020 - 14:11:57: "Alkatras<1><STEAM_1:0:1718162856><CT>" killed "Xto Ya<5><STEAM_1:0:1431999595><TERRORIST>" with "awp"
+L 11/24/2020 - 14:11:57: Team "CT" triggered "CTs_Win" (CT "4") (T "4")
+L 11/24/2020 - 14:11:57: World triggered "Round_End"
+L 11/24/2020 - 14:12:02: World triggered "Round_Start"
+L 11/24/2020 - 14:12:10: "Server321<11><STEAM_1:0:1198259211><TERRORIST>" committed suicide with "worldspawn" (world)
+L 11/24/2020 - 14:13:11: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "Server321<11><STEAM_1:0:1198259211><TERRORIST>" with "ak47" (damage "32") (damage_armor "0") (health "68") (armor "0")
+L 11/24/2020 - 14:13:12: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "Server321<11><STEAM_1:0:1198259211><TERRORIST>" with "ak47" (damage "128") (damage_armor "0") (health "-60") (armor "0")
+L 11/24/2020 - 14:13:12: "Alkatras<1><STEAM_1:0:1718162856><CT>" killed "Server321<11><STEAM_1:0:1198259211><TERRORIST>" with "ak47"
+L 11/24/2020 - 14:13:31: "Zveruga<2><STEAM_1:0:948512310><TERRORIST>" committed suicide with "world"
+L 11/24/2020 - 14:13:31: "Zveruga<2><STEAM_1:0:948512310><TERRORIST>" joined team "SPECTATOR"
+L 11/24/2020 - 14:14:09: "Xto Ya<5><STEAM_1:0:1431999595><TERRORIST>" attacked "z1ba228<7><STEAM_1:0:1413989200><TERRORIST>" with "knife" (damage "180") (damage_armor "0") (health "70") (armor "0")
+L 11/24/2020 - 14:14:10: "Xto Ya<5><STEAM_1:0:1431999595><TERRORIST>" attacked "z1ba228<7><STEAM_1:0:1413989200><TERRORIST>" with "knife" (damage "180") (damage_armor "0") (health "-110") (armor "0")
+L 11/24/2020 - 14:14:10: "Xto Ya<5><STEAM_1:0:1431999595><TERRORIST>" killed "z1ba228<7><STEAM_1:0:1413989200><TERRORIST>" with "knife"
+L 11/24/2020 - 14:14:22: "Xto Ya<5><STEAM_1:0:1431999595><TERRORIST>" attacked "Alkatras<1><STEAM_1:0:1718162856><CT>" with "awp" (damage "41") (damage_armor "0") (health "58") (armor "350")
+L 11/24/2020 - 14:14:43: "Alkatras<1><STEAM_1:0:1718162856><CT>" attacked "Xto Ya<5><STEAM_1:0:1431999595><TERRORIST>" with "awp" (damage "54") (damage_armor "0") (health "45") (armor "99")
+L 11/24/2020 - 14:14:45: "Xto Ya<5><STEAM_1:0:1431999595><TERRORIST>" attacked "Alkatras<1><STEAM_1:0:1718162856><CT>" with "awp" (damage "85") (damage_armor "0") (health "-26") (armor "350")
+L 11/24/2020 - 14:14:45: "Xto Ya<5><STEAM_1:0:1431999595><TERRORIST>" killed "Alkatras<1><STEAM_1:0:1718162856><CT>" with "awp"
+L 11/24/2020 - 14:14:45: Team "TERRORIST" triggered "Terrorists_Win" (CT "4") (T "5")
+L 11/24/2020 - 14:14:45: World triggered "Round_End"
+L 11/24/2020 - 14:14:50: World triggered "Round_Start"
+L 11/24/2020 - 14:15:07: "Alkatras<1><STEAM_1:0:1718162856><CT>" committed suicide with "world"
+L 11/24/2020 - 14:15:07: Team "TERRORIST" triggered "Terrorists_Win" (CT "4") (T "6")
+L 11/24/2020 - 14:15:07: World triggered "Round_End"
+L 11/24/2020 - 14:15:07: "Alkatras<1><STEAM_1:0:1718162856><CT>" joined team "TERRORIST"
+L 11/24/2020 - 14:15:12: World triggered "Round_Start"
+L 11/24/2020 - 14:15:34: "Xto Ya<5><STEAM_1:0:1431999595><TERRORIST>" attacked "Server321<11><STEAM_1:0:1198259211><TERRORIST>" with "ak47" (damage "140") (damage_armor "0") (health "-63") (armor "0")
+L 11/24/2020 - 14:15:34: "Xto Ya<5><STEAM_1:0:1431999595><TERRORIST>" killed "Server321<11><STEAM_1:0:1198259211><TERRORIST>" with "ak47"
+L 11/24/2020 - 14:15:39: "Xto Ya<5><STEAM_1:0:1431999595><TERRORIST>" attacked "Alkatras<1><STEAM_1:0:1718162856><TERRORIST>" with "ak47" (damage "15") (damage_armor "0") (health "85") (armor "0")
+L 11/24/2020 - 14:15:44: "z1ba228<7><STEAM_1:0:1413989200><TERRORIST>" attacked "Alkatras<1><STEAM_1:0:1718162856><TERRORIST>" with "ak47" (damage "70") (damage_armor "0") (health "15") (armor "0")
+L 11/24/2020 - 14:15:44: "z1ba228<7><STEAM_1:0:1413989200><TERRORIST>" attacked "Alkatras<1><STEAM_1:0:1718162856><TERRORIST>" with "ak47" (damage "70") (damage_armor "0") (health "-55") (armor "0")
+L 11/24/2020 - 14:15:44: "z1ba228<7><STEAM_1:0:1413989200><TERRORIST>" killed "Alkatras<1><STEAM_1:0:1718162856><TERRORIST>" with "ak47"
+L 11/24/2020 - 14:15:45: "Xto Ya<5><STEAM_1:0:1431999595><TERRORIST>" attacked "z1ba228<7><STEAM_1:0:1413989200><TERRORIST>" with "ak47" (damage "132") (damage_armor "0") (health "118") (armor "0")
+L 11/24/2020 - 14:15:46: "Xto Ya<5><STEAM_1:0:1431999595><TERRORIST>" attacked "z1ba228<7><STEAM_1:0:1413989200><TERRORIST>" with "ak47" (damage "132") (damage_armor "0") (health "-14") (armor "0")
+L 11/24/2020 - 14:15:46: "Xto Ya<5><STEAM_1:0:1431999595><TERRORIST>" killed "z1ba228<7><STEAM_1:0:1413989200><TERRORIST>" with "ak47"
+L 11/24/2020 - 14:15:54: "Xto Ya<5><STEAM_1:0:1431999595><TERRORIST>" attacked "Alkatras<1><STEAM_1:0:1718162856><TERRORIST>" with "ak47" (damage "16") (damage_armor "0") (health "84") (armor "0")
+L 11/24/2020 - 14:15:54: "Xto Ya<5><STEAM_1:0:1431999595><TERRORIST>" attacked "Alkatras<1><STEAM_1:0:1718162856><TERRORIST>" with "ak47" (damage "16") (damage_armor "0") (health "68") (armor "0")
+L 11/24/2020 - 14:15:54: "Xto Ya<5><STEAM_1:0:1431999595><TERRORIST>" attacked "Alkatras<1><STEAM_1:0:1718162856><TERRORIST>" with "ak47" (damage "16") (damage_armor "0") (health "52") (armor "0")
+L 11/24/2020 - 14:15:55: "Xto Ya<5><STEAM_1:0:1431999595><TERRORIST>" attacked "Alkatras<1><STEAM_1:0:1718162856><TERRORIST>" with "ak47" (damage "16") (damage_armor "0") (health "36") (armor "0")
+L 11/24/2020 - 14:15:55: "Xto Ya<5><STEAM_1:0:1431999595><TERRORIST>" attacked "Alkatras<1><STEAM_1:0:1718162856><TERRORIST>" with "ak47" (damage "16") (damage_armor "0") (health "20") (armor "0")
+L 11/24/2020 - 14:15:57: "Alkatras<1><STEAM_1:0:1718162856><TERRORIST>" committed suicide with "worldspawn" (world)
+L 11/24/2020 - 14:16:01: "Xto Ya<5><STEAM_1:0:1431999595><TERRORIST>" committed suicide with "world"
+L 11/24/2020 - 14:16:01: World triggered "Round_Draw" (CT "4") (T "6")
+L 11/24/2020 - 14:16:01: World triggered "Round_End"
+L 11/24/2020 - 14:16:01: "Zveruga<2><STEAM_1:0:948512310><SPECTATOR>" joined team "TERRORIST"
+L 11/24/2020 - 14:16:06: World triggered "Round_Start"
+L 11/24/2020 - 14:16:17: "KNIGA S IGRAMI<18><STEAM_1:0:2139325993><>" connected, address "5.59.41.114:35412"
+L 11/24/2020 - 14:16:22: "KNIGA S IGRAMI<18><STEAM_1:0:2139325993><>" entered the game
+L 11/24/2020 - 14:16:22: Function is not present (function "jbe_set_rabies") (plugin "jbe_core_mode.amxx")
+L 11/24/2020 - 14:16:22: [AMXX] Displaying debug trace (plugin "jbe_core_mode.amxx", version "4.2")
+L 11/24/2020 - 14:16:22: [AMXX] Run time error 10: native error (native "set_task")
+L 11/24/2020 - 14:16:22: [AMXX]    [0] jbe_core_mode.sma::Handle_ShopOtherMenu (line 4130)
+L 11/24/2020 - 14:16:24: "KNIGA S IGRAMI<18><STEAM_1:0:2139325993><>" joined team "CT"
+L 11/24/2020 - 14:16:24: World triggered "Game_Commencing"
+L 11/24/2020 - 14:16:24: World triggered "Game_Commencing" (CT "4") (T "6")
+L 11/24/2020 - 14:16:24: World triggered "Round_End"
+L 11/24/2020 - 14:16:28: World triggered "Round_Start"
+L 11/24/2020 - 14:16:38: "Server321<11><STEAM_1:0:1198259211><TERRORIST>" committed suicide with "worldspawn" (world)
+L 11/24/2020 - 14:16:40: "Xto Ya<5><STEAM_1:0:1431999595><TERRORIST>" attacked "KNIGA S IGRAMI<18><STEAM_1:0:2139325993><CT>" with "knife" (damage "331") (damage_armor "29") (health "-181") (armor "70")
+L 11/24/2020 - 14:16:40: "Xto Ya<5><STEAM_1:0:1431999595><TERRORIST>" killed "KNIGA S IGRAMI<18><STEAM_1:0:2139325993><CT>" with "knife"
+L 11/24/2020 - 14:16:40: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "1")
+L 11/24/2020 - 14:16:40: World triggered "Round_End"
+L 11/24/2020 - 14:16:42: "Xto Ya<5><STEAM_1:0:1431999595><TERRORIST>" committed suicide with "worldspawn" (world)
+L 11/24/2020 - 14:16:45: World triggered "Round_Start"
+L 11/24/2020 - 14:17:10: [plmenu.amxx] Cmd: "z1ba228<7><STEAM_1:0:1413989200><>" transfer "KNIGA S IGRAMI<18><STEAM_1:0:2139325993><>" (team "Ментов")
+L 11/24/2020 - 14:17:10: "KNIGA S IGRAMI<18><STEAM_1:0:2139325993><CT>" committed suicide with "world"
+L 11/24/2020 - 14:17:10: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "2")
+L 11/24/2020 - 14:17:10: World triggered "Round_End"
+L 11/24/2020 - 14:17:10: "KNIGA S IGRAMI<18><STEAM_1:0:2139325993><CT>" joined team "TERRORIST"
+L 11/24/2020 - 14:17:12: [plmenu.amxx] Cmd: "Alkatras<1><STEAM_1:0:1718162856><>" transfer "KNIGA S IGRAMI<18><STEAM_1:0:2139325993><>" (team "Ментов")
+L 11/24/2020 - 14:17:12: "KNIGA S IGRAMI<18><STEAM_1:0:2139325993><TERRORIST>" joined team "TERRORIST"
+L 11/24/2020 - 14:17:14: "KNIGA S IGRAMI<18><STEAM_1:0:2139325993><TERRORIST>" joined team "CT"
+L 11/24/2020 - 14:17:15: World triggered "Round_Start"
+L 11/24/2020 - 14:17:19: "Zveruga<2><STEAM_1:0:948512310><TERRORIST>" committed suicide with "worldspawn" (world)
+L 11/24/2020 - 14:17:34: "KNIGA S IGRAMI<18><STEAM_1:0:2139325993><CT>" committed suicide with "world"
+L 11/24/2020 - 14:17:34: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "3")
+L 11/24/2020 - 14:17:34: World triggered "Round_End"
+L 11/24/2020 - 14:17:34: "KNIGA S IGRAMI<18><STEAM_1:0:2139325993><CT>" joined team "TERRORIST"
+L 11/24/2020 - 14:17:39: "Zveruga<2><STEAM_1:0:948512310><TERRORIST>" committed suicide with "world"
+L 11/24/2020 - 14:17:39: "Zveruga<2><STEAM_1:0:948512310><TERRORIST>" joined team "CT"
+L 11/24/2020 - 14:17:39: World triggered "Round_Start"
+SZ_GetSpace: overflow on z1ba228
+SZ_GetSpace: overflow on z1ba228
+SZ_GetSpace: overflow on z1ba228
+L 11/24/2020 - 14:18:01: "Alkatras<1><STEAM_1:0:1718162856><TERRORIST>" attacked "Zveruga<2><STEAM_1:0:948512310><CT>" with "knife" (damage "663") (damage_armor "58") (health "-163") (armor "291")
+L 11/24/2020 - 14:18:01: "Alkatras<1><STEAM_1:0:1718162856><TERRORIST>" killed "Zveruga<2><STEAM_1:0:948512310><CT>" with "knife"
+L 11/24/2020 - 14:18:01: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "4")
+L 11/24/2020 - 14:18:01: World triggered "Round_End"
+SZ_GetSpace: overflow on z1ba228
+SZ_GetSpace: overflow on z1ba228
+L 11/24/2020 - 14:18:06: World triggered "Round_Start"
+SZ_GetSpace: overflow on z1ba228
+SZ_GetSpace: overflow on z1ba228
+SZ_GetSpace: overflow on z1ba228
+SZ_GetSpace: overflow on z1ba228
+SZ_GetSpace: overflow on z1ba228
+SZ_GetSpace: overflow on z1ba228
+SZ_GetSpace: overflow on z1ba228
+SZ_GetSpace: overflow on z1ba228
+SZ_GetSpace: overflow on z1ba228
+SZ_GetSpace: overflow on z1ba228
+SZ_GetSpace: overflow on z1ba228
+SZ_GetSpace: overflow on z1ba228
+SZ_GetSpace: overflow on z1ba228
+SZ_GetSpace: overflow on z1ba228
+SZ_GetSpace: overflow on z1ba228
+SZ_GetSpace: overflow on z1ba228
+SZ_GetSpace: overflow on z1ba228
+SZ_GetSpace: overflow on z1ba228
+SZ_GetSpace: overflow on z1ba228
+SZ_GetSpace: overflow on z1ba228
+L 11/24/2020 - 14:18:54: "z1ba228<7><STEAM_1:0:1413989200><TERRORIST>" triggered "weaponstats" (weapon "glock18") (shots "1") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 11/24/2020 - 14:18:54: "z1ba228<7><STEAM_1:0:1413989200><TERRORIST>" triggered "weaponstats2" (weapon "glock18") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 11/24/2020 - 14:18:54: "z1ba228<7><STEAM_1:0:1413989200><TERRORIST>" triggered "weaponstats" (weapon "awp") (shots "4") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 11/24/2020 - 14:18:54: "z1ba228<7><STEAM_1:0:1413989200><TERRORIST>" triggered "weaponstats2" (weapon "awp") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 11/24/2020 - 14:18:54: "z1ba228<7><STEAM_1:0:1413989200><TERRORIST>" triggered "weaponstats" (weapon "m3") (shots "6") (hits "3") (kills "1") (headshots "0") (tks "0") (damage "189") (deaths "0")
+L 11/24/2020 - 14:18:54: "z1ba228<7><STEAM_1:0:1413989200><TERRORIST>" triggered "weaponstats2" (weapon "m3") (head "0") (chest "0") (stomach "2") (leftarm "1") (rightarm "0") (leftleg "0") (rightleg "0")
+L 11/24/2020 - 14:18:54: "z1ba228<7><STEAM_1:0:1413989200><TERRORIST>" triggered "weaponstats" (weapon "deagle") (shots "1") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 11/24/2020 - 14:18:54: "z1ba228<7><STEAM_1:0:1413989200><TERRORIST>" triggered "weaponstats2" (weapon "deagle") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 11/24/2020 - 14:18:54: "z1ba228<7><STEAM_1:0:1413989200><TERRORIST>" triggered "weaponstats" (weapon "ak47") (shots "95") (hits "22") (kills "3") (headshots "0") (tks "3") (damage "994") (deaths "3")
+L 11/24/2020 - 14:18:54: "z1ba228<7><STEAM_1:0:1413989200><TERRORIST>" triggered "weaponstats2" (weapon "ak47") (head "1") (chest "2") (stomach "1") (leftarm "7") (rightarm "2") (leftleg "3") (rightleg "6")
+L 11/24/2020 - 14:18:54: "z1ba228<7><STEAM_1:0:1413989200><TERRORIST>" triggered "weaponstats" (weapon "knife") (shots "66") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "3")
+L 11/24/2020 - 14:18:54: "z1ba228<7><STEAM_1:0:1413989200><TERRORIST>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 11/24/2020 - 14:18:54: "z1ba228<7><STEAM_1:0:1413989200><TERRORIST>" triggered "time" (time "36:01")
+L 11/24/2020 - 14:18:54: "z1ba228<7><STEAM_1:0:1413989200><TERRORIST>" triggered "latency" (ping "43")
+L 11/24/2020 - 14:18:54: "z1ba228<7><STEAM_1:0:1413989200><TERRORIST>" disconnected
+Host_Error: PF_setmodel_I: no precache: models/w_xm1014.mdl
+
+L 11/24/2020 - 14:19:12: "Alkatras<1><STEAM_1:0:1718162856><TERRORIST>" triggered "weaponstats" (weapon "awp") (shots "14") (hits "2") (kills "1") (headshots "0") (tks "0") (damage "192") (deaths "1")
+L 11/24/2020 - 14:19:12: "Alkatras<1><STEAM_1:0:1718162856><TERRORIST>" triggered "weaponstats2" (weapon "awp") (head "0") (chest "0") (stomach "1") (leftarm "1") (rightarm "0") (leftleg "0") (rightleg "0")
+L 11/24/2020 - 14:19:12: "Alkatras<1><STEAM_1:0:1718162856><TERRORIST>" triggered "weaponstats" (weapon "mp5navy") (shots "160") (hits "5") (kills "2") (headshots "1") (tks "0") (damage "421") (deaths "0")
+L 11/24/2020 - 14:19:12: "Alkatras<1><STEAM_1:0:1718162856><TERRORIST>" triggered "weaponstats2" (weapon "mp5navy") (head "2") (chest "1") (stomach "0") (leftarm "1") (rightarm "0") (leftleg "0") (rightleg "1")
+L 11/24/2020 - 14:19:12: "Alkatras<1><STEAM_1:0:1718162856><TERRORIST>" triggered "weaponstats" (weapon "m3") (shots "6") (hits "3") (kills "0") (headshots "0") (tks "0") (damage "56") (deaths "1")
+L 11/24/2020 - 14:19:12: "Alkatras<1><STEAM_1:0:1718162856><TERRORIST>" triggered "weaponstats2" (weapon "m3") (head "0") (chest "0") (stomach "0") (leftarm "3") (rightarm "0") (leftleg "0") (rightleg "0")
+L 11/24/2020 - 14:19:12: "Alkatras<1><STEAM_1:0:1718162856><TERRORIST>" triggered "weaponstats" (weapon "m4a1") (shots "13") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "1")
+L 11/24/2020 - 14:19:12: "Alkatras<1><STEAM_1:0:1718162856><TERRORIST>" triggered "weaponstats2" (weapon "m4a1") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 11/24/2020 - 14:19:12: "Alkatras<1><STEAM_1:0:1718162856><TERRORIST>" triggered "weaponstats" (weapon "ak47") (shots "495") (hits "63") (kills "14") (headshots "8") (tks "0") (damage "3974") (deaths "1")
+L 11/24/2020 - 14:19:12: "Alkatras<1><STEAM_1:0:1718162856><TERRORIST>" triggered "weaponstats2" (weapon "ak47") (head "14") (chest "13") (stomach "6") (leftarm "14") (rightarm "3") (leftleg "9") (rightleg "4")
+L 11/24/2020 - 14:19:12: "Alkatras<1><STEAM_1:0:1718162856><TERRORIST>" triggered "weaponstats" (weapon "knife") (shots "9") (hits "3") (kills "1") (headshots "0") (tks "0") (damage "693") (deaths "0")
+L 11/24/2020 - 14:19:12: "Alkatras<1><STEAM_1:0:1718162856><TERRORIST>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "2") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 11/24/2020 - 14:19:12: "Alkatras<1><STEAM_1:0:1718162856><TERRORIST>" triggered "time" (time "40:51")
+L 11/24/2020 - 14:19:12: "Alkatras<1><STEAM_1:0:1718162856><TERRORIST>" triggered "latency" (ping "32")
+L 11/24/2020 - 14:19:12: "Zveruga<2><STEAM_1:0:948512310><CT>" triggered "weaponstats" (weapon "glock18") (shots "20") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 11/24/2020 - 14:19:12: "Zveruga<2><STEAM_1:0:948512310><CT>" triggered "weaponstats2" (weapon "glock18") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 11/24/2020 - 14:19:12: "Zveruga<2><STEAM_1:0:948512310><CT>" triggered "weaponstats" (weapon "awp") (shots "1") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 11/24/2020 - 14:19:12: "Zveruga<2><STEAM_1:0:948512310><CT>" triggered "weaponstats2" (weapon "awp") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 11/24/2020 - 14:19:12: "Zveruga<2><STEAM_1:0:948512310><CT>" triggered "weaponstats" (weapon "deagle") (shots "1") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 11/24/2020 - 14:19:12: "Zveruga<2><STEAM_1:0:948512310><CT>" triggered "weaponstats2" (weapon "deagle") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 11/24/2020 - 14:19:12: "Zveruga<2><STEAM_1:0:948512310><CT>" triggered "weaponstats" (weapon "ak47") (shots "15") (hits "2") (kills "0") (headshots "0") (tks "0") (damage "136") (deaths "2")
+L 11/24/2020 - 14:19:12: "Zveruga<2><STEAM_1:0:948512310><CT>" triggered "weaponstats2" (weapon "ak47") (head "0") (chest "0") (stomach "0") (leftarm "1") (rightarm "1") (leftleg "0") (rightleg "0")
+L 11/24/2020 - 14:19:12: "Zveruga<2><STEAM_1:0:948512310><CT>" triggered "weaponstats" (weapon "knife") (shots "74") (hits "1") (kills "1") (headshots "0") (tks "0") (damage "994") (deaths "5")
+L 11/24/2020 - 14:19:12: "Zveruga<2><STEAM_1:0:948512310><CT>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 11/24/2020 - 14:19:12: "Zveruga<2><STEAM_1:0:948512310><CT>" triggered "time" (time "40:52")
+L 11/24/2020 - 14:19:12: "Zveruga<2><STEAM_1:0:948512310><CT>" triggered "latency" (ping "70")
+L 11/24/2020 - 14:19:12: "KNIGA S IGRAMI<18><STEAM_1:0:2139325993><TERRORIST>" triggered "weaponstats" (weapon "knife") (shots "21") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "1")
+L 11/24/2020 - 14:19:12: "KNIGA S IGRAMI<18><STEAM_1:0:2139325993><TERRORIST>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 11/24/2020 - 14:19:12: "KNIGA S IGRAMI<18><STEAM_1:0:2139325993><TERRORIST>" triggered "time" (time "2:50")
+L 11/24/2020 - 14:19:12: "KNIGA S IGRAMI<18><STEAM_1:0:2139325993><TERRORIST>" triggered "latency" (ping "76")
+L 11/24/2020 - 14:19:12: "Xto Ya<5><STEAM_1:0:1431999595><TERRORIST>" triggered "weaponstats" (weapon "grenade") (shots "1") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 11/24/2020 - 14:19:12: "Xto Ya<5><STEAM_1:0:1431999595><TERRORIST>" triggered "weaponstats2" (weapon "grenade") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 11/24/2020 - 14:19:12: "Xto Ya<5><STEAM_1:0:1431999595><TERRORIST>" triggered "weaponstats" (weapon "usp") (shots "12") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 11/24/2020 - 14:19:12: "Xto Ya<5><STEAM_1:0:1431999595><TERRORIST>" triggered "weaponstats2" (weapon "usp") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 11/24/2020 - 14:19:12: "Xto Ya<5><STEAM_1:0:1431999595><TERRORIST>" triggered "weaponstats" (weapon "glock18") (shots "20") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 11/24/2020 - 14:19:12: "Xto Ya<5><STEAM_1:0:1431999595><TERRORIST>" triggered "weaponstats2" (weapon "glock18") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 11/24/2020 - 14:19:12: "Xto Ya<5><STEAM_1:0:1431999595><TERRORIST>" triggered "weaponstats" (weapon "awp") (shots "20") (hits "3") (kills "1") (headshots "0") (tks "0") (damage "210") (deaths "1")
+L 11/24/2020 - 14:19:12: "Xto Ya<5><STEAM_1:0:1431999595><TERRORIST>" triggered "weaponstats2" (weapon "awp") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "1") (rightleg "2")
+L 11/24/2020 - 14:19:12: "Xto Ya<5><STEAM_1:0:1431999595><TERRORIST>" triggered "weaponstats" (weapon "m249") (shots "19") (hits "2") (kills "0") (headshots "0") (tks "0") (damage "46") (deaths "1")
+L 11/24/2020 - 14:19:12: "Xto Ya<5><STEAM_1:0:1431999595><TERRORIST>" triggered "weaponstats2" (weapon "m249") (head "0") (chest "1") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "1") (rightleg "0")
+L 11/24/2020 - 14:19:12: "Xto Ya<5><STEAM_1:0:1431999595><TERRORIST>" triggered "weaponstats" (weapon "m4a1") (shots "6") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "1")
+L 11/24/2020 - 14:19:12: "Xto Ya<5><STEAM_1:0:1431999595><TERRORIST>" triggered "weaponstats2" (weapon "m4a1") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 11/24/2020 - 14:19:12: "Xto Ya<5><STEAM_1:0:1431999595><TERRORIST>" triggered "weaponstats" (weapon "ak47") (shots "31") (hits "9") (kills "2") (headshots "2") (tks "2") (damage "499") (deaths "0")
+L 11/24/2020 - 14:19:12: "Xto Ya<5><STEAM_1:0:1431999595><TERRORIST>" triggered "weaponstats2" (weapon "ak47") (head "9") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 11/24/2020 - 14:19:12: "Xto Ya<5><STEAM_1:0:1431999595><TERRORIST>" triggered "weaponstats" (weapon "knife") (shots "111") (hits "4") (kills "2") (headshots "0") (tks "1") (damage "1022") (deaths "2")
+L 11/24/2020 - 14:19:12: "Xto Ya<5><STEAM_1:0:1431999595><TERRORIST>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "1") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "1") (rightleg "0")
+L 11/24/2020 - 14:19:12: "Xto Ya<5><STEAM_1:0:1431999595><TERRORIST>" triggered "time" (time "37:29")
+L 11/24/2020 - 14:19:12: "Xto Ya<5><STEAM_1:0:1431999595><TERRORIST>" triggered "latency" (ping "48")
+L 11/24/2020 - 14:19:12: "Server321<11><STEAM_1:0:1198259211><TERRORIST>" triggered "weaponstats" (weapon "knife") (shots "1") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "1")
+L 11/24/2020 - 14:19:12: "Server321<11><STEAM_1:0:1198259211><TERRORIST>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 11/24/2020 - 14:19:12: "Server321<11><STEAM_1:0:1198259211><TERRORIST>" triggered "time" (time "26:46")
+L 11/24/2020 - 14:19:12: "Server321<11><STEAM_1:0:1198259211><TERRORIST>" triggered "latency" (ping "72")
+L 11/24/2020 - 14:19:13: [META] ini: Begin re-reading plugins list: /servers/cs/1001/cstrike/addons/metamod/plugins.ini
+L 11/24/2020 - 14:19:13: [META] ini: Read plugin config for: AMX Mod X
+L 11/24/2020 - 14:19:13: [META] ini: Read plugin config for: LocalizeBug Fix
+L 11/24/2020 - 14:19:13: [META] ini: Read plugin config for: Reunion
+L 11/24/2020 - 14:19:13: [META] ini: Read plugin config for: WHBlocker
+L 11/24/2020 - 14:19:13: [META] ini: Read plugin config for: Revoice
+L 11/24/2020 - 14:19:13: [META] ini: Read plugin config for: Rechecker
+L 11/24/2020 - 14:19:13: [META] ini: Finished reading plugins list: /servers/cs/1001/cstrike/addons/metamod/plugins.ini; Found 6 plugins
+L 11/24/2020 - 14:19:13: [META] dll: Updating plugins...
+L 11/24/2020 - 14:19:13: [META] dll: Finished updating 16 plugins; kept 6, loaded 0, unloaded 0, reloaded 0, delayed 0
+L 11/24/2020 - 14:19:13: [META] dll: Begin scan to collect callback fix data...

@@ -1,0 +1,1130 @@
+Protocol version 48
+Exe version 1.1.2.7/Stdio (cstrike)
+Exe build: 16:23:03 Oct  6 2020 (2369)
+Executing ReGameDLL Configuration File 
+unknown command "mp_freeforall"
+unknown command "mp_maxmoney"
+unknown command "mp_round_infinite"
+unknown command "mp_hegrenade_penetration"
+unknown command "mp_nadedrops"
+unknown command "mp_roundrespawn_time"
+unknown command "mp_auto_reload_weapons"
+unknown command "mp_refill_bpammo_weapons"
+unknown command "bot_deathmatch"
+unknown command "mp_auto_join_team"
+Executing ReGameDLL Configuration File 
+unknown command "mp_freeforall"
+unknown command "mp_maxmoney"
+unknown command "mp_round_infinite"
+unknown command "mp_hegrenade_penetration"
+unknown command "mp_nadedrops"
+unknown command "mp_roundrespawn_time"
+unknown command "mp_auto_reload_weapons"
+unknown command "mp_refill_bpammo_weapons"
+unknown command "bot_deathmatch"
+unknown command "mp_auto_join_team"
+Server IP address 195.88.208.116:27015
+   
+   Metamod-r version 1.3.0.128 Copyright (c) 2016-2018 ReHLDS Team (rebuild of original Metamod by Will Day and Jussi Kivilinna)
+   Metamod-r comes with ABSOLUTELY NO WARRANTY; for details type `meta gpl'.
+   This is free software, and you are welcome to redistribute it
+   under certain conditions; type `meta gpl' for details.
+   
+Metamod-r v1.3.0.128, API (5:13)
+Metamod-r build: 17:47:48 Aug 24 2018
+Metamod-r from: https://github.com/theAsmodai/metamod-r/commit/0cf2f70
+
+   AMX Mod X version 1.9.0.5271 Copyright (c) 2004-2015 AMX Mod X Development Team 
+   AMX Mod X comes with ABSOLUTELY NO WARRANTY; for details type `amxx gpl'.
+   This is free software and you are welcome to redistribute it under 
+   certain conditions; type 'amxx gpl' for details.
+  
+[WHB] Version: 1.5.696 Linux (Usage SSE 4.1)
+[WHB] Success: Build ReHLDS version defined Linux '2369'
+[WHB] Success: Configuration executed.
+ReGameDLL version: 5.11.0.420-dev+m
+L 12/07/2020 - 14:49:08: -------- Mapchange to jail_float --------
+L 12/07/2020 - 14:49:08: [GEOIP] Database info: GeoLite2 Country database 2.0
+[ReAimDetector] Version: 0.2.2 Linux 'Counter-Strike 1.6'
+[ReAimDetector] Success: Build ReHLDS version defined Linux '2369'.
+Executing ReGameDLL Configuration File 
+unknown command "bot_deathmatch"
+Executing ReGameDLL Configuration File 
+unknown command "bot_deathmatch"
+unknown command "amx_default_access"
+unknown command "amx_password_field"
+unknown command "amx_mode"
+unknown command "amx_show_activity"
+unknown command "amx_imessage"
+unknown command "amx_freq_imessage"
+unknown command "amx_plmenu_bantimes"
+unknown command "amx_tempban_maxtime"
+unknown command "amx_plmenu_slapdmg"
+unknown command "amx_flood_time"
+unknown command "amx_reservation"
+unknown command "amx_hideslots"
+unknown command "amx_time_display"
+unknown command "amx_time_voice"
+unknown command "amx_vote_delay"
+unknown command "amx_vote_time"
+unknown command "amx_vote_answers"
+unknown command "amx_votekick_ratio"
+unknown command "amx_voteban_ratio"
+unknown command "amx_votemap_ratio"
+unknown command "amx_vote_ratio"
+unknown command "amx_extendmap_max"
+unknown command "amx_extendmap_step"
+unknown command "amx_language_display_msg"
+unknown command "amx_help_display_msg"
+unknown command "amx_help_display_msg_time"
+unknown command "amx_help_amount_per_page"
+unknown command "amx_statsx_duration"
+unknown command "amx_statsx_freeze"
+unknown command "amx_restrmapsettings"
+unknown command "fb_kick_delay"
+unknown command "fb_server_name"
+unknown command "fb_sql_table"
+unknown command "fb_sql_log_table"
+unknown command "fb_ip_ban_time"
+unknown command "fb_showhud"
+unknown command "fb_offline_time"
+unknown command "fb_unban_self"
+unknown command "fb_unban_all"
+unknown command "fb_oldmap_players"
+unknown command "fb_bantime_access"
+unknown command "fb_adminrcon_flag"
+unknown command "fb_bantime_limit"
+unknown command "fb_use_sql"
+unknown command "fb_nvault_clear"
+unknown command "fb_force_check"
+unknown command "fb_cachetime"
+unknown command "fb_oldkickinfo"
+unknown command "fb_logtype"
+unknown command "fb_loglevel"
+unknown command "fb_logdays"
+unknown command "fb_use_russian"
+unknown command "fb_sql_clear"
+unknown command "fb_subnet_except_ucp"
+unknown command "fb_subnet_clients"
+unknown command "fb_prefix_clients"
+unknown command "fb_rec_snet"
+unknown command "fb_rec_snet_time"
+unknown command "fb_rec_snet_count"
+unknown command "fb_rec_snet_bt"
+unknown command "fb_subnet_recheck"
+unknown command "fb_rec_snet_level"
+unknown command "fb_cachetime_kick"
+unknown command "fb_cacheonly"
+unknown command "fb_showchat"
+unknown command "fb_chatinfo"
+unknown command "fb_hudinfo"
+unknown command "fb_hudcolor"
+unknown command "fb_hudpos"
+unknown command "fb_serveronly"
+unknown command "fb_confirmchat"
+unknown command "fb_locknames"
+unknown command "fb_newmenu"
+unknown command "fb_show_bb"
+unknown command "fb_noip_as_allip"
+unknown command "fb_longtime_allservers"
+unknown command "fb_force_bantype_ip"
+unknown command "fb_no_confirm"
+unknown command "fb_lock_def_time"
+unknown command "fb_customreason_first"
+unknown command "fb_customreason_flag"
+unknown command "fb_plugin_prefix"
+unknown command "fb_plugin_hprefix"
+unknown command "fb_menu_nick_addons"
+unknown command "fb_acp_admin_uid"
+unknown command "fb_kick_all_from_ip"
+unknown command "fb_positive_cache_mc"
+unknown command "fb_menufilters"
+unknown command "fb_menusort"
+unknown command "amx_password_field"
+unknown command "amx_amxadmins_table"
+unknown command "amx_admins_table"
+unknown command "fb_adminban_flag"
+unknown command "amx_mode"
+unknown command "amx_imessage"
+unknown command "amx_freq_imessage"
+unknown command "amx_plmenu_bantimes"
+unknown command "amx_tempban_maxtime"
+unknown command "amx_plmenu_slapdmg"
+unknown command "amx_flood_time"
+unknown command "amx_reservation"
+unknown command "amx_hideslots"
+unknown command "amx_time_display"
+unknown command "amx_time_voice"
+unknown command "amx_extendmap_max"
+unknown command "amx_extendmap_step"
+unknown command "amx_language_display_msg"
+unknown command "amx_help_display_msg"
+unknown command "amx_help_display_msg_time"
+unknown command "amx_help_amount_per_page"
+unknown command "amx_statsx_duration"
+unknown command "amx_statsx_freeze"
+unknown command "amx_restrmapsettings"
+IP Подошёл.
+L 12/07/2020 - 14:49:10: [colored_translit_config.amxx] Can't add menu item "Настройки чата" from plugin "Colored Translit Config" to menu set because the Menus Front-End plugin itself is not loaded!
+L 12/07/2020 - 14:49:10: [map_chooser_14.amxx] Загружено 48 карт из addons/amxmodx/configs/maps.ini
+L 12/07/2020 - 14:49:10: [map_chooser_14.amxx] Режим сортировки карт по онлайну выключен!
+========== [Colored Translit] START SET FCVAR ==========
+=========== [Colored Translit] END SET FCVAR ===========
+=========== [Colored Translit] START DEBUG =============
+[Colored Translit] Translit File Loaded. Symbols: 65
+[Colored Translit] Swear File Loaded. Swears: 0
+[Colored Translit] Replace File Loaded. Replacements: 1
+[Colored Translit] Ignore File Loaded. Ignore Words: 35
+[Colored Translit] Spam File Loaded. Spam Words: 172
+[Colored Translit] Cheat File Loaded. Cheat Words: 206
+[Colored Translit] Config File Executed. Version: 3.0
+=========== [Colored Translit] END DEBUG ===============
+[COVID mode]: Everything is fine! The configuration file is loaded! 
+unknown command "vk"
+couldn't exec addons/amxmodx/configs/jb_standard/all_cvars.cfg
+unknown command "jbe_last_prisoner_money"
+unknown command "jbe_vip_discount_shop"
+L 12/07/2020 - 14:49:10: [admin_loader_for_fb.amxx] Загружено 27 администраторов из MySQL
+Server logging data to file logs/L1207023.log
+L 12/07/2020 - 14:49:10: Log file started (file "logs/L1207023.log") (game "cstrike") (version "48/1.1.2.7/Stdio/2369")
+unknown command "sv_logecho"
+unknown command "sv_logfile"
+L 12/07/2020 - 14:49:10: Server cvar "mp_logdetail" = "3"
+unknown command "mp_autocrosshair"
+L 12/07/2020 - 14:49:10: Server cvar "sv_aim" = "0"
+unknown command "sv_airmove"
+unknown command "sv_voicequality"
+unknown command "sv_voicecodec"
+unknown command "amx_extendmap_max"
+unknown command "amx_extendmap_step"
+unknown command "cam_change"
+unknown command "cam_connect"
+unknown command "cam_message"
+unknown command "sid_url"
+unknown command "]fastcup.net/rating.html"
+unknown command "precache_hl"
+unknown command "precache_weapons"
+unknown command "amx_extendmap_max"
+unknown command "amx_extendmap_step"
+unknown command "sv_consistency"
+unknown command "amx_amxadmins_table"
+unknown command "amx_admins_table"
+L 12/07/2020 - 14:49:10: [pluginmenu.amxx] Can't add menu item "Plugin Cvars" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+L 12/07/2020 - 14:49:10: [pluginmenu.amxx] Can't add menu item "Plugin Commands" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+fsdfsd - 1 - 1
+Connection to Steam servers successful.
+   VAC secure mode disabled.
+L 12/07/2020 - 14:49:12: "corbi<1><STEAM_1:0:1429286688><>" connected, address "188.190.221.135:27068"
+188.190.221.135:27068:reconnect
+L 12/07/2020 - 14:49:14: "corbi<2><STEAM_1:0:1429286688><>" connected, address "188.190.221.135:27068"
+L 12/07/2020 - 14:49:14: "K P A C U B O<3><STEAM_1:0:1347502735><>" connected, address "188.244.134.165:32911"
+188.244.134.165:32911:reconnect
+L 12/07/2020 - 14:49:17: "K P A C U B O<4><STEAM_1:0:1347502735><>" connected, address "188.244.134.165:32911"
+L 12/07/2020 - 14:49:18: World triggered "Round_Start"
+L 12/07/2020 - 14:49:59: "VKkozmanchyn<5><STEAM_1:0:661788320><>" connected, address "81.27.254.22:27005"
+188.190.221.135:18089:reconnect
+L 12/07/2020 - 14:50:05: "corbi<6><STEAM_1:0:1429286688><>" connected, address "188.190.221.135:18089"
+188.190.221.135:18089:reconnect
+L 12/07/2020 - 14:50:06: "corbi<7><STEAM_1:0:1429286688><>" connected, address "188.190.221.135:18089"
+L 12/07/2020 - 14:50:13: "corbi<7><STEAM_1:0:1429286688><>" entered the game
+L 12/07/2020 - 14:50:15: "corbi<7><STEAM_1:0:1429286688><>" joined team "CT"
+L 12/07/2020 - 14:50:15: World triggered "Round_Draw" (CT "0") (T "0")
+L 12/07/2020 - 14:50:15: World triggered "Round_End"
+L 12/07/2020 - 14:50:20: World triggered "Round_Start"
+81.27.254.22:27005:reconnect
+L 12/07/2020 - 14:50:30: "VKkozmanchyn<8><STEAM_1:0:661788320><>" connected, address "81.27.254.22:27005"
+L 12/07/2020 - 14:50:31: "corbi<7><STEAM_1:0:1429286688><CT>" committed suicide with "worldspawn" (world)
+L 12/07/2020 - 14:50:31: World triggered "Round_Draw" (CT "0") (T "0")
+L 12/07/2020 - 14:50:31: World triggered "Round_End"
+L 12/07/2020 - 14:50:36: World triggered "Round_Start"
+L 12/07/2020 - 14:50:44: "VKkozmanchyn<8><STEAM_1:0:661788320><>" entered the game
+L 12/07/2020 - 14:50:51: Server cvar "sv_restart" = "5"
+L 12/07/2020 - 14:50:52: World triggered "Restart_Round_(5_seconds)"
+L 12/07/2020 - 14:50:52: Team "CT" scored "0" with "1" players
+L 12/07/2020 - 14:50:52: Team "TERRORIST" scored "0" with "0" players
+L 12/07/2020 - 14:50:52: Server cvar "sv_restart" = "0"
+L 12/07/2020 - 14:50:57: World triggered "Round_Start"
+SZ_GetSpace: overflow on VKkozmanchyn
+SZ_GetSpace: overflow on VKkozmanchyn
+SZ_GetSpace: overflow on VKkozmanchyn
+L 12/07/2020 - 14:51:21: "DeaGLe_pro<9><STEAM_1:0:1617176272><>" connected, address "46.159.18.108:27005"
+WARNING: datagram overflowed for VKkozmanchyn
+46.159.18.108:27005:reconnect
+L 12/07/2020 - 14:51:24: "DeaGLe_pro<10><STEAM_1:0:1617176272><>" connected, address "46.159.18.108:27005"
+L 12/07/2020 - 14:51:28: "DeaGLe_pro<10><STEAM_1:0:1617176272><>" entered the game
+L 12/07/2020 - 14:51:30: "VKkozmanchyn<8><STEAM_1:0:661788320><>" joined team "TERRORIST"
+L 12/07/2020 - 14:51:30: World triggered "Game_Commencing"
+L 12/07/2020 - 14:51:30: World triggered "Game_Commencing" (CT "0") (T "0")
+L 12/07/2020 - 14:51:30: World triggered "Round_End"
+L 12/07/2020 - 14:51:32: "DeaGLe_pro<10><STEAM_1:0:1617176272><>" joined team "TERRORIST"
+L 12/07/2020 - 14:51:33: World triggered "Round_Start"
+L 12/07/2020 - 14:51:59: "ollTiMisT<11><STEAM_1:0:12745069><>" connected, address "178.120.20.188:29499"
+178.120.20.188:29499:reconnect
+L 12/07/2020 - 14:52:02: "ollTiMisT<12><STEAM_1:0:12745069><>" connected, address "178.120.20.188:29499"
+L 12/07/2020 - 14:52:18: "ollTiMisT<12><STEAM_1:0:12745069><>" entered the game
+L 12/07/2020 - 14:52:20: "ollTiMisT<12><STEAM_1:0:12745069><>" joined team "TERRORIST"
+L 12/07/2020 - 14:52:50: "DeaGLe_pro<10><STEAM_1:0:1617176272><TERRORIST>" attacked "corbi<7><STEAM_1:0:1429286688><CT>" with "snow" (damage "10") (damage_armor "0") (health "490") (armor "350")
+L 12/07/2020 - 14:52:52: "VKkozmanchyn<8><STEAM_1:0:661788320><TERRORIST>" attacked "corbi<7><STEAM_1:0:1429286688><CT>" with "snow" (damage "11") (damage_armor "0") (health "479") (armor "350")
+L 12/07/2020 - 14:53:05: "DeaGLe_pro<10><STEAM_1:0:1617176272><TERRORIST>" attacked "corbi<7><STEAM_1:0:1429286688><CT>" with "snow" (damage "10") (damage_armor "0") (health "469") (armor "350")
+L 12/07/2020 - 14:53:09: "VKkozmanchyn<8><STEAM_1:0:661788320><TERRORIST>" triggered "weaponstats" (weapon "knife") (shots "1") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 12/07/2020 - 14:53:09: "VKkozmanchyn<8><STEAM_1:0:661788320><TERRORIST>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 12/07/2020 - 14:53:09: "VKkozmanchyn<8><STEAM_1:0:661788320><TERRORIST>" triggered "time" (time "2:25")
+L 12/07/2020 - 14:53:09: "VKkozmanchyn<8><STEAM_1:0:661788320><TERRORIST>" triggered "latency" (ping "24")
+L 12/07/2020 - 14:53:09: "VKkozmanchyn<8><STEAM_1:0:661788320><TERRORIST>" disconnected
+L 12/07/2020 - 14:53:12: "VKkozmanchyn<8><STEAM_1:0:661788320><>" entered the game
+L 12/07/2020 - 14:53:13: "VKkozmanchyn<8><STEAM_1:0:661788320><>" joined team "TERRORIST"
+L 12/07/2020 - 14:54:16: "DeaGLe_pro<10><STEAM_1:0:1617176272><TERRORIST>" attacked "corbi<7><STEAM_1:0:1429286688><CT>" with "ak47" (damage "26") (damage_armor "0") (health "442") (armor "350")
+L 12/07/2020 - 14:54:16: "DeaGLe_pro<10><STEAM_1:0:1617176272><TERRORIST>" attacked "corbi<7><STEAM_1:0:1429286688><CT>" with "ak47" (damage "140") (damage_armor "0") (health "303") (armor "350")
+L 12/07/2020 - 14:54:16: "DeaGLe_pro<10><STEAM_1:0:1617176272><TERRORIST>" attacked "corbi<7><STEAM_1:0:1429286688><CT>" with "ak47" (damage "27") (damage_armor "3") (health "275") (armor "346")
+L 12/07/2020 - 14:54:17: "DeaGLe_pro<10><STEAM_1:0:1617176272><TERRORIST>" attacked "corbi<7><STEAM_1:0:1429286688><CT>" with "ak47" (damage "27") (damage_armor "3") (health "248") (armor "342")
+L 12/07/2020 - 14:54:17: "DeaGLe_pro<10><STEAM_1:0:1617176272><TERRORIST>" attacked "corbi<7><STEAM_1:0:1429286688><CT>" with "ak47" (damage "26") (damage_armor "0") (health "222") (armor "342")
+L 12/07/2020 - 14:54:17: "DeaGLe_pro<10><STEAM_1:0:1617176272><TERRORIST>" attacked "corbi<7><STEAM_1:0:1429286688><CT>" with "ak47" (damage "27") (damage_armor "3") (health "195") (armor "338")
+L 12/07/2020 - 14:54:17: "DeaGLe_pro<10><STEAM_1:0:1617176272><TERRORIST>" attacked "corbi<7><STEAM_1:0:1429286688><CT>" with "ak47" (damage "27") (damage_armor "3") (health "168") (armor "334")
+L 12/07/2020 - 14:54:17: "DeaGLe_pro<10><STEAM_1:0:1617176272><TERRORIST>" attacked "corbi<7><STEAM_1:0:1429286688><CT>" with "ak47" (damage "27") (damage_armor "3") (health "141") (armor "330")
+L 12/07/2020 - 14:54:17: "DeaGLe_pro<10><STEAM_1:0:1617176272><TERRORIST>" attacked "corbi<7><STEAM_1:0:1429286688><CT>" with "ak47" (damage "27") (damage_armor "3") (health "114") (armor "326")
+L 12/07/2020 - 14:54:17: "DeaGLe_pro<10><STEAM_1:0:1617176272><TERRORIST>" attacked "corbi<7><STEAM_1:0:1429286688><CT>" with "ak47" (damage "27") (damage_armor "3") (health "87") (armor "322")
+L 12/07/2020 - 14:54:18: "DeaGLe_pro<10><STEAM_1:0:1617176272><TERRORIST>" attacked "corbi<7><STEAM_1:0:1429286688><CT>" with "ak47" (damage "27") (damage_armor "3") (health "60") (armor "318")
+L 12/07/2020 - 14:54:18: "DeaGLe_pro<10><STEAM_1:0:1617176272><TERRORIST>" attacked "corbi<7><STEAM_1:0:1429286688><CT>" with "ak47" (damage "27") (damage_armor "3") (health "33") (armor "314")
+L 12/07/2020 - 14:54:18: "DeaGLe_pro<10><STEAM_1:0:1617176272><TERRORIST>" attacked "corbi<7><STEAM_1:0:1429286688><CT>" with "ak47" (damage "27") (damage_armor "3") (health "6") (armor "310")
+L 12/07/2020 - 14:54:18: "DeaGLe_pro<10><STEAM_1:0:1617176272><TERRORIST>" attacked "corbi<7><STEAM_1:0:1429286688><CT>" with "ak47" (damage "27") (damage_armor "3") (health "-20") (armor "306")
+L 12/07/2020 - 14:54:18: "DeaGLe_pro<10><STEAM_1:0:1617176272><TERRORIST>" killed "corbi<7><STEAM_1:0:1429286688><CT>" with "ak47"
+L 12/07/2020 - 14:54:18: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "1")
+L 12/07/2020 - 14:54:18: World triggered "Round_End"
+L 12/07/2020 - 14:54:23: World triggered "Round_Start"
+L 12/07/2020 - 14:54:28: "DeaGLe_pro<10><STEAM_1:0:1617176272><TERRORIST>" committed suicide with "worldspawn" (world)
+L 12/07/2020 - 14:56:02: "K P A C U B O<13><STEAM_1:0:1347502735><>" connected, address "188.244.134.165:32911"
+188.244.134.165:32911:reconnect
+L 12/07/2020 - 14:56:03: "K P A C U B O<14><STEAM_1:0:1347502735><>" connected, address "188.244.134.165:32911"
+L 12/07/2020 - 14:56:08: "K P A C U B O<14><STEAM_1:0:1347502735><>" entered the game
+L 12/07/2020 - 14:56:10: "K P A C U B O<14><STEAM_1:0:1347502735><>" joined team "TERRORIST"
+L 12/07/2020 - 14:56:12: "ollTiMisT<12><STEAM_1:0:12745069><TERRORIST>" attacked "VKkozmanchyn<8><STEAM_1:0:661788320><TERRORIST>" with "knife" (damage "260") (damage_armor "0") (health "-160") (armor "0")
+L 12/07/2020 - 14:56:12: "ollTiMisT<12><STEAM_1:0:12745069><TERRORIST>" killed "VKkozmanchyn<8><STEAM_1:0:661788320><TERRORIST>" with "knife"
+L 12/07/2020 - 14:56:36: "VKkozmanchyn<8><STEAM_1:0:661788320><TERRORIST>" triggered "weaponstats" (weapon "knife") (shots "1") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 12/07/2020 - 14:56:36: "VKkozmanchyn<8><STEAM_1:0:661788320><TERRORIST>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 12/07/2020 - 14:56:36: "VKkozmanchyn<8><STEAM_1:0:661788320><TERRORIST>" triggered "time" (time "3:24")
+L 12/07/2020 - 14:56:36: "VKkozmanchyn<8><STEAM_1:0:661788320><TERRORIST>" triggered "latency" (ping "20")
+L 12/07/2020 - 14:56:36: "VKkozmanchyn<8><STEAM_1:0:661788320><TERRORIST>" disconnected
+L 12/07/2020 - 14:56:38: "VKkozmanchyn<8><STEAM_1:0:661788320><>" entered the game
+L 12/07/2020 - 14:56:40: "VKkozmanchyn<8><STEAM_1:0:661788320><>" joined team "TERRORIST"
+L 12/07/2020 - 14:56:47: "ollTiMisT<12><STEAM_1:0:12745069><TERRORIST>" attacked "corbi<7><STEAM_1:0:1429286688><CT>" with "deagle" (damage "36") (damage_armor "6") (health "63") (armor "93")
+L 12/07/2020 - 14:56:48: "corbi<7><STEAM_1:0:1429286688><CT>" attacked "ollTiMisT<12><STEAM_1:0:12745069><TERRORIST>" with "deagle" (damage "35") (damage_armor "5") (health "64") (armor "94")
+L 12/07/2020 - 14:56:52: "corbi<7><STEAM_1:0:1429286688><CT>" attacked "ollTiMisT<12><STEAM_1:0:12745069><TERRORIST>" with "deagle" (damage "129") (damage_armor "21") (health "-64") (armor "72")
+L 12/07/2020 - 14:56:52: "corbi<7><STEAM_1:0:1429286688><CT>" killed "ollTiMisT<12><STEAM_1:0:12745069><TERRORIST>" with "deagle"
+L 12/07/2020 - 14:56:52: Team "CT" triggered "CTs_Win" (CT "1") (T "1")
+L 12/07/2020 - 14:56:52: World triggered "Round_End"
+L 12/07/2020 - 14:56:57: World triggered "Round_Start"
+L 12/07/2020 - 14:57:51: "corbi<7><STEAM_1:0:1429286688><CT>" attacked "ollTiMisT<12><STEAM_1:0:12745069><TERRORIST>" with "mp5navy" (damage "42") (damage_armor "0") (health "58") (armor "0")
+L 12/07/2020 - 14:57:52: "corbi<7><STEAM_1:0:1429286688><CT>" attacked "ollTiMisT<12><STEAM_1:0:12745069><TERRORIST>" with "mp5navy" (damage "43") (damage_armor "0") (health "14") (armor "0")
+L 12/07/2020 - 14:57:54: "corbi<7><STEAM_1:0:1429286688><CT>" attacked "ollTiMisT<12><STEAM_1:0:12745069><TERRORIST>" with "mp5navy" (damage "28") (damage_armor "0") (health "-13") (armor "0")
+L 12/07/2020 - 14:57:54: "corbi<7><STEAM_1:0:1429286688><CT>" killed "ollTiMisT<12><STEAM_1:0:12745069><TERRORIST>" with "mp5navy"
+L 12/07/2020 - 14:57:58: "corbi<7><STEAM_1:0:1429286688><CT>" attacked "K P A C U B O<14><STEAM_1:0:1347502735><TERRORIST>" with "mp5navy" (damage "42") (damage_armor "0") (health "-2") (armor "0")
+L 12/07/2020 - 14:57:58: "corbi<7><STEAM_1:0:1429286688><CT>" killed "K P A C U B O<14><STEAM_1:0:1347502735><TERRORIST>" with "mp5navy"
+L 12/07/2020 - 14:57:59: "corbi<7><STEAM_1:0:1429286688><CT>" attacked "DeaGLe_pro<10><STEAM_1:0:1617176272><TERRORIST>" with "mp5navy" (damage "30") (damage_armor "0") (health "69") (armor "0")
+L 12/07/2020 - 14:58:01: "corbi<7><STEAM_1:0:1429286688><CT>" attacked "DeaGLe_pro<10><STEAM_1:0:1617176272><TERRORIST>" with "mp5navy" (damage "36") (damage_armor "0") (health "33") (armor "0")
+L 12/07/2020 - 14:58:02: "corbi<7><STEAM_1:0:1429286688><CT>" attacked "DeaGLe_pro<10><STEAM_1:0:1617176272><TERRORIST>" with "mp5navy" (damage "38") (damage_armor "0") (health "-4") (armor "0")
+L 12/07/2020 - 14:58:02: "corbi<7><STEAM_1:0:1429286688><CT>" killed "DeaGLe_pro<10><STEAM_1:0:1617176272><TERRORIST>" with "mp5navy"
+L 12/07/2020 - 14:58:02: "VKkozmanchyn<8><STEAM_1:0:661788320><TERRORIST>" committed suicide with "world"
+L 12/07/2020 - 14:58:02: Team "CT" triggered "CTs_Win" (CT "2") (T "1")
+L 12/07/2020 - 14:58:02: World triggered "Round_End"
+L 12/07/2020 - 14:58:06: Kick: "corbi<7><STEAM_1:0:1429286688><>" was kicked by "Console" (message ""Вы забанены. Подробная информация в вашей консоли."")
+L 12/07/2020 - 14:58:06: "corbi<7><STEAM_1:0:1429286688><CT>" triggered "weaponstats" (weapon "mp5navy") (shots "70") (hits "7") (kills "3") (headshots "0") (tks "0") (damage "259") (deaths "0")
+L 12/07/2020 - 14:58:06: "corbi<7><STEAM_1:0:1429286688><CT>" triggered "weaponstats2" (weapon "mp5navy") (head "0") (chest "0") (stomach "0") (leftarm "2") (rightarm "3") (leftleg "2") (rightleg "0")
+L 12/07/2020 - 14:58:06: "corbi<7><STEAM_1:0:1429286688><CT>" triggered "weaponstats" (weapon "deagle") (shots "1") (hits "2") (kills "1") (headshots "1") (tks "0") (damage "164") (deaths "0")
+L 12/07/2020 - 14:58:06: "corbi<7><STEAM_1:0:1429286688><CT>" triggered "weaponstats2" (weapon "deagle") (head "1") (chest "1") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 12/07/2020 - 14:58:06: "corbi<7><STEAM_1:0:1429286688><CT>" triggered "weaponstats" (weapon "knife") (shots "8") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 12/07/2020 - 14:58:06: "corbi<7><STEAM_1:0:1429286688><CT>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 12/07/2020 - 14:58:06: "corbi<7><STEAM_1:0:1429286688><CT>" triggered "time" (time "7:52")
+L 12/07/2020 - 14:58:06: "corbi<7><STEAM_1:0:1429286688><CT>" triggered "latency" (ping "51")
+L 12/07/2020 - 14:58:06: "corbi<7><STEAM_1:0:1429286688><CT>" disconnected
+L 12/07/2020 - 14:58:07: World triggered "Round_Start"
+L 12/07/2020 - 14:58:08: "DeaGLe_pro<10><STEAM_1:0:1617176272><TERRORIST>" committed suicide with "world"
+L 12/07/2020 - 14:58:08: "DeaGLe_pro<10><STEAM_1:0:1617176272><TERRORIST>" joined team "CT"
+L 12/07/2020 - 14:58:08: World triggered "Game_Commencing"
+L 12/07/2020 - 14:58:08: World triggered "Game_Commencing" (CT "2") (T "1")
+L 12/07/2020 - 14:58:08: World triggered "Round_End"
+188.190.221.135:18089:reconnect
+L 12/07/2020 - 14:58:09: "corbi<15><STEAM_1:0:1429286688><>" connected, address "188.190.221.135:18089"
+L 12/07/2020 - 14:58:10: Kick: "corbi<15><STEAM_1:0:1429286688><>" was kicked by "Console" (message ""Вы забанены. Подробная информация в вашей консоли."")
+L 12/07/2020 - 14:58:11: World triggered "Round_Start"
+L 12/07/2020 - 14:58:29: "ollTiMisT<12><STEAM_1:0:12745069><TERRORIST>" attacked "DeaGLe_pro<10><STEAM_1:0:1617176272><CT>" with "ak47" (damage "27") (damage_armor "3") (health "122") (armor "96")
+L 12/07/2020 - 14:58:29: "ollTiMisT<12><STEAM_1:0:12745069><TERRORIST>" attacked "DeaGLe_pro<10><STEAM_1:0:1617176272><CT>" with "ak47" (damage "27") (damage_armor "3") (health "95") (armor "92")
+L 12/07/2020 - 14:58:29: "ollTiMisT<12><STEAM_1:0:12745069><TERRORIST>" attacked "DeaGLe_pro<10><STEAM_1:0:1617176272><CT>" with "ak47" (damage "27") (damage_armor "3") (health "68") (armor "88")
+L 12/07/2020 - 14:58:29: "DeaGLe_pro<10><STEAM_1:0:1617176272><CT>" attacked "ollTiMisT<12><STEAM_1:0:12745069><TERRORIST>" with "ak47" (damage "108") (damage_armor "15") (health "-8") (armor "84")
+L 12/07/2020 - 14:58:29: "DeaGLe_pro<10><STEAM_1:0:1617176272><CT>" killed "ollTiMisT<12><STEAM_1:0:12745069><TERRORIST>" with "ak47"
+SZ_GetSpace: overflow on VKkozmanchyn
+SZ_GetSpace: overflow on VKkozmanchyn
+SZ_GetSpace: overflow on VKkozmanchyn
+SZ_GetSpace: overflow on VKkozmanchyn
+SZ_GetSpace: overflow on VKkozmanchyn
+SZ_GetSpace: overflow on VKkozmanchyn
+SZ_GetSpace: overflow on VKkozmanchyn
+SZ_GetSpace: overflow on VKkozmanchyn
+WARNING: datagram overflowed for VKkozmanchyn
+L 12/07/2020 - 14:59:40: "ollTiMisT<12><STEAM_1:0:12745069><TERRORIST>" triggered "weaponstats" (weapon "deagle") (shots "2") (hits "1") (kills "0") (headshots "0") (tks "0") (damage "36") (deaths "1")
+L 12/07/2020 - 14:59:40: "ollTiMisT<12><STEAM_1:0:12745069><TERRORIST>" triggered "weaponstats2" (weapon "deagle") (head "0") (chest "0") (stomach "0") (leftarm "1") (rightarm "0") (leftleg "0") (rightleg "0")
+L 12/07/2020 - 14:59:40: "ollTiMisT<12><STEAM_1:0:12745069><TERRORIST>" triggered "weaponstats" (weapon "ak47") (shots "3") (hits "3") (kills "0") (headshots "0") (tks "0") (damage "81") (deaths "1")
+L 12/07/2020 - 14:59:40: "ollTiMisT<12><STEAM_1:0:12745069><TERRORIST>" triggered "weaponstats2" (weapon "ak47") (head "0") (chest "2") (stomach "0") (leftarm "1") (rightarm "0") (leftleg "0") (rightleg "0")
+L 12/07/2020 - 14:59:40: "ollTiMisT<12><STEAM_1:0:12745069><TERRORIST>" triggered "weaponstats" (weapon "knife") (shots "4") (hits "1") (kills "1") (headshots "1") (tks "1") (damage "260") (deaths "1")
+L 12/07/2020 - 14:59:40: "ollTiMisT<12><STEAM_1:0:12745069><TERRORIST>" triggered "weaponstats2" (weapon "knife") (head "1") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 12/07/2020 - 14:59:40: "ollTiMisT<12><STEAM_1:0:12745069><TERRORIST>" triggered "time" (time "7:22")
+L 12/07/2020 - 14:59:40: "ollTiMisT<12><STEAM_1:0:12745069><TERRORIST>" triggered "latency" (ping "33")
+L 12/07/2020 - 14:59:40: "ollTiMisT<12><STEAM_1:0:12745069><TERRORIST>" disconnected
+L 12/07/2020 - 14:59:50: "ExZtAzZ<16><STEAM_0:0:506064673><>" connected, address "176.212.204.19:31875"
+L 12/07/2020 - 14:59:51: "ExZtAzZ<16><STEAM_0:0:506064673><>" STEAM USERID validated
+176.212.204.19:31875:reconnect
+L 12/07/2020 - 15:00:02: "ExZtAzZ<17><STEAM_0:0:506064673><>" connected, address "176.212.204.19:31875"
+L 12/07/2020 - 15:00:02: "ExZtAzZ<17><STEAM_0:0:506064673><>" STEAM USERID validated
+L 12/07/2020 - 15:00:22: [admin_loader_for_fb.amxx] Login: "ExZtAzZ<17><STEAM_0:0:506064673><>" became an admin (account "ExZtAzZ") (nickname "ExZtAzZ") (access "adfghiklnpqrst") (address "176.212.204.19")
+L 12/07/2020 - 15:00:22: Admin ExZtAzZ connected, ip: 176.212.204.19, Steam_ID: STEAM_0:0:506064673
+ -> file: (../demoplayer.dll), md5hex: (641d3c2c) for (ExZtAzZ) 
+L 12/07/2020 - 15:00:22: "ExZtAzZ<17><STEAM_0:0:506064673><>" entered the game
+L 12/07/2020 - 15:00:25: "ExZtAzZ<17><STEAM_0:0:506064673><>" joined team "TERRORIST"
+L 12/07/2020 - 15:01:37: "VKkozmanchyn<8><STEAM_1:0:661788320><TERRORIST>" committed suicide with "worldspawn" (world)
+L 12/07/2020 - 15:01:40: "K P A C U B O<14><STEAM_1:0:1347502735><TERRORIST>" committed suicide with "world"
+L 12/07/2020 - 15:01:40: Team "CT" triggered "CTs_Win" (CT "1") (T "0")
+L 12/07/2020 - 15:01:40: World triggered "Round_End"
+L 12/07/2020 - 15:01:45: World triggered "Round_Start"
+L 12/07/2020 - 15:02:30: "DeaGLe_pro<10><STEAM_1:0:1617176272><CT>" committed suicide with "world"
+L 12/07/2020 - 15:02:30: Team "TERRORIST" triggered "Terrorists_Win" (CT "1") (T "1")
+L 12/07/2020 - 15:02:30: World triggered "Round_End"
+L 12/07/2020 - 15:02:30: "DeaGLe_pro<10><STEAM_1:0:1617176272><CT>" joined team "TERRORIST"
+L 12/07/2020 - 15:02:35: World triggered "Round_Start"
+L 12/07/2020 - 15:02:40: "Дошик<18><STEAM_1:0:766281535><>" connected, address "88.200.136.255:28959"
+L 12/07/2020 - 15:02:45: "koli 1231<19><STEAM_1:0:1960141105><>" connected, address "83.220.227.37:16169"
+83.220.227.37:16169:reconnect
+L 12/07/2020 - 15:02:49: "koli 1231<20><STEAM_1:0:1960141105><>" connected, address "83.220.227.37:16169"
+L 12/07/2020 - 15:03:03: "VKkozmanchyn<8><STEAM_1:0:661788320><TERRORIST>" attacked "DeaGLe_pro<10><STEAM_1:0:1617176272><TERRORIST>" with "m4a1" (damage "14") (damage_armor "0") (health "86") (armor "0")
+ -> file: (../demoplayer.dll), md5hex: (55ceb842) for (koli 1231) 
+L 12/07/2020 - 15:03:05: "koli 1231<20><STEAM_1:0:1960141105><>" entered the game
+L 12/07/2020 - 15:03:07: "VKkozmanchyn<8><STEAM_1:0:661788320><TERRORIST>" attacked "DeaGLe_pro<10><STEAM_1:0:1617176272><TERRORIST>" with "m4a1" (damage "14") (damage_armor "0") (health "72") (armor "0")
+SZ_GetSpace: overflow on koli 1231
+SZ_GetSpace: overflow on koli 1231
+SZ_GetSpace: overflow on koli 1231
+SZ_GetSpace: overflow on koli 1231
+SZ_GetSpace: overflow on koli 1231
+SZ_GetSpace: overflow on koli 1231
+SZ_GetSpace: overflow on koli 1231
+L 12/07/2020 - 15:03:35: "LoreFire<21><STEAM_1:0:66674238><>" connected, address "176.101.230.175:4179"
+L 12/07/2020 - 15:03:37: "VKkozmanchyn<8><STEAM_1:0:661788320><TERRORIST>" attacked "K P A C U B O<14><STEAM_1:0:1347502735><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "52") (armor "0")
+L 12/07/2020 - 15:03:37: "VKkozmanchyn<8><STEAM_1:0:661788320><TERRORIST>" attacked "K P A C U B O<14><STEAM_1:0:1347502735><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "22") (armor "0")
+L 12/07/2020 - 15:03:37: "K P A C U B O<14><STEAM_1:0:1347502735><TERRORIST>" attacked "VKkozmanchyn<8><STEAM_1:0:661788320><TERRORIST>" with "m4a1" (damage "32") (damage_armor "0") (health "55") (armor "0")
+L 12/07/2020 - 15:03:38: "K P A C U B O<14><STEAM_1:0:1347502735><TERRORIST>" attacked "VKkozmanchyn<8><STEAM_1:0:661788320><TERRORIST>" with "m4a1" (damage "32") (damage_armor "0") (health "23") (armor "0")
+176.101.230.175:4179:reconnect
+L 12/07/2020 - 15:03:38: "LoreFire<22><STEAM_1:0:66674238><>" connected, address "176.101.230.175:4179"
+L 12/07/2020 - 15:03:38: "VKkozmanchyn<8><STEAM_1:0:661788320><TERRORIST>" attacked "K P A C U B O<14><STEAM_1:0:1347502735><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "-7") (armor "0")
+L 12/07/2020 - 15:03:38: "VKkozmanchyn<8><STEAM_1:0:661788320><TERRORIST>" killed "K P A C U B O<14><STEAM_1:0:1347502735><TERRORIST>" with "m4a1"
+SZ_GetSpace: overflow on koli 1231
+L 12/07/2020 - 15:03:43: "LoreFire<22><STEAM_1:0:66674238><>" entered the game
+SZ_GetSpace: overflow on koli 1231
+L 12/07/2020 - 15:03:47: "LoreFire<22><STEAM_1:0:66674238><>" joined team "CT"
+L 12/07/2020 - 15:03:47: World triggered "Game_Commencing"
+L 12/07/2020 - 15:03:47: World triggered "Game_Commencing" (CT "1") (T "1")
+L 12/07/2020 - 15:03:47: World triggered "Round_End"
+SZ_GetSpace: overflow on koli 1231
+L 12/07/2020 - 15:03:49: "DeaGLe_pro<10><STEAM_1:0:1617176272><TERRORIST>" committed suicide with "worldspawn" (world)
+SZ_GetSpace: overflow on koli 1231
+L 12/07/2020 - 15:03:50: World triggered "Round_Start"
+SZ_GetSpace: overflow on koli 1231
+SZ_GetSpace: overflow on koli 1231
+SZ_GetSpace: overflow on koli 1231
+SZ_GetSpace: overflow on koli 1231
+SZ_GetSpace: overflow on koli 1231
+SZ_GetSpace: overflow on koli 1231
+L 12/07/2020 - 15:04:10: "LoreFire<22><STEAM_1:0:66674238><CT>" attacked "DeaGLe_pro<10><STEAM_1:0:1617176272><TERRORIST>" with "snow" (damage "10") (damage_armor "0") (health "90") (armor "0")
+SZ_GetSpace: overflow on koli 1231
+SZ_GetSpace: overflow on koli 1231
+L 12/07/2020 - 15:04:15: "koli 1231<20><STEAM_1:0:1960141105><UNASSIGNED>" triggered "time" (time "1:10")
+L 12/07/2020 - 15:04:15: "koli 1231<20><STEAM_1:0:1960141105><UNASSIGNED>" triggered "latency" (ping "563")
+L 12/07/2020 - 15:04:15: "koli 1231<20><STEAM_1:0:1960141105><>" disconnected
+L 12/07/2020 - 15:04:18: "LoreFire<22><STEAM_1:0:66674238><CT>" attacked "ExZtAzZ<17><STEAM_0:0:506064673><TERRORIST>" with "snow" (damage "10") (damage_armor "0") (health "90") (armor "0")
+83.220.227.37:16169:reconnect
+L 12/07/2020 - 15:04:18: "koli 1231<23><STEAM_1:0:1960141105><>" connected, address "83.220.227.37:16169"
+83.220.227.37:16169:reconnect
+L 12/07/2020 - 15:04:21: "koli 1231<24><STEAM_1:0:1960141105><>" connected, address "83.220.227.37:16169"
+L 12/07/2020 - 15:04:23: "LoreFire<22><STEAM_1:0:66674238><CT>" attacked "ExZtAzZ<17><STEAM_0:0:506064673><TERRORIST>" with "snow" (damage "10") (damage_armor "0") (health "80") (armor "0")
+L 12/07/2020 - 15:04:27: "LoreFire<22><STEAM_1:0:66674238><CT>" attacked "ExZtAzZ<17><STEAM_0:0:506064673><TERRORIST>" with "snow" (damage "10") (damage_armor "0") (health "70") (armor "0")
+ -> file: (../demoplayer.dll), md5hex: (55ceb842) for (koli 1231) 
+L 12/07/2020 - 15:04:28: "koli 1231<24><STEAM_1:0:1960141105><>" entered the game
+L 12/07/2020 - 15:04:30: "K0tik_Nar_KOTIK<25><STEAM_1:0:1840528214><>" connected, address "178.121.40.178:53399"
+L 12/07/2020 - 15:04:31: "koli 1231<24><STEAM_1:0:1960141105><>" joined team "TERRORIST"
+L 12/07/2020 - 15:04:31: "LoreFire<22><STEAM_1:0:66674238><CT>" attacked "ExZtAzZ<17><STEAM_0:0:506064673><TERRORIST>" with "snow" (damage "10") (damage_armor "0") (health "60") (armor "0")
+L 12/07/2020 - 15:04:32: "koli 1231<24><STEAM_1:0:1960141105><TERRORIST>" joined team "CT"
+L 12/07/2020 - 15:04:33: "What????<26><STEAM_1:0:1525535123><>" connected, address "217.66.156.128:59501"
+L 12/07/2020 - 15:04:33: "K0tik_Nar_KOTIK<27><STEAM_1:0:1840528214><>" connected, address "178.121.40.178:53399"
+L 12/07/2020 - 15:04:34: "koli 1231<24><STEAM_1:0:1960141105><CT>" joined team "TERRORIST"
+L 12/07/2020 - 15:04:35: "DeaGLe_pro<10><STEAM_1:0:1617176272><TERRORIST>" attacked "LoreFire<22><STEAM_1:0:66674238><CT>" with "deagle" (damage "208") (damage_armor "0") (health "-58") (armor "100")
+L 12/07/2020 - 15:04:35: "DeaGLe_pro<10><STEAM_1:0:1617176272><TERRORIST>" killed "LoreFire<22><STEAM_1:0:66674238><CT>" with "deagle"
+L 12/07/2020 - 15:04:35: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "1")
+L 12/07/2020 - 15:04:35: World triggered "Round_End"
+217.66.156.128:59501:reconnect
+L 12/07/2020 - 15:04:37: "What????<28><STEAM_1:0:1525535123><>" connected, address "217.66.156.128:59501"
+L 12/07/2020 - 15:04:40: World triggered "Round_Start"
+L 12/07/2020 - 15:04:42: "K0tik_Nar_KOTIK<27><STEAM_1:0:1840528214><>" entered the game
+L 12/07/2020 - 15:04:44: "K0tik_Nar_KOTIK<27><STEAM_1:0:1840528214><>" joined team "TERRORIST"
+L 12/07/2020 - 15:04:53: "What????<28><STEAM_1:0:1525535123><>" entered the game
+L 12/07/2020 - 15:05:01: "What????<28><STEAM_1:0:1525535123><>" joined team "TERRORIST"
+L 12/07/2020 - 15:05:42: "DeaGLe_pro<10><STEAM_1:0:1617176272><TERRORIST>" attacked "LoreFire<22><STEAM_1:0:66674238><CT>" with "deagle" (damage "208") (damage_armor "0") (health "292") (armor "350")
+L 12/07/2020 - 15:05:42: "K P A C U B O<14><STEAM_1:0:1347502735><TERRORIST>" committed suicide with "worldspawn" (world)
+L 12/07/2020 - 15:05:42: "LoreFire<22><STEAM_1:0:66674238><CT>" committed suicide with "world"
+L 12/07/2020 - 15:05:42: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "2")
+L 12/07/2020 - 15:05:42: World triggered "Round_End"
+L 12/07/2020 - 15:05:42: "LoreFire<22><STEAM_1:0:66674238><CT>" joined team "TERRORIST"
+L 12/07/2020 - 15:05:47: World triggered "Round_Start"
+L 12/07/2020 - 15:05:53: "What????<28><STEAM_1:0:1525535123><TERRORIST>" changed name to "МиХаЛыЧ4658"
+L 12/07/2020 - 15:05:53: [admin_loader_for_fb.amxx] Login: "МиХаЛыЧ4658<28><STEAM_1:0:1525535123><>" became an admin (account "МиХаЛыЧ4658") (nickname "МиХаЛыЧ4658") (access "abdfghiklnpqrst") (address "217.66.156.128")
+L 12/07/2020 - 15:05:55: "VKkozmanchyn<8><STEAM_1:0:661788320><TERRORIST>" committed suicide with "worldspawn" (world)
+L 12/07/2020 - 15:06:10: "koli 1231<24><STEAM_1:0:1960141105><TERRORIST>" attacked "ExZtAzZ<17><STEAM_0:0:506064673><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "70") (armor "0")
+L 12/07/2020 - 15:06:11: "koli 1231<24><STEAM_1:0:1960141105><TERRORIST>" attacked "ExZtAzZ<17><STEAM_0:0:506064673><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "40") (armor "0")
+L 12/07/2020 - 15:06:11: "koli 1231<24><STEAM_1:0:1960141105><TERRORIST>" attacked "ExZtAzZ<17><STEAM_0:0:506064673><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "10") (armor "0")
+L 12/07/2020 - 15:06:11: "koli 1231<24><STEAM_1:0:1960141105><TERRORIST>" attacked "ExZtAzZ<17><STEAM_0:0:506064673><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "-20") (armor "0")
+L 12/07/2020 - 15:06:11: "koli 1231<24><STEAM_1:0:1960141105><TERRORIST>" killed "ExZtAzZ<17><STEAM_0:0:506064673><TERRORIST>" with "m4a1"
+L 12/07/2020 - 15:06:16: "koli 1231<24><STEAM_1:0:1960141105><TERRORIST>" attacked "МиХаЛыЧ4658<28><STEAM_1:0:1525535123><TERRORIST>" with "m4a1" (damage "17") (damage_armor "0") (health "82") (armor "0")
+L 12/07/2020 - 15:06:16: "LoreFire<22><STEAM_1:0:66674238><TERRORIST>" attacked "МиХаЛыЧ4658<28><STEAM_1:0:1525535123><TERRORIST>" with "ak47" (damage "35") (damage_armor "0") (health "48") (armor "0")
+L 12/07/2020 - 15:06:16: "koli 1231<24><STEAM_1:0:1960141105><TERRORIST>" attacked "МиХаЛыЧ4658<28><STEAM_1:0:1525535123><TERRORIST>" with "m4a1" (damage "14") (damage_armor "0") (health "34") (armor "0")
+L 12/07/2020 - 15:06:17: "LoreFire<22><STEAM_1:0:66674238><TERRORIST>" attacked "МиХаЛыЧ4658<28><STEAM_1:0:1525535123><TERRORIST>" with "ak47" (damage "35") (damage_armor "0") (health "-1") (armor "0")
+L 12/07/2020 - 15:06:17: "LoreFire<22><STEAM_1:0:66674238><TERRORIST>" killed "МиХаЛыЧ4658<28><STEAM_1:0:1525535123><TERRORIST>" with "ak47"
+L 12/07/2020 - 15:06:18: "koli 1231<24><STEAM_1:0:1960141105><TERRORIST>" attacked "LoreFire<22><STEAM_1:0:66674238><TERRORIST>" with "m4a1" (damage "17") (damage_armor "0") (health "82") (armor "0")
+L 12/07/2020 - 15:06:18: "koli 1231<24><STEAM_1:0:1960141105><TERRORIST>" attacked "LoreFire<22><STEAM_1:0:66674238><TERRORIST>" with "m4a1" (damage "17") (damage_armor "0") (health "65") (armor "0")
+L 12/07/2020 - 15:06:19: "koli 1231<24><STEAM_1:0:1960141105><TERRORIST>" attacked "LoreFire<22><STEAM_1:0:66674238><TERRORIST>" with "m4a1" (damage "14") (damage_armor "0") (health "52") (armor "0")
+L 12/07/2020 - 15:06:19: "LoreFire<22><STEAM_1:0:66674238><TERRORIST>" attacked "koli 1231<24><STEAM_1:0:1960141105><TERRORIST>" with "ak47" (damage "16") (damage_armor "0") (health "234") (armor "0")
+L 12/07/2020 - 15:06:19: "koli 1231<24><STEAM_1:0:1960141105><TERRORIST>" attacked "LoreFire<22><STEAM_1:0:66674238><TERRORIST>" with "m4a1" (damage "14") (damage_armor "0") (health "38") (armor "0")
+L 12/07/2020 - 15:06:20: "koli 1231<24><STEAM_1:0:1960141105><TERRORIST>" attacked "LoreFire<22><STEAM_1:0:66674238><TERRORIST>" with "m4a1" (damage "14") (damage_armor "0") (health "24") (armor "0")
+L 12/07/2020 - 15:06:21: "LoreFire<22><STEAM_1:0:66674238><TERRORIST>" attacked "koli 1231<24><STEAM_1:0:1960141105><TERRORIST>" with "ak47" (damage "136") (damage_armor "0") (health "98") (armor "0")
+L 12/07/2020 - 15:06:21: "koli 1231<24><STEAM_1:0:1960141105><TERRORIST>" attacked "LoreFire<22><STEAM_1:0:66674238><TERRORIST>" with "m4a1" (damage "29") (damage_armor "0") (health "-5") (armor "0")
+L 12/07/2020 - 15:06:21: "koli 1231<24><STEAM_1:0:1960141105><TERRORIST>" killed "LoreFire<22><STEAM_1:0:66674238><TERRORIST>" with "m4a1"
+L 12/07/2020 - 15:06:23: "LoreFire<22><STEAM_1:0:66674238><TERRORIST>" joined team "CT"
+L 12/07/2020 - 15:06:23: World triggered "Game_Commencing"
+L 12/07/2020 - 15:06:23: World triggered "Game_Commencing" (CT "0") (T "2")
+L 12/07/2020 - 15:06:23: World triggered "Round_End"
+L 12/07/2020 - 15:06:24: "LoreFire<22><STEAM_1:0:66674238><CT>" joined team "TERRORIST"
+L 12/07/2020 - 15:06:25: "DeaGLe_pro<10><STEAM_1:0:1617176272><TERRORIST>" committed suicide with "worldspawn" (world)
+L 12/07/2020 - 15:06:26: World triggered "Round_Start"
+L 12/07/2020 - 15:06:50: "LoreFire<22><STEAM_1:0:66674238><TERRORIST>" attacked "VKkozmanchyn<8><STEAM_1:0:661788320><TERRORIST>" with "ak47" (damage "140") (damage_armor "0") (health "-40") (armor "0")
+L 12/07/2020 - 15:06:50: "LoreFire<22><STEAM_1:0:66674238><TERRORIST>" killed "VKkozmanchyn<8><STEAM_1:0:661788320><TERRORIST>" with "ak47"
+SZ_GetSpace: overflow on ExZtAzZ
+SZ_GetSpace: overflow on ExZtAzZ
+L 12/07/2020 - 15:06:53: "LoreFire<22><STEAM_1:0:66674238><TERRORIST>" attacked "ExZtAzZ<17><STEAM_0:0:506064673><TERRORIST>" with "ak47" (damage "34") (damage_armor "0") (health "66") (armor "0")
+L 12/07/2020 - 15:06:53: "LoreFire<22><STEAM_1:0:66674238><TERRORIST>" attacked "ExZtAzZ<17><STEAM_0:0:506064673><TERRORIST>" with "ak47" (damage "34") (damage_armor "0") (health "32") (armor "0")
+L 12/07/2020 - 15:06:54: "LoreFire<22><STEAM_1:0:66674238><TERRORIST>" attacked "ExZtAzZ<17><STEAM_0:0:506064673><TERRORIST>" with "ak47" (damage "34") (damage_armor "0") (health "-2") (armor "0")
+L 12/07/2020 - 15:06:54: "LoreFire<22><STEAM_1:0:66674238><TERRORIST>" killed "ExZtAzZ<17><STEAM_0:0:506064673><TERRORIST>" with "ak47"
+WARNING: datagram overflowed for ExZtAzZ
+L 12/07/2020 - 15:07:08: "LoreFire<22><STEAM_1:0:66674238><TERRORIST>" attacked "koli 1231<24><STEAM_1:0:1960141105><TERRORIST>" with "ak47" (damage "25") (damage_armor "0") (health "224") (armor "0")
+L 12/07/2020 - 15:07:10: "МиХаЛыЧ4658<28><STEAM_1:0:1525535123><TERRORIST>" attacked "koli 1231<24><STEAM_1:0:1960141105><TERRORIST>" with "ak47" (damage "35") (damage_armor "0") (health "190") (armor "0")
+L 12/07/2020 - 15:07:10: "koli 1231<24><STEAM_1:0:1960141105><TERRORIST>" attacked "МиХаЛыЧ4658<28><STEAM_1:0:1525535123><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "69") (armor "0")
+L 12/07/2020 - 15:07:10: "МиХаЛыЧ4658<28><STEAM_1:0:1525535123><TERRORIST>" attacked "koli 1231<24><STEAM_1:0:1960141105><TERRORIST>" with "ak47" (damage "35") (damage_armor "0") (health "155") (armor "0")
+L 12/07/2020 - 15:07:10: "koli 1231<24><STEAM_1:0:1960141105><TERRORIST>" attacked "МиХаЛыЧ4658<28><STEAM_1:0:1525535123><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "39") (armor "0")
+L 12/07/2020 - 15:07:11: "МиХаЛыЧ4658<28><STEAM_1:0:1525535123><TERRORIST>" attacked "koli 1231<24><STEAM_1:0:1960141105><TERRORIST>" with "ak47" (damage "35") (damage_armor "0") (health "120") (armor "0")
+L 12/07/2020 - 15:07:11: "МиХаЛыЧ4658<28><STEAM_1:0:1525535123><TERRORIST>" attacked "koli 1231<24><STEAM_1:0:1960141105><TERRORIST>" with "ak47" (damage "140") (damage_armor "0") (health "-20") (armor "0")
+L 12/07/2020 - 15:07:11: "МиХаЛыЧ4658<28><STEAM_1:0:1525535123><TERRORIST>" killed "koli 1231<24><STEAM_1:0:1960141105><TERRORIST>" with "ak47"
+L 12/07/2020 - 15:07:12: "LoreFire<22><STEAM_1:0:66674238><TERRORIST>" attacked "МиХаЛыЧ4658<28><STEAM_1:0:1525535123><TERRORIST>" with "ak47" (damage "136") (damage_armor "0") (health "-96") (armor "0")
+L 12/07/2020 - 15:07:12: "LoreFire<22><STEAM_1:0:66674238><TERRORIST>" killed "МиХаЛыЧ4658<28><STEAM_1:0:1525535123><TERRORIST>" with "ak47"
+L 12/07/2020 - 15:07:21: "K0tik_Nar_KOTIK<27><STEAM_1:0:1840528214><TERRORIST>" attacked "LoreFire<22><STEAM_1:0:66674238><TERRORIST>" with "m4a1" (damage "46") (damage_armor "0") (health "53") (armor "0")
+L 12/07/2020 - 15:07:21: "K0tik_Nar_KOTIK<27><STEAM_1:0:1840528214><TERRORIST>" attacked "LoreFire<22><STEAM_1:0:66674238><TERRORIST>" with "m4a1" (damage "47") (damage_armor "0") (health "6") (armor "0")
+L 12/07/2020 - 15:07:21: "K0tik_Nar_KOTIK<27><STEAM_1:0:1840528214><TERRORIST>" attacked "LoreFire<22><STEAM_1:0:66674238><TERRORIST>" with "m4a1" (damage "80") (damage_armor "0") (health "-73") (armor "0")
+L 12/07/2020 - 15:07:21: "K0tik_Nar_KOTIK<27><STEAM_1:0:1840528214><TERRORIST>" killed "LoreFire<22><STEAM_1:0:66674238><TERRORIST>" with "m4a1"
+L 12/07/2020 - 15:07:22: "LoreFire<22><STEAM_1:0:66674238><TERRORIST>" joined team "CT"
+L 12/07/2020 - 15:07:22: World triggered "Game_Commencing"
+L 12/07/2020 - 15:07:22: World triggered "Game_Commencing" (CT "0") (T "0")
+L 12/07/2020 - 15:07:22: World triggered "Round_End"
+L 12/07/2020 - 15:07:24: "LoreFire<22><STEAM_1:0:66674238><CT>" joined team "TERRORIST"
+L 12/07/2020 - 15:07:25: "DeaGLe_pro<10><STEAM_1:0:1617176272><TERRORIST>" committed suicide with "worldspawn" (world)
+L 12/07/2020 - 15:07:25: World triggered "Round_Start"
+L 12/07/2020 - 15:07:33: [plmenu.amxx] Kick: "МиХаЛыЧ4658<28><STEAM_1:0:1525535123><>" kick "LoreFire<22><STEAM_1:0:66674238><>"
+L 12/07/2020 - 15:07:33: Kick: "LoreFire<22><STEAM_1:0:66674238><>" was kicked by "Console"
+L 12/07/2020 - 15:07:33: "LoreFire<22><STEAM_1:0:66674238><TERRORIST>" triggered "weaponstats" (weapon "ak47") (shots "42") (hits "8") (kills "4") (headshots "3") (tks "4") (damage "625") (deaths "2")
+L 12/07/2020 - 15:07:33: "LoreFire<22><STEAM_1:0:66674238><TERRORIST>" triggered "weaponstats2" (weapon "ak47") (head "4") (chest "1") (stomach "0") (leftarm "1") (rightarm "1") (leftleg "1") (rightleg "0")
+L 12/07/2020 - 15:07:33: "LoreFire<22><STEAM_1:0:66674238><TERRORIST>" triggered "weaponstats" (weapon "knife") (shots "2") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "1")
+L 12/07/2020 - 15:07:33: "LoreFire<22><STEAM_1:0:66674238><TERRORIST>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 12/07/2020 - 15:07:33: "LoreFire<22><STEAM_1:0:66674238><TERRORIST>" triggered "time" (time "3:50")
+L 12/07/2020 - 15:07:33: "LoreFire<22><STEAM_1:0:66674238><TERRORIST>" triggered "latency" (ping "56")
+L 12/07/2020 - 15:07:33: "LoreFire<22><STEAM_1:0:66674238><TERRORIST>" disconnected
+L 12/07/2020 - 15:07:55: "K P A C U B O<14><STEAM_1:0:1347502735><TERRORIST>" attacked "ExZtAzZ<17><STEAM_0:0:506064673><TERRORIST>" with "ak47" (damage "35") (damage_armor "0") (health "65") (armor "0")
+L 12/07/2020 - 15:07:56: "K P A C U B O<14><STEAM_1:0:1347502735><TERRORIST>" attacked "ExZtAzZ<17><STEAM_0:0:506064673><TERRORIST>" with "ak47" (damage "35") (damage_armor "0") (health "30") (armor "0")
+L 12/07/2020 - 15:07:56: "K P A C U B O<14><STEAM_1:0:1347502735><TERRORIST>" attacked "ExZtAzZ<17><STEAM_0:0:506064673><TERRORIST>" with "ak47" (damage "35") (damage_armor "0") (health "-5") (armor "0")
+L 12/07/2020 - 15:07:56: "K P A C U B O<14><STEAM_1:0:1347502735><TERRORIST>" killed "ExZtAzZ<17><STEAM_0:0:506064673><TERRORIST>" with "ak47"
+L 12/07/2020 - 15:07:57: "koli 1231<24><STEAM_1:0:1960141105><TERRORIST>" attacked "K0tik_Nar_KOTIK<27><STEAM_1:0:1840528214><TERRORIST>" with "m4a1" (damage "16") (damage_armor "0") (health "234") (armor "0")
+L 12/07/2020 - 15:07:58: "koli 1231<24><STEAM_1:0:1960141105><TERRORIST>" attacked "K0tik_Nar_KOTIK<27><STEAM_1:0:1840528214><TERRORIST>" with "m4a1" (damage "20") (damage_armor "0") (health "214") (armor "0")
+L 12/07/2020 - 15:07:58: "koli 1231<24><STEAM_1:0:1960141105><TERRORIST>" attacked "K0tik_Nar_KOTIK<27><STEAM_1:0:1840528214><TERRORIST>" with "m4a1" (damage "64") (damage_armor "0") (health "150") (armor "0")
+L 12/07/2020 - 15:07:58: "koli 1231<24><STEAM_1:0:1960141105><TERRORIST>" attacked "K0tik_Nar_KOTIK<27><STEAM_1:0:1840528214><TERRORIST>" with "m4a1" (damage "16") (damage_armor "0") (health "134") (armor "0")
+L 12/07/2020 - 15:07:58: "K0tik_Nar_KOTIK<27><STEAM_1:0:1840528214><TERRORIST>" attacked "koli 1231<24><STEAM_1:0:1960141105><TERRORIST>" with "m4a1" (damage "64") (damage_armor "0") (health "36") (armor "0")
+L 12/07/2020 - 15:07:58: "koli 1231<24><STEAM_1:0:1960141105><TERRORIST>" attacked "K0tik_Nar_KOTIK<27><STEAM_1:0:1840528214><TERRORIST>" with "m4a1" (damage "20") (damage_armor "0") (health "114") (armor "0")
+L 12/07/2020 - 15:07:58: "koli 1231<24><STEAM_1:0:1960141105><TERRORIST>" attacked "K0tik_Nar_KOTIK<27><STEAM_1:0:1840528214><TERRORIST>" with "m4a1" (damage "16") (damage_armor "0") (health "98") (armor "0")
+L 12/07/2020 - 15:07:59: "K0tik_Nar_KOTIK<27><STEAM_1:0:1840528214><TERRORIST>" attacked "koli 1231<24><STEAM_1:0:1960141105><TERRORIST>" with "m4a1" (damage "47") (damage_armor "0") (health "-11") (armor "0")
+L 12/07/2020 - 15:07:59: "K0tik_Nar_KOTIK<27><STEAM_1:0:1840528214><TERRORIST>" killed "koli 1231<24><STEAM_1:0:1960141105><TERRORIST>" with "m4a1"
+L 12/07/2020 - 15:08:14: "K P A C U B O<14><STEAM_1:0:1347502735><TERRORIST>" attacked "K0tik_Nar_KOTIK<27><STEAM_1:0:1840528214><TERRORIST>" with "ak47" (damage "17") (damage_armor "0") (health "80") (armor "0")
+L 12/07/2020 - 15:08:14: "K P A C U B O<14><STEAM_1:0:1347502735><TERRORIST>" attacked "K0tik_Nar_KOTIK<27><STEAM_1:0:1840528214><TERRORIST>" with "ak47" (damage "17") (damage_armor "0") (health "63") (armor "0")
+L 12/07/2020 - 15:08:14: "K P A C U B O<14><STEAM_1:0:1347502735><TERRORIST>" attacked "K0tik_Nar_KOTIK<27><STEAM_1:0:1840528214><TERRORIST>" with "ak47" (damage "17") (damage_armor "0") (health "46") (armor "0")
+L 12/07/2020 - 15:08:15: "K P A C U B O<14><STEAM_1:0:1347502735><TERRORIST>" attacked "K0tik_Nar_KOTIK<27><STEAM_1:0:1840528214><TERRORIST>" with "ak47" (damage "17") (damage_armor "0") (health "29") (armor "0")
+L 12/07/2020 - 15:08:15: "K0tik_Nar_KOTIK<27><STEAM_1:0:1840528214><TERRORIST>" attacked "K P A C U B O<14><STEAM_1:0:1347502735><TERRORIST>" with "ak47" (damage "280") (damage_armor "0") (health "-180") (armor "0")
+L 12/07/2020 - 15:08:15: "K0tik_Nar_KOTIK<27><STEAM_1:0:1840528214><TERRORIST>" killed "K P A C U B O<14><STEAM_1:0:1347502735><TERRORIST>" with "ak47"
+L 12/07/2020 - 15:08:17: "МиХаЛыЧ4658<28><STEAM_1:0:1525535123><TERRORIST>" attacked "VKkozmanchyn<8><STEAM_1:0:661788320><TERRORIST>" with "ak47" (damage "26") (damage_armor "0") (health "73") (armor "0")
+L 12/07/2020 - 15:08:17: "МиХаЛыЧ4658<28><STEAM_1:0:1525535123><TERRORIST>" attacked "VKkozmanchyn<8><STEAM_1:0:661788320><TERRORIST>" with "ak47" (damage "26") (damage_armor "0") (health "47") (armor "0")
+L 12/07/2020 - 15:08:17: "МиХаЛыЧ4658<28><STEAM_1:0:1525535123><TERRORIST>" attacked "VKkozmanchyn<8><STEAM_1:0:661788320><TERRORIST>" with "ak47" (damage "35") (damage_armor "0") (health "13") (armor "0")
+L 12/07/2020 - 15:08:18: "МиХаЛыЧ4658<28><STEAM_1:0:1525535123><TERRORIST>" attacked "VKkozmanchyn<8><STEAM_1:0:661788320><TERRORIST>" with "ak47" (damage "26") (damage_armor "0") (health "-13") (armor "0")
+L 12/07/2020 - 15:08:18: "МиХаЛыЧ4658<28><STEAM_1:0:1525535123><TERRORIST>" killed "VKkozmanchyn<8><STEAM_1:0:661788320><TERRORIST>" with "ak47"
+L 12/07/2020 - 15:08:58: "МиХаЛыЧ4658<28><STEAM_1:0:1525535123><TERRORIST>" attacked "K0tik_Nar_KOTIK<27><STEAM_1:0:1840528214><TERRORIST>" with "ak47" (damage "68") (damage_armor "0") (health "-38") (armor "0")
+L 12/07/2020 - 15:08:58: "МиХаЛыЧ4658<28><STEAM_1:0:1525535123><TERRORIST>" killed "K0tik_Nar_KOTIK<27><STEAM_1:0:1840528214><TERRORIST>" with "ak47"
+L 12/07/2020 - 15:09:00: "VKkozmanchyn<8><STEAM_1:0:661788320><TERRORIST>" triggered "weaponstats" (weapon "m4a1") (shots "63") (hits "5") (kills "1") (headshots "0") (tks "1") (damage "118") (deaths "1")
+L 12/07/2020 - 15:09:00: "VKkozmanchyn<8><STEAM_1:0:661788320><TERRORIST>" triggered "weaponstats2" (weapon "m4a1") (head "0") (chest "3") (stomach "0") (leftarm "2") (rightarm "0") (leftleg "0") (rightleg "0")
+L 12/07/2020 - 15:09:00: "VKkozmanchyn<8><STEAM_1:0:661788320><TERRORIST>" triggered "weaponstats" (weapon "ak47") (shots "2") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "1")
+L 12/07/2020 - 15:09:00: "VKkozmanchyn<8><STEAM_1:0:661788320><TERRORIST>" triggered "weaponstats2" (weapon "ak47") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 12/07/2020 - 15:09:00: "VKkozmanchyn<8><STEAM_1:0:661788320><TERRORIST>" triggered "weaponstats" (weapon "knife") (shots "5") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 12/07/2020 - 15:09:00: "VKkozmanchyn<8><STEAM_1:0:661788320><TERRORIST>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 12/07/2020 - 15:09:00: "VKkozmanchyn<8><STEAM_1:0:661788320><TERRORIST>" triggered "time" (time "12:21")
+L 12/07/2020 - 15:09:00: "VKkozmanchyn<8><STEAM_1:0:661788320><TERRORIST>" triggered "latency" (ping "22")
+L 12/07/2020 - 15:09:00: "VKkozmanchyn<8><STEAM_1:0:661788320><TERRORIST>" disconnected
+L 12/07/2020 - 15:09:40: "DeaGLe_pro<10><STEAM_1:0:1617176272><TERRORIST>" attacked "МиХаЛыЧ4658<28><STEAM_1:0:1525535123><TERRORIST>" with "m4a1" (damage "21") (damage_armor "0") (health "195") (armor "0")
+L 12/07/2020 - 15:09:40: "DeaGLe_pro<10><STEAM_1:0:1617176272><TERRORIST>" attacked "МиХаЛыЧ4658<28><STEAM_1:0:1525535123><TERRORIST>" with "m4a1" (damage "21") (damage_armor "0") (health "174") (armor "0")
+L 12/07/2020 - 15:09:44: "МиХаЛыЧ4658<28><STEAM_1:0:1525535123><TERRORIST>" attacked "DeaGLe_pro<10><STEAM_1:0:1617176272><TERRORIST>" with "ak47" (damage "16") (damage_armor "0") (health "84") (armor "0")
+L 12/07/2020 - 15:09:45: "МиХаЛыЧ4658<28><STEAM_1:0:1525535123><TERRORIST>" attacked "DeaGLe_pro<10><STEAM_1:0:1617176272><TERRORIST>" with "ak47" (damage "11") (damage_armor "0") (health "72") (armor "0")
+L 12/07/2020 - 15:09:46: "МиХаЛыЧ4658<28><STEAM_1:0:1525535123><TERRORIST>" attacked "DeaGLe_pro<10><STEAM_1:0:1617176272><TERRORIST>" with "ak47" (damage "11") (damage_armor "0") (health "61") (armor "0")
+L 12/07/2020 - 15:09:46: "МиХаЛыЧ4658<28><STEAM_1:0:1525535123><TERRORIST>" attacked "DeaGLe_pro<10><STEAM_1:0:1617176272><TERRORIST>" with "ak47" (damage "35") (damage_armor "0") (health "27") (armor "0")
+L 12/07/2020 - 15:09:46: "DeaGLe_pro<10><STEAM_1:0:1617176272><TERRORIST>" attacked "МиХаЛыЧ4658<28><STEAM_1:0:1525535123><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "144") (armor "0")
+L 12/07/2020 - 15:09:47: "МиХаЛыЧ4658<28><STEAM_1:0:1525535123><TERRORIST>" attacked "DeaGLe_pro<10><STEAM_1:0:1617176272><TERRORIST>" with "ak47" (damage "43") (damage_armor "0") (health "-16") (armor "0")
+L 12/07/2020 - 15:09:47: "МиХаЛыЧ4658<28><STEAM_1:0:1525535123><TERRORIST>" killed "DeaGLe_pro<10><STEAM_1:0:1617176272><TERRORIST>" with "ak47"
+L 12/07/2020 - 15:09:49: "МиХаЛыЧ4658<28><STEAM_1:0:1525535123><TERRORIST>" committed suicide with "world"
+L 12/07/2020 - 15:09:49: World triggered "Round_Draw" (CT "0") (T "0")
+L 12/07/2020 - 15:09:49: World triggered "Round_End"
+L 12/07/2020 - 15:09:54: World triggered "Round_Start"
+L 12/07/2020 - 15:10:05: "K P A C U B O<14><STEAM_1:0:1347502735><TERRORIST>" committed suicide with "worldspawn" (world)
+L 12/07/2020 - 15:10:22: "K P A C U B O<14><STEAM_1:0:1347502735><TERRORIST>" joined team "CT"
+L 12/07/2020 - 15:10:22: World triggered "Game_Commencing"
+L 12/07/2020 - 15:10:22: World triggered "Game_Commencing" (CT "0") (T "0")
+L 12/07/2020 - 15:10:22: World triggered "Round_End"
+L 12/07/2020 - 15:10:24: "K P A C U B O<14><STEAM_1:0:1347502735><CT>" joined team "TERRORIST"
+L 12/07/2020 - 15:10:24: "DeaGLe_pro<10><STEAM_1:0:1617176272><TERRORIST>" committed suicide with "worldspawn" (world)
+L 12/07/2020 - 15:10:25: World triggered "Round_Start"
+L 12/07/2020 - 15:10:47: "K0tik_Nar_KOTIK<27><STEAM_1:0:1840528214><TERRORIST>" attacked "koli 1231<24><STEAM_1:0:1960141105><TERRORIST>" with "m4a1" (damage "64") (damage_armor "0") (health "186") (armor "0")
+L 12/07/2020 - 15:10:47: "K0tik_Nar_KOTIK<27><STEAM_1:0:1840528214><TERRORIST>" attacked "koli 1231<24><STEAM_1:0:1960141105><TERRORIST>" with "m4a1" (damage "64") (damage_armor "0") (health "122") (armor "0")
+L 12/07/2020 - 15:10:47: "K0tik_Nar_KOTIK<27><STEAM_1:0:1840528214><TERRORIST>" attacked "koli 1231<24><STEAM_1:0:1960141105><TERRORIST>" with "m4a1" (damage "64") (damage_armor "0") (health "58") (armor "0")
+L 12/07/2020 - 15:10:48: "K0tik_Nar_KOTIK<27><STEAM_1:0:1840528214><TERRORIST>" attacked "koli 1231<24><STEAM_1:0:1960141105><TERRORIST>" with "m4a1" (damage "47") (damage_armor "0") (health "10") (armor "0")
+L 12/07/2020 - 15:10:49: [plmenu.amxx] Kick: "МиХаЛыЧ4658<28><STEAM_1:0:1525535123><>" kick "K P A C U B O<14><STEAM_1:0:1347502735><>"
+L 12/07/2020 - 15:10:49: Kick: "K P A C U B O<14><STEAM_1:0:1347502735><>" was kicked by "Console"
+L 12/07/2020 - 15:10:49: "K P A C U B O<14><STEAM_1:0:1347502735><TERRORIST>" triggered "weaponstats" (weapon "m4a1") (shots "16") (hits "2") (kills "0") (headshots "0") (tks "0") (damage "64") (deaths "1")
+L 12/07/2020 - 15:10:49: "K P A C U B O<14><STEAM_1:0:1347502735><TERRORIST>" triggered "weaponstats2" (weapon "m4a1") (head "0") (chest "1") (stomach "0") (leftarm "1") (rightarm "0") (leftleg "0") (rightleg "0")
+L 12/07/2020 - 15:10:49: "K P A C U B O<14><STEAM_1:0:1347502735><TERRORIST>" triggered "weaponstats" (weapon "ak47") (shots "37") (hits "7") (kills "1") (headshots "1") (tks "1") (damage "173") (deaths "1")
+L 12/07/2020 - 15:10:49: "K P A C U B O<14><STEAM_1:0:1347502735><TERRORIST>" triggered "weaponstats2" (weapon "ak47") (head "3") (chest "2") (stomach "0") (leftarm "2") (rightarm "0") (leftleg "0") (rightleg "0")
+L 12/07/2020 - 15:10:49: "K P A C U B O<14><STEAM_1:0:1347502735><TERRORIST>" triggered "weaponstats" (weapon "knife") (shots "4") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "1")
+L 12/07/2020 - 15:10:49: "K P A C U B O<14><STEAM_1:0:1347502735><TERRORIST>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 12/07/2020 - 15:10:49: "K P A C U B O<14><STEAM_1:0:1347502735><TERRORIST>" triggered "time" (time "14:40")
+L 12/07/2020 - 15:10:49: "K P A C U B O<14><STEAM_1:0:1347502735><TERRORIST>" triggered "latency" (ping "30")
+L 12/07/2020 - 15:10:49: "K P A C U B O<14><STEAM_1:0:1347502735><TERRORIST>" disconnected
+L 12/07/2020 - 15:10:49: "K0tik_Nar_KOTIK<27><STEAM_1:0:1840528214><TERRORIST>" attacked "koli 1231<24><STEAM_1:0:1960141105><TERRORIST>" with "m4a1" (damage "45") (damage_armor "0") (health "-34") (armor "0")
+L 12/07/2020 - 15:10:49: "K0tik_Nar_KOTIK<27><STEAM_1:0:1840528214><TERRORIST>" killed "koli 1231<24><STEAM_1:0:1960141105><TERRORIST>" with "m4a1"
+188.244.134.165:32911:reconnect
+L 12/07/2020 - 15:10:52: "K P A C U B O<29><STEAM_1:0:1347502735><>" connected, address "188.244.134.165:32911"
+L 12/07/2020 - 15:10:55: "K P A C U B O<29><STEAM_1:0:1347502735><>" entered the game
+L 12/07/2020 - 15:10:56: "K P A C U B O<29><STEAM_1:0:1347502735><>" joined team "TERRORIST"
+L 12/07/2020 - 15:11:05: "koli 1231<24><STEAM_1:0:1960141105><TERRORIST>" triggered "weaponstats" (weapon "m4a1") (shots "63") (hits "20") (kills "2") (headshots "1") (tks "2") (damage "468") (deaths "3")
+L 12/07/2020 - 15:11:05: "koli 1231<24><STEAM_1:0:1960141105><TERRORIST>" triggered "weaponstats2" (weapon "m4a1") (head "5") (chest "1") (stomach "5") (leftarm "5") (rightarm "4") (leftleg "0") (rightleg "0")
+L 12/07/2020 - 15:11:05: "koli 1231<24><STEAM_1:0:1960141105><TERRORIST>" triggered "weaponstats" (weapon "ak47") (shots "1") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 12/07/2020 - 15:11:05: "koli 1231<24><STEAM_1:0:1960141105><TERRORIST>" triggered "weaponstats2" (weapon "ak47") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 12/07/2020 - 15:11:05: "koli 1231<24><STEAM_1:0:1960141105><TERRORIST>" triggered "weaponstats" (weapon "knife") (shots "7") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 12/07/2020 - 15:11:05: "koli 1231<24><STEAM_1:0:1960141105><TERRORIST>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 12/07/2020 - 15:11:05: "koli 1231<24><STEAM_1:0:1960141105><TERRORIST>" triggered "time" (time "6:37")
+L 12/07/2020 - 15:11:05: "koli 1231<24><STEAM_1:0:1960141105><TERRORIST>" triggered "latency" (ping "60")
+L 12/07/2020 - 15:11:05: "koli 1231<24><STEAM_1:0:1960141105><TERRORIST>" disconnected
+L 12/07/2020 - 15:11:14: "KNIGA S IGRAMI<30><STEAM_1:0:2139325993><>" connected, address "5.59.43.30:27005"
+5.59.43.30:27005:reconnect
+L 12/07/2020 - 15:11:19: "KNIGA S IGRAMI<31><STEAM_1:0:2139325993><>" connected, address "5.59.43.30:27005"
+L 12/07/2020 - 15:11:19: "ExZtAzZ<17><STEAM_0:0:506064673><TERRORIST>" attacked "МиХаЛыЧ4658<28><STEAM_1:0:1525535123><TERRORIST>" with "m4a1" (damage "32") (damage_armor "0") (health "68") (armor "0")
+L 12/07/2020 - 15:11:19: "ExZtAzZ<17><STEAM_0:0:506064673><TERRORIST>" attacked "МиХаЛыЧ4658<28><STEAM_1:0:1525535123><TERRORIST>" with "m4a1" (damage "128") (damage_armor "0") (health "-60") (armor "0")
+L 12/07/2020 - 15:11:19: "ExZtAzZ<17><STEAM_0:0:506064673><TERRORIST>" killed "МиХаЛыЧ4658<28><STEAM_1:0:1525535123><TERRORIST>" with "m4a1"
+L 12/07/2020 - 15:11:32: "KNIGA S IGRAMI<31><STEAM_1:0:2139325993><>" entered the game
+L 12/07/2020 - 15:11:34: "KNIGA S IGRAMI<31><STEAM_1:0:2139325993><>" joined team "CT"
+L 12/07/2020 - 15:11:34: World triggered "Game_Commencing"
+L 12/07/2020 - 15:11:34: World triggered "Game_Commencing" (CT "0") (T "0")
+L 12/07/2020 - 15:11:34: World triggered "Round_End"
+L 12/07/2020 - 15:11:36: "DeaGLe_pro<10><STEAM_1:0:1617176272><TERRORIST>" committed suicide with "worldspawn" (world)
+L 12/07/2020 - 15:11:37: World triggered "Round_Start"
+L 12/07/2020 - 15:12:01: "DeaGLe_pro<10><STEAM_1:0:1617176272><TERRORIST>" attacked "KNIGA S IGRAMI<31><STEAM_1:0:2139325993><CT>" with "knife" (damage "65") (damage_armor "0") (health "435") (armor "350")
+L 12/07/2020 - 15:12:15: "михалыч987548<32><STEAM_1:0:1500364440><>" connected, address "37.113.164.8:5447"
+37.113.164.8:5447:reconnect
+L 12/07/2020 - 15:12:18: "михалыч987548<33><STEAM_1:0:1500364440><>" connected, address "37.113.164.8:5447"
+L 12/07/2020 - 15:12:28: "михалыч987548<33><STEAM_1:0:1500364440><>" entered the game
+L 12/07/2020 - 15:12:33: "K0tik_Nar_KOTIK<27><STEAM_1:0:1840528214><TERRORIST>" attacked "KNIGA S IGRAMI<31><STEAM_1:0:2139325993><CT>" with "m4a1" (damage "124") (damage_armor "0") (health "311") (armor "350")
+L 12/07/2020 - 15:12:33: "K0tik_Nar_KOTIK<27><STEAM_1:0:1840528214><TERRORIST>" attacked "KNIGA S IGRAMI<31><STEAM_1:0:2139325993><CT>" with "m4a1" (damage "124") (damage_armor "0") (health "187") (armor "350")
+L 12/07/2020 - 15:12:33: "K0tik_Nar_KOTIK<27><STEAM_1:0:1840528214><TERRORIST>" attacked "KNIGA S IGRAMI<31><STEAM_1:0:2139325993><CT>" with "m4a1" (damage "124") (damage_armor "0") (health "63") (armor "350")
+L 12/07/2020 - 15:12:33: "K0tik_Nar_KOTIK<27><STEAM_1:0:1840528214><TERRORIST>" attacked "KNIGA S IGRAMI<31><STEAM_1:0:2139325993><CT>" with "m4a1" (damage "124") (damage_armor "0") (health "-61") (armor "350")
+L 12/07/2020 - 15:12:33: "K0tik_Nar_KOTIK<27><STEAM_1:0:1840528214><TERRORIST>" killed "KNIGA S IGRAMI<31><STEAM_1:0:2139325993><CT>" with "m4a1"
+L 12/07/2020 - 15:12:33: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "1")
+L 12/07/2020 - 15:12:33: World triggered "Round_End"
+L 12/07/2020 - 15:12:34: "михалыч987548<33><STEAM_1:0:1500364440><>" joined team "TERRORIST"
+L 12/07/2020 - 15:12:38: World triggered "Round_Start"
+L 12/07/2020 - 15:12:45: [plmenu.amxx] Cmd: "ExZtAzZ<17><STEAM_0:0:506064673><>" transfer "KNIGA S IGRAMI<31><STEAM_1:0:2139325993><>" (team "Ментов")
+L 12/07/2020 - 15:12:45: "KNIGA S IGRAMI<31><STEAM_1:0:2139325993><CT>" committed suicide with "world"
+L 12/07/2020 - 15:12:45: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "2")
+L 12/07/2020 - 15:12:45: World triggered "Round_End"
+L 12/07/2020 - 15:12:45: "KNIGA S IGRAMI<31><STEAM_1:0:2139325993><CT>" joined team "TERRORIST"
+L 12/07/2020 - 15:12:48: "DeaGLe_pro<10><STEAM_1:0:1617176272><TERRORIST>" committed suicide with "worldspawn" (world)
+L 12/07/2020 - 15:12:50: World triggered "Round_Start"
+L 12/07/2020 - 15:12:53: "K P A C U B O<29><STEAM_1:0:1347502735><TERRORIST>" committed suicide with "worldspawn" (world)
+L 12/07/2020 - 15:13:04: "DeaGLe_pro<10><STEAM_1:0:1617176272><TERRORIST>" triggered "weaponstats" (weapon "m4a1") (shots "21") (hits "3") (kills "0") (headshots "0") (tks "0") (damage "72") (deaths "1")
+L 12/07/2020 - 15:13:04: "DeaGLe_pro<10><STEAM_1:0:1617176272><TERRORIST>" triggered "weaponstats2" (weapon "m4a1") (head "0") (chest "0") (stomach "0") (leftarm "1") (rightarm "0") (leftleg "2") (rightleg "0")
+L 12/07/2020 - 15:13:04: "DeaGLe_pro<10><STEAM_1:0:1617176272><TERRORIST>" triggered "weaponstats" (weapon "deagle") (shots "3") (hits "2") (kills "1") (headshots "1") (tks "0") (damage "416") (deaths "0")
+L 12/07/2020 - 15:13:04: "DeaGLe_pro<10><STEAM_1:0:1617176272><TERRORIST>" triggered "weaponstats2" (weapon "deagle") (head "2") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 12/07/2020 - 15:13:04: "DeaGLe_pro<10><STEAM_1:0:1617176272><TERRORIST>" triggered "weaponstats" (weapon "ak47") (shots "50") (hits "1") (kills "1") (headshots "1") (tks "0") (damage "108") (deaths "0")
+L 12/07/2020 - 15:13:04: "DeaGLe_pro<10><STEAM_1:0:1617176272><TERRORIST>" triggered "weaponstats2" (weapon "ak47") (head "1") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 12/07/2020 - 15:13:04: "DeaGLe_pro<10><STEAM_1:0:1617176272><TERRORIST>" triggered "weaponstats" (weapon "knife") (shots "19") (hits "1") (kills "0") (headshots "0") (tks "0") (damage "65") (deaths "1")
+L 12/07/2020 - 15:13:04: "DeaGLe_pro<10><STEAM_1:0:1617176272><TERRORIST>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "1") (rightarm "0") (leftleg "0") (rightleg "0")
+L 12/07/2020 - 15:13:04: "DeaGLe_pro<10><STEAM_1:0:1617176272><TERRORIST>" triggered "time" (time "21:36")
+L 12/07/2020 - 15:13:04: "DeaGLe_pro<10><STEAM_1:0:1617176272><TERRORIST>" triggered "latency" (ping "59")
+L 12/07/2020 - 15:13:04: "DeaGLe_pro<10><STEAM_1:0:1617176272><TERRORIST>" disconnected
+L 12/07/2020 - 15:13:14: "K0tik_Nar_KOTIK<27><STEAM_1:0:1840528214><TERRORIST>" attacked "KNIGA S IGRAMI<31><STEAM_1:0:2139325993><TERRORIST>" with "m4a1" (damage "61") (damage_armor "0") (health "38") (armor "0")
+L 12/07/2020 - 15:13:14: "K0tik_Nar_KOTIK<27><STEAM_1:0:1840528214><TERRORIST>" attacked "KNIGA S IGRAMI<31><STEAM_1:0:2139325993><TERRORIST>" with "m4a1" (damage "61") (damage_armor "0") (health "-22") (armor "0")
+L 12/07/2020 - 15:13:14: "K0tik_Nar_KOTIK<27><STEAM_1:0:1840528214><TERRORIST>" killed "KNIGA S IGRAMI<31><STEAM_1:0:2139325993><TERRORIST>" with "m4a1"
+L 12/07/2020 - 15:13:30: "K0tik_Nar_KOTIK<27><STEAM_1:0:1840528214><TERRORIST>" attacked "МиХаЛыЧ4658<28><STEAM_1:0:1525535123><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "920") (armor "2100")
+L 12/07/2020 - 15:13:30: "K0tik_Nar_KOTIK<27><STEAM_1:0:1840528214><TERRORIST>" attacked "МиХаЛыЧ4658<28><STEAM_1:0:1525535123><TERRORIST>" with "m4a1" (damage "30") (damage_armor "0") (health "890") (armor "2100")
+L 12/07/2020 - 15:13:30: "МиХаЛыЧ4658<28><STEAM_1:0:1525535123><TERRORIST>" attacked "K0tik_Nar_KOTIK<27><STEAM_1:0:1840528214><TERRORIST>" with "ak47" (damage "27") (damage_armor "3") (health "222") (armor "96")
+L 12/07/2020 - 15:13:31: "K0tik_Nar_KOTIK<27><STEAM_1:0:1840528214><TERRORIST>" attacked "МиХаЛыЧ4658<28><STEAM_1:0:1525535123><TERRORIST>" with "m4a1" (damage "61") (damage_armor "0") (health "828") (armor "2100")
+L 12/07/2020 - 15:13:31: "K0tik_Nar_KOTIK<27><STEAM_1:0:1840528214><TERRORIST>" attacked "МиХаЛыЧ4658<28><STEAM_1:0:1525535123><TERRORIST>" with "m4a1" (damage "46") (damage_armor "0") (health "782") (armor "2100")
+L 12/07/2020 - 15:13:31: "МиХаЛыЧ4658<28><STEAM_1:0:1525535123><TERRORIST>" attacked "K0tik_Nar_KOTIK<27><STEAM_1:0:1840528214><TERRORIST>" with "ak47" (damage "27") (damage_armor "3") (health "195") (armor "92")
+L 12/07/2020 - 15:13:31: "K0tik_Nar_KOTIK<27><STEAM_1:0:1840528214><TERRORIST>" attacked "МиХаЛыЧ4658<28><STEAM_1:0:1525535123><TERRORIST>" with "m4a1" (damage "61") (damage_armor "0") (health "721") (armor "2100")
+L 12/07/2020 - 15:13:31: "K0tik_Nar_KOTIK<27><STEAM_1:0:1840528214><TERRORIST>" attacked "МиХаЛыЧ4658<28><STEAM_1:0:1525535123><TERRORIST>" with "m4a1" (damage "61") (damage_armor "0") (health "660") (armor "2100")
+L 12/07/2020 - 15:13:31: "K0tik_Nar_KOTIK<27><STEAM_1:0:1840528214><TERRORIST>" attacked "МиХаЛыЧ4658<28><STEAM_1:0:1525535123><TERRORIST>" with "m4a1" (damage "247") (damage_armor "0") (health "413") (armor "2100")
+L 12/07/2020 - 15:13:33: "KNIGA S IGRAMI<31><STEAM_1:0:2139325993><TERRORIST>" triggered "weaponstats" (weapon "m4a1") (shots "7") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "1")
+L 12/07/2020 - 15:13:33: "KNIGA S IGRAMI<31><STEAM_1:0:2139325993><TERRORIST>" triggered "weaponstats2" (weapon "m4a1") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 12/07/2020 - 15:13:33: "KNIGA S IGRAMI<31><STEAM_1:0:2139325993><TERRORIST>" triggered "weaponstats" (weapon "knife") (shots "2") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "1")
+L 12/07/2020 - 15:13:33: "KNIGA S IGRAMI<31><STEAM_1:0:2139325993><TERRORIST>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 12/07/2020 - 15:13:33: "KNIGA S IGRAMI<31><STEAM_1:0:2139325993><TERRORIST>" triggered "time" (time "2:00")
+L 12/07/2020 - 15:13:33: "KNIGA S IGRAMI<31><STEAM_1:0:2139325993><TERRORIST>" triggered "latency" (ping "77")
+L 12/07/2020 - 15:13:33: "KNIGA S IGRAMI<31><STEAM_1:0:2139325993><TERRORIST>" disconnected
+L 12/07/2020 - 15:13:33: "K0tik_Nar_KOTIK<27><STEAM_1:0:1840528214><TERRORIST>" attacked "МиХаЛыЧ4658<28><STEAM_1:0:1525535123><TERRORIST>" with "deagle" (damage "88") (damage_armor "0") (health "326") (armor "2100")
+L 12/07/2020 - 15:13:33: "K0tik_Nar_KOTIK<27><STEAM_1:0:1840528214><TERRORIST>" attacked "МиХаЛыЧ4658<28><STEAM_1:0:1525535123><TERRORIST>" with "deagle" (damage "88") (damage_armor "0") (health "238") (armor "2100")
+L 12/07/2020 - 15:13:36: "K0tik_Nar_KOTIK<27><STEAM_1:0:1840528214><TERRORIST>" attacked "МиХаЛыЧ4658<28><STEAM_1:0:1525535123><TERRORIST>" with "ak47" (damage "70") (damage_armor "0") (health "168") (armor "2100")
+L 12/07/2020 - 15:13:36: "K0tik_Nar_KOTIK<27><STEAM_1:0:1840528214><TERRORIST>" attacked "МиХаЛыЧ4658<28><STEAM_1:0:1525535123><TERRORIST>" with "ak47" (damage "52") (damage_armor "0") (health "115") (armor "2100")
+L 12/07/2020 - 15:13:37: "МиХаЛыЧ4658<28><STEAM_1:0:1525535123><TERRORIST>" attacked "K0tik_Nar_KOTIK<27><STEAM_1:0:1840528214><TERRORIST>" with "m4a1" (damage "23") (damage_armor "0") (health "172") (armor "92")
+L 12/07/2020 - 15:13:37: "МиХаЛыЧ4658<28><STEAM_1:0:1525535123><TERRORIST>" attacked "K0tik_Nar_KOTIK<27><STEAM_1:0:1840528214><TERRORIST>" with "m4a1" (damage "21") (damage_armor "4") (health "151") (armor "87")
+L 12/07/2020 - 15:13:37: "МиХаЛыЧ4658<28><STEAM_1:0:1525535123><TERRORIST>" attacked "K0tik_Nar_KOTIK<27><STEAM_1:0:1840528214><TERRORIST>" with "m4a1" (damage "23") (damage_armor "0") (health "128") (armor "87")
+L 12/07/2020 - 15:13:37: "МиХаЛыЧ4658<28><STEAM_1:0:1525535123><TERRORIST>" attacked "K0tik_Nar_KOTIK<27><STEAM_1:0:1840528214><TERRORIST>" with "m4a1" (damage "23") (damage_armor "0") (health "105") (armor "87")
+L 12/07/2020 - 15:13:37: "МиХаЛыЧ4658<28><STEAM_1:0:1525535123><TERRORIST>" attacked "K0tik_Nar_KOTIK<27><STEAM_1:0:1840528214><TERRORIST>" with "m4a1" (damage "23") (damage_armor "0") (health "82") (armor "87")
+L 12/07/2020 - 15:13:37: "МиХаЛыЧ4658<28><STEAM_1:0:1525535123><TERRORIST>" attacked "K0tik_Nar_KOTIK<27><STEAM_1:0:1840528214><TERRORIST>" with "m4a1" (damage "23") (damage_armor "0") (health "59") (armor "87")
+L 12/07/2020 - 15:13:37: "K0tik_Nar_KOTIK<27><STEAM_1:0:1840528214><TERRORIST>" attacked "МиХаЛыЧ4658<28><STEAM_1:0:1525535123><TERRORIST>" with "ak47" (damage "52") (damage_armor "0") (health "63") (armor "2100")
+L 12/07/2020 - 15:13:37: "МиХаЛыЧ4658<28><STEAM_1:0:1525535123><TERRORIST>" attacked "K0tik_Nar_KOTIK<27><STEAM_1:0:1840528214><TERRORIST>" with "m4a1" (damage "23") (damage_armor "0") (health "36") (armor "87")
+L 12/07/2020 - 15:13:37: "K0tik_Nar_KOTIK<27><STEAM_1:0:1840528214><TERRORIST>" attacked "МиХаЛыЧ4658<28><STEAM_1:0:1525535123><TERRORIST>" with "ak47" (damage "70") (damage_armor "0") (health "-6") (armor "2100")
+L 12/07/2020 - 15:13:37: "K0tik_Nar_KOTIK<27><STEAM_1:0:1840528214><TERRORIST>" killed "МиХаЛыЧ4658<28><STEAM_1:0:1525535123><TERRORIST>" with "ak47"
+L 12/07/2020 - 15:13:51: "Kpoluk<34><STEAM_1:0:866982422><>" connected, address "94.78.204.40:27005"
+L 12/07/2020 - 15:13:52: "МиХаЛыЧ4658<28><STEAM_1:0:1525535123><TERRORIST>" triggered "weaponstats" (weapon "m4a1") (shots "12") (hits "7") (kills "0") (headshots "0") (tks "0") (damage "159") (deaths "1")
+L 12/07/2020 - 15:13:52: "МиХаЛыЧ4658<28><STEAM_1:0:1525535123><TERRORIST>" triggered "weaponstats2" (weapon "m4a1") (head "0") (chest "0") (stomach "0") (leftarm "1") (rightarm "0") (leftleg "1") (rightleg "5")
+L 12/07/2020 - 15:13:52: "МиХаЛыЧ4658<28><STEAM_1:0:1525535123><TERRORIST>" triggered "weaponstats" (weapon "deagle") (shots "7") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 12/07/2020 - 15:13:52: "МиХаЛыЧ4658<28><STEAM_1:0:1525535123><TERRORIST>" triggered "weaponstats2" (weapon "deagle") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 12/07/2020 - 15:13:52: "МиХаЛыЧ4658<28><STEAM_1:0:1525535123><TERRORIST>" triggered "weaponstats" (weapon "ak47") (shots "101") (hits "16") (kills "4") (headshots "2") (tks "4") (damage "596") (deaths "3")
+L 12/07/2020 - 15:13:52: "МиХаЛыЧ4658<28><STEAM_1:0:1525535123><TERRORIST>" triggered "weaponstats2" (weapon "ak47") (head "2") (chest "1") (stomach "1") (leftarm "5") (rightarm "2") (leftleg "3") (rightleg "2")
+L 12/07/2020 - 15:13:52: "МиХаЛыЧ4658<28><STEAM_1:0:1525535123><TERRORIST>" triggered "weaponstats" (weapon "knife") (shots "1") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 12/07/2020 - 15:13:52: "МиХаЛыЧ4658<28><STEAM_1:0:1525535123><TERRORIST>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 12/07/2020 - 15:13:52: "МиХаЛыЧ4658<28><STEAM_1:0:1525535123><TERRORIST>" triggered "time" (time "8:59")
+L 12/07/2020 - 15:13:52: "МиХаЛыЧ4658<28><STEAM_1:0:1525535123><TERRORIST>" triggered "latency" (ping "74")
+L 12/07/2020 - 15:13:52: "МиХаЛыЧ4658<28><STEAM_1:0:1525535123><TERRORIST>" disconnected
+94.78.204.40:27005:reconnect
+L 12/07/2020 - 15:13:54: "Kpoluk<35><STEAM_1:0:866982422><>" connected, address "94.78.204.40:27005"
+L 12/07/2020 - 15:14:05: "Kpoluk<35><STEAM_1:0:866982422><>" entered the game
+L 12/07/2020 - 15:14:14: "Kpoluk<35><STEAM_1:0:866982422><>" joined team "TERRORIST"
+L 12/07/2020 - 15:14:16: "михалыч987548<33><STEAM_1:0:1500364440><TERRORIST>" attacked "K0tik_Nar_KOTIK<27><STEAM_1:0:1840528214><TERRORIST>" with "ak47" (damage "13") (damage_armor "0") (health "23") (armor "87")
+L 12/07/2020 - 15:14:16: "михалыч987548<33><STEAM_1:0:1500364440><TERRORIST>" attacked "K0tik_Nar_KOTIK<27><STEAM_1:0:1840528214><TERRORIST>" with "ak47" (damage "16") (damage_armor "1") (health "7") (armor "85")
+L 12/07/2020 - 15:14:16: "михалыч987548<33><STEAM_1:0:1500364440><TERRORIST>" attacked "K0tik_Nar_KOTIK<27><STEAM_1:0:1840528214><TERRORIST>" with "ak47" (damage "16") (damage_armor "2") (health "-8") (armor "82")
+L 12/07/2020 - 15:14:16: "михалыч987548<33><STEAM_1:0:1500364440><TERRORIST>" killed "K0tik_Nar_KOTIK<27><STEAM_1:0:1840528214><TERRORIST>" with "ak47"
+L 12/07/2020 - 15:14:28: "Kpoluk<35><STEAM_1:0:866982422><TERRORIST>" joined team "CT"
+L 12/07/2020 - 15:14:28: World triggered "Game_Commencing"
+L 12/07/2020 - 15:14:28: World triggered "Game_Commencing" (CT "0") (T "2")
+L 12/07/2020 - 15:14:28: World triggered "Round_End"
+L 12/07/2020 - 15:14:30: "Kpoluk<35><STEAM_1:0:866982422><CT>" joined team "TERRORIST"
+L 12/07/2020 - 15:14:31: World triggered "Round_Start"
+L 12/07/2020 - 15:15:31: "Kpoluk<35><STEAM_1:0:866982422><TERRORIST>" attacked "K P A C U B O<29><STEAM_1:0:1347502735><TERRORIST>" with "m4a1" (damage "32") (damage_armor "0") (health "68") (armor "0")
+L 12/07/2020 - 15:15:34: "Kpoluk<35><STEAM_1:0:866982422><TERRORIST>" attacked "K P A C U B O<29><STEAM_1:0:1347502735><TERRORIST>" with "m4a1" (damage "37") (damage_armor "0") (health "30") (armor "0")
+L 12/07/2020 - 15:15:35: "K0tik_Nar_KOTIK<27><STEAM_1:0:1840528214><TERRORIST>" attacked "K P A C U B O<29><STEAM_1:0:1347502735><TERRORIST>" with "m4a1" (damage "64") (damage_armor "0") (health "-33") (armor "0")
+L 12/07/2020 - 15:15:35: "K0tik_Nar_KOTIK<27><STEAM_1:0:1840528214><TERRORIST>" killed "K P A C U B O<29><STEAM_1:0:1347502735><TERRORIST>" with "m4a1"
+L 12/07/2020 - 15:15:44: "K0tik_Nar_KOTIK<27><STEAM_1:0:1840528214><TERRORIST>" attacked "Kpoluk<35><STEAM_1:0:866982422><TERRORIST>" with "ak47" (damage "70") (damage_armor "0") (health "7") (armor "0")
+L 12/07/2020 - 15:15:44: "Kpoluk<35><STEAM_1:0:866982422><TERRORIST>" attacked "K0tik_Nar_KOTIK<27><STEAM_1:0:1840528214><TERRORIST>" with "m4a1" (damage "11") (damage_armor "2") (health "237") (armor "97")
+L 12/07/2020 - 15:15:45: "K0tik_Nar_KOTIK<27><STEAM_1:0:1840528214><TERRORIST>" attacked "Kpoluk<35><STEAM_1:0:866982422><TERRORIST>" with "ak47" (damage "280") (damage_armor "0") (health "-273") (armor "0")
+L 12/07/2020 - 15:15:45: "K0tik_Nar_KOTIK<27><STEAM_1:0:1840528214><TERRORIST>" killed "Kpoluk<35><STEAM_1:0:866982422><TERRORIST>" with "ak47"
+L 12/07/2020 - 15:16:07: "K0tik_Nar_KOTIK<27><STEAM_1:0:1840528214><TERRORIST>" attacked "ExZtAzZ<17><STEAM_0:0:506064673><TERRORIST>" with "m4a1" (damage "64") (damage_armor "0") (health "36") (armor "0")
+L 12/07/2020 - 15:16:07: "K0tik_Nar_KOTIK<27><STEAM_1:0:1840528214><TERRORIST>" attacked "ExZtAzZ<17><STEAM_0:0:506064673><TERRORIST>" with "m4a1" (damage "64") (damage_armor "0") (health "-28") (armor "0")
+L 12/07/2020 - 15:16:07: "K0tik_Nar_KOTIK<27><STEAM_1:0:1840528214><TERRORIST>" killed "ExZtAzZ<17><STEAM_0:0:506064673><TERRORIST>" with "m4a1"
+L 12/07/2020 - 15:17:05: "Kpoluk<35><STEAM_1:0:866982422><TERRORIST>" joined team "CT"
+L 12/07/2020 - 15:17:05: World triggered "Game_Commencing"
+L 12/07/2020 - 15:17:05: World triggered "Game_Commencing" (CT "0") (T "0")
+L 12/07/2020 - 15:17:05: World triggered "Round_End"
+L 12/07/2020 - 15:17:06: "Nesquik<36><STEAM_1:0:201390745><>" connected, address "212.119.233.62:42708"
+L 12/07/2020 - 15:17:06: "Kpoluk<35><STEAM_1:0:866982422><CT>" joined team "TERRORIST"
+L 12/07/2020 - 15:17:08: World triggered "Round_Start"
+212.119.233.62:42708:reconnect
+L 12/07/2020 - 15:17:09: "Nesquik<37><STEAM_1:0:201390745><>" connected, address "212.119.233.62:42708"
+L 12/07/2020 - 15:17:21: "koli 1231<38><STEAM_1:0:1960141105><>" connected, address "83.220.227.37:16181"
+L 12/07/2020 - 15:17:22: [admin_loader_for_fb.amxx] Login: "Nesquik<37><STEAM_1:0:201390745><>" became an admin (account "Nesquik") (nickname "Nesquik") (access "adfghilpqrst") (address "212.119.233.62")
+L 12/07/2020 - 15:17:22: Admin Nesquik connected, ip: 212.119.233.62, Steam_ID: STEAM_1:0:201390745
+L 12/07/2020 - 15:17:23: "Nesquik<37><STEAM_1:0:201390745><>" entered the game
+ -> file: (../demoplayer.dll), md5hex: (55ceb842) for (koli 1231) 
+L 12/07/2020 - 15:17:27: "koli 1231<38><STEAM_1:0:1960141105><>" entered the game
+L 12/07/2020 - 15:17:29: "koli 1231<38><STEAM_1:0:1960141105><>" joined team "TERRORIST"
+L 12/07/2020 - 15:17:30: "Nesquik<37><STEAM_1:0:201390745><>" joined team "CT"
+L 12/07/2020 - 15:17:30: World triggered "Game_Commencing"
+L 12/07/2020 - 15:17:30: World triggered "Game_Commencing" (CT "0") (T "0")
+L 12/07/2020 - 15:17:30: World triggered "Round_End"
+L 12/07/2020 - 15:17:33: World triggered "Round_Start"
+L 12/07/2020 - 15:18:12: "Kpoluk<35><STEAM_1:0:866982422><TERRORIST>" attacked "Nesquik<37><STEAM_1:0:201390745><CT>" with "snow" (damage "10") (damage_armor "0") (health "490") (armor "350")
+L 12/07/2020 - 15:18:32: Kick: "K0tik_Nar_KOTIK<27><STEAM_1:0:1840528214><>" was kicked by "Console" (message ""Вы забанены. Подробная информация в вашей консоли."")
+L 12/07/2020 - 15:18:32: "K0tik_Nar_KOTIK<27><STEAM_1:0:1840528214><TERRORIST>" triggered "weaponstats" (weapon "m4a1") (shots "126") (hits "26") (kills "7") (headshots "2") (tks "6") (damage "1914") (deaths "2")
+L 12/07/2020 - 15:18:32: "K0tik_Nar_KOTIK<27><STEAM_1:0:1840528214><TERRORIST>" triggered "weaponstats2" (weapon "m4a1") (head "7") (chest "5") (stomach "1") (leftarm "5") (rightarm "1") (leftleg "4") (rightleg "3")
+L 12/07/2020 - 15:18:32: "K0tik_Nar_KOTIK<27><STEAM_1:0:1840528214><TERRORIST>" triggered "weaponstats" (weapon "deagle") (shots "6") (hits "2") (kills "0") (headshots "0") (tks "0") (damage "176") (deaths "0")
+L 12/07/2020 - 15:18:32: "K0tik_Nar_KOTIK<27><STEAM_1:0:1840528214><TERRORIST>" triggered "weaponstats2" (weapon "deagle") (head "0") (chest "2") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 12/07/2020 - 15:18:32: "K0tik_Nar_KOTIK<27><STEAM_1:0:1840528214><TERRORIST>" triggered "weaponstats" (weapon "ak47") (shots "63") (hits "7") (kills "3") (headshots "2") (tks "3") (damage "874") (deaths "0")
+L 12/07/2020 - 15:18:32: "K0tik_Nar_KOTIK<27><STEAM_1:0:1840528214><TERRORIST>" triggered "weaponstats2" (weapon "ak47") (head "2") (chest "2") (stomach "0") (leftarm "1") (rightarm "0") (leftleg "1") (rightleg "1")
+L 12/07/2020 - 15:18:32: "K0tik_Nar_KOTIK<27><STEAM_1:0:1840528214><TERRORIST>" triggered "weaponstats" (weapon "knife") (shots "1") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 12/07/2020 - 15:18:32: "K0tik_Nar_KOTIK<27><STEAM_1:0:1840528214><TERRORIST>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 12/07/2020 - 15:18:32: "K0tik_Nar_KOTIK<27><STEAM_1:0:1840528214><TERRORIST>" triggered "time" (time "13:49")
+L 12/07/2020 - 15:18:32: "K0tik_Nar_KOTIK<27><STEAM_1:0:1840528214><TERRORIST>" triggered "latency" (ping "31")
+L 12/07/2020 - 15:18:32: "K0tik_Nar_KOTIK<27><STEAM_1:0:1840528214><TERRORIST>" disconnected
+SZ_GetSpace: overflow on Nesquik
+SZ_GetSpace: overflow on Nesquik
+SZ_GetSpace: overflow on Nesquik
+SZ_GetSpace: overflow on Nesquik
+SZ_GetSpace: overflow on Nesquik
+SZ_GetSpace: overflow on Nesquik
+SZ_GetSpace: overflow on Nesquik
+SZ_GetSpace: overflow on Nesquik
+SZ_GetSpace: overflow on Nesquik
+WARNING: datagram overflowed for Nesquik
+SZ_GetSpace: overflow on Nesquik
+SZ_GetSpace: overflow on Nesquik
+SZ_GetSpace: overflow on Nesquik
+SZ_GetSpace: overflow on Nesquik
+SZ_GetSpace: overflow on Nesquik
+SZ_GetSpace: overflow on Nesquik
+SZ_GetSpace: overflow on Nesquik
+SZ_GetSpace: overflow on Nesquik
+SZ_GetSpace: overflow on Nesquik
+SZ_GetSpace: overflow on Nesquik
+SZ_GetSpace: overflow on Nesquik
+SZ_GetSpace: overflow on Nesquik
+SZ_GetSpace: overflow on Nesquik
+SZ_GetSpace: overflow on Nesquik
+SZ_GetSpace: overflow on Nesquik
+WARNING: datagram overflowed for Nesquik
+SZ_GetSpace: overflow on Nesquik
+SZ_GetSpace: overflow on Nesquik
+SZ_GetSpace: overflow on Nesquik
+WARNING: datagram overflowed for Nesquik
+SZ_GetSpace: overflow on Nesquik
+SZ_GetSpace: overflow on Nesquik
+SZ_GetSpace: overflow on Nesquik
+SZ_GetSpace: overflow on Nesquik
+SZ_GetSpace: overflow on Nesquik
+WARNING: datagram overflowed for Nesquik
+SZ_GetSpace: overflow on Nesquik
+SZ_GetSpace: overflow on Nesquik
+SZ_GetSpace: overflow on Nesquik
+SZ_GetSpace: overflow on Nesquik
+SZ_GetSpace: overflow on Nesquik
+SZ_GetSpace: overflow on Nesquik
+SZ_GetSpace: overflow on Nesquik
+WARNING: datagram overflowed for Nesquik
+SZ_GetSpace: overflow on Nesquik
+WARNING: datagram overflowed for Nesquik
+SZ_GetSpace: overflow on Nesquik
+WARNING: datagram overflowed for Nesquik
+SZ_GetSpace: overflow on Nesquik
+WARNING: datagram overflowed for Nesquik
+L 12/07/2020 - 15:21:11: "koli 1231<38><STEAM_1:0:1960141105><TERRORIST>" attacked "ExZtAzZ<17><STEAM_0:0:506064673><TERRORIST>" with "snow" (damage "2") (damage_armor "0") (health "97") (armor "100")
+L 12/07/2020 - 15:21:14: "koli 1231<38><STEAM_1:0:1960141105><TERRORIST>" attacked "Kpoluk<35><STEAM_1:0:866982422><TERRORIST>" with "snow" (damage "2") (damage_armor "0") (health "97") (armor "100")
+L 12/07/2020 - 15:21:17: "koli 1231<38><STEAM_1:0:1960141105><TERRORIST>" attacked "Kpoluk<35><STEAM_1:0:866982422><TERRORIST>" with "snow" (damage "2") (damage_armor "0") (health "95") (armor "100")
+L 12/07/2020 - 15:22:16: "Nesquik<37><STEAM_1:0:201390745><CT>" attacked "ExZtAzZ<17><STEAM_0:0:506064673><TERRORIST>" with "ak47" (damage "54") (damage_armor "7") (health "195") (armor "242")
+L 12/07/2020 - 15:22:35: "Kpoluk<35><STEAM_1:0:866982422><TERRORIST>" attacked "koli 1231<38><STEAM_1:0:1960141105><TERRORIST>" with "snow" (damage "2") (damage_armor "0") (health "97") (armor "100")
+L 12/07/2020 - 15:22:40: "Kpoluk<35><STEAM_1:0:866982422><TERRORIST>" attacked "koli 1231<38><STEAM_1:0:1960141105><TERRORIST>" with "snow" (damage "3") (damage_armor "0") (health "94") (armor "100")
+L 12/07/2020 - 15:22:50: Kick: "михалыч987548<33><STEAM_1:0:1500364440><>" was kicked by "Console" (message ""Вы забанены. Подробная информация в вашей консоли."")
+L 12/07/2020 - 15:22:50: "михалыч987548<33><STEAM_1:0:1500364440><TERRORIST>" triggered "weaponstats" (weapon "grenade") (shots "3") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 12/07/2020 - 15:22:50: "михалыч987548<33><STEAM_1:0:1500364440><TERRORIST>" triggered "weaponstats2" (weapon "grenade") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 12/07/2020 - 15:22:50: "михалыч987548<33><STEAM_1:0:1500364440><TERRORIST>" triggered "weaponstats" (weapon "ak47") (shots "7") (hits "3") (kills "1") (headshots "0") (tks "1") (damage "45") (deaths "0")
+L 12/07/2020 - 15:22:50: "михалыч987548<33><STEAM_1:0:1500364440><TERRORIST>" triggered "weaponstats2" (weapon "ak47") (head "0") (chest "0") (stomach "2") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "1")
+L 12/07/2020 - 15:22:50: "михалыч987548<33><STEAM_1:0:1500364440><TERRORIST>" triggered "weaponstats" (weapon "knife") (shots "25") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 12/07/2020 - 15:22:50: "михалыч987548<33><STEAM_1:0:1500364440><TERRORIST>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 12/07/2020 - 15:22:50: "михалыч987548<33><STEAM_1:0:1500364440><TERRORIST>" triggered "time" (time "10:22")
+L 12/07/2020 - 15:22:50: "михалыч987548<33><STEAM_1:0:1500364440><TERRORIST>" triggered "latency" (ping "43")
+L 12/07/2020 - 15:22:50: "михалыч987548<33><STEAM_1:0:1500364440><TERRORIST>" disconnected
+L 12/07/2020 - 15:22:54: "Kpoluk<35><STEAM_1:0:866982422><TERRORIST>" attacked "koli 1231<38><STEAM_1:0:1960141105><TERRORIST>" with "snow" (damage "2") (damage_armor "0") (health "92") (armor "100")
+L 12/07/2020 - 15:22:55: "kok161<39><STEAM_1:0:592742241><>" connected, address "31.23.138.1:27005"
+31.23.138.1:27005:reconnect
+L 12/07/2020 - 15:22:57: "kok161<40><STEAM_1:0:592742241><>" connected, address "31.23.138.1:27005"
+L 12/07/2020 - 15:23:03: "Nesquik<37><STEAM_1:0:201390745><CT>" attacked "koli 1231<38><STEAM_1:0:1960141105><TERRORIST>" with "ak47" (damage "54") (damage_armor "7") (health "38") (armor "92")
+L 12/07/2020 - 15:23:03: "Nesquik<37><STEAM_1:0:201390745><CT>" attacked "koli 1231<38><STEAM_1:0:1960141105><TERRORIST>" with "ak47" (damage "217") (damage_armor "31") (health "-178") (armor "60")
+L 12/07/2020 - 15:23:03: "Nesquik<37><STEAM_1:0:201390745><CT>" killed "koli 1231<38><STEAM_1:0:1960141105><TERRORIST>" with "ak47"
+L 12/07/2020 - 15:23:04: "kok161<40><STEAM_1:0:592742241><>" entered the game
+L 12/07/2020 - 15:23:05: Kick: "kok161<40><STEAM_1:0:592742241><>" was kicked by "Console" (message ""Вы забанены. Подробная информация в вашей консоли."")
+L 12/07/2020 - 15:23:05: "kok161<40><STEAM_1:0:592742241><UNASSIGNED>" triggered "time" (time "0:01")
+L 12/07/2020 - 15:23:05: "kok161<40><STEAM_1:0:592742241><UNASSIGNED>" triggered "latency" (ping "0")
+L 12/07/2020 - 15:23:05: "kok161<40><STEAM_1:0:592742241><>" disconnected
+31.23.138.1:27005:reconnect
+L 12/07/2020 - 15:23:20: "kok161<41><STEAM_1:0:592742241><>" connected, address "31.23.138.1:27005"
+L 12/07/2020 - 15:23:22: Kick: "kok161<41><STEAM_1:0:592742241><>" was kicked by "Console" (message ""Вы забанены. Подробная информация в вашей консоли."")
+L 12/07/2020 - 15:23:43: "Nesquik<37><STEAM_1:0:201390745><CT>" attacked "Kpoluk<35><STEAM_1:0:866982422><TERRORIST>" with "ak47" (damage "54") (damage_armor "7") (health "41") (armor "92")
+L 12/07/2020 - 15:23:43: "Nesquik<37><STEAM_1:0:201390745><CT>" attacked "Kpoluk<35><STEAM_1:0:866982422><TERRORIST>" with "ak47" (damage "217") (damage_armor "31") (health "-175") (armor "60")
+L 12/07/2020 - 15:23:43: "Nesquik<37><STEAM_1:0:201390745><CT>" killed "Kpoluk<35><STEAM_1:0:866982422><TERRORIST>" with "ak47"
+31.23.138.1:27005:reconnect
+L 12/07/2020 - 15:23:45: "kok161<42><STEAM_1:0:592742241><>" connected, address "31.23.138.1:27005"
+L 12/07/2020 - 15:23:46: Kick: "kok161<42><STEAM_1:0:592742241><>" was kicked by "Console" (message ""Вы забанены. Подробная информация в вашей консоли."")
+L 12/07/2020 - 15:23:57: "ExZtAzZ<17><STEAM_0:0:506064673><TERRORIST>" attacked "K P A C U B O<29><STEAM_1:0:1347502735><TERRORIST>" with "knife" (damage "1560") (damage_armor "0") (health "-1460") (armor "0")
+L 12/07/2020 - 15:23:57: "ExZtAzZ<17><STEAM_0:0:506064673><TERRORIST>" killed "K P A C U B O<29><STEAM_1:0:1347502735><TERRORIST>" with "knife"
+L 12/07/2020 - 15:24:45: "ExZtAzZ<17><STEAM_0:0:506064673><TERRORIST>" attacked "Nesquik<37><STEAM_1:0:201390745><CT>" with "knife" (damage "55") (damage_armor "4") (health "94") (armor "95")
+L 12/07/2020 - 15:24:45: "Nesquik<37><STEAM_1:0:201390745><CT>" attacked "ExZtAzZ<17><STEAM_0:0:506064673><TERRORIST>" with "knife" (damage "55") (damage_armor "4") (health "94") (armor "237")
+L 12/07/2020 - 15:24:46: "ExZtAzZ<17><STEAM_0:0:506064673><TERRORIST>" attacked "Nesquik<37><STEAM_1:0:201390745><CT>" with "knife" (damage "55") (damage_armor "4") (health "39") (armor "90")
+L 12/07/2020 - 15:24:46: "Nesquik<37><STEAM_1:0:201390745><CT>" attacked "ExZtAzZ<17><STEAM_0:0:506064673><TERRORIST>" with "knife" (damage "55") (damage_armor "4") (health "39") (armor "232")
+L 12/07/2020 - 15:24:48: "Nesquik<37><STEAM_1:0:201390745><CT>" attacked "ExZtAzZ<17><STEAM_0:0:506064673><TERRORIST>" with "knife" (damage "55") (damage_armor "4") (health "-15") (armor "227")
+L 12/07/2020 - 15:24:48: "Nesquik<37><STEAM_1:0:201390745><CT>" killed "ExZtAzZ<17><STEAM_0:0:506064673><TERRORIST>" with "knife"
+L 12/07/2020 - 15:24:48: Team "CT" triggered "CTs_Win" (CT "1") (T "0")
+L 12/07/2020 - 15:24:48: World triggered "Round_End"
+L 12/07/2020 - 15:24:53: World triggered "Round_Start"
+L 12/07/2020 - 15:25:52: "Nesquik<37><STEAM_1:0:201390745><CT>" attacked "Kpoluk<35><STEAM_1:0:866982422><TERRORIST>" with "tmp" (damage "36") (damage_armor "0") (health "64") (armor "0")
+L 12/07/2020 - 15:25:52: "Nesquik<37><STEAM_1:0:201390745><CT>" attacked "Kpoluk<35><STEAM_1:0:866982422><TERRORIST>" with "tmp" (damage "13") (damage_armor "0") (health "50") (armor "0")
+L 12/07/2020 - 15:25:52: "Nesquik<37><STEAM_1:0:201390745><CT>" attacked "Kpoluk<35><STEAM_1:0:866982422><TERRORIST>" with "tmp" (damage "36") (damage_armor "0") (health "15") (armor "0")
+L 12/07/2020 - 15:25:52: "Nesquik<37><STEAM_1:0:201390745><CT>" attacked "Kpoluk<35><STEAM_1:0:866982422><TERRORIST>" with "tmp" (damage "18") (damage_armor "0") (health "-3") (armor "0")
+L 12/07/2020 - 15:25:52: "Nesquik<37><STEAM_1:0:201390745><CT>" killed "Kpoluk<35><STEAM_1:0:866982422><TERRORIST>" with "tmp"
+L 12/07/2020 - 15:26:11: "Kpoluk<35><STEAM_1:0:866982422><TERRORIST>" triggered "weaponstats" (weapon "grenade") (shots "1") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 12/07/2020 - 15:26:11: "Kpoluk<35><STEAM_1:0:866982422><TERRORIST>" triggered "weaponstats2" (weapon "grenade") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 12/07/2020 - 15:26:11: "Kpoluk<35><STEAM_1:0:866982422><TERRORIST>" triggered "weaponstats" (weapon "m4a1") (shots "51") (hits "3") (kills "0") (headshots "0") (tks "0") (damage "80") (deaths "1")
+L 12/07/2020 - 15:26:11: "Kpoluk<35><STEAM_1:0:866982422><TERRORIST>" triggered "weaponstats2" (weapon "m4a1") (head "0") (chest "0") (stomach "1") (leftarm "2") (rightarm "0") (leftleg "0") (rightleg "0")
+L 12/07/2020 - 15:26:11: "Kpoluk<35><STEAM_1:0:866982422><TERRORIST>" triggered "weaponstats" (weapon "deagle") (shots "1") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 12/07/2020 - 15:26:11: "Kpoluk<35><STEAM_1:0:866982422><TERRORIST>" triggered "weaponstats2" (weapon "deagle") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 12/07/2020 - 15:26:11: "Kpoluk<35><STEAM_1:0:866982422><TERRORIST>" triggered "weaponstats" (weapon "ak47") (shots "2") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 12/07/2020 - 15:26:11: "Kpoluk<35><STEAM_1:0:866982422><TERRORIST>" triggered "weaponstats2" (weapon "ak47") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 12/07/2020 - 15:26:11: "Kpoluk<35><STEAM_1:0:866982422><TERRORIST>" triggered "weaponstats" (weapon "knife") (shots "12") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "1")
+L 12/07/2020 - 15:26:11: "Kpoluk<35><STEAM_1:0:866982422><TERRORIST>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 12/07/2020 - 15:26:11: "Kpoluk<35><STEAM_1:0:866982422><TERRORIST>" triggered "time" (time "12:06")
+L 12/07/2020 - 15:26:11: "Kpoluk<35><STEAM_1:0:866982422><TERRORIST>" triggered "latency" (ping "65")
+L 12/07/2020 - 15:26:11: "Kpoluk<35><STEAM_1:0:866982422><TERRORIST>" disconnected
+178.121.40.178:53399:reconnect
+L 12/07/2020 - 15:26:20: "K0tik_Nar_KOTIK<43><STEAM_1:0:1840528214><>" connected, address "178.121.40.178:53399"
+L 12/07/2020 - 15:26:24: "K0tik_Nar_KOTIK<43><STEAM_1:0:1840528214><>" entered the game
+L 12/07/2020 - 15:26:26: "K0tik_Nar_KOTIK<43><STEAM_1:0:1840528214><>" joined team "TERRORIST"
+L 12/07/2020 - 15:26:40: "Nesquik<37><STEAM_1:0:201390745><CT>" attacked "koli 1231<38><STEAM_1:0:1960141105><TERRORIST>" with "tmp" (damage "38") (damage_armor "0") (health "62") (armor "0")
+L 12/07/2020 - 15:26:40: "Nesquik<37><STEAM_1:0:201390745><CT>" attacked "koli 1231<38><STEAM_1:0:1960141105><TERRORIST>" with "tmp" (damage "19") (damage_armor "0") (health "43") (armor "0")
+L 12/07/2020 - 15:26:40: "Nesquik<37><STEAM_1:0:201390745><CT>" attacked "koli 1231<38><STEAM_1:0:1960141105><TERRORIST>" with "tmp" (damage "38") (damage_armor "0") (health "5") (armor "0")
+L 12/07/2020 - 15:26:40: "Nesquik<37><STEAM_1:0:201390745><CT>" attacked "koli 1231<38><STEAM_1:0:1960141105><TERRORIST>" with "tmp" (damage "19") (damage_armor "0") (health "-14") (armor "0")
+L 12/07/2020 - 15:26:40: "Nesquik<37><STEAM_1:0:201390745><CT>" killed "koli 1231<38><STEAM_1:0:1960141105><TERRORIST>" with "tmp"
+L 12/07/2020 - 15:26:53: "Danil)<44><STEAM_1:0:1146191412><>" connected, address "195.170.179.154:27005"
+L 12/07/2020 - 15:27:17: "ExZtAzZ<17><STEAM_0:0:506064673><TERRORIST>" attacked "Nesquik<37><STEAM_1:0:201390745><CT>" with "m4a1" (damage "10") (damage_armor "2") (health "489") (armor "347")
+L 12/07/2020 - 15:28:05: "Nesquik<37><STEAM_1:0:201390745><CT>" attacked "K P A C U B O<29><STEAM_1:0:1347502735><TERRORIST>" with "tmp" (damage "38") (damage_armor "0") (health "62") (armor "0")
+L 12/07/2020 - 15:28:05: "Nesquik<37><STEAM_1:0:201390745><CT>" attacked "K P A C U B O<29><STEAM_1:0:1347502735><TERRORIST>" with "tmp" (damage "76") (damage_armor "0") (health "-14") (armor "0")
+L 12/07/2020 - 15:28:05: "Nesquik<37><STEAM_1:0:201390745><CT>" killed "K P A C U B O<29><STEAM_1:0:1347502735><TERRORIST>" with "tmp"
+L 12/07/2020 - 15:28:19: "masterboost.net<45><STEAM_1:0:505191379><>" connected, address "188.244.248.2:38441"
+L 12/07/2020 - 15:28:32: "Nesquik<37><STEAM_1:0:201390745><CT>" attacked "K0tik_Nar_KOTIK<43><STEAM_1:0:1840528214><TERRORIST>" with "tmp" (damage "19") (damage_armor "0") (health "231") (armor "0")
+L 12/07/2020 - 15:28:32: "Nesquik<37><STEAM_1:0:201390745><CT>" attacked "K0tik_Nar_KOTIK<43><STEAM_1:0:1840528214><TERRORIST>" with "tmp" (damage "9") (damage_armor "0") (health "221") (armor "0")
+L 12/07/2020 - 15:28:33: "Nesquik<37><STEAM_1:0:201390745><CT>" attacked "K0tik_Nar_KOTIK<43><STEAM_1:0:1840528214><TERRORIST>" with "tmp" (damage "19") (damage_armor "0") (health "203") (armor "0")
+L 12/07/2020 - 15:28:33: "Nesquik<37><STEAM_1:0:201390745><CT>" attacked "K0tik_Nar_KOTIK<43><STEAM_1:0:1840528214><TERRORIST>" with "tmp" (damage "9") (damage_armor "0") (health "193") (armor "0")
+L 12/07/2020 - 15:28:33: "Nesquik<37><STEAM_1:0:201390745><CT>" attacked "K0tik_Nar_KOTIK<43><STEAM_1:0:1840528214><TERRORIST>" with "tmp" (damage "19") (damage_armor "0") (health "175") (armor "0")
+L 12/07/2020 - 15:28:33: "Nesquik<37><STEAM_1:0:201390745><CT>" attacked "K0tik_Nar_KOTIK<43><STEAM_1:0:1840528214><TERRORIST>" with "tmp" (damage "9") (damage_armor "0") (health "165") (armor "0")
+L 12/07/2020 - 15:28:33: "Nesquik<37><STEAM_1:0:201390745><CT>" attacked "K0tik_Nar_KOTIK<43><STEAM_1:0:1840528214><TERRORIST>" with "tmp" (damage "19") (damage_armor "0") (health "147") (armor "0")
+L 12/07/2020 - 15:28:33: "Nesquik<37><STEAM_1:0:201390745><CT>" attacked "K0tik_Nar_KOTIK<43><STEAM_1:0:1840528214><TERRORIST>" with "tmp" (damage "9") (damage_armor "0") (health "137") (armor "0")
+L 12/07/2020 - 15:28:33: "Nesquik<37><STEAM_1:0:201390745><CT>" attacked "K0tik_Nar_KOTIK<43><STEAM_1:0:1840528214><TERRORIST>" with "tmp" (damage "19") (damage_armor "0") (health "119") (armor "0")
+L 12/07/2020 - 15:28:33: "Nesquik<37><STEAM_1:0:201390745><CT>" attacked "K0tik_Nar_KOTIK<43><STEAM_1:0:1840528214><TERRORIST>" with "tmp" (damage "9") (damage_armor "0") (health "109") (armor "0")
+L 12/07/2020 - 15:28:34: "K0tik_Nar_KOTIK<43><STEAM_1:0:1840528214><TERRORIST>" attacked "Nesquik<37><STEAM_1:0:201390745><CT>" with "knife" (damage "331") (damage_armor "28") (health "158") (armor "318")
+L 12/07/2020 - 15:28:34: "Nesquik<37><STEAM_1:0:201390745><CT>" attacked "K0tik_Nar_KOTIK<43><STEAM_1:0:1840528214><TERRORIST>" with "tmp" (damage "19") (damage_armor "0") (health "91") (armor "0")
+L 12/07/2020 - 15:28:34: "Nesquik<37><STEAM_1:0:201390745><CT>" attacked "K0tik_Nar_KOTIK<43><STEAM_1:0:1840528214><TERRORIST>" with "tmp" (damage "9") (damage_armor "0") (health "81") (armor "0")
+L 12/07/2020 - 15:28:35: "Nesquik<37><STEAM_1:0:201390745><CT>" attacked "K0tik_Nar_KOTIK<43><STEAM_1:0:1840528214><TERRORIST>" with "tmp" (damage "19") (damage_armor "0") (health "63") (armor "0")
+L 12/07/2020 - 15:28:35: "Nesquik<37><STEAM_1:0:201390745><CT>" attacked "K0tik_Nar_KOTIK<43><STEAM_1:0:1840528214><TERRORIST>" with "tmp" (damage "38") (damage_armor "0") (health "25") (armor "0")
+L 12/07/2020 - 15:28:35: "Nesquik<37><STEAM_1:0:201390745><CT>" attacked "K0tik_Nar_KOTIK<43><STEAM_1:0:1840528214><TERRORIST>" with "tmp" (damage "19") (damage_armor "0") (health "6") (armor "0")
+L 12/07/2020 - 15:28:35: "Nesquik<37><STEAM_1:0:201390745><CT>" attacked "K0tik_Nar_KOTIK<43><STEAM_1:0:1840528214><TERRORIST>" with "tmp" (damage "9") (damage_armor "0") (health "-3") (armor "0")
+L 12/07/2020 - 15:28:35: "Nesquik<37><STEAM_1:0:201390745><CT>" killed "K0tik_Nar_KOTIK<43><STEAM_1:0:1840528214><TERRORIST>" with "tmp"
+L 12/07/2020 - 15:28:42: "Danil)<46><STEAM_1:0:1146191412><>" connected, address "195.170.179.154:27005"
+L 12/07/2020 - 15:28:42: "masterboost.net<47><STEAM_1:0:505191379><>" connected, address "188.244.248.2:38441"
+L 12/07/2020 - 15:28:50: "Danil)<46><STEAM_1:0:1146191412><>" entered the game
+L 12/07/2020 - 15:28:53: "Player | rp16.ru<47><STEAM_1:0:505191379><>" entered the game
+L 12/07/2020 - 15:29:00: "Danil)<46><STEAM_1:0:1146191412><>" joined team "TERRORIST"
+L 12/07/2020 - 15:29:01: "Player | rp16.ru<47><STEAM_1:0:505191379><>" joined team "TERRORIST"
+L 12/07/2020 - 15:29:03: "Player | rp16.ru<47><STEAM_1:0:505191379><TERRORIST>" joined team "CT"
+L 12/07/2020 - 15:29:06: "Player | rp16.ru<47><STEAM_1:0:505191379><CT>" joined team "TERRORIST"
+L 12/07/2020 - 15:29:08: "Player | rp16.ru<47><STEAM_1:0:505191379><TERRORIST>" joined team "CT"
+L 12/07/2020 - 15:29:20: "Player | rp16.ru<47><STEAM_1:0:505191379><CT>" triggered "time" (time "0:27")
+L 12/07/2020 - 15:29:20: "Player | rp16.ru<47><STEAM_1:0:505191379><CT>" triggered "latency" (ping "102")
+L 12/07/2020 - 15:29:20: "Player | rp16.ru<47><STEAM_1:0:505191379><CT>" disconnected
+L 12/07/2020 - 15:29:24: "koli 1231<38><STEAM_1:0:1960141105><TERRORIST>" joined team "CT"
+L 12/07/2020 - 15:29:25: "Nesquik<37><STEAM_1:0:201390745><CT>" attacked "ExZtAzZ<17><STEAM_0:0:506064673><TERRORIST>" with "knife" (damage "55") (damage_armor "4") (health "94") (armor "95")
+L 12/07/2020 - 15:29:26: "koli 1231<38><STEAM_1:0:1960141105><CT>" joined team "TERRORIST"
+L 12/07/2020 - 15:29:27: "ExZtAzZ<17><STEAM_0:0:506064673><TERRORIST>" attacked "Nesquik<37><STEAM_1:0:201390745><CT>" with "knife" (damage "55") (damage_armor "4") (health "94") (armor "313")
+L 12/07/2020 - 15:29:27: "Nesquik<37><STEAM_1:0:201390745><CT>" attacked "ExZtAzZ<17><STEAM_0:0:506064673><TERRORIST>" with "knife" (damage "55") (damage_armor "4") (health "39") (armor "90")
+L 12/07/2020 - 15:29:33: "Nesquik<37><STEAM_1:0:201390745><CT>" attacked "ExZtAzZ<17><STEAM_0:0:506064673><TERRORIST>" with "knife" (damage "55") (damage_armor "4") (health "-15") (armor "85")
+L 12/07/2020 - 15:29:33: "Nesquik<37><STEAM_1:0:201390745><CT>" killed "ExZtAzZ<17><STEAM_0:0:506064673><TERRORIST>" with "knife"
+L 12/07/2020 - 15:29:33: Team "CT" triggered "CTs_Win" (CT "2") (T "0")
+L 12/07/2020 - 15:29:33: World triggered "Round_End"
+L 12/07/2020 - 15:29:38: World triggered "Round_Start"
+L 12/07/2020 - 15:30:10: "EPPOP CAHC<48><STEAM_1:0:958276311><>" connected, address "95.27.49.129:27279"
+L 12/07/2020 - 15:30:28: "Nesquik<37><STEAM_1:0:201390745><CT>" attacked "koli 1231<38><STEAM_1:0:1960141105><TERRORIST>" with "ak47" (damage "70") (damage_armor "0") (health "30") (armor "0")
+L 12/07/2020 - 15:30:28: "Nesquik<37><STEAM_1:0:201390745><CT>" attacked "koli 1231<38><STEAM_1:0:1960141105><TERRORIST>" with "ak47" (damage "35") (damage_armor "0") (health "-5") (armor "0")
+L 12/07/2020 - 15:30:28: "Nesquik<37><STEAM_1:0:201390745><CT>" killed "koli 1231<38><STEAM_1:0:1960141105><TERRORIST>" with "ak47"
+L 12/07/2020 - 15:30:45: "koli 1231<38><STEAM_1:0:1960141105><TERRORIST>" triggered "weaponstats" (weapon "grenade") (shots "2") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 12/07/2020 - 15:30:45: "koli 1231<38><STEAM_1:0:1960141105><TERRORIST>" triggered "weaponstats2" (weapon "grenade") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 12/07/2020 - 15:30:45: "koli 1231<38><STEAM_1:0:1960141105><TERRORIST>" triggered "weaponstats" (weapon "m249") (shots "11") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 12/07/2020 - 15:30:45: "koli 1231<38><STEAM_1:0:1960141105><TERRORIST>" triggered "weaponstats2" (weapon "m249") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 12/07/2020 - 15:30:45: "koli 1231<38><STEAM_1:0:1960141105><TERRORIST>" triggered "weaponstats" (weapon "m4a1") (shots "1") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 12/07/2020 - 15:30:45: "koli 1231<38><STEAM_1:0:1960141105><TERRORIST>" triggered "weaponstats2" (weapon "m4a1") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 12/07/2020 - 15:30:45: "koli 1231<38><STEAM_1:0:1960141105><TERRORIST>" triggered "weaponstats" (weapon "deagle") (shots "1") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 12/07/2020 - 15:30:45: "koli 1231<38><STEAM_1:0:1960141105><TERRORIST>" triggered "weaponstats2" (weapon "deagle") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 12/07/2020 - 15:30:45: "koli 1231<38><STEAM_1:0:1960141105><TERRORIST>" triggered "weaponstats" (weapon "ak47") (shots "1") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 12/07/2020 - 15:30:45: "koli 1231<38><STEAM_1:0:1960141105><TERRORIST>" triggered "weaponstats2" (weapon "ak47") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 12/07/2020 - 15:30:45: "koli 1231<38><STEAM_1:0:1960141105><TERRORIST>" triggered "weaponstats" (weapon "knife") (shots "38") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "2")
+L 12/07/2020 - 15:30:45: "koli 1231<38><STEAM_1:0:1960141105><TERRORIST>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 12/07/2020 - 15:30:45: "koli 1231<38><STEAM_1:0:1960141105><TERRORIST>" triggered "time" (time "13:18")
+L 12/07/2020 - 15:30:45: "koli 1231<38><STEAM_1:0:1960141105><TERRORIST>" triggered "latency" (ping "63")
+L 12/07/2020 - 15:30:45: "koli 1231<38><STEAM_1:0:1960141105><TERRORIST>" disconnected
+L 12/07/2020 - 15:30:46: "Nesquik<37><STEAM_1:0:201390745><CT>" attacked "Danil)<46><STEAM_1:0:1146191412><TERRORIST>" with "ak47" (damage "70") (damage_armor "0") (health "30") (armor "0")
+L 12/07/2020 - 15:30:46: "Nesquik<37><STEAM_1:0:201390745><CT>" attacked "Danil)<46><STEAM_1:0:1146191412><TERRORIST>" with "ak47" (damage "140") (damage_armor "0") (health "-110") (armor "0")
+L 12/07/2020 - 15:30:46: "Nesquik<37><STEAM_1:0:201390745><CT>" killed "Danil)<46><STEAM_1:0:1146191412><TERRORIST>" with "ak47"
+L 12/07/2020 - 15:30:51: "Nesquik<37><STEAM_1:0:201390745><CT>" attacked "K P A C U B O<29><STEAM_1:0:1347502735><TERRORIST>" with "ak47" (damage "70") (damage_armor "0") (health "-7") (armor "0")
+L 12/07/2020 - 15:30:51: "Nesquik<37><STEAM_1:0:201390745><CT>" killed "K P A C U B O<29><STEAM_1:0:1347502735><TERRORIST>" with "ak47"
+L 12/07/2020 - 15:30:53: "gs-m ][ russian<49><STEAM_1:0:352340480><>" connected, address "83.139.147.12:2847"
+SV_ReadClientMessage: badread on , opcode clc_stringcmd
+SV_ReadClientMessage: badread on 
+83.139.147.12:2847:reconnect
+L 12/07/2020 - 15:31:14: "gs-m ][ russian<50><STEAM_1:0:352340480><>" connected, address "83.139.147.12:2847"
+L 12/07/2020 - 15:31:18: "K0tik_Nar_KOTIK<43><STEAM_1:0:1840528214><TERRORIST>" attacked "ExZtAzZ<17><STEAM_0:0:506064673><TERRORIST>" with "snow" (damage "0") (damage_armor "0") (health "99") (armor "100")
+L 12/07/2020 - 15:31:18: "Nesquik<37><STEAM_1:0:201390745><CT>" attacked "ExZtAzZ<17><STEAM_0:0:506064673><TERRORIST>" with "ak47" (damage "54") (damage_armor "7") (health "45") (armor "92")
+L 12/07/2020 - 15:31:18: "Nesquik<37><STEAM_1:0:201390745><CT>" attacked "ExZtAzZ<17><STEAM_0:0:506064673><TERRORIST>" with "ak47" (damage "27") (damage_armor "3") (health "18") (armor "88")
+L 12/07/2020 - 15:31:18: "Nesquik<37><STEAM_1:0:201390745><CT>" attacked "ExZtAzZ<17><STEAM_0:0:506064673><TERRORIST>" with "ak47" (damage "54") (damage_armor "7") (health "-35") (armor "80")
+L 12/07/2020 - 15:31:18: "Nesquik<37><STEAM_1:0:201390745><CT>" killed "ExZtAzZ<17><STEAM_0:0:506064673><TERRORIST>" with "ak47"
+L 12/07/2020 - 15:31:21: "Player | rp16.ru<50><STEAM_1:0:352340480><>" entered the game
+L 12/07/2020 - 15:31:28: "Player | rp16.ru<50><STEAM_1:0:352340480><>" joined team "TERRORIST"
+L 12/07/2020 - 15:31:45: "EPPOP CAHC<51><STEAM_1:0:958276311><>" connected, address "95.27.49.129:16525"
+L 12/07/2020 - 15:31:50: "K0tik_Nar_KOTIK<43><STEAM_1:0:1840528214><TERRORIST>" attacked "Nesquik<37><STEAM_1:0:201390745><CT>" with "deagle" (damage "141") (damage_armor "23") (health "-41") (armor "326")
+L 12/07/2020 - 15:31:50: "K0tik_Nar_KOTIK<43><STEAM_1:0:1840528214><TERRORIST>" killed "Nesquik<37><STEAM_1:0:201390745><CT>" with "deagle"
+L 12/07/2020 - 15:31:50: Team "TERRORIST" triggered "Terrorists_Win" (CT "2") (T "1")
+L 12/07/2020 - 15:31:50: World triggered "Round_End"
+L 12/07/2020 - 15:31:55: World triggered "Round_Start"
+L 12/07/2020 - 15:31:57: "EPPOP CAHC<51><STEAM_1:0:958276311><>" entered the game
+L 12/07/2020 - 15:31:59: "EPPOP CAHC<51><STEAM_1:0:958276311><>" joined team "TERRORIST"
+L 12/07/2020 - 15:32:26: "PROFESSOR<52><STEAM_1:0:879078399><>" connected, address "212.109.27.193:2309"
+212.109.27.193:2309:reconnect
+L 12/07/2020 - 15:32:28: "PROFESSOR<53><STEAM_1:0:879078399><>" connected, address "212.109.27.193:2309"
+L 12/07/2020 - 15:32:36: "PROFESSOR<53><STEAM_1:0:879078399><>" entered the game
+L 12/07/2020 - 15:32:40: "Player | rp16.ru<50><STEAM_1:0:352340480><TERRORIST>" attacked "Nesquik<37><STEAM_1:0:201390745><CT>" with "knife" (damage "12") (damage_armor "1") (health "487") (armor "348")
+L 12/07/2020 - 15:32:40: "PROFESSOR<53><STEAM_1:0:879078399><>" joined team "CT"
+L 12/07/2020 - 15:32:41: "Nesquik<37><STEAM_1:0:201390745><CT>" attacked "Player | rp16.ru<50><STEAM_1:0:352340480><TERRORIST>" with "ak47" (damage "70") (damage_armor "0") (health "-37") (armor "0")
+L 12/07/2020 - 15:32:41: "Nesquik<37><STEAM_1:0:201390745><CT>" killed "Player | rp16.ru<50><STEAM_1:0:352340480><TERRORIST>" with "ak47"
+L 12/07/2020 - 15:32:51: "Nesquik<37><STEAM_1:0:201390745><CT>" attacked "K P A C U B O<29><STEAM_1:0:1347502735><TERRORIST>" with "ak47" (damage "70") (damage_armor "0") (health "30") (armor "0")
+L 12/07/2020 - 15:32:52: "Nesquik<37><STEAM_1:0:201390745><CT>" attacked "K P A C U B O<29><STEAM_1:0:1347502735><TERRORIST>" with "ak47" (damage "70") (damage_armor "0") (health "-40") (armor "0")
+L 12/07/2020 - 15:32:52: "Nesquik<37><STEAM_1:0:201390745><CT>" killed "K P A C U B O<29><STEAM_1:0:1347502735><TERRORIST>" with "ak47"
+L 12/07/2020 - 15:32:53: "EPPOP CAHC<51><STEAM_1:0:958276311><TERRORIST>" attacked "Nesquik<37><STEAM_1:0:201390745><CT>" with "knife" (damage "12") (damage_armor "0") (health "475") (armor "347")
+L 12/07/2020 - 15:32:53: "EPPOP CAHC<51><STEAM_1:0:958276311><TERRORIST>" attacked "Nesquik<37><STEAM_1:0:201390745><CT>" with "knife" (damage "12") (damage_armor "0") (health "463") (armor "346")
+L 12/07/2020 - 15:32:54: "EPPOP CAHC<51><STEAM_1:0:958276311><TERRORIST>" attacked "Nesquik<37><STEAM_1:0:201390745><CT>" with "knife" (damage "60") (damage_armor "0") (health "404") (armor "346")
+L 12/07/2020 - 15:32:54: "EPPOP CAHC<51><STEAM_1:0:958276311><TERRORIST>" attacked "Nesquik<37><STEAM_1:0:201390745><CT>" with "knife" (damage "12") (damage_armor "0") (health "391") (armor "345")
+L 12/07/2020 - 15:32:55: "Nesquik<37><STEAM_1:0:201390745><CT>" attacked "EPPOP CAHC<51><STEAM_1:0:958276311><TERRORIST>" with "ak47" (damage "70") (damage_armor "0") (health "30") (armor "0")
+L 12/07/2020 - 15:32:55: "EPPOP CAHC<51><STEAM_1:0:958276311><TERRORIST>" attacked "Nesquik<37><STEAM_1:0:201390745><CT>" with "knife" (damage "12") (damage_armor "0") (health "379") (armor "344")
+L 12/07/2020 - 15:32:55: "Nesquik<37><STEAM_1:0:201390745><CT>" attacked "EPPOP CAHC<51><STEAM_1:0:958276311><TERRORIST>" with "ak47" (damage "70") (damage_armor "0") (health "-40") (armor "0")
+L 12/07/2020 - 15:32:55: "Nesquik<37><STEAM_1:0:201390745><CT>" killed "EPPOP CAHC<51><STEAM_1:0:958276311><TERRORIST>" with "ak47"
+L 12/07/2020 - 15:33:50: "K0tik_Nar_KOTIK<43><STEAM_1:0:1840528214><TERRORIST>" attacked "Nesquik<37><STEAM_1:0:201390745><CT>" with "knife" (damage "260") (damage_armor "0") (health "120") (armor "344")
+L 12/07/2020 - 15:33:51: "K0tik_Nar_KOTIK<43><STEAM_1:0:1840528214><TERRORIST>" attacked "Nesquik<37><STEAM_1:0:201390745><CT>" with "knife" (damage "260") (damage_armor "0") (health "-140") (armor "344")
+L 12/07/2020 - 15:33:51: "K0tik_Nar_KOTIK<43><STEAM_1:0:1840528214><TERRORIST>" killed "Nesquik<37><STEAM_1:0:201390745><CT>" with "knife"
+L 12/07/2020 - 15:34:02: "davil kryta<54><STEAM_1:0:1960141105><>" connected, address "83.220.227.37:16635"
+L 12/07/2020 - 15:34:02: "K0tik_Nar_KOTIK<43><STEAM_1:0:1840528214><TERRORIST>" attacked "PROFESSOR<53><STEAM_1:0:879078399><CT>" with "ak47" (damage "108") (damage_armor "15") (health "391") (armor "334")
+L 12/07/2020 - 15:34:02: "K0tik_Nar_KOTIK<43><STEAM_1:0:1840528214><TERRORIST>" attacked "PROFESSOR<53><STEAM_1:0:879078399><CT>" with "ak47" (damage "54") (damage_armor "7") (health "337") (armor "326")
+L 12/07/2020 - 15:34:03: "K0tik_Nar_KOTIK<43><STEAM_1:0:1840528214><TERRORIST>" attacked "PROFESSOR<53><STEAM_1:0:879078399><CT>" with "ak47" (damage "108") (damage_armor "15") (health "229") (armor "310")
+L 12/07/2020 - 15:34:03: "K0tik_Nar_KOTIK<43><STEAM_1:0:1840528214><TERRORIST>" attacked "PROFESSOR<53><STEAM_1:0:879078399><CT>" with "ak47" (damage "54") (damage_armor "7") (health "175") (armor "302")
+L 12/07/2020 - 15:34:03: "PROFESSOR<53><STEAM_1:0:879078399><CT>" attacked "K0tik_Nar_KOTIK<43><STEAM_1:0:1840528214><TERRORIST>" with "m3" (damage "42") (damage_armor "0") (health "57") (armor "0")
+L 12/07/2020 - 15:34:03: "K0tik_Nar_KOTIK<43><STEAM_1:0:1840528214><TERRORIST>" attacked "PROFESSOR<53><STEAM_1:0:879078399><CT>" with "ak47" (damage "108") (damage_armor "15") (health "67") (armor "287")
+L 12/07/2020 - 15:34:03: "K0tik_Nar_KOTIK<43><STEAM_1:0:1840528214><TERRORIST>" attacked "PROFESSOR<53><STEAM_1:0:879078399><CT>" with "ak47" (damage "67") (damage_armor "9") (health "0") (armor "277")
+L 12/07/2020 - 15:34:03: "K0tik_Nar_KOTIK<43><STEAM_1:0:1840528214><TERRORIST>" attacked "PROFESSOR<53><STEAM_1:0:879078399><CT>" with "ak47" (damage "108") (damage_armor "15") (health "-107") (armor "261")
+L 12/07/2020 - 15:34:03: "K0tik_Nar_KOTIK<43><STEAM_1:0:1840528214><TERRORIST>" killed "PROFESSOR<53><STEAM_1:0:879078399><CT>" with "ak47"
+ -> file: (../demoplayer.dll), md5hex: (55ceb842) for (davil kryta) 
+L 12/07/2020 - 15:34:06: "davil kryta<54><STEAM_1:0:1960141105><>" entered the game
+L 12/07/2020 - 15:34:09: "davil kryta<54><STEAM_1:0:1960141105><>" joined team "TERRORIST"
+L 12/07/2020 - 15:34:15: "Nesquik<37><STEAM_1:0:201390745><CT>" committed suicide with "world"
+L 12/07/2020 - 15:34:15: Team "TERRORIST" triggered "Terrorists_Win" (CT "2") (T "2")
+L 12/07/2020 - 15:34:15: World triggered "Round_End"
+L 12/07/2020 - 15:34:20: World triggered "Round_Start"
+L 12/07/2020 - 15:34:25: "K P A C U B O<29><STEAM_1:0:1347502735><TERRORIST>" committed suicide with "worldspawn" (world)
+L 12/07/2020 - 15:34:27: "PROFESSOR<53><STEAM_1:0:879078399><CT>" attacked "Nesquik<37><STEAM_1:0:201390745><CT>" with "snow" (damage "3") (damage_armor "0") (health "496") (armor "350")
+L 12/07/2020 - 15:34:52: "K0tik_Nar_KOTIK<43><STEAM_1:0:1840528214><TERRORIST>" attacked "Player | rp16.ru<50><STEAM_1:0:352340480><TERRORIST>" with "deagle" (damage "38") (damage_armor "0") (health "61") (armor "0")
+L 12/07/2020 - 15:34:53: "Player | rp16.ru<50><STEAM_1:0:352340480><TERRORIST>" attacked "K0tik_Nar_KOTIK<43><STEAM_1:0:1840528214><TERRORIST>" with "deagle" (damage "51") (damage_armor "0") (health "48") (armor "0")
+L 12/07/2020 - 15:34:53: "K0tik_Nar_KOTIK<43><STEAM_1:0:1840528214><TERRORIST>" attacked "Player | rp16.ru<50><STEAM_1:0:352340480><TERRORIST>" with "deagle" (damage "38") (damage_armor "0") (health "23") (armor "0")
+L 12/07/2020 - 15:34:53: "Player | rp16.ru<50><STEAM_1:0:352340480><TERRORIST>" attacked "K0tik_Nar_KOTIK<43><STEAM_1:0:1840528214><TERRORIST>" with "deagle" (damage "51") (damage_armor "0") (health "-2") (armor "0")
+L 12/07/2020 - 15:34:53: "Player | rp16.ru<50><STEAM_1:0:352340480><TERRORIST>" killed "K0tik_Nar_KOTIK<43><STEAM_1:0:1840528214><TERRORIST>" with "deagle"
+L 12/07/2020 - 15:34:59: "EPPOP CAHC<51><STEAM_1:0:958276311><TERRORIST>" attacked "davil kryta<54><STEAM_1:0:1960141105><TERRORIST>" with "deagle" (damage "52") (damage_armor "0") (health "48") (armor "0")
+L 12/07/2020 - 15:34:59: "davil kryta<54><STEAM_1:0:1960141105><TERRORIST>" attacked "EPPOP CAHC<51><STEAM_1:0:958276311><TERRORIST>" with "deagle" (damage "212") (damage_armor "0") (health "-112") (armor "0")
+L 12/07/2020 - 15:34:59: "davil kryta<54><STEAM_1:0:1960141105><TERRORIST>" killed "EPPOP CAHC<51><STEAM_1:0:958276311><TERRORIST>" with "deagle"
+L 12/07/2020 - 15:35:00: "K P A C U B O<29><STEAM_1:0:1347502735><TERRORIST>" attacked "davil kryta<54><STEAM_1:0:1960141105><TERRORIST>" with "deagle" (damage "19") (damage_armor "0") (health "29") (armor "0")
+L 12/07/2020 - 15:35:00: "K P A C U B O<29><STEAM_1:0:1347502735><TERRORIST>" attacked "davil kryta<54><STEAM_1:0:1960141105><TERRORIST>" with "deagle" (damage "18") (damage_armor "0") (health "11") (armor "0")
+L 12/07/2020 - 15:35:00: "K P A C U B O<29><STEAM_1:0:1347502735><TERRORIST>" attacked "davil kryta<54><STEAM_1:0:1960141105><TERRORIST>" with "deagle" (damage "18") (damage_armor "0") (health "-7") (armor "0")
+L 12/07/2020 - 15:35:00: "K P A C U B O<29><STEAM_1:0:1347502735><TERRORIST>" killed "davil kryta<54><STEAM_1:0:1960141105><TERRORIST>" with "deagle"
+L 12/07/2020 - 15:35:04: "ExZtAzZ<17><STEAM_0:0:506064673><TERRORIST>" attacked "K P A C U B O<29><STEAM_1:0:1347502735><TERRORIST>" with "deagle" (damage "21") (damage_armor "0") (health "79") (armor "0")
+L 12/07/2020 - 15:35:04: "ExZtAzZ<17><STEAM_0:0:506064673><TERRORIST>" attacked "K P A C U B O<29><STEAM_1:0:1347502735><TERRORIST>" with "deagle" (damage "25") (damage_armor "0") (health "54") (armor "0")
+L 12/07/2020 - 15:35:05: "ExZtAzZ<17><STEAM_0:0:506064673><TERRORIST>" attacked "K P A C U B O<29><STEAM_1:0:1347502735><TERRORIST>" with "deagle" (damage "20") (damage_armor "0") (health "34") (armor "0")
+Host_Error: PF_setmodel_I: no precache: models/w_xm1014.mdl
+
+L 12/07/2020 - 15:35:06: "ExZtAzZ<17><STEAM_0:0:506064673><TERRORIST>" triggered "weaponstats" (weapon "m249") (shots "27") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 12/07/2020 - 15:35:06: "ExZtAzZ<17><STEAM_0:0:506064673><TERRORIST>" triggered "weaponstats2" (weapon "m249") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 12/07/2020 - 15:35:06: "ExZtAzZ<17><STEAM_0:0:506064673><TERRORIST>" triggered "weaponstats" (weapon "m3") (shots "4") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 12/07/2020 - 15:35:06: "ExZtAzZ<17><STEAM_0:0:506064673><TERRORIST>" triggered "weaponstats2" (weapon "m3") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 12/07/2020 - 15:35:06: "ExZtAzZ<17><STEAM_0:0:506064673><TERRORIST>" triggered "weaponstats" (weapon "m4a1") (shots "23") (hits "3") (kills "1") (headshots "1") (tks "1") (damage "170") (deaths "1")
+L 12/07/2020 - 15:35:06: "ExZtAzZ<17><STEAM_0:0:506064673><TERRORIST>" triggered "weaponstats2" (weapon "m4a1") (head "1") (chest "0") (stomach "0") (leftarm "2") (rightarm "0") (leftleg "0") (rightleg "0")
+L 12/07/2020 - 15:35:06: "ExZtAzZ<17><STEAM_0:0:506064673><TERRORIST>" triggered "weaponstats" (weapon "tmp") (shots "28") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 12/07/2020 - 15:35:06: "ExZtAzZ<17><STEAM_0:0:506064673><TERRORIST>" triggered "weaponstats2" (weapon "tmp") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 12/07/2020 - 15:35:06: "ExZtAzZ<17><STEAM_0:0:506064673><TERRORIST>" triggered "weaponstats" (weapon "deagle") (shots "14") (hits "3") (kills "0") (headshots "0") (tks "0") (damage "66") (deaths "1")
+L 12/07/2020 - 15:35:06: "ExZtAzZ<17><STEAM_0:0:506064673><TERRORIST>" triggered "weaponstats2" (weapon "deagle") (head "0") (chest "1") (stomach "1") (leftarm "0") (rightarm "1") (leftleg "0") (rightleg "0")
+L 12/07/2020 - 15:35:06: "ExZtAzZ<17><STEAM_0:0:506064673><TERRORIST>" triggered "weaponstats" (weapon "ak47") (shots "66") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "1")
+L 12/07/2020 - 15:35:06: "ExZtAzZ<17><STEAM_0:0:506064673><TERRORIST>" triggered "weaponstats2" (weapon "ak47") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 12/07/2020 - 15:35:06: "ExZtAzZ<17><STEAM_0:0:506064673><TERRORIST>" triggered "weaponstats" (weapon "knife") (shots "78") (hits "4") (kills "1") (headshots "1") (tks "1") (damage "1725") (deaths "2")
+L 12/07/2020 - 15:35:06: "ExZtAzZ<17><STEAM_0:0:506064673><TERRORIST>" triggered "weaponstats2" (weapon "knife") (head "1") (chest "0") (stomach "0") (leftarm "1") (rightarm "0") (leftleg "2") (rightleg "0")
+L 12/07/2020 - 15:35:06: "ExZtAzZ<17><STEAM_0:0:506064673><TERRORIST>" triggered "time" (time "34:44")
+L 12/07/2020 - 15:35:06: "ExZtAzZ<17><STEAM_0:0:506064673><TERRORIST>" triggered "latency" (ping "9")
+L 12/07/2020 - 15:35:06: "Danil)<46><STEAM_1:0:1146191412><TERRORIST>" triggered "weaponstats" (weapon "knife") (shots "1") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "1")
+L 12/07/2020 - 15:35:06: "Danil)<46><STEAM_1:0:1146191412><TERRORIST>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 12/07/2020 - 15:35:06: "Danil)<46><STEAM_1:0:1146191412><TERRORIST>" triggered "time" (time "6:16")
+L 12/07/2020 - 15:35:06: "Danil)<46><STEAM_1:0:1146191412><TERRORIST>" triggered "latency" (ping "56")
+L 12/07/2020 - 15:35:06: "Nesquik<37><STEAM_1:0:201390745><CT>" triggered "weaponstats" (weapon "tmp") (shots "85") (hits "13") (kills "4") (headshots "1") (tks "0") (damage "584") (deaths "0")
+L 12/07/2020 - 15:35:06: "Nesquik<37><STEAM_1:0:201390745><CT>" triggered "weaponstats2" (weapon "tmp") (head "2") (chest "3") (stomach "0") (leftarm "4") (rightarm "3") (leftleg "1") (rightleg "0")
+L 12/07/2020 - 15:35:06: "Nesquik<37><STEAM_1:0:201390745><CT>" triggered "weaponstats" (weapon "deagle") (shots "1") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "1")
+L 12/07/2020 - 15:35:06: "Nesquik<37><STEAM_1:0:201390745><CT>" triggered "weaponstats2" (weapon "deagle") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 12/07/2020 - 15:35:06: "Nesquik<37><STEAM_1:0:201390745><CT>" triggered "weaponstats" (weapon "ak47") (shots "60") (hits "8") (kills "6") (headshots "2") (tks "0") (damage "735") (deaths "1")
+L 12/07/2020 - 15:35:06: "Nesquik<37><STEAM_1:0:201390745><CT>" triggered "weaponstats2" (weapon "ak47") (head "2") (chest "4") (stomach "0") (leftarm "1") (rightarm "1") (leftleg "0") (rightleg "0")
+L 12/07/2020 - 15:35:06: "Nesquik<37><STEAM_1:0:201390745><CT>" triggered "weaponstats" (weapon "knife") (shots "13") (hits "3") (kills "1") (headshots "0") (tks "0") (damage "165") (deaths "0")
+L 12/07/2020 - 15:35:06: "Nesquik<37><STEAM_1:0:201390745><CT>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "2") (rightarm "0") (leftleg "0") (rightleg "0")
+L 12/07/2020 - 15:35:06: "Nesquik<37><STEAM_1:0:201390745><CT>" triggered "time" (time "17:43")
+L 12/07/2020 - 15:35:06: "Nesquik<37><STEAM_1:0:201390745><CT>" triggered "latency" (ping "355")
+L 12/07/2020 - 15:35:06: "Player | rp16.ru<50><STEAM_1:0:352340480><TERRORIST>" triggered "weaponstats" (weapon "deagle") (shots "4") (hits "2") (kills "1") (headshots "0") (tks "1") (damage "102") (deaths "0")
+L 12/07/2020 - 15:35:06: "Player | rp16.ru<50><STEAM_1:0:352340480><TERRORIST>" triggered "weaponstats2" (weapon "deagle") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "2") (leftleg "0") (rightleg "0")
+L 12/07/2020 - 15:35:06: "Player | rp16.ru<50><STEAM_1:0:352340480><TERRORIST>" triggered "weaponstats" (weapon "knife") (shots "14") (hits "1") (kills "0") (headshots "0") (tks "0") (damage "12") (deaths "1")
+L 12/07/2020 - 15:35:06: "Player | rp16.ru<50><STEAM_1:0:352340480><TERRORIST>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "1") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 12/07/2020 - 15:35:06: "Player | rp16.ru<50><STEAM_1:0:352340480><TERRORIST>" triggered "time" (time "3:45")
+L 12/07/2020 - 15:35:06: "Player | rp16.ru<50><STEAM_1:0:352340480><TERRORIST>" triggered "latency" (ping "20")
+L 12/07/2020 - 15:35:06: "K P A C U B O<29><STEAM_1:0:1347502735><TERRORIST>" triggered "weaponstats" (weapon "deagle") (shots "8") (hits "3") (kills "1") (headshots "0") (tks "1") (damage "55") (deaths "1")
+L 12/07/2020 - 15:35:06: "K P A C U B O<29><STEAM_1:0:1347502735><TERRORIST>" triggered "weaponstats2" (weapon "deagle") (head "0") (chest "1") (stomach "0") (leftarm "1") (rightarm "1") (leftleg "0") (rightleg "0")
+L 12/07/2020 - 15:35:06: "K P A C U B O<29><STEAM_1:0:1347502735><TERRORIST>" triggered "weaponstats" (weapon "ak47") (shots "3") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 12/07/2020 - 15:35:06: "K P A C U B O<29><STEAM_1:0:1347502735><TERRORIST>" triggered "weaponstats2" (weapon "ak47") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 12/07/2020 - 15:35:06: "K P A C U B O<29><STEAM_1:0:1347502735><TERRORIST>" triggered "weaponstats" (weapon "knife") (shots "46") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "4")
+L 12/07/2020 - 15:35:06: "K P A C U B O<29><STEAM_1:0:1347502735><TERRORIST>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 12/07/2020 - 15:35:06: "K P A C U B O<29><STEAM_1:0:1347502735><TERRORIST>" triggered "time" (time "24:11")
+L 12/07/2020 - 15:35:06: "K P A C U B O<29><STEAM_1:0:1347502735><TERRORIST>" triggered "latency" (ping "29")
+L 12/07/2020 - 15:35:06: "EPPOP CAHC<51><STEAM_1:0:958276311><TERRORIST>" triggered "weaponstats" (weapon "deagle") (shots "4") (hits "1") (kills "0") (headshots "0") (tks "0") (damage "52") (deaths "1")
+L 12/07/2020 - 15:35:06: "EPPOP CAHC<51><STEAM_1:0:958276311><TERRORIST>" triggered "weaponstats2" (weapon "deagle") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "1") (leftleg "0") (rightleg "0")
+L 12/07/2020 - 15:35:06: "EPPOP CAHC<51><STEAM_1:0:958276311><TERRORIST>" triggered "weaponstats" (weapon "knife") (shots "10") (hits "5") (kills "0") (headshots "0") (tks "0") (damage "108") (deaths "1")
+L 12/07/2020 - 15:35:06: "EPPOP CAHC<51><STEAM_1:0:958276311><TERRORIST>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "5") (rightarm "0") (leftleg "0") (rightleg "0")
+L 12/07/2020 - 15:35:06: "EPPOP CAHC<51><STEAM_1:0:958276311><TERRORIST>" triggered "time" (time "3:09")
+L 12/07/2020 - 15:35:06: "EPPOP CAHC<51><STEAM_1:0:958276311><TERRORIST>" triggered "latency" (ping "48")
+L 12/07/2020 - 15:35:06: "PROFESSOR<53><STEAM_1:0:879078399><CT>" triggered "weaponstats" (weapon "m3") (shots "3") (hits "1") (kills "0") (headshots "0") (tks "0") (damage "42") (deaths "1")
+L 12/07/2020 - 15:35:06: "PROFESSOR<53><STEAM_1:0:879078399><CT>" triggered "weaponstats2" (weapon "m3") (head "0") (chest "1") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 12/07/2020 - 15:35:06: "PROFESSOR<53><STEAM_1:0:879078399><CT>" triggered "weaponstats" (weapon "knife") (shots "1") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 12/07/2020 - 15:35:06: "PROFESSOR<53><STEAM_1:0:879078399><CT>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 12/07/2020 - 15:35:06: "PROFESSOR<53><STEAM_1:0:879078399><CT>" triggered "time" (time "2:30")
+L 12/07/2020 - 15:35:06: "PROFESSOR<53><STEAM_1:0:879078399><CT>" triggered "latency" (ping "47")
+L 12/07/2020 - 15:35:06: "K0tik_Nar_KOTIK<43><STEAM_1:0:1840528214><TERRORIST>" triggered "weaponstats" (weapon "deagle") (shots "3") (hits "3") (kills "1") (headshots "1") (tks "0") (damage "217") (deaths "1")
+L 12/07/2020 - 15:35:06: "K0tik_Nar_KOTIK<43><STEAM_1:0:1840528214><TERRORIST>" triggered "weaponstats2" (weapon "deagle") (head "1") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "2") (rightleg "0")
+L 12/07/2020 - 15:35:06: "K0tik_Nar_KOTIK<43><STEAM_1:0:1840528214><TERRORIST>" triggered "weaponstats" (weapon "ak47") (shots "19") (hits "4") (kills "1") (headshots "0") (tks "0") (damage "607") (deaths "0")
+L 12/07/2020 - 15:35:06: "K0tik_Nar_KOTIK<43><STEAM_1:0:1840528214><TERRORIST>" triggered "weaponstats2" (weapon "ak47") (head "0") (chest "0") (stomach "1") (leftarm "3") (rightarm "0") (leftleg "0") (rightleg "0")
+L 12/07/2020 - 15:35:06: "K0tik_Nar_KOTIK<43><STEAM_1:0:1840528214><TERRORIST>" triggered "weaponstats" (weapon "knife") (shots "26") (hits "3") (kills "1") (headshots "1") (tks "0") (damage "851") (deaths "1")
+L 12/07/2020 - 15:35:06: "K0tik_Nar_KOTIK<43><STEAM_1:0:1840528214><TERRORIST>" triggered "weaponstats2" (weapon "knife") (head "2") (chest "0") (stomach "1") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 12/07/2020 - 15:35:06: "K0tik_Nar_KOTIK<43><STEAM_1:0:1840528214><TERRORIST>" triggered "time" (time "8:41")
+L 12/07/2020 - 15:35:06: "K0tik_Nar_KOTIK<43><STEAM_1:0:1840528214><TERRORIST>" triggered "latency" (ping "31")
+L 12/07/2020 - 15:35:06: "davil kryta<54><STEAM_1:0:1960141105><TERRORIST>" triggered "weaponstats" (weapon "deagle") (shots "7") (hits "1") (kills "1") (headshots "1") (tks "1") (damage "212") (deaths "1")
+L 12/07/2020 - 15:35:06: "davil kryta<54><STEAM_1:0:1960141105><TERRORIST>" triggered "weaponstats2" (weapon "deagle") (head "1") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 12/07/2020 - 15:35:06: "davil kryta<54><STEAM_1:0:1960141105><TERRORIST>" triggered "weaponstats" (weapon "knife") (shots "2") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 12/07/2020 - 15:35:06: "davil kryta<54><STEAM_1:0:1960141105><TERRORIST>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 12/07/2020 - 15:35:06: "davil kryta<54><STEAM_1:0:1960141105><TERRORIST>" triggered "time" (time "0:59")
+L 12/07/2020 - 15:35:06: "davil kryta<54><STEAM_1:0:1960141105><TERRORIST>" triggered "latency" (ping "67")
+L 12/07/2020 - 15:35:06: [META] ini: Begin re-reading plugins list: /servers/cs/1001/cstrike/addons/metamod/plugins.ini
+L 12/07/2020 - 15:35:06: [META] ini: Read plugin config for: AMX Mod X
+L 12/07/2020 - 15:35:06: [META] ini: Read plugin config for: LocalizeBug Fix
+L 12/07/2020 - 15:35:06: [META] ini: Read plugin config for: Reunion
+L 12/07/2020 - 15:35:06: [META] ini: Read plugin config for: WHBlocker
+L 12/07/2020 - 15:35:06: [META] ini: Read plugin config for: Revoice
+L 12/07/2020 - 15:35:06: [META] ini: Read plugin config for: Rechecker
+L 12/07/2020 - 15:35:06: [META] ini: Finished reading plugins list: /servers/cs/1001/cstrike/addons/metamod/plugins.ini; Found 6 plugins
+L 12/07/2020 - 15:35:06: [META] dll: Updating plugins...
+L 12/07/2020 - 15:35:06: [META] dll: Finished updating 16 plugins; kept 6, loaded 0, unloaded 0, reloaded 0, delayed 0
+L 12/07/2020 - 15:35:06: [META] dll: Begin scan to collect callback fix data...

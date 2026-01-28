@@ -1,7 +1,0 @@
-[en]
-KH_VICTIM_MSG = [g]You have been killed by[/g] [t]:KILLER_NAME:[/t] [[g]:KILLER_HEALTH:[/g] HP, [g]:KILLER_ARMOR:[/g] AP][[g]:KILLER_FRAGS:[/g] Frags, [g]:KILLER_DEATHS:[/g] Deaths] from distance [g]:SHOT_DISTANCE:[/g] meters.
-KH_ATTACKER_MSG = [g]Enemy[/g] [t]:VICTIM_NAME:[/t] [[g]:VICTIM_FRAGS:[/g] Frags, [g]:VICTIM_DEATHS:[/g] Deaths] [g]down![/g]
-
-[ru]
-KH_VICTIM_MSG = [g]Тебя убил игрок[/g] [t]:KILLER_NAME:[/t] [[g]:KILLER_HEALTH:[/g] HP, [g]:KILLER_ARMOR:[/g] AP][[g]:KILLER_FRAGS:[/g] Фрагов, [g]:KILLER_DEATHS:[/g] Смертей] с расстояния [g]:SHOT_DISTANCE:[/g] метров.
-KH_ATTACKER_MSG = [g]Противник[/g] [t]:VICTIM_NAME:[/t] [[g]:VICTIM_FRAGS:[/g] Фрагов, [g]:VICTIM_DEATHS:[/g] Смертей] [g]уничтожен![/g]

@@ -1,0 +1,4 @@
+[en]
+GLOWSTICKS_REMAINING = Осталось %d 
+GLOWSTICKS_NULL = Глоустики закончились...
+GLOWSTICKS_LIMIT = Превышен лимит глоустиков на карте

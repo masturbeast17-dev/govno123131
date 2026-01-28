@@ -1,0 +1,692 @@
+Protocol version 48
+Exe version 1.1.2.7/Stdio (cstrike)
+Exe build: 16:23:03 Oct  6 2020 (2369)
+Executing ReGameDLL Configuration File 
+unknown command "mp_freeforall"
+unknown command "mp_maxmoney"
+unknown command "mp_round_infinite"
+unknown command "mp_hegrenade_penetration"
+unknown command "mp_nadedrops"
+unknown command "mp_roundrespawn_time"
+unknown command "mp_auto_reload_weapons"
+unknown command "mp_refill_bpammo_weapons"
+unknown command "bot_deathmatch"
+unknown command "mp_auto_join_team"
+Executing ReGameDLL Configuration File 
+unknown command "mp_freeforall"
+unknown command "mp_maxmoney"
+unknown command "mp_round_infinite"
+unknown command "mp_hegrenade_penetration"
+unknown command "mp_nadedrops"
+unknown command "mp_roundrespawn_time"
+unknown command "mp_auto_reload_weapons"
+unknown command "mp_refill_bpammo_weapons"
+unknown command "bot_deathmatch"
+unknown command "mp_auto_join_team"
+Server IP address 195.88.208.116:27015
+   
+   Metamod-r version 1.3.0.128 Copyright (c) 2016-2018 ReHLDS Team (rebuild of original Metamod by Will Day and Jussi Kivilinna)
+   Metamod-r comes with ABSOLUTELY NO WARRANTY; for details type `meta gpl'.
+   This is free software, and you are welcome to redistribute it
+   under certain conditions; type `meta gpl' for details.
+   
+Metamod-r v1.3.0.128, API (5:13)
+Metamod-r build: 17:47:48 Aug 24 2018
+Metamod-r from: https://github.com/theAsmodai/metamod-r/commit/0cf2f70
+
+   AMX Mod X version 1.9.0.5271 Copyright (c) 2004-2015 AMX Mod X Development Team 
+   AMX Mod X comes with ABSOLUTELY NO WARRANTY; for details type `amxx gpl'.
+   This is free software and you are welcome to redistribute it under 
+   certain conditions; type 'amxx gpl' for details.
+  
+[WHB] Version: 1.5.696 Linux (Usage SSE 4.1)
+[WHB] Success: Build ReHLDS version defined Linux '2369'
+[WHB] Success: Configuration executed.
+ReGameDLL version: 5.11.0.420-dev+m
+L 04/09/2021 - 18:39:04: -------- Mapchange to jail_float --------
+L 04/09/2021 - 18:39:04: [GEOIP] Database info: GeoLite2 Country database 2.0
+[ReAimDetector] Version: 0.2.2 Linux 'Counter-Strike 1.6'
+[ReAimDetector] Success: Build ReHLDS version defined Linux '2369'.
+Executing ReGameDLL Configuration File 
+unknown command "bot_deathmatch"
+Executing ReGameDLL Configuration File 
+unknown command "bot_deathmatch"
+unknown command "amx_default_access"
+unknown command "amx_password_field"
+unknown command "amx_mode"
+unknown command "amx_show_activity"
+unknown command "amx_imessage"
+unknown command "amx_freq_imessage"
+unknown command "amx_plmenu_bantimes"
+unknown command "amx_tempban_maxtime"
+unknown command "amx_plmenu_slapdmg"
+unknown command "amx_flood_time"
+unknown command "amx_reservation"
+unknown command "amx_hideslots"
+unknown command "amx_time_display"
+unknown command "amx_time_voice"
+unknown command "amx_vote_delay"
+unknown command "amx_vote_time"
+unknown command "amx_vote_answers"
+unknown command "amx_votekick_ratio"
+unknown command "amx_voteban_ratio"
+unknown command "amx_votemap_ratio"
+unknown command "amx_vote_ratio"
+unknown command "amx_extendmap_max"
+unknown command "amx_extendmap_step"
+unknown command "amx_language_display_msg"
+unknown command "amx_help_display_msg"
+unknown command "amx_help_display_msg_time"
+unknown command "amx_help_amount_per_page"
+unknown command "amx_statsx_duration"
+unknown command "amx_statsx_freeze"
+unknown command "amx_restrmapsettings"
+unknown command "fb_kick_delay"
+unknown command "fb_server_name"
+unknown command "fb_sql_table"
+unknown command "fb_sql_log_table"
+unknown command "fb_ip_ban_time"
+unknown command "fb_showhud"
+unknown command "fb_offline_time"
+unknown command "fb_unban_self"
+unknown command "fb_unban_all"
+unknown command "fb_oldmap_players"
+unknown command "fb_bantime_access"
+unknown command "fb_adminrcon_flag"
+unknown command "fb_bantime_limit"
+unknown command "fb_use_sql"
+unknown command "fb_nvault_clear"
+unknown command "fb_force_check"
+unknown command "fb_cachetime"
+unknown command "fb_oldkickinfo"
+unknown command "fb_logtype"
+unknown command "fb_loglevel"
+unknown command "fb_logdays"
+unknown command "fb_use_russian"
+unknown command "fb_sql_clear"
+unknown command "fb_subnet_except_ucp"
+unknown command "fb_subnet_clients"
+unknown command "fb_prefix_clients"
+unknown command "fb_rec_snet"
+unknown command "fb_rec_snet_time"
+unknown command "fb_rec_snet_count"
+unknown command "fb_rec_snet_bt"
+unknown command "fb_subnet_recheck"
+unknown command "fb_rec_snet_level"
+unknown command "fb_cachetime_kick"
+unknown command "fb_cacheonly"
+unknown command "fb_showchat"
+unknown command "fb_chatinfo"
+unknown command "fb_hudinfo"
+unknown command "fb_hudcolor"
+unknown command "fb_hudpos"
+unknown command "fb_serveronly"
+unknown command "fb_confirmchat"
+unknown command "fb_locknames"
+unknown command "fb_newmenu"
+unknown command "fb_show_bb"
+unknown command "fb_noip_as_allip"
+unknown command "fb_longtime_allservers"
+unknown command "fb_force_bantype_ip"
+unknown command "fb_no_confirm"
+unknown command "fb_lock_def_time"
+unknown command "fb_customreason_first"
+unknown command "fb_customreason_flag"
+unknown command "fb_plugin_prefix"
+unknown command "fb_plugin_hprefix"
+unknown command "fb_menu_nick_addons"
+unknown command "fb_acp_admin_uid"
+unknown command "fb_kick_all_from_ip"
+unknown command "fb_positive_cache_mc"
+unknown command "fb_menufilters"
+unknown command "fb_menusort"
+unknown command "amx_password_field"
+unknown command "amx_amxadmins_table"
+unknown command "amx_admins_table"
+unknown command "fb_adminban_flag"
+unknown command "amx_mode"
+unknown command "amx_imessage"
+unknown command "amx_freq_imessage"
+unknown command "amx_plmenu_bantimes"
+unknown command "amx_tempban_maxtime"
+unknown command "amx_plmenu_slapdmg"
+unknown command "amx_flood_time"
+unknown command "amx_reservation"
+unknown command "amx_hideslots"
+unknown command "amx_time_display"
+unknown command "amx_time_voice"
+unknown command "amx_extendmap_max"
+unknown command "amx_extendmap_step"
+unknown command "amx_language_display_msg"
+unknown command "amx_help_display_msg"
+unknown command "amx_help_display_msg_time"
+unknown command "amx_help_amount_per_page"
+unknown command "amx_statsx_duration"
+unknown command "amx_statsx_freeze"
+unknown command "amx_restrmapsettings"
+IP Подошёл.
+L 04/09/2021 - 18:39:05: [colored_translit_config.amxx] Can't add menu item "Настройки чата" from plugin "Colored Translit Config" to menu set because the Menus Front-End plugin itself is not loaded!
+L 04/09/2021 - 18:39:05: [map_chooser_14.amxx] Загружено 45 карт из addons/amxmodx/configs/maps.ini
+L 04/09/2021 - 18:39:05: [map_chooser_14.amxx] Режим сортировки карт по онлайну выключен!
+========== [Colored Translit] START SET FCVAR ==========
+=========== [Colored Translit] END SET FCVAR ===========
+=========== [Colored Translit] START DEBUG =============
+[Colored Translit] Translit File Loaded. Symbols: 65
+[Colored Translit] Swear File Loaded. Swears: 0
+[Colored Translit] Replace File Loaded. Replacements: 1
+[Colored Translit] Ignore File Loaded. Ignore Words: 35
+[Colored Translit] Spam File Loaded. Spam Words: 172
+[Colored Translit] Cheat File Loaded. Cheat Words: 206
+[Colored Translit] Config File Executed. Version: 3.0
+=========== [Colored Translit] END DEBUG ===============
+[COVID mode]: Everything is fine! The configuration file is loaded! 
+unknown command "vk"
+couldn't exec addons/amxmodx/configs/jb_standard/all_cvars.cfg
+unknown command "jbe_last_prisoner_money"
+unknown command "jbe_vip_discount_shop"
+L 04/09/2021 - 18:39:06: [admin_loader_for_fb.amxx] Загружено 15 администраторов из MySQL
+Server logging data to file logs/L0409034.log
+L 04/09/2021 - 18:39:06: Log file started (file "logs/L0409034.log") (game "cstrike") (version "48/1.1.2.7/Stdio/2369")
+unknown command "sv_logecho"
+unknown command "sv_logfile"
+L 04/09/2021 - 18:39:06: Server cvar "mp_logdetail" = "3"
+unknown command "mp_autocrosshair"
+L 04/09/2021 - 18:39:06: Server cvar "sv_aim" = "0"
+unknown command "sv_airmove"
+unknown command "sv_voicequality"
+unknown command "sv_voicecodec"
+unknown command "amx_extendmap_max"
+unknown command "amx_extendmap_step"
+unknown command "cam_change"
+unknown command "cam_connect"
+unknown command "cam_message"
+unknown command "sid_url"
+unknown command "]fastcup.net/rating.html"
+unknown command "precache_hl"
+unknown command "precache_weapons"
+unknown command "amx_extendmap_max"
+unknown command "amx_extendmap_step"
+unknown command "sv_consistency"
+unknown command "amx_amxadmins_table"
+unknown command "amx_admins_table"
+L 04/09/2021 - 18:39:06: [pluginmenu.amxx] Can't add menu item "Plugin Cvars" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+L 04/09/2021 - 18:39:06: [pluginmenu.amxx] Can't add menu item "Plugin Commands" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+fsdfsd - 1 - 1
+Connection to Steam servers successful.
+L 04/09/2021 - 18:39:07: [AMXX] Plugin ("gamecms_skins.amxx") is setting itself as failed.
+L 04/09/2021 - 18:39:07: [AMXX] Plugin says: Can't connect to MySQL server on '45.136.56.141' (4)
+L 04/09/2021 - 18:39:07: [AMXX] Run time error 1 (plugin "gamecms_skins.amxx") - forced exit
+   VAC secure mode disabled.
+L 04/09/2021 - 18:39:14: World triggered "Round_Start"
+L 04/09/2021 - 18:39:21: "^_^<1><STEAM_1:0:219573568><>" connected, address "178.67.199.206:8764"
+L 04/09/2021 - 18:39:22: "KaKoCuK<2><STEAM_1:0:73686800><>" connected, address "109.120.15.54:27005"
+L 04/09/2021 - 18:39:25: "timonia<3><STEAM_1:0:1479724954><>" connected, address "82.208.115.65:37376"
+109.120.15.54:27005:reconnect
+L 04/09/2021 - 18:39:26: "KaKoCuK<4><STEAM_1:0:73686800><>" connected, address "109.120.15.54:27005"
+82.208.115.65:37376:reconnect
+L 04/09/2021 - 18:39:26: "timonia<5><STEAM_1:0:1479724954><>" connected, address "82.208.115.65:37376"
+L 04/09/2021 - 18:39:27: "Animeshik<6><STEAM_1:0:1615668406><>" connected, address "90.189.189.42:27005"
+L 04/09/2021 - 18:39:29: "KaKoCuK<4><STEAM_1:0:73686800><>" entered the game
+L 04/09/2021 - 18:39:30: [admin_loader_for_fb.amxx] Login: "timonia<5><STEAM_1:0:1479724954><>" became an admin (account "timonia") (nickname "timonia") (access "diqrst") (address "82.208.115.65")
+L 04/09/2021 - 18:39:30: Admin timonia connected, ip: 82.208.115.65, Steam_ID: STEAM_1:0:1479724954
+L 04/09/2021 - 18:39:30: "timonia<5><STEAM_1:0:1479724954><>" entered the game
+L 04/09/2021 - 18:39:30: "KaKoCuK<4><STEAM_1:0:73686800><>" joined team "CT"
+L 04/09/2021 - 18:39:30: World triggered "Round_Draw" (CT "0") (T "0")
+L 04/09/2021 - 18:39:30: World triggered "Round_End"
+L 04/09/2021 - 18:39:32: "КаТёНоК<7><STEAM_1:0:1406415177><>" connected, address "176.101.196.6:27005"
+L 04/09/2021 - 18:39:33: "Animeshik<8><STEAM_1:0:1615668406><>" connected, address "90.189.189.42:27005"
+L 04/09/2021 - 18:39:33: "^_^<9><STEAM_1:0:219573568><>" connected, address "178.67.199.206:8764"
+L 04/09/2021 - 18:39:34: "timonia<5><STEAM_1:0:1479724954><>" joined team "TERRORIST"
+176.101.196.6:27005:reconnect
+L 04/09/2021 - 18:39:34: "КаТёНоК<10><STEAM_1:0:1406415177><>" connected, address "176.101.196.6:27005"
+L 04/09/2021 - 18:39:35: World triggered "Round_Start"
+L 04/09/2021 - 18:39:38: "КаТёНоК<10><STEAM_1:0:1406415177><>" entered the game
+L 04/09/2021 - 18:39:38: "^_^<9><STEAM_1:0:219573568><>" entered the game
+L 04/09/2021 - 18:39:41: "КаТёНоК<10><STEAM_1:0:1406415177><>" joined team "TERRORIST"
+L 04/09/2021 - 18:39:41: World triggered "Game_Commencing"
+L 04/09/2021 - 18:39:41: World triggered "Game_Commencing" (CT "0") (T "0")
+L 04/09/2021 - 18:39:41: World triggered "Round_End"
+L 04/09/2021 - 18:39:42: "Animeshik<8><STEAM_1:0:1615668406><>" entered the game
+L 04/09/2021 - 18:39:42: "^_^<9><STEAM_1:0:219573568><>" joined team "TERRORIST"
+L 04/09/2021 - 18:39:44: World triggered "Round_Start"
+L 04/09/2021 - 18:39:45: "Animeshik<8><STEAM_1:0:1615668406><>" joined team "TERRORIST"
+L 04/09/2021 - 18:39:53: [map_chooser_14.amxx] Администратор timonia запустил досрочную смену карты
+L 04/09/2021 - 18:40:06: Server cvar "sv_restart" = "5"
+L 04/09/2021 - 18:40:07: World triggered "Restart_Round_(5_seconds)"
+L 04/09/2021 - 18:40:07: Team "CT" scored "0" with "1" players
+L 04/09/2021 - 18:40:07: Team "TERRORIST" scored "0" with "4" players
+L 04/09/2021 - 18:40:07: Server cvar "sv_restart" = "0"
+L 04/09/2021 - 18:40:07: "KaKoCuK<4><STEAM_1:0:73686800><CT>" attacked "КаТёНоК<10><STEAM_1:0:1406415177><TERRORIST>" with "m4a1" (damage "32") (damage_armor "0") (health "68") (armor "0")
+L 04/09/2021 - 18:40:07: "KaKoCuK<4><STEAM_1:0:73686800><CT>" attacked "КаТёНоК<10><STEAM_1:0:1406415177><TERRORIST>" with "m4a1" (damage "32") (damage_armor "0") (health "36") (armor "0")
+L 04/09/2021 - 18:40:08: "KaKoCuK<4><STEAM_1:0:73686800><CT>" attacked "КаТёНоК<10><STEAM_1:0:1406415177><TERRORIST>" with "m4a1" (damage "128") (damage_armor "0") (health "-92") (armor "0")
+L 04/09/2021 - 18:40:08: "KaKoCuK<4><STEAM_1:0:73686800><CT>" killed "КаТёНоК<10><STEAM_1:0:1406415177><TERRORIST>" with "m4a1"
+L 04/09/2021 - 18:40:12: Server cvar "mp_freezetime" = "15"
+L 04/09/2021 - 18:40:16: [map_chooser_14.amxx] [Start VoteMap] Голосование началось...
+L 04/09/2021 - 18:40:26: Kick: "timonia<5><STEAM_1:0:1479724954><>" was kicked by "Console" (message ""Вы были кикнуты из-за плохого соединения"")
+L 04/09/2021 - 18:40:26: "timonia<5><STEAM_1:0:1479724954><TERRORIST>" triggered "time" (time "0:56")
+L 04/09/2021 - 18:40:26: "timonia<5><STEAM_1:0:1479724954><TERRORIST>" triggered "latency" (ping "47")
+L 04/09/2021 - 18:40:26: "timonia<5><STEAM_1:0:1479724954><TERRORIST>" disconnected
+L 04/09/2021 - 18:40:26: Kick: "^_^<9><STEAM_1:0:219573568><>" was kicked by "Console" (message ""Вы были кикнуты из-за плохого соединения"")
+L 04/09/2021 - 18:40:26: "^_^<9><STEAM_1:0:219573568><TERRORIST>" triggered "time" (time "0:47")
+L 04/09/2021 - 18:40:26: "^_^<9><STEAM_1:0:219573568><TERRORIST>" triggered "latency" (ping "91")
+L 04/09/2021 - 18:40:26: "^_^<9><STEAM_1:0:219573568><TERRORIST>" disconnected
+L 04/09/2021 - 18:40:26: [map_chooser_14.amxx] [End VoteMap] Голосование завершено jb_fx_texas_v2
+L 04/09/2021 - 18:40:26: Server cvar "mp_freezetime" = "0"
+L 04/09/2021 - 18:40:27: World triggered "Round_Start"
+L 04/09/2021 - 18:40:29: "KaKoCuK<4><STEAM_1:0:73686800><CT>" triggered "weaponstats" (weapon "m4a1") (shots "11") (hits "3") (kills "1") (headshots "1") (tks "0") (damage "192") (deaths "0")
+L 04/09/2021 - 18:40:29: "KaKoCuK<4><STEAM_1:0:73686800><CT>" triggered "weaponstats2" (weapon "m4a1") (head "1") (chest "1") (stomach "0") (leftarm "1") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/09/2021 - 18:40:29: "KaKoCuK<4><STEAM_1:0:73686800><CT>" triggered "time" (time "0:59")
+L 04/09/2021 - 18:40:29: "KaKoCuK<4><STEAM_1:0:73686800><CT>" triggered "latency" (ping "50")
+L 04/09/2021 - 18:40:29: "КаТёНоК<10><STEAM_1:0:1406415177><TERRORIST>" triggered "weaponstats" (weapon "knife") (shots "2") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "1")
+L 04/09/2021 - 18:40:29: "КаТёНоК<10><STEAM_1:0:1406415177><TERRORIST>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/09/2021 - 18:40:29: "КаТёНоК<10><STEAM_1:0:1406415177><TERRORIST>" triggered "time" (time "0:50")
+L 04/09/2021 - 18:40:29: "КаТёНоК<10><STEAM_1:0:1406415177><TERRORIST>" triggered "latency" (ping "40")
+L 04/09/2021 - 18:40:29: "Animeshik<8><STEAM_1:0:1615668406><TERRORIST>" triggered "time" (time "0:47")
+L 04/09/2021 - 18:40:29: "Animeshik<8><STEAM_1:0:1615668406><TERRORIST>" triggered "latency" (ping "100")
+L 04/09/2021 - 18:40:29: [META] ini: Begin re-reading plugins list: /servers/cs/1001/cstrike/addons/metamod/plugins.ini
+L 04/09/2021 - 18:40:29: [META] ini: Read plugin config for: AMX Mod X
+L 04/09/2021 - 18:40:29: [META] ini: Read plugin config for: Reunion
+L 04/09/2021 - 18:40:29: [META] ini: Read plugin config for: WHBlocker
+L 04/09/2021 - 18:40:29: [META] ini: Read plugin config for: Revoice
+L 04/09/2021 - 18:40:29: [META] ini: Finished reading plugins list: /servers/cs/1001/cstrike/addons/metamod/plugins.ini; Found 4 plugins
+L 04/09/2021 - 18:40:29: [META] dll: Updating plugins...
+L 04/09/2021 - 18:40:29: [META] dll: Finished updating 14 plugins; kept 4, loaded 0, unloaded 0, reloaded 0, delayed 0
+L 04/09/2021 - 18:40:29: [META] dll: Rebuilding callbacks...
+L 04/09/2021 - 18:40:29: [META] dll: Callbacks rebuilded.
+L 04/09/2021 - 18:40:29: "KaKoCuK<4><STEAM_1:0:73686800><CT>" disconnected
+L 04/09/2021 - 18:40:29: "КаТёНоК<10><STEAM_1:0:1406415177><TERRORIST>" disconnected
+L 04/09/2021 - 18:40:29: "Animeshik<8><STEAM_1:0:1615668406><TERRORIST>" disconnected
+L 04/09/2021 - 18:40:29: World triggered "Round_Draw" (CT "0") (T "0")
+L 04/09/2021 - 18:40:29: World triggered "Round_End"
+L 04/09/2021 - 18:40:29: Log file closed
+Server logging data to file logs/L0409035.log
+L 04/09/2021 - 18:40:29: Log file started (file "logs/L0409035.log") (game "cstrike") (version "48/1.1.2.7/Stdio/2369")
+L 04/09/2021 - 18:40:29: Loading map "jb_fx_texas_v2"
+L 04/09/2021 - 18:40:29: Server cvars start
+L 04/09/2021 - 18:40:29: Server cvar "[HR] MapStart Random GameName" = "0.2"
+L 04/09/2021 - 18:40:29: Server cvar "admin_loader_version" = "3.4"
+L 04/09/2021 - 18:40:29: Server cvar "allow_spectators" = "1"
+L 04/09/2021 - 18:40:29: Server cvar "amx_client_languages" = "0"
+L 04/09/2021 - 18:40:29: Server cvar "amx_language" = "ru"
+L 04/09/2021 - 18:40:29: Server cvar "amxmodx_version" = "1.9.0.5271"
+L 04/09/2021 - 18:40:29: Server cvar "antireklama" = "3.0b"
+L 04/09/2021 - 18:40:29: Server cvar "banipfakes_version" = "0.2"
+L 04/09/2021 - 18:40:29: Server cvar "brick_version" = "m4m3ts"
+L 04/09/2021 - 18:40:29: Server cvar "Colored Translit Cheat" = "Loaded"
+L 04/09/2021 - 18:40:29: Server cvar "Colored Translit Config" = "Loaded"
+L 04/09/2021 - 18:40:29: Server cvar "Colored Translit Ignores" = "Loaded"
+L 04/09/2021 - 18:40:29: Server cvar "Colored Translit Replace" = "Loaded"
+L 04/09/2021 - 18:40:29: Server cvar "Colored Translit Spam" = "Loaded"
+L 04/09/2021 - 18:40:29: Server cvar "Colored Translit Status" = "Loaded"
+L 04/09/2021 - 18:40:29: Server cvar "Colored Translit Swear" = "Loaded"
+L 04/09/2021 - 18:40:29: Server cvar "Colored Translit Version" = "2.0b Final"
+L 04/09/2021 - 18:40:29: Server cvar "coop" = "0"
+L 04/09/2021 - 18:40:29: Server cvar "csstatsx_sql" = "0.7.4"
+L 04/09/2021 - 18:40:29: Server cvar "deathmatch" = "1"
+L 04/09/2021 - 18:40:29: Server cvar "decalfrequency" = "30"
+L 04/09/2021 - 18:40:29: Server cvar "edgefriction" = "2"
+L 04/09/2021 - 18:40:29: Server cvar "ff_damage_reduction_bullets" = "0.35"
+L 04/09/2021 - 18:40:29: Server cvar "ff_damage_reduction_grenade" = "0.25"
+L 04/09/2021 - 18:40:29: Server cvar "ff_damage_reduction_grenade_self" = "1"
+L 04/09/2021 - 18:40:29: Server cvar "ff_damage_reduction_other" = "0.25"
+L 04/09/2021 - 18:40:29: Server cvar "game_version" = "5.11.0.420-dev+m"
+L 04/09/2021 - 18:40:29: Server cvar "humans_join_team" = "any"
+L 04/09/2021 - 18:40:29: Server cvar "max_queries_sec" = "3.0"
+L 04/09/2021 - 18:40:29: Server cvar "max_queries_sec_global" = "30"
+L 04/09/2021 - 18:40:29: Server cvar "max_queries_window" = "60"
+L 04/09/2021 - 18:40:29: Server cvar "metamod_version" = "1.3.0.128"
+L 04/09/2021 - 18:40:29: Server cvar "mp_afk_bomb_drop_time" = "0"
+L 04/09/2021 - 18:40:29: Server cvar "mp_autokick" = "0"
+L 04/09/2021 - 18:40:29: Server cvar "mp_autokick_timeout" = "-1"
+L 04/09/2021 - 18:40:29: Server cvar "mp_autoteambalance" = "0"
+L 04/09/2021 - 18:40:29: Server cvar "mp_buy_anywhere" = "0"
+L 04/09/2021 - 18:40:29: Server cvar "mp_buytime" = "0"
+L 04/09/2021 - 18:40:29: Server cvar "mp_c4timer" = "0"
+L 04/09/2021 - 18:40:29: Server cvar "mp_chattime" = "10"
+L 04/09/2021 - 18:40:29: Server cvar "mp_consistency" = "0"
+L 04/09/2021 - 18:40:29: Server cvar "mp_fadetoblack" = "0"
+L 04/09/2021 - 18:40:29: Server cvar "mp_flashlight" = "1"
+L 04/09/2021 - 18:40:29: Server cvar "mp_footsteps" = "1"
+L 04/09/2021 - 18:40:29: Server cvar "mp_forcecamera" = "2"
+L 04/09/2021 - 18:40:29: Server cvar "mp_forcechasecam" = "1"
+L 04/09/2021 - 18:40:29: Server cvar "mp_forcerespawn" = "0"
+L 04/09/2021 - 18:40:29: Server cvar "mp_fraglimit" = "0"
+L 04/09/2021 - 18:40:29: Server cvar "mp_fragsleft" = "0"
+L 04/09/2021 - 18:40:29: Server cvar "mp_freeforall" = "0"
+L 04/09/2021 - 18:40:29: Server cvar "mp_freezetime" = "0"
+L 04/09/2021 - 18:40:29: Server cvar "mp_friendlyfire" = "1"
+L 04/09/2021 - 18:40:29: Server cvar "mp_hostage_hurtable" = "1"
+L 04/09/2021 - 18:40:29: Server cvar "mp_hostagepenalty" = "0"
+L 04/09/2021 - 18:40:29: Server cvar "mp_infinite_ammo" = "0"
+L 04/09/2021 - 18:40:29: Server cvar "mp_infinite_grenades" = "0"
+L 04/09/2021 - 18:40:29: Server cvar "mp_item_staytime" = "300"
+L 04/09/2021 - 18:40:29: Server cvar "mp_kickpercent" = "0.66"
+L 04/09/2021 - 18:40:29: Server cvar "mp_limitteams" = "45"
+L 04/09/2021 - 18:40:29: Server cvar "mp_logdetail" = "3"
+L 04/09/2021 - 18:40:29: Server cvar "mp_logfile" = "1"
+L 04/09/2021 - 18:40:29: Server cvar "mp_logmessages" = "1"
+L 04/09/2021 - 18:40:29: Server cvar "mp_mapvoteratio" = "0.66"
+L 04/09/2021 - 18:40:29: Server cvar "mp_maxmoney" = "16000"
+L 04/09/2021 - 18:40:29: Server cvar "mp_maxrounds" = "0"
+L 04/09/2021 - 18:40:29: Server cvar "mp_mirrordamage" = "0"
+L 04/09/2021 - 18:40:29: Server cvar "mp_playerid" = "0"
+L 04/09/2021 - 18:40:29: Server cvar "mp_radio_maxinround" = "60"
+L 04/09/2021 - 18:40:29: Server cvar "mp_radio_timeout" = "1.5"
+L 04/09/2021 - 18:40:29: Server cvar "mp_respawn_immunity_effects" = "1"
+L 04/09/2021 - 18:40:29: Server cvar "mp_respawn_immunitytime" = "0"
+L 04/09/2021 - 18:40:29: Server cvar "mp_round_infinite" = "0"
+L 04/09/2021 - 18:40:29: Server cvar "mp_round_restart_delay" = "5"
+L 04/09/2021 - 18:40:29: Server cvar "mp_roundover" = "0"
+L 04/09/2021 - 18:40:29: Server cvar "mp_roundtime" = "0"
+L 04/09/2021 - 18:40:29: Server cvar "mp_show_scenarioicon" = "0"
+L 04/09/2021 - 18:40:29: Server cvar "mp_startmoney" = "1"
+L 04/09/2021 - 18:40:29: Server cvar "mp_timeleft" = "44:42"
+L 04/09/2021 - 18:40:29: Server cvar "mp_timelimit" = "45"
+L 04/09/2021 - 18:40:29: Server cvar "mp_tkpunish" = "0"
+L 04/09/2021 - 18:40:29: Server cvar "mp_windifference" = "1"
+L 04/09/2021 - 18:40:29: Server cvar "mp_winlimit" = "0"
+L 04/09/2021 - 18:40:29: Server cvar "pausable" = "0"
+L 04/09/2021 - 18:40:29: Server cvar "reaimdetector_version" = "0.2.2"
+L 04/09/2021 - 18:40:29: Server cvar "reu_version" = "0.1.0.92"
+L 04/09/2021 - 18:40:29: Server cvar "revoice_version" = "0.1.0.32"
+L 04/09/2021 - 18:40:29: Server cvar "sam_version" = "1.0"
+L 04/09/2021 - 18:40:29: Server cvar "SpecList" = "1.3"
+L 04/09/2021 - 18:40:29: Server cvar "sv_accelerate" = "5"
+L 04/09/2021 - 18:40:29: Server cvar "sv_aim" = "0"
+L 04/09/2021 - 18:40:29: Server cvar "sv_airaccelerate" = "10"
+L 04/09/2021 - 18:40:29: Server cvar "sv_allowupload" = "1"
+L 04/09/2021 - 18:40:29: Server cvar "sv_alltalk" = "1"
+L 04/09/2021 - 18:40:29: Server cvar "sv_bounce" = "1"
+L 04/09/2021 - 18:40:29: Server cvar "sv_cheats" = "0"
+L 04/09/2021 - 18:40:29: Server cvar "sv_clienttrace" = "1"
+L 04/09/2021 - 18:40:29: Server cvar "sv_contact" = ""
+L 04/09/2021 - 18:40:29: Server cvar "sv_friction" = "4"
+L 04/09/2021 - 18:40:29: Server cvar "sv_gravity" = "800"
+L 04/09/2021 - 18:40:29: Server cvar "sv_logblocks" = "0"
+L 04/09/2021 - 18:40:29: Server cvar "sv_maxrate" = "100000"
+L 04/09/2021 - 18:40:29: Server cvar "sv_maxspeed" = "320"
+L 04/09/2021 - 18:40:29: Server cvar "sv_minrate" = "15000"
+L 04/09/2021 - 18:40:29: Server cvar "sv_password" = ""
+L 04/09/2021 - 18:40:29: Server cvar "sv_proxies" = "1"
+L 04/09/2021 - 18:40:29: Server cvar "sv_restart" = "0"
+L 04/09/2021 - 18:40:29: Server cvar "sv_restartround" = "0"
+L 04/09/2021 - 18:40:29: Server cvar "sv_stepsize" = "18"
+L 04/09/2021 - 18:40:29: Server cvar "sv_stopspeed" = "75"
+L 04/09/2021 - 18:40:29: Server cvar "sv_uploadmax" = "0.5"
+L 04/09/2021 - 18:40:29: Server cvar "sv_version" = "1.1.2.7/Stdio,48,2369"
+L 04/09/2021 - 18:40:29: Server cvar "sv_voiceenable" = "1"
+L 04/09/2021 - 18:40:29: Server cvar "sv_wateraccelerate" = "10"
+L 04/09/2021 - 18:40:29: Server cvar "sv_waterfriction" = "1"
+L 04/09/2021 - 18:40:29: Server cvar "whb_version" = "1.5.696"
+L 04/09/2021 - 18:40:29: Server cvars end
+L 04/09/2021 - 18:40:29: -------- Mapchange to jb_fx_texas_v2 --------
+L 04/09/2021 - 18:40:29: Server cvar "sv_maxspeed" = "900"
+Executing ReGameDLL Configuration File 
+unknown command "bot_deathmatch"
+Executing ReGameDLL Configuration File 
+unknown command "bot_deathmatch"
+unknown command "amx_mode"
+unknown command "amx_reservation"
+unknown command "amx_hideslots"
+unknown command "amx_time_display"
+unknown command "amx_time_voice"
+unknown command "amx_extendmap_max"
+unknown command "amx_extendmap_step"
+unknown command "amx_language_display_msg"
+unknown command "amx_help_display_msg"
+unknown command "amx_help_display_msg_time"
+unknown command "amx_help_amount_per_page"
+unknown command "amx_statsx_duration"
+unknown command "amx_statsx_freeze"
+unknown command "amx_restrmapsettings"
+unknown command "amx_amxadmins_table"
+unknown command "amx_admins_table"
+unknown command "amx_mode"
+unknown command "amx_reservation"
+unknown command "amx_hideslots"
+unknown command "amx_time_display"
+unknown command "amx_time_voice"
+unknown command "amx_extendmap_max"
+unknown command "amx_extendmap_step"
+unknown command "amx_language_display_msg"
+unknown command "amx_help_display_msg"
+unknown command "amx_help_display_msg_time"
+unknown command "amx_help_amount_per_page"
+unknown command "amx_statsx_duration"
+unknown command "amx_statsx_freeze"
+unknown command "amx_restrmapsettings"
+IP Подошёл.
+L 04/09/2021 - 18:40:30: [colored_translit_config.amxx] Can't add menu item "Настройки чата" from plugin "Colored Translit Config" to menu set because the Menus Front-End plugin itself is not loaded!
+L 04/09/2021 - 18:40:30: [map_chooser_14.amxx] Загружено 45 карт из addons/amxmodx/configs/maps.ini
+L 04/09/2021 - 18:40:30: [map_chooser_14.amxx] Режим сортировки карт по онлайну выключен!
+========== [Colored Translit] START SET FCVAR ==========
+=========== [Colored Translit] END SET FCVAR ===========
+=========== [Colored Translit] START DEBUG =============
+[Colored Translit] Translit File Loaded. Symbols: 65
+[Colored Translit] Swear File Loaded. Swears: 0
+[Colored Translit] Replace File Loaded. Replacements: 1
+[Colored Translit] Ignore File Loaded. Ignore Words: 35
+[Colored Translit] Spam File Loaded. Spam Words: 172
+[Colored Translit] Cheat File Loaded. Cheat Words: 206
+[Colored Translit] Config File Executed. Version: 3.0
+=========== [Colored Translit] END DEBUG ===============
+[COVID mode]: Everything is fine! The configuration file is loaded! 
+unknown command "vk"
+couldn't exec addons/amxmodx/configs/jb_standard/all_cvars.cfg
+unknown command "jbe_last_prisoner_money"
+unknown command "jbe_vip_discount_shop"
+L 04/09/2021 - 18:40:30: [admin_loader_for_fb.amxx] Загружено 15 администраторов из MySQL
+L 04/09/2021 - 18:40:31: Started map "jb_fx_texas_v2" (CRC "1122628758")
+L 04/09/2021 - 18:40:31: Server cvar "sv_maxspeed" = "320"
+L 04/09/2021 - 18:40:31: Server cvar "mp_logdetail" = "1"
+L 04/09/2021 - 18:40:31: Log file closed
+Server logging data to file logs/L0409036.log
+L 04/09/2021 - 18:40:31: Log file started (file "logs/L0409036.log") (game "cstrike") (version "48/1.1.2.7/Stdio/2369")
+unknown command "sv_logecho"
+unknown command "sv_logfile"
+L 04/09/2021 - 18:40:31: Server cvar "mp_logdetail" = "3"
+unknown command "mp_autocrosshair"
+unknown command "sv_airmove"
+unknown command "sv_voicequality"
+unknown command "sv_voicecodec"
+unknown command "amx_extendmap_max"
+unknown command "amx_extendmap_step"
+unknown command "cam_change"
+unknown command "cam_connect"
+unknown command "cam_message"
+unknown command "sid_url"
+unknown command "]fastcup.net/rating.html"
+unknown command "precache_hl"
+unknown command "precache_weapons"
+unknown command "amx_extendmap_max"
+unknown command "amx_extendmap_step"
+unknown command "sv_consistency"
+L 04/09/2021 - 18:40:31: [REUNION]: 51.210.83.23 banned for 10 minutes for query flooding (PPS: 280)
+fsdfsd - 1 - 1
+unknown command "amx_amxadmins_table"
+unknown command "amx_admins_table"
+L 04/09/2021 - 18:40:31: [pluginmenu.amxx] Can't add menu item "Plugin Cvars" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+L 04/09/2021 - 18:40:31: [pluginmenu.amxx] Can't add menu item "Plugin Commands" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+L 04/09/2021 - 18:40:31: [AMXX] Plugin ("gamecms_skins.amxx") is setting itself as failed.
+L 04/09/2021 - 18:40:31: [AMXX] Plugin says: Can't connect to MySQL server on '45.136.56.141' (4)
+L 04/09/2021 - 18:40:31: [AMXX] Run time error 1 (plugin "gamecms_skins.amxx") - forced exit
+L 04/09/2021 - 18:40:32: World triggered "Round_Start"
+82.208.115.65:37376:reconnect
+L 04/09/2021 - 18:40:34: "timonia<11><STEAM_1:0:1479724954><>" connected, address "82.208.115.65:37376"
+109.120.15.54:27005:reconnect
+L 04/09/2021 - 18:40:35: "KaKoCuK<12><STEAM_1:0:73686800><>" connected, address "109.120.15.54:27005"
+82.208.115.65:37376:reconnect
+L 04/09/2021 - 18:40:36: "timonia<13><STEAM_1:0:1479724954><>" connected, address "82.208.115.65:37376"
+L 04/09/2021 - 18:40:38: "KaKoCuK<12><STEAM_1:0:73686800><>" entered the game
+L 04/09/2021 - 18:40:39: [admin_loader_for_fb.amxx] Login: "timonia<13><STEAM_1:0:1479724954><>" became an admin (account "timonia") (nickname "timonia") (access "diqrst") (address "82.208.115.65")
+L 04/09/2021 - 18:40:39: Admin timonia connected, ip: 82.208.115.65, Steam_ID: STEAM_1:0:1479724954
+L 04/09/2021 - 18:40:39: "timonia<13><STEAM_1:0:1479724954><>" entered the game
+L 04/09/2021 - 18:40:40: "KaKoCuK<12><STEAM_1:0:73686800><>" joined team "CT"
+L 04/09/2021 - 18:40:40: World triggered "Round_Draw" (CT "0") (T "0")
+L 04/09/2021 - 18:40:40: World triggered "Round_End"
+L 04/09/2021 - 18:40:41: "timonia<13><STEAM_1:0:1479724954><>" joined team "TERRORIST"
+176.101.196.6:27005:reconnect
+L 04/09/2021 - 18:40:43: "КаТёНоК<14><STEAM_1:0:1406415177><>" connected, address "176.101.196.6:27005"
+L 04/09/2021 - 18:40:45: World triggered "Round_Start"
+L 04/09/2021 - 18:40:46: "КаТёНоК<14><STEAM_1:0:1406415177><>" entered the game
+90.189.189.42:27005:reconnect
+L 04/09/2021 - 18:40:47: "Animeshik<15><STEAM_1:0:1615668406><>" connected, address "90.189.189.42:27005"
+L 04/09/2021 - 18:40:48: "КаТёНоК<14><STEAM_1:0:1406415177><>" joined team "TERRORIST"
+L 04/09/2021 - 18:40:48: World triggered "Game_Commencing"
+L 04/09/2021 - 18:40:48: World triggered "Game_Commencing" (CT "0") (T "0")
+L 04/09/2021 - 18:40:48: World triggered "Round_End"
+L 04/09/2021 - 18:40:51: World triggered "Round_Start"
+L 04/09/2021 - 18:40:54: "Animeshik<15><STEAM_1:0:1615668406><>" entered the game
+L 04/09/2021 - 18:40:57: "Animeshik<15><STEAM_1:0:1615668406><>" joined team "TERRORIST"
+L 04/09/2021 - 18:41:09: "KaKoCuK<12><STEAM_1:0:73686800><CT>" attacked "КаТёНоК<14><STEAM_1:0:1406415177><TERRORIST>" with "famas" (damage "128") (damage_armor "0") (health "-28") (armor "0")
+L 04/09/2021 - 18:41:09: "KaKoCuK<12><STEAM_1:0:73686800><CT>" killed "КаТёНоК<14><STEAM_1:0:1406415177><TERRORIST>" with "famas"
+L 04/09/2021 - 18:41:15: "KaKoCuK<12><STEAM_1:0:73686800><CT>" attacked "timonia<13><STEAM_1:0:1479724954><TERRORIST>" with "famas" (damage "31") (damage_armor "0") (health "69") (armor "0")
+L 04/09/2021 - 18:41:15: "KaKoCuK<12><STEAM_1:0:73686800><CT>" attacked "timonia<13><STEAM_1:0:1479724954><TERRORIST>" with "famas" (damage "27") (damage_armor "0") (health "42") (armor "0")
+L 04/09/2021 - 18:41:16: Server cvar "sv_restart" = "5"
+L 04/09/2021 - 18:41:16: "KaKoCuK<12><STEAM_1:0:73686800><CT>" attacked "timonia<13><STEAM_1:0:1479724954><TERRORIST>" with "famas" (damage "38") (damage_armor "0") (health "28") (armor "0")
+L 04/09/2021 - 18:41:17: World triggered "Restart_Round_(5_seconds)"
+L 04/09/2021 - 18:41:17: Team "CT" scored "0" with "1" players
+L 04/09/2021 - 18:41:17: Team "TERRORIST" scored "0" with "3" players
+L 04/09/2021 - 18:41:17: Server cvar "sv_restart" = "0"
+L 04/09/2021 - 18:41:18: "KaKoCuK<12><STEAM_1:0:73686800><CT>" attacked "timonia<13><STEAM_1:0:1479724954><TERRORIST>" with "famas" (damage "21") (damage_armor "0") (health "8") (armor "0")
+L 04/09/2021 - 18:41:18: "KaKoCuK<12><STEAM_1:0:73686800><CT>" attacked "timonia<13><STEAM_1:0:1479724954><TERRORIST>" with "famas" (damage "28") (damage_armor "0") (health "-20") (armor "0")
+L 04/09/2021 - 18:41:18: "KaKoCuK<12><STEAM_1:0:73686800><CT>" killed "timonia<13><STEAM_1:0:1479724954><TERRORIST>" with "famas"
+L 04/09/2021 - 18:41:18: Team "CT" triggered "CTs_Win" (CT "1") (T "0")
+L 04/09/2021 - 18:41:18: World triggered "Round_End"
+L 04/09/2021 - 18:41:22: "KaKoCuK<12><STEAM_1:0:73686800><CT>" committed suicide with "worldspawn" (world)
+L 04/09/2021 - 18:41:23: World triggered "Round_Start"
+L 04/09/2021 - 18:43:10: "timonia<13><STEAM_1:0:1479724954><TERRORIST>" committed suicide with "worldspawn" (world)
+L 04/09/2021 - 18:44:48: "Animeshik<15><STEAM_1:0:1615668406><TERRORIST>" attacked "KaKoCuK<12><STEAM_1:0:73686800><CT>" with "awp" (damage "448") (damage_armor "0") (health "-140") (armor "350")
+L 04/09/2021 - 18:44:48: "Animeshik<15><STEAM_1:0:1615668406><TERRORIST>" killed "KaKoCuK<12><STEAM_1:0:73686800><CT>" with "awp"
+L 04/09/2021 - 18:44:48: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "1")
+L 04/09/2021 - 18:44:48: World triggered "Round_End"
+L 04/09/2021 - 18:44:53: World triggered "Round_Start"
+L 04/09/2021 - 18:48:03: Kick: "KaKoCuK<12><STEAM_1:0:73686800><>" was kicked by "Console" (message ""Вы забанены. Подробная информация в вашей консоли."")
+L 04/09/2021 - 18:48:03: "KaKoCuK<12><STEAM_1:0:73686800><CT>" triggered "weaponstats" (weapon "famas") (shots "25") (hits "6") (kills "2") (headshots "1") (tks "0") (damage "273") (deaths "0")
+L 04/09/2021 - 18:48:03: "KaKoCuK<12><STEAM_1:0:73686800><CT>" triggered "weaponstats2" (weapon "famas") (head "1") (chest "1") (stomach "2") (leftarm "1") (rightarm "0") (leftleg "0") (rightleg "1")
+L 04/09/2021 - 18:48:03: "KaKoCuK<12><STEAM_1:0:73686800><CT>" triggered "weaponstats" (weapon "mp5navy") (shots "25") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "1")
+L 04/09/2021 - 18:48:03: "KaKoCuK<12><STEAM_1:0:73686800><CT>" triggered "weaponstats2" (weapon "mp5navy") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/09/2021 - 18:48:03: "KaKoCuK<12><STEAM_1:0:73686800><CT>" triggered "time" (time "7:25")
+L 04/09/2021 - 18:48:03: "KaKoCuK<12><STEAM_1:0:73686800><CT>" triggered "latency" (ping "87")
+L 04/09/2021 - 18:48:03: "KaKoCuK<12><STEAM_1:0:73686800><CT>" disconnected
+109.120.15.54:27005:reconnect
+L 04/09/2021 - 18:48:10: "KaKoCuK<16><STEAM_1:0:73686800><>" connected, address "109.120.15.54:27005"
+L 04/09/2021 - 18:48:11: Kick: "KaKoCuK<16><STEAM_1:0:73686800><>" was kicked by "Console" (message ""Вы забанены. Подробная информация в вашей консоли."")
+L 04/09/2021 - 18:48:14: "Animeshik<15><STEAM_1:0:1615668406><TERRORIST>" committed suicide with "world"
+L 04/09/2021 - 18:48:14: "Animeshik<15><STEAM_1:0:1615668406><TERRORIST>" joined team "CT"
+L 04/09/2021 - 18:48:14: World triggered "Game_Commencing"
+L 04/09/2021 - 18:48:14: World triggered "Game_Commencing" (CT "0") (T "1")
+L 04/09/2021 - 18:48:14: World triggered "Round_End"
+L 04/09/2021 - 18:48:17: World triggered "Round_Start"
+L 04/09/2021 - 18:50:20: "Animeshik<15><STEAM_1:0:1615668406><CT>" committed suicide with "worldspawn" (world)
+L 04/09/2021 - 18:50:20: Team "TERRORIST" triggered "Terrorists_Win" (CT "0") (T "1")
+L 04/09/2021 - 18:50:20: World triggered "Round_End"
+L 04/09/2021 - 18:50:26: World triggered "Round_Start"
+L 04/09/2021 - 18:51:59: "timonia<13><STEAM_1:0:1479724954><TERRORIST>" committed suicide with "worldspawn" (world)
+L 04/09/2021 - 18:52:24: "Moris<17><STEAM_1:0:1269626336><>" connected, address "213.174.0.194:27005"
+213.174.0.194:27005:reconnect
+L 04/09/2021 - 18:52:28: "Moris<18><STEAM_1:0:1269626336><>" connected, address "213.174.0.194:27005"
+L 04/09/2021 - 18:52:33: "Moris<18><STEAM_1:0:1269626336><>" entered the game
+L 04/09/2021 - 18:52:42: "Moris<18><STEAM_1:0:1269626336><UNASSIGNED>" triggered "time" (time "0:09")
+L 04/09/2021 - 18:52:42: "Moris<18><STEAM_1:0:1269626336><UNASSIGNED>" triggered "latency" (ping "0")
+L 04/09/2021 - 18:52:42: "Moris<18><STEAM_1:0:1269626336><>" disconnected
+213.174.0.194:27005:reconnect
+L 04/09/2021 - 18:52:44: "Moris<19><STEAM_1:0:1269626336><>" connected, address "213.174.0.194:27005"
+L 04/09/2021 - 18:52:46: "Moris<19><STEAM_1:0:1269626336><>" entered the game
+L 04/09/2021 - 18:52:52: "Moris<19><STEAM_1:0:1269626336><>" joined team "TERRORIST"
+L 04/09/2021 - 18:53:19: "КаТёНоК<14><STEAM_1:0:1406415177><TERRORIST>" attacked "Animeshik<15><STEAM_1:0:1615668406><CT>" with "deagle" (damage "35") (damage_armor "5") (health "64") (armor "94")
+L 04/09/2021 - 18:53:24: "Animeshik<15><STEAM_1:0:1615668406><CT>" attacked "КаТёНоК<14><STEAM_1:0:1406415177><TERRORIST>" with "deagle" (damage "38") (damage_armor "6") (health "61") (armor "93")
+L 04/09/2021 - 18:53:30: Kick: "Moris<19><STEAM_1:0:1269626336><>" was kicked by "Console" (message ""Вы были кикнуты из-за плохого соединения"")
+L 04/09/2021 - 18:53:30: "Moris<19><STEAM_1:0:1269626336><TERRORIST>" triggered "time" (time "0:43")
+L 04/09/2021 - 18:53:30: "Moris<19><STEAM_1:0:1269626336><TERRORIST>" triggered "latency" (ping "58")
+L 04/09/2021 - 18:53:30: "Moris<19><STEAM_1:0:1269626336><TERRORIST>" disconnected
+L 04/09/2021 - 18:53:30: "Animeshik<15><STEAM_1:0:1615668406><CT>" attacked "КаТёНоК<14><STEAM_1:0:1406415177><TERRORIST>" with "deagle" (damage "33") (damage_armor "4") (health "29") (armor "88")
+213.174.0.194:27005:reconnect
+L 04/09/2021 - 18:53:33: "Moris<20><STEAM_1:0:1269626336><>" connected, address "213.174.0.194:27005"
+L 04/09/2021 - 18:53:35: "Moris<20><STEAM_1:0:1269626336><>" entered the game
+L 04/09/2021 - 18:53:38: "Moris<20><STEAM_1:0:1269626336><>" joined team "TERRORIST"
+L 04/09/2021 - 18:53:45: "Animeshik<15><STEAM_1:0:1615668406><CT>" attacked "КаТёНоК<14><STEAM_1:0:1406415177><TERRORIST>" with "deagle" (damage "34") (damage_armor "5") (health "-5") (armor "82")
+L 04/09/2021 - 18:53:45: "Animeshik<15><STEAM_1:0:1615668406><CT>" killed "КаТёНоК<14><STEAM_1:0:1406415177><TERRORIST>" with "deagle"
+L 04/09/2021 - 18:53:45: Team "CT" triggered "CTs_Win" (CT "1") (T "1")
+L 04/09/2021 - 18:53:45: World triggered "Round_End"
+L 04/09/2021 - 18:53:50: World triggered "Round_Start"
+L 04/09/2021 - 18:56:01: "Attis<21><STEAM_3:0:192519781><>" connected, address "5.8.16.87:54789"
+L 04/09/2021 - 18:56:01: Kick: "Attis<21><STEAM_3:0:192519781><>" was kicked by "Console" (message "Ваши настройки видео-режима запрещены на сервере!")
+L 04/09/2021 - 18:56:08: "КаТёНоК<14><STEAM_1:0:1406415177><TERRORIST>" attacked "Animeshik<15><STEAM_1:0:1615668406><CT>" with "knife" (damage "11") (damage_armor "0") (health "238") (armor "350")
+L 04/09/2021 - 18:56:09: "Animeshik<15><STEAM_1:0:1615668406><CT>" attacked "КаТёНоК<14><STEAM_1:0:1406415177><TERRORIST>" with "m4a1" (damage "32") (damage_armor "0") (health "218") (armor "0")
+L 04/09/2021 - 18:56:09: "Animeshik<15><STEAM_1:0:1615668406><CT>" attacked "КаТёНоК<14><STEAM_1:0:1406415177><TERRORIST>" with "m4a1" (damage "32") (damage_armor "0") (health "186") (armor "0")
+L 04/09/2021 - 18:56:09: "Animeshik<15><STEAM_1:0:1615668406><CT>" attacked "КаТёНоК<14><STEAM_1:0:1406415177><TERRORIST>" with "m4a1" (damage "32") (damage_armor "0") (health "154") (armor "0")
+L 04/09/2021 - 18:57:11: "КаТёНоК<14><STEAM_1:0:1406415177><TERRORIST>" changed name to "МАКСИМ"
+L 04/09/2021 - 19:01:18: "МАКСИМ<14><STEAM_1:0:1406415177><TERRORIST>" triggered "weaponstats" (weapon "deagle") (shots "7") (hits "1") (kills "0") (headshots "0") (tks "0") (damage "35") (deaths "1")
+L 04/09/2021 - 19:01:18: "МАКСИМ<14><STEAM_1:0:1406415177><TERRORIST>" triggered "weaponstats2" (weapon "deagle") (head "0") (chest "0") (stomach "1") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/09/2021 - 19:01:18: "МАКСИМ<14><STEAM_1:0:1406415177><TERRORIST>" triggered "weaponstats" (weapon "knife") (shots "19") (hits "1") (kills "0") (headshots "0") (tks "0") (damage "11") (deaths "1")
+L 04/09/2021 - 19:01:18: "МАКСИМ<14><STEAM_1:0:1406415177><TERRORIST>" triggered "weaponstats2" (weapon "knife") (head "1") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/09/2021 - 19:01:18: "МАКСИМ<14><STEAM_1:0:1406415177><TERRORIST>" triggered "time" (time "20:32")
+L 04/09/2021 - 19:01:18: "МАКСИМ<14><STEAM_1:0:1406415177><TERRORIST>" triggered "latency" (ping "42")
+L 04/09/2021 - 19:01:18: "МАКСИМ<14><STEAM_1:0:1406415177><TERRORIST>" disconnected
+176.101.196.6:27005:reconnect
+L 04/09/2021 - 19:02:26: "Vlad<22><STEAM_1:0:1406415177><>" connected, address "176.101.196.6:27005"
+176.101.196.6:27005:reconnect
+L 04/09/2021 - 19:02:29: "Vlad<23><STEAM_1:0:1406415177><>" connected, address "176.101.196.6:27005"
+L 04/09/2021 - 19:02:31: "Vlad<23><STEAM_1:0:1406415177><>" entered the game
+L 04/09/2021 - 19:02:33: "Vlad<23><STEAM_1:0:1406415177><>" joined team "TERRORIST"
+L 04/09/2021 - 19:02:36: "Animeshik<15><STEAM_1:0:1615668406><CT>" committed suicide with "world"
+L 04/09/2021 - 19:02:36: Team "TERRORIST" triggered "Terrorists_Win" (CT "1") (T "2")
+L 04/09/2021 - 19:02:36: World triggered "Round_End"
+L 04/09/2021 - 19:02:36: "Animeshik<15><STEAM_1:0:1615668406><CT>" joined team "TERRORIST"
+L 04/09/2021 - 19:02:37: "Animeshik<15><STEAM_1:0:1615668406><TERRORIST>" joined team "CT"
+L 04/09/2021 - 19:02:41: World triggered "Round_Start"
+L 04/09/2021 - 19:04:09: "Animeshik<15><STEAM_1:0:1615668406><CT>" attacked "Vlad<23><STEAM_1:0:1406415177><TERRORIST>" with "m4a1" (damage "124") (damage_armor "0") (health "-24") (armor "0")
+L 04/09/2021 - 19:04:09: "Animeshik<15><STEAM_1:0:1615668406><CT>" killed "Vlad<23><STEAM_1:0:1406415177><TERRORIST>" with "m4a1"
+L 04/09/2021 - 19:04:29: "vin<24><STEAM_1:0:1423788089><>" connected, address "188.233.153.113:27005"
+L 04/09/2021 - 19:04:56: "timonia<13><STEAM_1:0:1479724954><TERRORIST>" committed suicide with "worldspawn" (world)
+L 04/09/2021 - 19:05:11: "timonia<13><STEAM_1:0:1479724954><TERRORIST>" attacked "Animeshik<15><STEAM_1:0:1615668406><CT>" with "m4a1" (damage "128") (damage_armor "0") (health "287") (armor "350")
+L 04/09/2021 - 19:05:11: "Vlad<23><STEAM_1:0:1406415177><TERRORIST>" attacked "Animeshik<15><STEAM_1:0:1615668406><CT>" with "knife" (damage "12") (damage_armor "1") (health "274") (armor "348")
+L 04/09/2021 - 19:05:12: "timonia<13><STEAM_1:0:1479724954><TERRORIST>" attacked "Animeshik<15><STEAM_1:0:1615668406><CT>" with "m4a1" (damage "128") (damage_armor "0") (health "147") (armor "348")
+L 04/09/2021 - 19:05:12: "Animeshik<15><STEAM_1:0:1615668406><CT>" attacked "timonia<13><STEAM_1:0:1479724954><TERRORIST>" with "knife" (damage "65") (damage_armor "0") (health "35") (armor "0")
+L 04/09/2021 - 19:05:12: "timonia<13><STEAM_1:0:1479724954><TERRORIST>" attacked "Animeshik<15><STEAM_1:0:1615668406><CT>" with "m4a1" (damage "128") (damage_armor "0") (health "19") (armor "348")
+L 04/09/2021 - 19:05:12: "timonia<13><STEAM_1:0:1479724954><TERRORIST>" attacked "Animeshik<15><STEAM_1:0:1615668406><CT>" with "m4a1" (damage "128") (damage_armor "0") (health "-109") (armor "348")
+L 04/09/2021 - 19:05:12: "timonia<13><STEAM_1:0:1479724954><TERRORIST>" killed "Animeshik<15><STEAM_1:0:1615668406><CT>" with "m4a1"
+L 04/09/2021 - 19:05:12: Team "TERRORIST" triggered "Terrorists_Win" (CT "1") (T "3")
+L 04/09/2021 - 19:05:12: World triggered "Round_End"
+L 04/09/2021 - 19:05:17: World triggered "Round_Start"
+L 04/09/2021 - 19:06:32: "timonia<13><STEAM_1:0:1479724954><TERRORIST>" committed suicide with "worldspawn" (world)
+L 04/09/2021 - 19:06:41: "Animeshik<15><STEAM_1:0:1615668406><CT>" attacked "Vlad<23><STEAM_1:0:1406415177><TERRORIST>" with "ak47" (damage "26") (damage_armor "0") (health "73") (armor "0")
+L 04/09/2021 - 19:06:41: "Animeshik<15><STEAM_1:0:1615668406><CT>" attacked "Vlad<23><STEAM_1:0:1406415177><TERRORIST>" with "ak47" (damage "43") (damage_armor "0") (health "30") (armor "0")
+L 04/09/2021 - 19:06:41: "Animeshik<15><STEAM_1:0:1615668406><CT>" attacked "Vlad<23><STEAM_1:0:1406415177><TERRORIST>" with "ak47" (damage "43") (damage_armor "0") (health "-12") (armor "0")
+L 04/09/2021 - 19:06:41: "Animeshik<15><STEAM_1:0:1615668406><CT>" killed "Vlad<23><STEAM_1:0:1406415177><TERRORIST>" with "ak47"
+L 04/09/2021 - 19:07:42: "Hallder<25><STEAM_1:0:779563444><>" connected, address "85.175.179.61:27005"
+85.175.179.61:27005:reconnect
+L 04/09/2021 - 19:07:46: "Hallder<26><STEAM_1:0:779563444><>" connected, address "85.175.179.61:27005"
+L 04/09/2021 - 19:07:55: "Hallder<26><STEAM_1:0:779563444><>" entered the game
+L 04/09/2021 - 19:07:57: "Hallder<26><STEAM_1:0:779563444><>" joined team "TERRORIST"
+SZ_GetSpace: overflow on Vlad
+WARNING: datagram overflowed for Vlad
+SZ_GetSpace: overflow on Vlad
+WARNING: datagram overflowed for Vlad
+SZ_GetSpace: overflow on Vlad
+WARNING: datagram overflowed for Vlad
+L 04/09/2021 - 19:08:12: "Moris<20><STEAM_1:0:1269626336><TERRORIST>" committed suicide with "worldspawn" (world)
+L 04/09/2021 - 19:08:29: "Vlad<23><STEAM_1:0:1406415177><TERRORIST>" triggered "weaponstats" (weapon "knife") (shots "2") (hits "1") (kills "0") (headshots "0") (tks "0") (damage "12") (deaths "2")
+L 04/09/2021 - 19:08:29: "Vlad<23><STEAM_1:0:1406415177><TERRORIST>" triggered "weaponstats2" (weapon "knife") (head "1") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 04/09/2021 - 19:08:29: "Vlad<23><STEAM_1:0:1406415177><TERRORIST>" triggered "time" (time "5:57")
+L 04/09/2021 - 19:08:29: "Vlad<23><STEAM_1:0:1406415177><TERRORIST>" triggered "latency" (ping "40")
+L 04/09/2021 - 19:08:29: "Vlad<23><STEAM_1:0:1406415177><TERRORIST>" disconnected
+176.101.196.6:27005:reconnect
+L 04/09/2021 - 19:08:29: "t1<27><STEAM_1:0:1406415177><>" connected, address "176.101.196.6:27005"
+176.101.196.6:27005:reconnect
+L 04/09/2021 - 19:08:31: "t1<28><STEAM_1:0:1406415177><>" connected, address "176.101.196.6:27005"
+L 04/09/2021 - 19:08:33: "t1<28><STEAM_1:0:1406415177><>" entered the game
+L 04/09/2021 - 19:08:39: "t1<28><STEAM_1:0:1406415177><>" joined team "TERRORIST"
+L 04/09/2021 - 19:08:55: "timonia<13><STEAM_1:0:1479724954><TERRORIST>" attacked "Animeshik<15><STEAM_1:0:1615668406><CT>" with "deagle" (damage "33") (damage_armor "5") (health "67") (armor "94")
+L 04/09/2021 - 19:08:58: "timonia<13><STEAM_1:0:1479724954><TERRORIST>" attacked "Animeshik<15><STEAM_1:0:1615668406><CT>" with "deagle" (damage "33") (damage_armor "0") (health "34") (armor "94")
+L 04/09/2021 - 19:09:11: "timonia<13><STEAM_1:0:1479724954><TERRORIST>" attacked "Animeshik<15><STEAM_1:0:1615668406><CT>" with "deagle" (damage "33") (damage_armor "5") (health "1") (armor "89")
+L 04/09/2021 - 19:09:11: "timonia<13><STEAM_1:0:1479724954><TERRORIST>" attacked "Animeshik<15><STEAM_1:0:1615668406><CT>" with "deagle" (damage "21") (damage_armor "0") (health "-20") (armor "89")
+L 04/09/2021 - 19:09:11: "timonia<13><STEAM_1:0:1479724954><TERRORIST>" killed "Animeshik<15><STEAM_1:0:1615668406><CT>" with "deagle"
+L 04/09/2021 - 19:09:11: Team "TERRORIST" triggered "Terrorists_Win" (CT "1") (T "4")
+L 04/09/2021 - 19:09:11: World triggered "Round_End"
+L 04/09/2021 - 19:09:16: World triggered "Round_Start"
+L 04/09/2021 - 19:09:45: "Animeshik<15><STEAM_1:0:1615668406><CT>" attacked "t1<28><STEAM_1:0:1406415177><TERRORIST>" with "smokegrenade" (damage "50") (damage_armor "0") (health "50") (armor "0")
+L 04/09/2021 - 19:09:59: "Animeshik<15><STEAM_1:0:1615668406><CT>" attacked "t1<28><STEAM_1:0:1406415177><TERRORIST>" with "smokegrenade" (damage "50") (damage_armor "0") (health "0") (armor "0")
+L 04/09/2021 - 19:09:59: "Animeshik<15><STEAM_1:0:1615668406><CT>" killed "t1<28><STEAM_1:0:1406415177><TERRORIST>" with "smokegrenade"
+L 04/09/2021 - 19:10:02: "Animeshik<15><STEAM_1:0:1615668406><CT>" attacked "Hallder<26><STEAM_1:0:779563444><TERRORIST>" with "smokegrenade" (damage "50") (damage_armor "0") (health "50") (armor "0")

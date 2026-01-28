@@ -1,0 +1,154 @@
+﻿[en]
+JBE_HOOK_AR4_MODE_NOFILE_COLOR = Не найден конфигурационный файл цветов
+JBE_HOOK_AR4_MODE_NOFILE_SPRITE = Не найден конфигурационный файл спрайтов
+JBE_HOOK_AR4_MODE_BUILDING_NOCOLOR = Ошибка построение цветов: отсутсвуют цвета
+JBE_HOOK_AR4_MODE_BUILDING_NOSPRITE = Ошибка построение спрайтов: отсутсвуют спрайты
+JBE_HOOK_AR4_MODE_BUILDING_NOSOUND = Ошибка построение звуков: отсутсвуют звуки
+JBE_HOOK_AR4_MODE_BUILDING_NOCOLORDEF = Ошибка построение цветов: отсутствует цвет по умолчанию
+JBE_HOOK_AR4_MODE_BUILDING_NOSPRITEDEF = Ошибка построение спрайтов: отсутствует спрайт по умолчанию
+JBE_HOOK_AR4_MODE_BUILDING_NOSOUNDDEF = Ошибка построение звуков: отсутствует звук по умолчанию
+JBE_HOOK_AR4_MODE_PRECACHE = Папка: %s не найдена.
+
+
+JBE_MENU_AR4_MODE_MAIN_TITLE = \y[\rJail\y] \wМеню паутинки
+
+JBE_MENU_AR4_MODE_COLOR = Цвет: \y%s
+JBE_MENU_AR4_MODE_COLOR_FALLS = Цвет\: %s
+
+JBE_MENU_AR4_MODE_HOOK = Паутина: \r%s\d
+JBE_MENU_AR4_MODE_HOOK_FALLS = Паутина: %s
+
+JBE_MENU_AR4_MODE_0_SIZE = Размер: \yОбычный
+JBE_MENU_AR4_MODE_1_SIZE = Размер: \yМаленький
+JBE_MENU_AR4_MODE_2_SIZE = Размер: \yСредний
+JBE_MENU_AR4_MODE_3_SIZE = Размер: \yБольшой
+JBE_MENU_AR4_MODE_0_SIZE_FALLS = \dРазмер: Обычный
+
+JBE_MENU_AR4_MODE_SOUND = Звук: \r%s
+JBE_MENU_AR4_MODE_SOUND_FALLS = Звук: %s
+
+JBE_MENU_AR4_MODE_0_SPEED = Скорость: \yМаленькая
+JBE_MENU_AR4_MODE_1_SPEED = Скорость: \yСредняя
+JBE_MENU_AR4_MODE_2_SPEED = Скорость: \yБыстрая
+JBE_MENU_AR4_MODE_1_SPEED_FALLS = \dСкорость: Маленькая
+
+JBE_MENU_AR4_MODE_0_VIEW = Вид паутины: \rПрямая
+JBE_MENU_AR4_MODE_1_VIEW = Вид паутины: \rЗмея
+JBE_MENU_AR4_MODE_2_VIEW = Вид паутины: \rМолния
+JBE_MENU_AR4_MODE_0_VIEW_FALLS = \dВид паутины: Прямая
+
+JBE_MENU_AR4_MODE_0_END = Эффект: \yHalf-Life
+JBE_MENU_AR4_MODE_1_END = Эффект: \yЗвёздочки
+JBE_MENU_AR4_MODE_2_END = Эффект: \yКружки
+JBE_MENU_AR4_MODE_3_END = Эффект: \yИскры
+JBE_MENU_AR4_MODE_4_END = Эффект: \yНичего
+JBE_MENU_AR4_MODE_0_END_FALLS = Эффект: Half-Life
+
+JBE_MENU_AR4_MODE_HOOK_TARGET_MENU = Выдать/забрать паутинку
+JBE_MENU_AR4_MODE_HOOK_TARGET_MENU_FALLS = Выдать/забрать паутинку
+
+JBE_AR4_MODE_HOOK_ENABLE = Мод \yвключён
+JBE_AR4_MODE_HOOK_DISABLE = Мод \rвыключен
+
+JBE_HOOK_AR4_MODE_TARGET_HOOK = \yВыберите игрока \r[\w%d|%d\r]
+JBE_HOOK_AR4_MODE_HOOK_TAKE = \d[\rЗабрать\d]
+JBE_HOOK_AR4_MODE_HOOK_GIVE = \d[\yВыдать\d]
+
+JBE_MENU_AR4_MODE_NEXT = Вперёд
+JBE_MENU_AR4_MODE_BACK = Назад
+JBE_MENU_AR4_MODE_EXIT = Выход
+
+
+JBE_HOOK_AR4_MODE_HOOK_GIVE_CHAT = !y[!gJail!y] Админ !t%s !yвыдал паутинку !g%s!y.
+JBE_HOOK_AR4_MODE_HOOK_TAKE_CHAT = !y[!gJail!y] Админ !t%s !yзабрал паутинку у !g%s!y.
+JBE_HOOK_AR4_MODE_PLAYER = !y[!gJail!y] Подходящие игроки не найдены.
+JBE_MENU_AR4_MODE_HOOK_ON_CHAT = !y[!gJail!y] Админ !t%s !yвключил всем !gпаутину.
+JBE_MENU_AR4_MODE_HOOK_OFF_CHAT = !y[!gJail!y] Админ !t%s !yвыключил всем !gпаутину.
+JBE_MENU_AR4_MODE_NOACCESS = !y[!gJail!y] У вас !tнет доступа!y. Покупка !tVK!y: !gvk.com/cs_rp16
+
+JBE_HOOK_END = !y[!gJail!y] Вы использовали !tвсе !gпаутинки!y!
+
+JBE_HOOK_LEFT_ONE = !y[!gJail!y] Осталось !t%d !gпаутинок !yиз !t%d !yвозможных.
+JBE_HOOK_LEFT_TWO = !y[!gJail!y] Осталось !t%d !gпаутинок !yиз !t%d !yвозможных.
+JBE_HOOK_LEFT_THREE = !y[!gJail!y] Осталось !t%d !gпаутинок !yиз !t%d !yвозможных.
+
+JBE_HOOK_NO_ZM = !y[!gJail!y] !tНельзя !yиспользовать !tпаутинку !yесли Вы !gЗомби!y, !gГуль!y, !gРазрушитель!y.
+
+[ru]
+JBE_HOOK_AR4_MODE_NOFILE_COLOR = Не найден конфигурационный файл цветов
+JBE_HOOK_AR4_MODE_NOFILE_SPRITE = Не найден конфигурационный файл спрайтов
+JBE_HOOK_AR4_MODE_BUILDING_NOCOLOR = Ошибка построение цветов: отсутсвуют цвета
+JBE_HOOK_AR4_MODE_BUILDING_NOSPRITE = Ошибка построение спрайтов: отсутсвуют спрайты
+JBE_HOOK_AR4_MODE_BUILDING_NOSOUND = Ошибка построение звуков: отсутсвуют звуки
+JBE_HOOK_AR4_MODE_BUILDING_NOCOLORDEF = Ошибка построение цветов: отсутствует цвет по умолчанию
+JBE_HOOK_AR4_MODE_BUILDING_NOSPRITEDEF = Ошибка построение спрайтов: отсутствует спрайт по умолчанию
+JBE_HOOK_AR4_MODE_BUILDING_NOSOUNDDEF = Ошибка построение звуков: отсутствует звук по умолчанию
+JBE_HOOK_AR4_MODE_PRECACHE = Папка: %s не найдена.
+
+
+JBE_MENU_AR4_MODE_MAIN_TITLE = \y[\rJail\y] \wМеню паутинки
+
+JBE_MENU_AR4_MODE_COLOR = Цвет: \y%s
+JBE_MENU_AR4_MODE_COLOR_FALLS = Цвет\: %s
+
+JBE_MENU_AR4_MODE_HOOK = Паутина: \r%s\d
+JBE_MENU_AR4_MODE_HOOK_FALLS = Паутина: %s
+
+JBE_MENU_AR4_MODE_0_SIZE = Размер: \yОбычный
+JBE_MENU_AR4_MODE_1_SIZE = Размер: \yМаленький
+JBE_MENU_AR4_MODE_2_SIZE = Размер: \yСредний
+JBE_MENU_AR4_MODE_3_SIZE = Размер: \yБольшой
+JBE_MENU_AR4_MODE_0_SIZE_FALLS = \dРазмер: Обычный
+
+JBE_MENU_AR4_MODE_SOUND = Звук: \r%s
+JBE_MENU_AR4_MODE_SOUND_FALLS = Звук: %s
+
+JBE_MENU_AR4_MODE_0_SPEED = Скорость: \yМаленькая
+JBE_MENU_AR4_MODE_1_SPEED = Скорость: \yСредняя
+JBE_MENU_AR4_MODE_2_SPEED = Скорость: \yБыстрая
+JBE_MENU_AR4_MODE_1_SPEED_FALLS = \dСкорость: Маленькая
+
+JBE_MENU_AR4_MODE_0_VIEW = Вид паутины: \rПрямая
+JBE_MENU_AR4_MODE_1_VIEW = Вид паутины: \rЗмея
+JBE_MENU_AR4_MODE_2_VIEW = Вид паутины: \rМолния
+JBE_MENU_AR4_MODE_0_VIEW_FALLS = \dВид паутины: Прямая
+
+JBE_MENU_AR4_MODE_0_END = Эффект: \yHalf-Life
+JBE_MENU_AR4_MODE_1_END = Эффект: \yЗвёздочки
+JBE_MENU_AR4_MODE_2_END = Эффект: \yКружки
+JBE_MENU_AR4_MODE_3_END = Эффект: \yИскры
+JBE_MENU_AR4_MODE_4_END = Эффект: \yНичего
+JBE_MENU_AR4_MODE_0_END_FALLS = Эффект: Half-Life
+
+JBE_MENU_AR4_MODE_HOOK_TARGET_MENU = Выдать/забрать паутинку
+JBE_MENU_AR4_MODE_HOOK_TARGET_MENU_FALLS = Выдать/забрать паутинку
+
+JBE_AR4_MODE_HOOK_ENABLE = Мод \yвключён
+JBE_AR4_MODE_HOOK_DISABLE = Мод \rвыключен
+
+JBE_HOOK_AR4_MODE_TARGET_HOOK = \yВыберите игрока \r[\w%d|%d\r]
+JBE_HOOK_AR4_MODE_HOOK_TAKE = \d[\rЗабрать\d]
+JBE_HOOK_AR4_MODE_HOOK_GIVE = \d[\yВыдать\d]
+
+JBE_MENU_AR4_MODE_NEXT = Вперёд
+JBE_MENU_AR4_MODE_BACK = Назад
+JBE_MENU_AR4_MODE_EXIT = Выход
+
+JBE_MENU_AR4_GAME_DAY = !t[!yJail!t] !gИдет игра. !tПаутинка - Выключена.
+JBE_MENU_AR4_SIMON_HOOK = !t[!yJail!t] !gСаймон !tВыключил !gПаутинку!
+JBE_MENU_AR4_WANTED_HOOK = !t[!yJail!t] !gРозыск. !tПаутинка - Выключена.
+
+JBE_HOOK_AR4_MODE_HOOK_GIVE_CHAT = !y[!gJail!y] Админ !t%s !yвыдал паутинку !g%s!y.
+JBE_HOOK_AR4_MODE_HOOK_TAKE_CHAT = !y[!gJail!y] Админ !t%s !yзабрал паутинку у !g%s!y.
+JBE_HOOK_AR4_MODE_PLAYER = !y[!gJail!y] Подходящие игроки не найдены.
+JBE_MENU_AR4_MODE_HOOK_ON_CHAT = !y[!gJail!y] Админ !t%s !yвключил всем !gпаутину.
+JBE_MENU_AR4_MODE_HOOK_OFF_CHAT = !y[!gJail!y] Админ !t%s !yвыключил всем !gпаутину.
+JBE_MENU_AR4_MODE_NOACCESS = !y[!gJail!y] Упс! !tнет доступа!y. Покупка !tVK!y: !gvk.com/cs_rp16
+
+JBE_HOOK_END = !y[!gJail!y] Вы использовали !tвсе !gпаутинки!y!
+
+JBE_HOOK_LEFT_ONE = !y[!gJail!y] Осталось !t%d !gпаутинок !yиз !t%d !yвозможных.
+JBE_HOOK_LEFT_TWO = !y[!gJail!y] Осталось !t%d !gпаутинок !yиз !t%d !yвозможных.
+JBE_HOOK_LEFT_THREE = !y[!gJail!y] Осталось !t%d !gпаутинок !yиз !t%d !yвозможных.
+
+JBE_HOOK_NO_ZM = !y[!gJail!y] !tНельзя !yиспользовать !tпаутинку !yесли Вы !gЗомби!y, !gГуль!y, !gРазрушитель!y.

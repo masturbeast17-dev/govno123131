@@ -1,0 +1,9 @@
+
+[ru]
+ML_RS_DEMORECORDER_S_1 = !dДобро пожаловать на !g<servername>!d.
+ML_RS_DEMORECORDER_S_2 = !dНачата автоматическая запись демо: !g<demoname>_<democount>.dem!d.
+
+
+[en]
+ML_RS_DEMORECORDER_S_1 = !dДобро пожаловать на !g<servername>!d.
+ML_RS_DEMORECORDER_S_2 = !dНачата автоматическая запись демо: !g<demoname>_<democount>.dem!d.

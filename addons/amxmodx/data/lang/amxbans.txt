@@ -7,7 +7,7 @@ TQUERY_FAILED = [AMXBans] Query failed!
 TQUERY_ERROR = [AMXBans] Threaded Query Error, Place: %d
 TQUERY_MSG = [AMXBans] Message: %s (%d)
 TQUERY_STATEMENT = [AMXBans] Query statement: %s
-SQL_BANMOD_ONLINE = AMXBans %s is online, date: %s
+SQL_BANMOD_ONLINE = AMXBans %s is online
 SQL_CANT_LOAD_REASONS = SQL error: Could not load ban reasons: '%s'
 SQL_LOADED_STATIC_REASONS = No Reasons found in Database. Static reasons were loaded instead.
 SQL_LOADED_REASON = 1 Reason loaded from Database.
@@ -16,7 +16,7 @@ SQL_MENU_ONLINE_01 = AMXBans Menu %s is online (1 reason loaded)
 SQL_MENU_ONLINE_02 = AMXBans Menu %s is online (%d reasons loaded)
 UNBAN_LOG = %s<%d><%s><%s> unbanned %s<%s>.
 UNBAN_CHATLOG = %s <%s> was banned (ingame).
-PLAYER_BANNED_BEFORE = [AMXBans]<%s> %s has been banned %i times before.
+PLAYER_BANNED_BEFORE = <%s> %s has been banned %i times before.
 ALREADY_BANNED = Player is already banned.
 PERMANENT = permanent
 BAN_FOR_MINUTES = Ban for %s
@@ -36,8 +36,8 @@ MSG_12 = There are %s left of your ban.
 MSG_13 = Banned Nickname: %s
 NOT_BAN_PERMANENT = You are not authorized to ban via Console.
 BAN_MAX = You can ban a maximum of %i Minutes via Console!
-MSG_MOTD_1 = <meta http-equiv="content-type" content="text/html; charset=UTF-8" /><body = <body bgcolor=#9CB3B3><font size=^"18^" color=^"red^">You have been banned.</font><br><br><font color=^"black^">Reason: %s<br>Duration: %s<br>SteamID: %s</font>
-MSG_MOTD_2 = <meta http-equiv="content-type" content="text/html; charset=UTF-8" /><body = <body bgcolor=#9CB3B3><font size=^"18^" color=^"red^">You have been banned.</font><br><br><font color=^"black^">Reason: %s<br>Duration: %s<br>SteamID: %s<br>Admin: %s</font>
+MSG_MOTD_1 = <body bgcolor=#9CB3B3><font size=^"18^" color=^"red^">You have been banned.</font><br><br><font color=^"black^">Reason: %s<br>Duration: %s<br>SteamID: %s</font>
+MSG_MOTD_2 = <body bgcolor=#9CB3B3><font size=^"18^" color=^"red^">You have been banned.</font><br><br><font color=^"black^">Reason: %s<br>Duration: %s<br>SteamID: %s<br>Admin: %s</font>
 AMX_BANIP_SYNTAX = amx_banip <time in minutes> <SteamID | nickname> <reason>
 AMX_FIND_SYNTAX = amx_find <SteamID | nickname>
 AMX_BAN_SYNTAX = amx_ban <Time in Minutes> <SteamID | Nickname> <Reason>
@@ -110,9 +110,16 @@ AMX_FIND_RESULT_4 = Banlength: '%s', time remaining: '%s'
 AMX_FIND_RESULT_5 = Ban has expired.
 AMX_FIND_NORESULT = No expired bans found (SteamID: '%s')
 NO_MOTD = No MOTD-Entry has been found. Set it in the webGUI -> Servers!
+FLAGGED_PLAYER = Flagged Player(s): %s <%s> Reason: %s
+BLOCKING_DOUBLEBAN = Blocking doubleban from <%s>
+PLAYER_NOT_FOUND = Player %s was not found
+UPDATE_MENU = Update Menu (%d) Page %d
+NO_MENU_OPENED = No Menu Opened
 PLAYER_LEAVE = Player has left the server and can't be banned.
-FLAGGED_TLEFT = !y(left: !t%d!y min)
-FLAGGED_PLAYER = Flagged player !g%s!y connected %s [reason: !t%s!y]
+PLAYER_NOT_BANNED = SteamID / IP %s is not banned.
+TOO_MANY_BANS = SteamID / IP %s has %d active bans, cannot unban.
+LOG_UNBAN = %s<%d><%s><%s> unbanned %s
+UNBAN_CONSOLE = %s has been unbanned
 
 [de]
 ADMMENU_FLAGGING = AMXBans: Spieler Markieren
@@ -123,7 +130,7 @@ TQUERY_FAILED = [AMXBans] Query fehlgeschlagen!
 TQUERY_ERROR = [AMXBans] Threaded Query Error, Ort: %d
 TQUERY_MSG = [AMXBans] Nachricht: %s (%d)
 TQUERY_STATEMENT = [AMXBans] Query statement: %s
-PLAYER_BANNED_BEFORE = [AMXBANS]<%s> %s wurde schon %i mal zuvor gebannt.
+PLAYER_BANNED_BEFORE = <%s> %s wurde schon %i mal zuvor gebannt.
 MSG_1 = Du wurdest von diesem Server gebannt!
 MSG_2 = Grund: '%s'
 MSG_3 = Dauer: '%s'
@@ -142,8 +149,8 @@ AMX_BAN_SYNTAX = amx_ban <Zeit in Minuten> <SteamID | Nickname> <Grund>
 AMX_BAN_SYNTAX_NEW = amx_ban <SteamID | Nickname> <Zeit in Minuten> <Grund>
 NOT_BAN_PERMANENT = Du hast nicht die notwendigen Rechte per Konsole zu bannen.
 BAN_MAX = Du kannst maximal %i Minuten via Konsole bannen!!
-MSG_MOTD_1 = <meta http-equiv="content-type" content="text/html; charset=UTF-8" /><body = <body bgcolor=#9CB3B3><font size=^"18^" color=^"red^">Du wurdest gebannt.</font><br><br><font color=^"black^">Grund: %s<br>Laenge: %s<br>SteamID: %s</font>
-MSG_MOTD_2 = <meta http-equiv="content-type" content="text/html; charset=UTF-8" /><body = <body bgcolor=#9CB3B3><font size=^"18^" color=^"red^">Du wurdest gebannt.</font><br><br><font color=^"black^">Grund: %s<br>Laenge: %s<br>SteamID: %s<br>Admin: %s</font>
+MSG_MOTD_1 = <body bgcolor=#9CB3B3><font size=^"18^" color=^"red^">Du wurdest gebannt.</font><br><br><font color=^"black^">Grund: %s<br>Laenge: %s<br>SteamID: %s</font>
+MSG_MOTD_2 = <body bgcolor=#9CB3B3><font size=^"18^" color=^"red^">Du wurdest gebannt.</font><br><br><font color=^"black^">Grund: %s<br>Laenge: %s<br>SteamID: %s<br>Admin: %s</font>
 STEAMID_BANNED_SUCCESS_IP_LOGGED = SteamID '%s' erfolgreich gebannt (IP gespeichert). Spieler wird gekickt.
 STEAMID_IP_BANNED_SUCCESS = Spieler IP erfolgreich gebannt. Spieler wird gekickt
 BAN_LOG = %s<%d><%s><%s> hat %s<%s> fuer %s (%i Minuten) gebannt. Grund: %s.
@@ -226,7 +233,16 @@ FLAG_PERMANENT = Permanentes markieren
 PERMANENT = permanent
 USER_REASON = Benutzerdefinierter Grund
 NO_MOTD = Kein MOTD-Eintrag wurde gefunden. Muss gesetzt werden ueber webGUI -> Server!
+FLAGGED_PLAYER = Markierte(r) Spieler: %s <%s> Grund: %s
+BLOCKING_DOUBLEBAN = Verhinderte Doppel-Ban von <%s>
+PLAYER_NOT_FOUND = Spieler %s nicht gefunden
+UPDATE_MENU = Update Menu (%d) Seite %d
+NO_MENU_OPENED = Kein Menu geoeffnet
 PLAYER_LEAVE = Spieler hat den Server verlassen und kann daher nicht gebannt werden.
+PLAYER_NOT_BANNED = SteamID / IP %s ist nicht gebannt.
+TOO_MANY_BANS = SteamID / IP %s hat %d aktive Banns, kann nicht entbannt werden.
+LOG_UNBAN = %s<%d><%s><%s> entbannte %s.
+UNBAN_CONSOLE = %s wurde entbannt.
 
 [nl]
 ADMMENU_FLAGGING = AMXBans: Speler Markering
@@ -237,7 +253,7 @@ TQUERY_FAILED = [AMXBans] Query gefaald!
 TQUERY_ERROR = [AMXBans] Vertakte Query Fout, Plaats: %d
 TQUERY_MSG = [AMXBans] Bericht: %s (%d)
 TQUERY_STATEMENT = [AMXBans] Query verklaring: %s
-PLAYER_BANNED_BEFORE = [AMXBans]<%s> %s is reeds %i keer verbannen.
+PLAYER_BANNED_BEFORE = <%s> %s is reeds %i keer verbannen.
 MSG_1 = Je bent verbannen van deze Server!
 MSG_2 = Reden: '%s'
 MSG_3 = Duur: '%s'
@@ -256,8 +272,8 @@ AMX_BAN_SYNTAX = amx_ban <Tijd in Minuten> <SteamID | Gebruikersnaam> <Reden>
 AMX_BAN_SYNTAX_NEW = amx_ban <SteamID | Gebruikersnaam> <Tijd in Minuten> <Reden>
 NOT_BAN_PERMANENT = Je bent niet bevoegd om te verbannen via het console.
 BAN_MAX = Je kan een speler maximum %i Minuten verbannen via het console!
-MSG_MOTD_1 = <meta http-equiv="content-type" content="text/html; charset=UTF-8" /><body = <body bgcolor=#9CB3B3><font size=^"18^" color=^"red^">Je bent verbannen.</font><br><br><font color=^"black^">Reden: %s<br>Duur: %s<br>SteamID: %s</font>
-MSG_MOTD_2 = <meta http-equiv="content-type" content="text/html; charset=UTF-8" /><body = <body bgcolor=#9CB3B3><font size=^"18^" color=^"red^">Je bent verbannen.</font><br><br><font color=^"black^">Reden: %s<br>Duur: %s<br>SteamID: %s<br>Beheerder: %s</font>
+MSG_MOTD_1 = <body bgcolor=#9CB3B3><font size=^"18^" color=^"red^">Je bent verbannen.</font><br><br><font color=^"black^">Reden: %s<br>Duur: %s<br>SteamID: %s</font>
+MSG_MOTD_2 = <body bgcolor=#9CB3B3><font size=^"18^" color=^"red^">Je bent verbannen.</font><br><br><font color=^"black^">Reden: %s<br>Duur: %s<br>SteamID: %s<br>Beheerder: %s</font>
 STEAMID_BANNED_SUCCESS_IP_LOGGED = SteamID '%s' is succesvol verbannen (IP gelogd). Speler wordt verwijderd.
 STEAMID_IP_BANNED_SUCCESS = IP van Speler succesvol verbannen. Speler wordt verwijderd.
 BAN_LOG = %s<%d><%s><%s> heeft %s<%s> verbannen voor %s (%i Minuten). Reden: %s.
@@ -340,7 +356,16 @@ FLAG_PERMANENT = Markeer Permanent
 PERMANENT = permanent 
 USER_REASON = Gebruiker gedefinieerde Reden
 NO_MOTD = Geen MOTD-Berichten gevonden. Stel het in in de webGUI -> Servers! 
+FLAGGED_PLAYER = Speler(s) aangeduid: %s <%s> Reden: %s
+BLOCKING_DOUBLEBAN = Dubbele verbanning geblokkeerd voor <%s>
+PLAYER_NOT_FOUND = Speler %s kon niet gevonden worden
+UPDATE_MENU = Update Menu (%d) Pagina %d
+NO_MENU_OPENED = Geen menu geopend
 PLAYER_LEAVE = Speler heeft de server verlaten en kan dus niet verbannen worden. 
+PLAYER_NOT_BANNED = SteamID / IP %s is niet verbannen.
+TOO_MANY_BANS = SteamID / IP %s heeft %d actieve verbanningen, kan niet ontbannen.
+LOG_UNBAN = %s<%d><%s><%s> ontbande %s
+UNBAN_CONSOLE = %s is ontbannen
 
 [sv]
 ADMMENU_FLAGGING = AMXBans: Flagga Spelare
@@ -360,7 +385,7 @@ SQL_MENU_ONLINE_01 = AMXBans Meny %s 'a'r online (1 anledning laddad)
 SQL_MENU_ONLINE_02 = AMXBans Meny %s 'a'r online (%d anledningar laddade)
 UNBAN_LOG = %s<%d><%s><%s> bannlysning bortplockad %s<%s>.
 UNBAN_CHATLOG = %s <%s> blev bannlyst (i spelet).
-PLAYER_BANNED_BEFORE = [AMXBans]<%s> %s har blivit bannlyst %i gang(er) f'o'rut.
+PLAYER_BANNED_BEFORE = <%s> %s har blivit bannlyst %i gang(er) f'o'rut.
 ALREADY_BANNED = Spelare 'a'r redan bannlyst.
 PERMANENT = permanent
 BAN_FOR_MINUTES = Bannlys i %s
@@ -380,8 +405,8 @@ MSG_12 = Det 'a'r %s minuter kvar av din bann.
 MSG_13 = Bannlyst med nicket: %s
 NOT_BAN_PERMANENT = Du har inte r'a'ttigheter att bannlysa via console.
 BAN_MAX = Du kan bannlysa max %i minuter via console!
-MSG_MOTD_1 = <meta http-equiv="content-type" content="text/html; charset=UTF-8" /><body = <body bgcolor=#9CB3B3><font size=^"18^" color=^"red^">Du 'a'r bannlyst.</font><br><br><font color=^"black^">Anledning: %s<br>L'a'ngd: %s<br>SteamID: %s</font>
-MSG_MOTD_2 = <meta http-equiv="content-type" content="text/html; charset=UTF-8" /><body = <body bgcolor=#9CB3B3><font size=^"18^" color=^"red^">Du har blivit bannlyst.</font><br><br><font color=^"black^">Anledning: %s<br>Duration: %s<br>SteamID: %s<br>Admin: %s</font>
+MSG_MOTD_1 = <body bgcolor=#9CB3B3><font size=^"18^" color=^"red^">Du 'a'r bannlyst.</font><br><br><font color=^"black^">Anledning: %s<br>L'a'ngd: %s<br>SteamID: %s</font>
+MSG_MOTD_2 = <body bgcolor=#9CB3B3><font size=^"18^" color=^"red^">Du har blivit bannlyst.</font><br><br><font color=^"black^">Anledning: %s<br>Duration: %s<br>SteamID: %s<br>Admin: %s</font>
 AMX_BANIP_SYNTAX = amx_banip <tid i minuter> <SteamID | alias> <anledning>
 AMX_FIND_SYNTAX = amx_find <SteamID | alias>
 AMX_BAN_SYNTAX = amx_ban <tid i minuter> <SteamID | alias> <anledning>
@@ -453,8 +478,17 @@ AMX_FIND_RESULT_3 = Bannlyst av: '%s'['%s'], reason: '%s'
 AMX_FIND_RESULT_4 = Bann l'a'ngd: '%s', time remaining: '%s'
 AMX_FIND_RESULT_5 = Bannlysning har l'o'pt ut.
 AMX_FIND_NORESULT = Inga utl'o'pta bannlysningar funna (SteamID: '%s')
-NO_MOTD = Inget MOTD-Post funnen. S'a'tt denna via webbsidan -> Servers! 
+NO_MOTD = Inget MOTD-Post funnen. S'a'tt denna via webbsidan -> Servers!
+FLAGGED_PLAYER = Flagged Player(s): %s <%s> Reason: %s 
+BLOCKING_DOUBLEBAN = Blocking doubleban from <%s>
+PLAYER_NOT_FOUND = Player %s was not found
+UPDATE_MENU = Update Menu (%d) Page %d
+NO_MENU_OPENED = No Menu Opened
 PLAYER_LEAVE = Spelaren har l'a'mnat servern och kan inte bannlysas. 
+PLAYER_NOT_BANNED = SteamID / IP %s 'a'r inte bannlyst.
+TOO_MANY_BANS = SteamID / IP %s har %d bannlysningar, kan inte ta bort bannlysning.
+LOG_UNBAN = %s<%d><%s><%s> tog bort bannlysning %s
+UNBAN_CONSOLE = bannlysning borttagen f'o'r %s
 
 [ro]
 ADMMENU_FLAGGING = AMXBans: Marcare Jucatori
@@ -474,7 +508,7 @@ SQL_MENU_ONLINE_01 = Meniul AMXBans %s este online (1 motiv incarcat)
 SQL_MENU_ONLINE_02 = Meniul AMXBans %s este online (%d motive incarcate)
 UNBAN_LOG = %s<%d><%s><%s> debanat %s<%s>.
 UNBAN_CHATLOG = %s <%s> a fost banat (in joc).
-PLAYER_BANNED_BEFORE = [AMXBans]<%s> %s a fost banat de %i ori in trecut.
+PLAYER_BANNED_BEFORE = <%s> %s a fost banat de %i ori in trecut.
 ALREADY_BANNED = Jucatorul este deja banat.
 PERMANENT = permanent
 BAN_FOR_MINUTES = Ban pentru %s
@@ -494,8 +528,8 @@ MSG_12 = Mai sunt %s ramase din banul tau.
 MSG_13 = Nick-ul pe care ai primit ban: %s
 NOT_BAN_PERMANENT = Nu esti autorizat sa banezi din consola.
 BAN_MAX = Poti bana maxim %i minute din consola!
-MSG_MOTD_1 = <meta http-equiv="content-type" content="text/html; charset=UTF-8" /><body = <body bgcolor=#9CB3B3><font size=^"18^" color=^"red^">Ai fost banat.</font><br><br><font color=^"black^">Motiv: %s<br>Durata: %s<br>SteamID: %s</font>
-MSG_MOTD_2 = <meta http-equiv="content-type" content="text/html; charset=UTF-8" /><body = <body bgcolor=#9CB3B3><font size=^"18^" color=^"red^">Ai fost banat.</font><br><br><font color=^"black^">Motiv: %s<br>Durata: %s<br>SteamID: %s<br>Admin: %s</font>
+MSG_MOTD_1 = <body bgcolor=#9CB3B3><font size=^"18^" color=^"red^">Ai fost banat.</font><br><br><font color=^"black^">Motiv: %s<br>Durata: %s<br>SteamID: %s</font>
+MSG_MOTD_2 = <body bgcolor=#9CB3B3><font size=^"18^" color=^"red^">Ai fost banat.</font><br><br><font color=^"black^">Motiv: %s<br>Durata: %s<br>SteamID: %s<br>Admin: %s</font>
 AMX_BANIP_SYNTAX = amx_banip <timpul in minute> <SteamID | nume> <motiv>
 AMX_FIND_SYNTAX = amx_find <SteamID | nume>
 AMX_BAN_SYNTAX = amx_ban <Timpul in Minute> <SteamID | Nume> <Motiv>
@@ -568,7 +602,17 @@ AMX_FIND_RESULT_4 = Durata banului: '%s', timp ramas: '%s'
 AMX_FIND_RESULT_5 = Banul a expirat.
 AMX_FIND_NORESULT = Nu au fost gasite banuri expirate (SteamID: '%s')
 NO_MOTD = Nu s-a gasit nici o intrare de MOTD. Seteazo in webGUI -> Server
+FLAGGED_PLAYER = Jucator(i) marcati: %s <%s> Motiv: %s
+BLOCKING_DOUBLEBAN = Blocare dublu-ban de la <%s>
+PLAYER_NOT_FOUND = Jucatorul %s nu a fost gasit
+UPDATE_MENU = Actualizeaza meniu (%d) Pagina %d
+NO_MENU_OPENED = Nici un meniu deschis
 PLAYER_LEAVE = Jucatorul a iesit de pe server si nu poate fi banat. 
+PLAYER_NOT_BANNED = SteamID / IP %s nu este interzis.
+TOO_MANY_BANS = SteamID / IP %s are %d interdicţii active, nu pot fii deblocaţi.
+LOG_UNBAN = %s<%d><%s><%s> deblocat %s
+UNBAN_CONSOLE = %s a fost deblocat
+
 
 [pl]
 ADMMENU_FLAGGING = AMXBans: Oznacz Gracza
@@ -588,7 +632,7 @@ SQL_MENU_ONLINE_01 = AMXBans Menu %s jest wlaczone (zaladowano 1 powod)
 SQL_MENU_ONLINE_02 = AMXBans Menu %s jest wlaczone (zaladowano %d powody/ow)
 UNBAN_LOG = %s<%d><%s><%s> odbanowany %s<%s>.
 UNBAN_CHATLOG = %s <%s> byl zbanowany (w grze).
-PLAYER_BANNED_BEFORE = [AMXBans]<%s> %s zostal wczesniej zbanowany %i razy.
+PLAYER_BANNED_BEFORE = <%s> %s zostal wczesniej zbanowany %i razy.
 ALREADY_BANNED = Gracz jest juz zbanowany.
 PERMANENT = Na Zawsze
 BAN_FOR_MINUTES = Ban na %s
@@ -608,8 +652,8 @@ MSG_12 = Pozostalo ci %s bana.
 MSG_13 = Zbanowany Nick: %s
 NOT_BAN_PERMANENT = Nie masz pozwolenia na banowanie przez Konsole.
 BAN_MAX = Mozesz zbanowac na maksymalnie %i Minut/y poprzez Konsole!
-MSG_MOTD_1 = <meta http-equiv="content-type" content="text/html; charset=UTF-8" /><body = <body bgcolor=#9CB3B3><font size=^"18^" color=^"red^">Zostales zbanowany.</font><br><br><font color=^"black^">Powod: %s<br>Dlugosc bana: %s<br>SteamID: %s</font>
-MSG_MOTD_2 = <meta http-equiv="content-type" content="text/html; charset=UTF-8" /><body = <body bgcolor=#9CB3B3><font size=^"18^" color=^"red^">Zostales zbanowany.</font><br><br><font color=^"black^">Powod: %s<br>Dlugosc bana: %s<br>SteamID: %s<br>Admin: %s</font>
+MSG_MOTD_1 = <body bgcolor=#9CB3B3><font size=^"18^" color=^"red^">Zostales zbanowany.</font><br><br><font color=^"black^">Powod: %s<br>Dlugosc bana: %s<br>SteamID: %s</font>
+MSG_MOTD_2 = <body bgcolor=#9CB3B3><font size=^"18^" color=^"red^">Zostales zbanowany.</font><br><br><font color=^"black^">Powod: %s<br>Dlugosc bana: %s<br>SteamID: %s<br>Admin: %s</font>
 AMX_BANIP_SYNTAX = amx_banip <Czas w Minutach> <SteamID | Nick Gracza> <Powod Bana>
 AMX_FIND_SYNTAX = amx_find <SteamID | Nick Gracza>
 AMX_BAN_SYNTAX = amx_ban <Czas w Minutach> <SteamID | Nick gracza> <Powod Bana>
@@ -682,7 +726,16 @@ AMX_FIND_RESULT_4 = Dlugosc bana: '%s', pozostalo czasu: '%s'
 AMX_FIND_RESULT_5 = Ban wygasl.
 AMX_FIND_NORESULT = Nie znaleziono wygaslych banow (SteamID: '%s') 
 NO_MOTD = MOTD nie zostal odnaleziony. Ustaw go w webGUI -> Serwery!
+FLAGGED_PLAYER = Oznaczono Gracza(y): %s <%s> Powod: %s
+BLOCKING_DOUBLEBAN = Blokada drugiego bana dla <%s>
+PLAYER_NOT_FOUND = Gracz %s nie zostal znaleziony
+UPDATE_MENU = Aktualizacja Menu (%d) Strona %d
+NO_MENU_OPENED = Nie Otwarto Menu
 PLAYER_LEAVE = Gracz opuscil serwer i nie moze zostac zbanowany
+PLAYER_NOT_BANNED = SteamID / IP %s nie jest zbanowane.
+TOO_MANY_BANS = SteamID / IP %s ma %d aktywnych banow. Nie mozna odbanowac.
+LOG_UNBAN = %s<%d><%s><%s> odbanowal %s
+UNBAN_CONSOLE = %s zostal odbanowany
 
 [ru]
 ADMMENU_FLAGGING = AMXBans: Помеченные игроки
@@ -702,16 +755,16 @@ SQL_MENU_ONLINE_01 = AMXBans Menu %s работает (1 причина загр
 SQL_MENU_ONLINE_02 = AMXBans Menu %s работает (%d причин(а) загружено(а))
 UNBAN_LOG = %s<%d><%s><%s> unbanned %s<%s>.
 UNBAN_CHATLOG = %s <%s> забанен (в игре).
-PLAYER_BANNED_BEFORE = [AMXBans]<%s> %s был уже забанен %i раз.
+PLAYER_BANNED_BEFORE = <%s> %s был уже забанен %i раз.
 ALREADY_BANNED = Игрок уже забанен.
 PERMANENT = навсегда
 BAN_FOR_MINUTES = Бан на %s
 BAN_PERMANENT = Бан навсегда
 MSG_1 = Вы были забанены на этом сервере!
-MSG_2 = Причина: %s
-MSG_3 = Продолжительность: %s
-MSG_4 = Ваш SteamID: %s
-MSG_5 = Ваш IP: %s
+MSG_2 = Причина: '%s'
+MSG_3 = Продолжительность: '%s'
+MSG_4 = Ваш SteamID: '%s'
+MSG_5 = Ваш IP: '%s'
 MSG_6 = Администратор: %s
 MSG_7 = Вы можете подать апелляцию @ %s
 MSG_8 = Вы были забанены на этом сервере админом %s.
@@ -721,9 +774,9 @@ MSG_11 = Вы были забанены более 1 раза.
 MSG_12 = Осталось %s до окончания бана.
 MSG_13 = Ник: %s
 NOT_BAN_PERMANENT = У Вас нет прав доступа для бана через консоль.
-BAN_MAX = Вы можете банить только на %d минут через консоль!
-MSG_MOTD_1 = <meta http-equiv="content-type" content="text/html; charset=UTF-8" /><body = <body bgcolor=#9CB3B3><font size=^"18^" color=^"red^">Вы были забанены.</font><br><br><font color=^"black^">Причина: %s<br>Продолжительность: %s<br>SteamID: %s</font>
-MSG_MOTD_2 = <meta http-equiv="content-type" content="text/html; charset=UTF-8" /><body = <body bgcolor=#9CB3B3><font size=^"18^" color=^"red^">Вы были забанены.</font><br><br><font color=^"black^">Причины: %s<br>Продолжительность: %s<br>SteamID: %s<br>Администратор: %s</font>
+BAN_MAX = Вы можете банить только на %i минут через консоль!
+MSG_MOTD_1 = <body bgcolor=#9CB3B3><font size=^"18^" color=^"red^">Вы были забанены.</font><br><br><font color=^"black^">Причина: %s<br>Продолжительность: %s<br>SteamID: %s</font>
+MSG_MOTD_2 = <body bgcolor=#9CB3B3><font size=^"18^" color=^"red^">Вы были забанены.</font><br><br><font color=^"black^">Причины: %s<br>Продолжительность: %s<br>SteamID: %s<br>Администратор: %s</font>
 AMX_BANIP_SYNTAX = amx_banip <время в минутах> <SteamID | ник> <причина>
 AMX_FIND_SYNTAX = amx_find <SteamID | ник>
 AMX_BAN_SYNTAX = amx_ban <время в минутах> <SteamID | ник> <причина>
@@ -731,15 +784,15 @@ AMX_BAN_SYNTAX_NEW = amx_ban <SteamID | ник> <время в минутах> <
 ADMIN_BAN_1 = ADMIN: бан %s
 ADMIN_BAN_2 = ADMIN %s: бан %s
 STEAMID_BANNED_SUCCESS_IP_LOGGED = SteamID '%s' успешно забанен (IP записан). Игрок будет удален с сервера.
-STEAMID_IP_BANNED_SUCCESS = Игрок успешно забанен по IP и будет удален с сервера.
-BAN_LOG = %s<%d><%s><%s> забанил %s<%s> на %s (%d минут). Причина: %s.
-BAN_CHATLOG = %s<%s> был забанен на %s (%d минут). Причина: %s.
+STEAMID_IP_BANNED_SUCCESS = Игрок успешно забанен по IP. Игрок будет удален с сервера.
+BAN_LOG = %s<%d><%s><%s> забанил %s<%s> на %s (%i минут). Причина: %s.
+BAN_CHATLOG = %s<%s> был забанен на %s (%i минут). Причина: %s.
 BAN_LOG_PERM = %s<%d><%s><%s> забанил %s<%s> Продолжительность: НАВСЕГДА. Причина: %s.
 BAN_CHATLOG_PERM = %s<%s> был забанен НАВСЕГДА. Причина: %s.
-PUBLIC_BAN_ANNOUNCE = Игрок %s забанен! ^nПродолжительность: %s ^nПричина: %s
-PUBLIC_BAN_ANNOUNCE_PERM = Игрок %s забанен! ^nПродолжительность: НАВСЕГДА ^nПричина: %s
-PUBLIC_BAN_ANNOUNCE_2 = Игрок %s забанен! ^nПродолжительность: %s ^nПричина: %s ^nАдмином: %s
-PUBLIC_BAN_ANNOUNCE_2_PERM = Игрок %s забанен! ^nПродолжительность: НАВСЕГДА ^nПричина: %s ^nАдмином: %s
+PUBLIC_BAN_ANNOUNCE = '%s' был забанен на '%s'.^n Причина: '%s'
+PUBLIC_BAN_ANNOUNCE_PERM = '%s' был забанен НАВСЕГДА.^n Причина: '%s'
+PUBLIC_BAN_ANNOUNCE_2 = '%s' был забанен на '%s'.^n Причина: '%s'^n Админом: %s
+PUBLIC_BAN_ANNOUNCE_2_PERM = '%s' был забанен навсегда.^n Причина: '%s'^n Админом: %s
 NO_REASONS = Причины бана не найдены.
 REASON_1 = Читер
 REASON_2 = Ламер
@@ -753,7 +806,7 @@ BANTIME_MENU = Выбор времени бана
 REASON_MENU = Выбор причины бана
 BAN_MENU = Меню бана
 FLAGGING_MENU = Пометить игрока
-NO_DISCONNECTED_PLAYER_IN_LIST = Нет отключившехся игроков!
+NO_DISCONNECTED_PLAYER_IN_LIST = Игроки отсутствующий!
 BANDISCONNECTED_MENU = Последние %d игроков(а)
 BAN_DISCONNECTED_PLAYER_FAILED = Ошибка при прописывании бана!
 BAN_DISCONNECTED_PLAYER_SUCCESS = Игрок забанен!
@@ -782,7 +835,7 @@ NO_ACCESS_TO_CMD = У Вас недостаточно прав для выпол
 HAS_IMMUNITY = У игрока иммунитет!
 IS_BOT = Этот игрок бот
 IS_HLTV = Этот игрок HLTV
-KICK_MESSAGE = Вы забанены на этом сервере. Подробности в консоли.
+KICK_MESSAGE = Вы были ВЫПИЛЕНЫ С СЕРВЕРА. Проверьте консоль.
 UNABAN_STEAMID_ONLY = Только SteamID могут быть разбанены.
 PUBLIC_UNBAN_ANNOUNCE = '%s' разбанен.
 PUBLIC_UNBAN_ANNOUNCE_2 = '%s' разбанен админом %s.
@@ -796,10 +849,16 @@ AMX_FIND_RESULT_4 = Продолжительность: '%s', осталось: 
 AMX_FIND_RESULT_5 = Бан истек.
 AMX_FIND_NORESULT = Истекшие баны не найдены (SteamID: '%s')
 NO_MOTD = Не найдена ссылка для MOTD окна. Настройте в веб-части, раздел Сервера!
+FLAGGED_PLAYER = Помеченный игрок: %s <%s> Причина: %s
+BLOCKING_DOUBLEBAN = Заблокирован двойной бан от <%s>
+PLAYER_NOT_FOUND = Игрок %s не найден
+UPDATE_MENU = Обновить меню (%d) Страница %d
+NO_MENU_OPENED = Меню не открыто
 PLAYER_LEAVE = Игрок ушел с сервера и не может быть забанен 
-FLAGGED_TLEFT = !y(осталось: !t%d!y мин.)
-FLAGGED_PLAYER = Отмеченый игрок !g%s!y присоединился %s [причина: !t%s!y]
-PLAYER_LEAVED = Игрок покинул сервер
+PLAYER_NOT_BANNED = SteamID / IP игрока %s не найден.
+TOO_MANY_BANS = На SteamID / IP игрока %s %d активный(х) бан(ов).
+LOG_UNBAN = %s<%d><%s><%s> разбанил %s
+UNBAN_CONSOLE = %s разбанен
 
 [no]
 ADMMENU_FLAGGING = AMXBans: Flagge Spillere
@@ -819,7 +878,7 @@ SQL_MENU_ONLINE_01 = AMXBans Menu %s er online (1 grunn lastet)
 SQL_MENU_ONLINE_02 = AMXBans Menu %s er online (%d grunner lastet)
 UNBAN_LOG = %s<%d><%s><%s> ban fjernet %s<%s>.
 UNBAN_CHATLOG = %s <%s> ble bannlyst (i spill).
-PLAYER_BANNED_BEFORE = [AMXBans]<%s> %s har blitt bannlyst %i ganger tidligere.
+PLAYER_BANNED_BEFORE = <%s> %s har blitt bannlyst %i ganger tidligere.
 ALREADY_BANNED = Spiller er allerede bannlyst.
 PERMANENT = permanent
 BAN_FOR_MINUTES = Bannlyst i %s
@@ -839,8 +898,8 @@ MSG_12 = Det er %s igjen av din ban.
 MSG_13 = Bannlyst Alias: %s
 NOT_BAN_PERMANENT = Du are ikke autorisert til A bannlyse fra konsollen.
 BAN_MAX = Du kan bannlyse maksimum %i Minutter via Konsollen!
-MSG_MOTD_1 = <meta http-equiv="content-type" content="text/html; charset=UTF-8" /><body = <body bgcolor=#9CB3B3><font size=^"18^" color=^"red^">Du har blitt bannlyst.</font><br><br><font color=^"black^">Grunn: %s<br>Lengde: %s<br>SteamID: %s</font>
-MSG_MOTD_2 = <meta http-equiv="content-type" content="text/html; charset=UTF-8" /><body = <body bgcolor=#9CB3B3><font size=^"18^" color=^"red^">Du har blitt bannlyst.</font><br><br><font color=^"black^">Grunn: %s<br>Lengde: %s<br>SteamID: %s<br>Admin: %s</font>
+MSG_MOTD_1 = <body bgcolor=#9CB3B3><font size=^"18^" color=^"red^">Du har blitt bannlyst.</font><br><br><font color=^"black^">Grunn: %s<br>Lengde: %s<br>SteamID: %s</font>
+MSG_MOTD_2 = <body bgcolor=#9CB3B3><font size=^"18^" color=^"red^">Du har blitt bannlyst.</font><br><br><font color=^"black^">Grunn: %s<br>Lengde: %s<br>SteamID: %s<br>Admin: %s</font>
 AMX_BANIP_SYNTAX = amx_banip <Tid i minutter> <SteamID | Alias> <Grunn>
 AMX_FIND_SYNTAX = amx_find <SteamID | Alias>
 AMX_BAN_SYNTAX = amx_ban <Tid i minutter> <SteamID | Alias> <Grunn>
@@ -913,7 +972,16 @@ AMX_FIND_RESULT_4 = Banlengde: '%s', tid igjen: '%s'
 AMX_FIND_RESULT_5 = Ban har utlopt.
 AMX_FIND_NORESULT = Ingen utlopte bans funnet (SteamID: '%s') 
 NO_MOTD = Ingen MOTD-Entry er funnet. Sett den i Juniper Networks -> Servere!
+FLAGGED_PLAYER = Flagged Player(s): %s <%s> Reason: %s
+BLOCKING_DOUBLEBAN = Blocking doubleban from <%s>
+PLAYER_NOT_FOUND = Player %s was not found
+UPDATE_MENU = Update Menu (%d) Page %d
+NO_MENU_OPENED = No Menu Opened
 PLAYER_LEAVE = Spilleren har forlatt serveren og kan ikke forbys.
+PLAYER_NOT_BANNED = SteamID / IP %s is not banned.
+TOO_MANY_BANS = SteamID / IP %s has %d active bans, cannot unban.
+LOG_UNBAN = %s<%d><%s><%s> unbanned %s
+UNBAN_CONSOLE = %s has been unbanned
 
 [cz]
 ADMMENU_FLAGGING = AMXBans: Oznacovani hracu
@@ -933,7 +1001,7 @@ SQL_MENU_ONLINE_01 = AMXBans Menu %s je zapnuto (1 duvod nacten)
 SQL_MENU_ONLINE_02 = AMXBans Menu %s je zapnuto (%d duvody/u nacteno)
 UNBAN_LOG = %s<%d><%s><%s> odbanoval hrace %s<%s>.
 UNBAN_CHATLOG = %s <%s> byl zabanovan (ve hre).
-PLAYER_BANNED_BEFORE = [AMXBans]<%s> %s byl zabanovan jiz %ix pred.
+PLAYER_BANNED_BEFORE = <%s> %s byl zabanovan jiz %ix pred.
 ALREADY_BANNED = Hrac je jiz zabanovan.
 PERMANENT = trvaly
 BAN_FOR_MINUTES = %s ban
@@ -953,8 +1021,8 @@ MSG_12 = Zbyva jeste %s z tveho banu.
 MSG_13 = Zabanovan nick: %s
 NOT_BAN_PERMANENT = Nemas pristup k banovani z konzole.
 BAN_MAX = Muzes banovat maximalne na %i minut pres konzoli!
-MSG_MOTD_1 = <meta http-equiv="content-type" content="text/html; charset=UTF-8" /><body = <body bgcolor=#9CB3B3><font size=^"18^" color=^"red^">Byl jsi zabanovan.</font><br><br><font color=^"black^">Duvod: %s<br>Delka: %s<br>SteamID: %s</font>
-MSG_MOTD_2 = <meta http-equiv="content-type" content="text/html; charset=UTF-8" /><body = <body bgcolor=#9CB3B3><font size=^"18^" color=^"red^">Byl jsi zabanovan.</font><br><br><font color=^"black^">Duvod: %s<br>Delka: %s<br>SteamID: %s<br>Admin: %s</font>
+MSG_MOTD_1 = <body bgcolor=#9CB3B3><font size=^"18^" color=^"red^">Byl jsi zabanovan.</font><br><br><font color=^"black^">Duvod: %s<br>Delka: %s<br>SteamID: %s</font>
+MSG_MOTD_2 = <body bgcolor=#9CB3B3><font size=^"18^" color=^"red^">Byl jsi zabanovan.</font><br><br><font color=^"black^">Duvod: %s<br>Delka: %s<br>SteamID: %s<br>Admin: %s</font>
 AMX_BANIP_SYNTAX = amx_banip <cas v minutach> <SteamID | prezdivka> <duvod>
 AMX_FIND_SYNTAX = amx_find <SteamID | prezdivka>
 AMX_BAN_SYNTAX = amx_ban <cas v minutach> <SteamID | prezdivka> <duvod>
@@ -1027,7 +1095,16 @@ AMX_FIND_RESULT_4 = Delka: '%s', zbyva: '%s'
 AMX_FIND_RESULT_5 = Ban jiz vyprsel.
 AMX_FIND_NORESULT = Zadne vyprsele bany nenalezeny (SteamID: '%s')
 NO_MOTD = Zadny MOTD zaznam nebyl nalezen. Nastavte jej na webu -> Servery! 
+FLAGGED_PLAYER = Flagged Player(s): %s <%s> Reason: %s
+BLOCKING_DOUBLEBAN = Blocking doubleban from <%s>
+PLAYER_NOT_FOUND = Player %s was not found
+UPDATE_MENU = Update Menu (%d) Page %d
+NO_MENU_OPENED = No Menu Opened
 PLAYER_LEAVE = Hrac se odpojil ze serveru, a proto nemuze byt zabanovan. 
+PLAYER_NOT_BANNED = SteamID / IP %s neni zabanovano.
+TOO_MANY_BANS = SteamID / IP %s ma %d aktivni ban, nemuze unban.
+LOG_UNBAN = %s<%d><%s><%s> odbanovan %s
+UNBAN_CONSOLE = %s byl odbanovan
 
 [sk]
 ADMMENU_FLAGGING = AMXBans: Oznacovanie hracov
@@ -1047,7 +1124,7 @@ SQL_MENU_ONLINE_01 = AMXBans Menu %s je zapnute (1 dovod nacitany)
 SQL_MENU_ONLINE_02 = AMXBans Menu %s je zapnute (%d dovody/ov nacitanych)
 UNBAN_LOG = %s<%d><%s><%s> odbanoval %s<%s>.
 UNBAN_CHATLOG = %s <%s> bol zabanovany (v hre).
-PLAYER_BANNED_BEFORE = [AMXBans]<%s> %s bol zabanovany uz %i krat predtym.
+PLAYER_BANNED_BEFORE = <%s> %s bol zabanovany uz %i krat predtym.
 ALREADY_BANNED = Hrac uz je zabanovany.
 PERMANENT = trvaly
 BAN_FOR_MINUTES = Zabanovany na %s
@@ -1067,8 +1144,8 @@ MSG_12 = Zostava este %s z tvojho banu.
 MSG_13 = Zabanovana prezyvka: %s
 NOT_BAN_PERMANENT = Nemas opravnenia pre banovanie cez konzolu.
 BAN_MAX = Mozes banovat maximalne na %i minut cez konzolu!
-MSG_MOTD_1 = <meta http-equiv="content-type" content="text/html; charset=UTF-8" /><body = <body bgcolor=#9CB3B3><font size=^"18^" color=^"red^">Bol si zabanovany.</font><br><br><font color=^"black^">Dovod: %s<br>Dlzka: %s<br>SteamID: %s</font>
-MSG_MOTD_2 = <meta http-equiv="content-type" content="text/html; charset=UTF-8" /><body = <body bgcolor=#9CB3B3><font size=^"18^" color=^"red^">Bol si zabanovany.</font><br><br><font color=^"black^">Dovod: %s<br>Dlzka: %s<br>SteamID: %s<br>Admin: %s</font>
+MSG_MOTD_1 = <body bgcolor=#9CB3B3><font size=^"18^" color=^"red^">Bol si zabanovany.</font><br><br><font color=^"black^">Dovod: %s<br>Dlzka: %s<br>SteamID: %s</font>
+MSG_MOTD_2 = <body bgcolor=#9CB3B3><font size=^"18^" color=^"red^">Bol si zabanovany.</font><br><br><font color=^"black^">Dovod: %s<br>Dlzka: %s<br>SteamID: %s<br>Admin: %s</font>
 AMX_BANIP_SYNTAX = amx_banip <cas v minutach> <SteamID | prezyvka> <dovod>
 AMX_FIND_SYNTAX = amx_find <SteamID | prezyvka>
 AMX_BAN_SYNTAX = amx_ban <cas v minutach> <SteamID | prezyvka> <dovod>
@@ -1141,7 +1218,16 @@ AMX_FIND_RESULT_4 = Dlzka banu: '%s', zostava: '%s'
 AMX_FIND_RESULT_5 = Ban uz vyprsal.
 AMX_FIND_NORESULT = Ziadne vyprsane bany nenajdene (SteamID: '%s')
 NO_MOTD = Ziadny MOTD-zaznam nebol najdeny. Nastav ho vo webGUI -> Servery!
+FLAGGED_PLAYER = Označený hráč(i): %s <%s> Dôvod: %s
+BLOCKING_DOUBLEBAN = Blokovanie dvojitého banu od <%s>  (i don't know what this do if you explain it to me i can translate better)
+PLAYER_NOT_FOUND = Hráč %s sa nenašiel
+UPDATE_MENU = Aktualizovať Menu (%d) stránka %d
+NO_MENU_OPENED = Nie je otvorené menu
 PLAYER_LEAVE = Hrac opustil server a nemoze byt zabanovany.
+PLAYER_NOT_BANNED = SteamID / IP %s nie je zabanovana.
+TOO_MANY_BANS = SteamID / IP %s ma %d aktivnych banov, neda sa unbanovat.
+LOG_UNBAN = %s<%d><%s><%s> unbanoval %s
+UNBAN_CONSOLE = %s bol unbanovany
 
 [mn]
 ADMMENU_FLAGGING = AMXBans: Тоглогчын флаг
@@ -1161,7 +1247,7 @@ SQL_MENU_ONLINE_01 = AMXBans Menu %s онлайн (1 шалтгаан уншса
 SQL_MENU_ONLINE_02 = AMXBans Menu %s онлайн (%d шалтгаан уншсан)
 UNBAN_LOG = %s<%d><%s><%s> бан авлаа%s<%s>.
 UNBAN_CHATLOG = %s <%s> бандлаа (тоглоом дунд).
-PLAYER_BANNED_BEFORE = [AMXBans]<%s> %s -г %i өмнө бандсан.
+PLAYER_BANNED_BEFORE = <%s> %s -г %i өмнө бандсан.
 ALREADY_BANNED = Тоглогчын бандчихсан байна.
 PERMANENT = хязгааргүй
 BAN_FOR_MINUTES = %s минутаар
@@ -1181,8 +1267,8 @@ MSG_12 = Танд %s бан џлдсэн.
 MSG_13 = Бандсан хоч: %s
 NOT_BAN_PERMANENT = Та консол дээрээс бан хийх эрхгџй.
 BAN_MAX = Та консол дээр максимумдаа %i минут бандах боломжгџй!
-MSG_MOTD_1 = <meta http-equiv="content-type" content="text/html; charset=UTF-8" /><body = <body bgcolor=#9CB3B3><font size=^"18^" color=^"red^">Та бандууллаа.</font><br><br><font color=^"black^">Шалтгаан: %s<br>Хугацаа: %s<br>SteamID: %s</font>
-MSG_MOTD_2 = <meta http-equiv="content-type" content="text/html; charset=UTF-8" /><body = <body bgcolor=#9CB3B3><font size=^"18^" color=^"red^">Та бандууллаа.</font><br><br><font color=^"black^">Шалтгаан: %s<br>Хугацаа: %s<br>SteamID: %s<br>Админ: %s</font>
+MSG_MOTD_1 = <body bgcolor=#9CB3B3><font size=^"18^" color=^"red^">Та бандууллаа.</font><br><br><font color=^"black^">Шалтгаан: %s<br>Хугацаа: %s<br>SteamID: %s</font>
+MSG_MOTD_2 = <body bgcolor=#9CB3B3><font size=^"18^" color=^"red^">Та бандууллаа.</font><br><br><font color=^"black^">Шалтгаан: %s<br>Хугацаа: %s<br>SteamID: %s<br>Админ: %s</font>
 AMX_BANIP_SYNTAX = amx_banip <хугацаа минутаар> <SteamID | нэр> <шалтгаан>
 AMX_FIND_SYNTAX = amx_find <SteamID | нэр>
 AMX_BAN_SYNTAX = amx_ban <Хугацаа минуутаар> <SteamID | Нэр> <Шалтгаан>
@@ -1255,7 +1341,16 @@ AMX_FIND_RESULT_4 = Баны хугацаа: '%s', џлдсэн: '%s'
 AMX_FIND_RESULT_5 = Баны хугацаа дууссан.
 AMX_FIND_NORESULT = Дууссан бан олдсонгџй (SteamID: '%s')
 NO_MOTD = MOTD олдсонгџй. webGUI -> Servers  уруу орж тохируул!
-PLAYER_LEAVE =Тоглогч серверээс гарсан тул бандах боломжгүй 
+FLAGGED_PLAYER = Флагтай тоглогчид: %s <%s> Шалтгаан: %s
+BLOCKING_DOUBLEBAN = <%s> давхар бандсан
+PLAYER_NOT_FOUND = Тоглогч %s олдсонгүй
+UPDATE_MENU = Шинэчлэх меню (%d) хуудас %d
+NO_MENU_OPENED = Нээгдсэн меню алга 
+PLAYER_LEAVE = Тоглогч серверээс гарсан тул бандах боломжгүй 
+PLAYER_NOT_BANNED = SteamID / IP %s is not banned.
+TOO_MANY_BANS = SteamID / IP %s has %d active bans, cannot unban.
+LOG_UNBAN = %s<%d><%s><%s> unbanned %s
+UNBAN_CONSOLE = %s has been unbanned
 
 [bg]
 ADMMENU_FLAGGING = AMXBans: Флагване на играчи
@@ -1275,7 +1370,7 @@ SQL_MENU_ONLINE_01 = AMXBans менюто %s е онлайн (1 причина �
 SQL_MENU_ONLINE_02 = AMXBans менюто %s е онлайн (%d причини са заредени)
 UNBAN_LOG = %s<%d><%s><%s> ънбаннат %s<%s>.
 UNBAN_CHATLOG = %s <%s> беше баннат (в играта).
-PLAYER_BANNED_BEFORE = [AMXBans]<%s> %s е бил баннат %i пъти преди това.
+PLAYER_BANNED_BEFORE = <%s> %s е бил баннат %i пъти преди това.
 ALREADY_BANNED = Играчът вече е баннат.
 PERMANENT = перманентен
 BAN_FOR_MINUTES = Бан за %s
@@ -1295,8 +1390,8 @@ MSG_12 = Има %s оставащи от Вашия бан.
 MSG_13 = Баннат прякор: %s
 NOT_BAN_PERMANENT = Вие нямате право на бан през конзолата.
 BAN_MAX = Вие можете да баннете за максимум %i минути през конзолата!
-MSG_MOTD_1 = <meta http-equiv="content-type" content="text/html; charset=UTF-8" /><body = <body bgcolor=#9CB3B3><font size=^"18^" color=^"red^">Вие бяхте баннат.</font><br><br><font color=^"black^">Причина: %s<br>Продължителност: %s<br>SteamID: %s</font>
-MSG_MOTD_2 = <meta http-equiv="content-type" content="text/html; charset=UTF-8" /><body = <body bgcolor=#9CB3B3><font size=^"18^" color=^"red^">Вие бяхте баннат.</font><br><br><font color=^"black^">Причина: %s<br>Продължителност: %s<br>SteamID: %s<br>Администратор: %s</font>
+MSG_MOTD_1 = <body bgcolor=#9CB3B3><font size=^"18^" color=^"red^">Вие бяхте баннат.</font><br><br><font color=^"black^">Причина: %s<br>Продължителност: %s<br>SteamID: %s</font>
+MSG_MOTD_2 = <body bgcolor=#9CB3B3><font size=^"18^" color=^"red^">Вие бяхте баннат.</font><br><br><font color=^"black^">Причина: %s<br>Продължителност: %s<br>SteamID: %s<br>Администратор: %s</font>
 AMX_BANIP_SYNTAX = amx_banip <време в минути> <SteamID | прякор> <причина>
 AMX_FIND_SYNTAX = amx_find <SteamID | прякор>
 AMX_BAN_SYNTAX = amx_ban <време в минути> <SteamID | прякор> <причина>
@@ -1369,7 +1464,16 @@ AMX_FIND_RESULT_4 = Продължителност на бана: '%s', оста
 AMX_FIND_RESULT_5 = Банът е изтекъл.
 AMX_FIND_NORESULT = Не са намерени изтекли банове (SteamID: '%s')
 NO_MOTD = Не е намерен MOTD запис. Настройте го от webGUI -> Сървъри!
+FLAGGED_PLAYER = Флагнат(и) играч(и): %s <%s> Причина: %s
+BLOCKING_DOUBLEBAN = Блокиране на двойния бан от <%s>
+PLAYER_NOT_FOUND = Играчът %s не беше намерен
+UPDATE_MENU = Ъпдейт меню (%d) Страница %d
+NO_MENU_OPENED = Няма отворено меню 
 PLAYER_LEAVE = Играчът напусна сървъра и не може да бъде баннат. 
+PLAYER_NOT_BANNED = SteamID / IP %s не е баннато.
+TOO_MANY_BANS = SteamID / IP %s има %d активни бана и премахването на този бан не може да бъде извършено.
+LOG_UNBAN = %s<%d><%s><%s> премахна бана на %s
+UNBAN_CONSOLE = банът на %s беше премахнат
 
 [ua]
 ADMMENU_FLAGGING = AMXBans: Помічені гравці
@@ -1389,7 +1493,7 @@ SQL_MENU_ONLINE_01 = AMXBans Menu% s працює (1 причина завант
 SQL_MENU_ONLINE_02 = AMXBans Menu% s працює (%d причин(а) завантажено(а)) 
 UNBAN_LOG = %s<%d><%s><%s> unbanned %s<%s>.
 UNBAN_CHATLOG = %s <%s> забанено (у грі). 
-PLAYER_BANNED_BEFORE = [AMXBans]<%s> %s було вже забанено %i раз.
+PLAYER_BANNED_BEFORE = <%s> %s було вже забанено %i раз.
 ALREADY_BANNED = Гравця вже забанено
 PERMANENT = назавжди
 BAN_FOR_MINUTES = Бан на %s
@@ -1409,8 +1513,8 @@ MSG_12 = Залишилось %s до закінчення бана.
 MSG_13 = Нік: %s
 NOT_BAN_PERMANENT = У Вас немає прав доступу для бану через консоль.
 BAN_MAX = Ви можете банити тільки на %i хвилин через консоль! 
-MSG_MOTD_1 = <meta http-equiv="content-type" content="text/html; charset=UTF-8" /><body = <body bgcolor=#9CB3B3><font size=^"18^" color=^"red^">Вас було забанено.</font><br><br><font color=^"black^">Причина: %s<br>Тривалість: %s<br>SteamID: %s</font>
-MSG_MOTD_2 = <meta http-equiv="content-type" content="text/html; charset=UTF-8" /><body = <body bgcolor=#9CB3B3><font size=^"18^" color=^"red^">Вы были забанены.</font><br><br><font color=^"black^">Причины: %s<br>Тривалість: %s<br>SteamID: %s<br>Адміністратор: %s</font>
+MSG_MOTD_1 = <body bgcolor=#9CB3B3><font size=^"18^" color=^"red^">Вас було забанено.</font><br><br><font color=^"black^">Причина: %s<br>Тривалість: %s<br>SteamID: %s</font>
+MSG_MOTD_2 = <body bgcolor=#9CB3B3><font size=^"18^" color=^"red^">Вы были забанены.</font><br><br><font color=^"black^">Причины: %s<br>Тривалість: %s<br>SteamID: %s<br>Адміністратор: %s</font>
 AMX_BANIP_SYNTAX = amx_banip <час у хвилинах> <SteamID | нік> <причина>
 AMX_FIND_SYNTAX = amx_find <SteamID | нік>
 AMX_BAN_SYNTAX = amx_ban <час у хвилинах> <SteamID | нік> <причина>
@@ -1483,7 +1587,16 @@ AMX_FIND_RESULT_4 = Тривалість: '%s', залишилось: '%s'
 AMX_FIND_RESULT_5 = Бан закінчився.
 AMX_FIND_NORESULT = Минулі бани не знайдені (SteamID: '%s')
 NO_MOTD = Не знайдено посилання для MOTD вікна. Встановіть його у веб-частинi, розділ Сервера! 
+FLAGGED_PLAYER = Помічений гравець: %s <%s> Причина: %s
+BLOCKING_DOUBLEBAN = Заблокован подвійний бан від <%s>
+PLAYER_NOT_FOUND = Гравець %s не знайден
+UPDATE_MENU = Оновити меню (%d) Сторінка %d
+NO_MENU_OPENED = Меню не відкрито
 PLAYER_LEAVE = Гравець залишив сервер та його не може бути забанено. 
+PLAYER_NOT_BANNED = SteamID / IP %s is not banned.
+TOO_MANY_BANS = SteamID / IP %s has %d active bans, cannot unban.
+LOG_UNBAN = %s<%d><%s><%s> unbanned %s
+UNBAN_CONSOLE = %s has been unbanned
 
 [bp]
 ADMMENU_FLAGGING = AMXBans: Marcacoes dos jogadores
@@ -1495,7 +1608,7 @@ TQUERY_ERROR = [AMXBans] Erro na consulta: %d
 TQUERY_MSG = [AMXBans] Mensagem: %s (%d)
 TQUERY_STATEMENT = [AMXBans] Consulta: %s
 SQL_BANMOD_ONLINE = AMXBans %s esta online
-SQL_CANT_LOAD_REASONS = erro SQL: Nao foi possivel carregar as razoes dos bans: '%s'
+SQL_CANT_LOAD_REASONS = erro SQL: Nao foi possível carregar as razoes dos bans: '%s'
 SQL_LOADED_STATIC_REASONS = Nenhuma razao de ban encontrada. As razoes estaticas foram carregadas.
 SQL_LOADED_REASON = 1 razao carregada do banco de dados.
 SQL_LOADED_REASONS = %d razoes carregadas do banco de dados.
@@ -1503,7 +1616,7 @@ SQL_MENU_ONLINE_01 = AMXBans Menu %s esta online (1 razao carregada)
 SQL_MENU_ONLINE_02 = AMXBans Menu %s esta online (%d razoes carregadas)
 UNBAN_LOG = %s<%d><%s><%s> retirou o ban de %s<%s>.
 UNBAN_CHATLOG = %s <%s> foi banido (jogo).
-PLAYER_BANNED_BEFORE = [AMXBans]<%s> %s ja foi banido %i vezes.
+PLAYER_BANNED_BEFORE = <%s> %s ja foi banido %i vezes.
 ALREADY_BANNED = O jogador ja esta banido.
 PERMANENT = permanente
 BAN_FOR_MINUTES = Banir por %s
@@ -1569,7 +1682,7 @@ UN_FLAGG_MESS_ERROR = Remocao de marcacao do jogador %s falhou
 FLAG_PLAYER = Marcar jogador
 FLAGGED = Sob observacao
 PLAYER_FLAGGED = O jogador esta sob observacao
-FLAGG_NPOSS = Nao e possivel marcar um BOT ou o HLTV!
+FLAGG_NPOSS = Nao e possível marcar um BOT ou o HLTV!
 FLAG_FOR_MINUTES = Marcar por %s
 FLAG_PERMANENT = Marcar permanentemente
 HISTORY_MOTD = Historico de bans de %s
@@ -1597,7 +1710,16 @@ AMX_FIND_RESULT_4 = Duracao: '%s', tempo restante: '%s'
 AMX_FIND_RESULT_5 = O ban expirou.
 AMX_FIND_NORESULT = Nenhum ban expirado foi encontrado (SteamID: '%s')
 NO_MOTD = Nenhum MOTD foi encontrado. Configure-o na interface web em Servers.
-PLAYER_LEAVE = O jogador saiu do servidor e nao pode ser banido.
+FLAGGED_PLAYER = Jogador(es) Marcado(s): %s <%s> Motivo: %s
+BLOCKING_DOUBLEBAN = Bloquear duploban de <%s>
+PLAYER_NOT_FOUND = Jogador %s nao foi encontrado
+UPDATE_MENU = Atualizar Menu (%d) Pagina %d
+NO_MENU_OPENED = Menu nao aberto
+PLAYER_LEAVE = O jogador saiu do servidor e nao pode ser banido. 
+PLAYER_NOT_BANNED = SteamID / IP %s nao esta banida.
+TOO_MANY_BANS = SteamID / IP %s tem %d bans ativo, nao podem tirar o ban.
+LOG_UNBAN = %s<%d><%s><%s> desbanido %s
+UNBAN_CONSOLE = %s foi bem desbanid
 
 [pt_PT]
 ADMMENU_FLAGGING = AMXBans: Marcações dos Jogadores
@@ -1617,7 +1739,7 @@ SQL_MENU_ONLINE_01 = Menu AMXBans %s está online (1 motivo carregado)
 SQL_MENU_ONLINE_02 = Menu AMXBans %s está online (%d motivos carregados)
 UNBAN_LOG = %s<%d><%s><%s> desbanido %s<%s>.
 UNBAN_CHATLOG = %s <%s> foi banido  (dentro do jogo).
-PLAYER_BANNED_BEFORE = [AMXBans]<%s> %s foi banido %i vezes antes.
+PLAYER_BANNED_BEFORE = <%s> %s foi banido %i vezes antes.
 ALREADY_BANNED = Jogador ja se encontra banido.
 PERMANENT = permanente
 BAN_FOR_MINUTES = Ban por %s
@@ -1637,8 +1759,8 @@ MSG_12 = Há %s restantes do seu ban.
 MSG_13 = Nickname Banido: %s
 NOT_BAN_PERMANENT = Voce não está autorizado a banir via Console.
 BAN_MAX = Voce pode banir o maximo de %i Minutos via Console!
-MSG_MOTD_1 = <meta http-equiv="content-type" content="text/html; charset=UTF-8" /><body = <body bgcolor=#9CB3B3><font size=^"18^" color=^"red^">Voce foi banido.</font><br><br><font color=^"black^">Motivo: %s<br>Duração: %s<br>SteamID: %s</font>
-MSG_MOTD_2 = <meta http-equiv="content-type" content="text/html; charset=UTF-8" /><body = <body bgcolor=#9CB3B3><font size=^"18^" color=^"red^">Voce foi banido.</font><br><br><font color=^"black^">Motivo: %s<br>Duração: %s<br>SteamID: %s<br>Admin: %s</font>
+MSG_MOTD_1 = <body bgcolor=#9CB3B3><font size=^"18^" color=^"red^">Voce foi banido.</font><br><br><font color=^"black^">Motivo: %s<br>Duração: %s<br>SteamID: %s</font>
+MSG_MOTD_2 = <body bgcolor=#9CB3B3><font size=^"18^" color=^"red^">Voce foi banido.</font><br><br><font color=^"black^">Motivo: %s<br>Duração: %s<br>SteamID: %s<br>Admin: %s</font>
 AMX_BANIP_SYNTAX = amx_banip <tempo em minutos> <SteamID | nickname> <Motivo>
 AMX_FIND_SYNTAX = amx_find <SteamID | nickname>
 AMX_BAN_SYNTAX = amx_ban <Tempo em minutos> <SteamID | Nickname> <Motivo>
@@ -1711,7 +1833,16 @@ AMX_FIND_RESULT_4 = Tempo de Ban: '%s', tempo restante: '%s'
 AMX_FIND_RESULT_5 = Ban expirou.
 AMX_FIND_NORESULT = Bans expirados não encontrados (SteamID: '%s')
 NO_MOTD = Entrada-MOTD não encontrada. Define-os no webGUI -> Servidores!
+FLAGGED_PLAYER = Jogador(s) Marcados: %s <%s> Reason: %s
+BLOCKING_DOUBLEBAN = Bloquear duploban de <%s>
+PLAYER_NOT_FOUND = Jogador %s nao foi encontrado
+UPDATE_MENU = Actualizar Menu (%d) Pagina %d
+NO_MENU_OPENED = Menu nao aberto
 PLAYER_LEAVE = Player deixou o servidor e não pode ser proibida.
+PLAYER_NOT_BANNED = SteamID / IP %s is not banned.
+TOO_MANY_BANS = SteamID / IP %s has %d active bans, cannot unban.
+LOG_UNBAN = %s<%d><%s><%s> unbanned %s
+UNBAN_CONSOLE = %s has been unbanned
 
 [fi]
 ADMMENU_FLAGGING = AMXBans: Pelaajien merkintä
@@ -1731,7 +1862,7 @@ SQL_MENU_ONLINE_01 = AMXBans-valikko %s on toiminnassa (1 syy ladattiin)
 SQL_MENU_ONLINE_02 = AMXBans-valikko %s on toiminnassa (%d syytä ladattiin)
 UNBAN_LOG = %s<%d><%s><%s> poisti pelaajan %s<%s> bannin.
 UNBAN_CHATLOG = %s <%s> bannattiin (pelissä).
-PLAYER_BANNED_BEFORE = [AMXBans]<%s> %s on bannatty %i kertaa aiemmin.
+PLAYER_BANNED_BEFORE = <%s> %s on bannatty %i kertaa aiemmin.
 ALREADY_BANNED = Pelaaja on jo bannatty.
 PERMANENT = pysyvä
 BAN_FOR_MINUTES = Banni %s ajaksi
@@ -1751,8 +1882,8 @@ MSG_12 = Banniasi on %s jäljellä.
 MSG_13 = Bannatty nimi: %s
 NOT_BAN_PERMANENT = Et ole valtuutettu antamaan banneja konsolin kautta.
 BAN_MAX = Voit bannata enintään %i minuutiksi konsolin kautta!
-MSG_MOTD_1 = <meta http-equiv="content-type" content="text/html; charset=UTF-8" /><body = <body bgcolor=#9CB3B3><font size=^"18^" color=^"red^">Sinut on bannatty.</font><br><br><font color=^"black^">Syy: %s<br>Kesto: %s<br>SteamID: %s</font>
-MSG_MOTD_2 = <meta http-equiv="content-type" content="text/html; charset=UTF-8" /><body = <body bgcolor=#9CB3B3><font size=^"18^" color=^"red^">Sinut on bannatty.</font><br><br><font color=^"black^">Syy: %s<br>Kesto: %s<br>SteamID: %s<br>Admin: %s</font>
+MSG_MOTD_1 = <body bgcolor=#9CB3B3><font size=^"18^" color=^"red^">Sinut on bannatty.</font><br><br><font color=^"black^">Syy: %s<br>Kesto: %s<br>SteamID: %s</font>
+MSG_MOTD_2 = <body bgcolor=#9CB3B3><font size=^"18^" color=^"red^">Sinut on bannatty.</font><br><br><font color=^"black^">Syy: %s<br>Kesto: %s<br>SteamID: %s<br>Admin: %s</font>
 AMX_BANIP_SYNTAX = amx_banip <aika minuutteina> <SteamID | nimi> <syy>
 AMX_FIND_SYNTAX = amx_find <SteamID | nimi>
 AMX_BAN_SYNTAX = amx_ban <aika minuutteina> <SteamID | nimi> <syy>
@@ -1825,7 +1956,16 @@ AMX_FIND_RESULT_4 = Bannin pituus: '%s', aikaa jäljellä: '%s'
 AMX_FIND_RESULT_5 = Banni on vanhentunut.
 AMX_FIND_NORESULT = Vanhentuneita banneja ei loytynyt (SteamID: '%s')
 NO_MOTD = MOTD-merkintää ei loytynyt. Tee sellainen kohdassa webGUI -> Palvelimet!
+FLAGGED_PLAYER = Flagged Player(s): %s <%s> Reason: %s
+BLOCKING_DOUBLEBAN = Blocking doubleban from <%s>
+PLAYER_NOT_FOUND = Player %s was not found
+UPDATE_MENU = Update Menu (%d) Page %d
+NO_MENU_OPENED = No Menu Opened
 PLAYER_LEAVE = Pelaaja lähti palvelimelta, eikä häntä voida bannata. 
+PLAYER_NOT_BANNED = SteamID / IP %s is not banned.
+TOO_MANY_BANS = SteamID / IP %s has %d active bans, cannot unban.
+LOG_UNBAN = %s<%d><%s><%s> unbanned %s
+UNBAN_CONSOLE = %s has been unbanned
 
 [fr]
 ADMMENU_FLAGGING = AMXBans: Marquage du joueur
@@ -1845,7 +1985,7 @@ SQL_MENU_ONLINE_01 = Le menu d AMXBans %s est actif (1 raison a ete chargee)
 SQL_MENU_ONLINE_02 = Le menu d AMXBans %s est actif (%d raisons ont ete chargees)
 UNBAN_LOG = %s<%d><%s><%s> debanni %s<%s>.
 UNBAN_CHATLOG = %s <%s> a ete banni (dans le jeu).
-PLAYER_BANNED_BEFORE = [AMXBans]<%s> %s a ete banni %i fois auparavant.
+PLAYER_BANNED_BEFORE = <%s> %s a ete banni %i fois auparavant.
 ALREADY_BANNED = Le joueur est deja banni.
 PERMANENT = permanent
 BAN_FOR_MINUTES = Banni pour %s
@@ -1865,8 +2005,8 @@ MSG_12 = Il y a %s traces de votre ban.            ////////////////////////////
 MSG_13 = Pseudo du banni: %s
 NOT_BAN_PERMANENT = Vous n etes pas autorise de bannir a partir de la console.
 BAN_MAX = Vous pouvez bannir pour une duree maximale de %i Minutes a partir de la console!
-MSG_MOTD_1 = <meta http-equiv="content-type" content="text/html; charset=UTF-8" /><body = <body bgcolor=#9CB3B3><font size=^"18^" color=^"red^">Vous avez ete banni.</font><br><br><font color=^"black^">Raison: %s<br>Duree: %s<br>SteamID: %s</font>
-MSG_MOTD_2 = <meta http-equiv="content-type" content="text/html; charset=UTF-8" /><body = <body bgcolor=#9CB3B3><font size=^"18^" color=^"red^">Vous avez ete banni.</font><br><br><font color=^"black^">Raison: %s<br>Duree: %s<br>SteamID: %s<br>Admin: %s</font>
+MSG_MOTD_1 = <body bgcolor=#9CB3B3><font size=^"18^" color=^"red^">Vous avez ete banni.</font><br><br><font color=^"black^">Raison: %s<br>Duree: %s<br>SteamID: %s</font>
+MSG_MOTD_2 = <body bgcolor=#9CB3B3><font size=^"18^" color=^"red^">Vous avez ete banni.</font><br><br><font color=^"black^">Raison: %s<br>Duree: %s<br>SteamID: %s<br>Admin: %s</font>
 AMX_BANIP_SYNTAX = amx_banip <temps en minutes> <SteamID | pseudo> <raison>
 AMX_FIND_SYNTAX = amx_find <SteamID | pseudo>
 AMX_BAN_SYNTAX = amx_ban <Temps en Minutes> <SteamID | Pseudo> <Raison>
@@ -1939,7 +2079,16 @@ AMX_FIND_RESULT_4 = Duree du ban: '%s', Temps restant: '%s'
 AMX_FIND_RESULT_5 = Le ban a expire.
 AMX_FIND_NORESULT = Aucun ban expire n a ete trouve (SteamID: '%s')
 NO_MOTD = Aucune Entree MOTD n a ete trouvee. Specifiez la dans le webGUI -> Servers!
+FLAGGED_PLAYER = Joueur(s) sous surveillance: %s <%s> Raison: %s
+BLOCKING_DOUBLEBAN = Double ban bloque pour <%s>
+PLAYER_NOT_FOUND = Le joueur %s n'a pas ete trouve
+UPDATE_MENU = Rafraichir le menu (%d) Page %d
+NO_MENU_OPENED = Pas de menu ouvert
 PLAYER_LEAVE = Le joueur a quitte le serveur et ne peut etre banni.
+PLAYER_NOT_BANNED = SteamID / IP %s n'est pas banni.
+TOO_MANY_BANS = SteamID / IP %s possede %d ban(s) actif(s), et ne peut etre debanni.
+LOG_UNBAN = %s<%d><%s><%s> a debanni %s
+UNBAN_CONSOLE = %s a ete debanni
 
 [lt]
 ADMMENU_FLAGGING = AMXBans: Zaideju-Zymejimas
@@ -1959,7 +2108,7 @@ SQL_MENU_ONLINE_01 = AMXBans meniu %s prisijunge (1 priezastis uzkrauta)
 SQL_MENU_ONLINE_02 = AMXBans meniu %s prisijunge (%d priezastys uzkrautos)
 UNBAN_LOG = %s<%d><%s><%s> atbaninti %s<%s>.
 UNBAN_CHATLOG = %s <%s> buvo atbaninti (zaidime).
-PLAYER_BANNED_BEFORE = [AMXBans]<%s> %s buvo uzbaninti %i kartu.
+PLAYER_BANNED_BEFORE = <%s> %s buvo uzbaninti %i kartu.
 ALREADY_BANNED = Zaidejas jau yra uzbanintas.
 PERMANENT = amzinas
 BAN_FOR_MINUTES = Baninti ant %s
@@ -1979,8 +2128,8 @@ MSG_12 = %s like iki tavo bano pabaigos.
 MSG_13 = Uzbanintas slapyvardis: %s
 NOT_BAN_PERMANENT = Tu neturi reikiamu teisiu, kad galetum baninti per konsole.
 BAN_MAX = Tu gali uzbaninti maksimum %i minuciu per konsole!
-MSG_MOTD_1 = <meta http-equiv="content-type" content="text/html; charset=UTF-8" /><body = <body bgcolor=#9CB3B3><font size=^"18^" color=^"red^">Tu buvai uzbanintas.</font><br><br><font color=^"black^">Priezastis: %s<br>Laikotarpis: %s<br>SteamID: %s</font>
-MSG_MOTD_2 = <meta http-equiv="content-type" content="text/html; charset=UTF-8" /><body = <body bgcolor=#9CB3B3><font size=^"18^" color=^"red^">Tu buvai uzbanintas.</font><br><br><font color=^"black^">Priezastis: %s<br>Laikotarpis: %s<br>SteamID: %s<br>Adminas: %s</font>
+MSG_MOTD_1 = <body bgcolor=#9CB3B3><font size=^"18^" color=^"red^">Tu buvai uzbanintas.</font><br><br><font color=^"black^">Priezastis: %s<br>Laikotarpis: %s<br>SteamID: %s</font>
+MSG_MOTD_2 = <body bgcolor=#9CB3B3><font size=^"18^" color=^"red^">Tu buvai uzbanintas.</font><br><br><font color=^"black^">Priezastis: %s<br>Laikotarpis: %s<br>SteamID: %s<br>Adminas: %s</font>
 AMX_BANIP_SYNTAX = amx_banip <laikas minutemis> <SteamID | nickas | IP> <priezastis>
 AMX_FIND_SYNTAX = amx_find <SteamID | nickas | IP>
 AMX_BAN_SYNTAX = amx_ban <laikas minutemis> <SteamID | Nickname> <Reason>
@@ -2053,4 +2202,136 @@ AMX_FIND_RESULT_4 = Bano trukme: '%s', laiko liko: '%s'
 AMX_FIND_RESULT_5 = Banas pasibaige.
 AMX_FIND_NORESULT = Pasibaigusiu banu nerasta (SteamID: '%s')
 NO_MOTD = Joks MOTD-Irasas nerastas. Nustatyti ji galite nueje webGUI -> Serveriai!
+FLAGGED_PLAYER = Pazymetas zaidejas(-ai): %s <%s> Priezastis: %s
+BLOCKING_DOUBLEBAN = Dvigubas banas blokuojamas zaidejui <%s>
+PLAYER_NOT_FOUND = Zaidejas %s nerastas
+UPDATE_MENU = Atnaujinti meniu (%d) puslapi %d
+NO_MENU_OPENED = Nera atidaryto meniu 
 PLAYER_LEAVE = Zaidejas paliko serveri, todel jis negali buti uzbanintas.
+PLAYER_NOT_BANNED = SteamID / IP %s nera uzblokuotas
+TOO_MANY_BANS = SteamID / IP %s yra %d blokuojamas ir nera galimas atblokavimui
+LOG_UNBAN = %s<%d><%s><%s> atblokuotas %s
+UNBAN_CONSOLE = %s yra atblokuotas
+
+[es]
+ADMMENU_FLAGGING = AMXBans: Marcas en jugadores
+ADMMENU_DISCONNECTED = AMXBans: Jugadores desconectados
+ADMMENU_HISTORY = AMXBans: Historia de baneos
+TCONNECTION_FAILED = [AMXBans] Conexion fallida!
+TQUERY_FAILED = [AMXBans] Consulta fallida!
+TQUERY_ERROR = [AMXBans] Error de consulta, Lugar: %d
+TQUERY_MSG = [AMXBans] Mensaje: %s (%d)
+TQUERY_STATEMENT = [AMXBans] Estado de la consulta: %s
+SQL_BANMOD_ONLINE = AMXBans %s esta encendido
+SQL_CANT_LOAD_REASONS = SQL error: No se puedieron cargar las razones de baneos: '%s'
+SQL_LOADED_STATIC_REASONS = No se encontraron razones en la base de datos. Otras razones fueron cargadas en su lugar.
+SQL_LOADED_REASON = 1 Razon cargada de la base de datos.
+SQL_LOADED_REASONS = %d Razones cargadas de la base de datos.
+SQL_MENU_ONLINE_01 = AMXBans Menu %s esta encendido (1 razon cargada)
+SQL_MENU_ONLINE_02 = AMXBans Menu %s esta encendido (%d razones cargadas)
+UNBAN_LOG = %s<%d><%s><%s> desbaneo a %s<%s>.
+UNBAN_CHATLOG = %s <%s> fue desbaneado (dentro del juego).
+PLAYER_BANNED_BEFORE = [AMXBans]<%s> %s ha sido baneado %i veces antes.
+ALREADY_BANNED = El jugador ya esta baneado.
+PERMANENT = permanente
+BAN_FOR_MINUTES = Banear %s
+BAN_PERMANENT = Baneo permanente
+MSG_1 = Has sido baneado de este servidor!
+MSG_2 = Razon: '%s'
+MSG_3 = Duracion: '%s'
+MSG_4 = Tu SteamID: '%s'
+MSG_5 = Tu IP: '%s'
+MSG_6 = Por el Admin: %s
+MSG_7 = Puedes protestar por tu baneo @ %s
+MSG_8 = Has sido baneado de este servidor por el Admin %s.
+MSG_9 = Estas baneado en este servidor!
+MSG_10 = Estas baneado permanentemente.
+MSG_11 = Has sido baneado al menos una vez antes.
+MSG_12 = Quedan %s restantes de tu baneo.
+MSG_13 = Nick baneado: %s
+NOT_BAN_PERMANENT = No estas autorizado para banear por consola.
+BAN_MAX = Puedes banear un maximo de %i minutos por consola!
+MSG_MOTD_1 = <body bgcolor=#9CB3B3><font size=^"18^" color=^"red^">Has sido baneado.</font><br><br><font color=^"black^">Razon: %s<br>Duracion: %s<br>SteamID: %s</font>
+MSG_MOTD_2 = <body bgcolor=#9CB3B3><font size=^"18^" color=^"red^">Has sido baneado.</font><br><br><font color=^"black^">Razon: %s<br>Duracion: %s<br>SteamID: %s<br>Admin: %s</font>
+AMX_BANIP_SYNTAX = amx_banip <Tiempo en minutos> <SteamID | Nick> <Razon>
+AMX_FIND_SYNTAX = amx_find <SteamID | Nick>
+AMX_BAN_SYNTAX = amx_ban <Tiempo en minutos> <SteamID | Nick> <Razon>
+AMX_BAN_SYNTAX_NEW = amx_ban <SteamID | Nick> <Tiempo en minutos> <Razon>
+ADMIN_BAN_1 = ADMIN: banear a %s
+ADMIN_BAN_2 = ADMIN %s: banear a %s
+STEAMID_BANNED_SUCCESS_IP_LOGGED = SteamID '%s' baneada correctamente (IP registrada). El jugador sera expulsado.
+STEAMID_IP_BANNED_SUCCESS = Baneada correctamente la IP del jugador. El jugador sera expulsado.
+BAN_LOG = %s<%d><%s><%s> ha baneado a %s<%s> durante %s (%i minutos). Razon: %s.
+BAN_CHATLOG = %s<%s> fue baneado durante %s (%i minutos). Razon: %s.
+BAN_LOG_PERM = %s<%d><%s><%s> baneo a %s<%s> Duracion: PERMANENTE. Razon: %s.
+BAN_CHATLOG_PERM = %s<%s> fue baneado PERMANENTEMENTE. Razon: %s.
+PUBLIC_BAN_ANNOUNCE = '%s' fue baneado durante '%s'.^n Razon: '%s'
+PUBLIC_BAN_ANNOUNCE_PERM = '%s' fue baneado permanentemente.^n Razon: '%s'
+PUBLIC_BAN_ANNOUNCE_2 = '%s' fue baneado durante '%s'.^n Razon: '%s'^n Admin: %s
+PUBLIC_BAN_ANNOUNCE_2_PERM = '%s' fue baneado permanentemente.^n Razon: '%s'^n Admin: %s
+NO_REASONS = Razones no encontradas
+REASON_1 = Cheto
+REASON_2 = Hacer el tonto
+REASON_3 = Hablar mal
+REASON_4 = Ver por la pared
+REASON_5 = Aimbot
+REASON_6 = Ver x pared + Aimbot
+REASON_7 = Campear
+USER_REASON = Razon definida por el usuario
+BANTIME_MENU = Menu de tiempos de baneo
+REASON_MENU = Menu de razones de baneo
+BAN_MENU = Menu de baneo
+FLAGGING_MENU = Marcar jugador
+NO_DISCONNECTED_PLAYER_IN_LIST = No se encontraron jugadores en la lista!
+BANDISCONNECTED_MENU = Los ultimos %d jugadores
+BAN_DISCONNECTED_PLAYER_FAILED = Fallo al banear!
+BAN_DISCONNECTED_PLAYER_SUCCESS = El jugador ha sido baneado!
+UNFLAG_PLAYER = Quitar marca
+UNFLAG_MENU = Jugador ya marcado! Opciones:
+FLAG_PLAYER_NEW = Poner nueva marca
+FLAGG_MESS_ERROR = Marcar a %s fallido
+FLAGREASON_MENU = Menu de razones de marcar
+FLAGG_MESS = Has marcado al jugador %s
+UN_FLAGG_MESS = Has quitado la marca de %s
+UN_FLAGG_MESS_ERROR = Error al quitar la marca de %s
+FLAG_PLAYER = Marcar jugador
+FLAGGED = Bajo observacion
+PLAYER_FLAGGED = El jugador esta bajo observacion
+FLAGG_NPOSS = Marcar a un BOT o HLTV es imposible!
+FLAG_FOR_MINUTES = Marcar durante %s
+FLAG_PERMANENT = Marcar permanentemente
+HISTORY_MOTD = Historia de baneos de %s
+BANHISTORY_MENU = Menu de historia de baneos
+FLAGTIME_MENU = Menu de tiempos de marcas
+BT_BAN_KICK = Banear instantaneamente
+BT_BAN_NEXTMAP = Banear despues de este mapa
+BT_BAN_NEXTROUND = Banear despues de esta ronda
+BR_BAN_KICK = Banear y expulsar
+NO_ACCESS_TO_CMD = No tienes acceso a este comando
+HAS_IMMUNITY = Este jugador tiene inmunidad
+IS_BOT = Ese jugador es un BOT
+IS_HLTV = Ese jugador es un HLTV
+KICK_MESSAGE = Estas BANEADO. Mira tu consola.
+UNABAN_STEAMID_ONLY = Solo los SteamIDs pueden ser desbaneados.
+PUBLIC_UNBAN_ANNOUNCE = '%s' fue desbaneado.
+PUBLIC_UNBAN_ANNOUNCE_2 = '%s' fue desbaneado por el admin %s.
+UNBAN_TO_OLD_BAN = No puedes quitar baneos de mas de %s. Deben ser quitados desde la web.
+UNBAN_TO_OLD_BAN2 = El baneo que intentas quitar es de hace %s.
+STEAMID_NOT_FOUND = Jugador con este SteamID no encontrado
+AMX_FIND_RESULT_1 = Jugador encontrado (SteamID: '%s')
+AMX_FIND_RESULT_2 = ID del ban: '%s', nick: '%s'
+AMX_FIND_RESULT_3 = Baneado durante: '%s'['%s'], razon: '%s'
+AMX_FIND_RESULT_4 = Duracion: '%s', tiempo restante: '%s'
+AMX_FIND_RESULT_5 = El baneo ha terminado.
+AMX_FIND_NORESULT = No se han encontrado baneos terminados (SteamID: '%s')
+NO_MOTD = No se ha encontrado MOTD especificada. Ponla en Web -> Servidores!
+FLAGGED_PLAYER = Jugador(es) marcado(s): %s <%s> Razon: %s
+BLOCKING_DOUBLEBAN = Bloqueando doble baneo de <%s>
+PLAYER_NOT_FOUND = El jugador %s no se ha encontrado
+UPDATE_MENU = Menu Actualizar (%d) Pagina %d
+NO_MENU_OPENED = No hay menu abierto
+PLAYER_LEAVE = El jugador dejo el servidor y no se le puede banear. 
+PLAYER_NOT_BANNED = La SteamID / IP %s no esta baneada.
+TOO_MANY_BANS = La SteamID / IP %s tiene %d baneos activos, no se puede banear.
+LOG_UNBAN = %s<%d><%s><%s> desbaneo a %s
+UNBAN_CONSOLE = %s ha sido desbaneado

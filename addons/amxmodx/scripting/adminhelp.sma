@@ -34,7 +34,7 @@
 
 #include <amxmodx>
 
-#define DISPLAY_MSG		// Comment to disable message on join
+//#define DISPLAY_MSG		// Comment to disable message on join
 #define HELPAMOUNT 10	// Number of commands per page
 
 public plugin_init()
@@ -127,3 +127,6 @@ public dispInfo(id)
 	}
 }
 #endif
+/* AMXX-Studio Notes - DO NOT MODIFY BELOW HERE
+*{\\ rtf1\\ ansi\\ deff0{\\ fonttbl{\\ f0\\ fnil Tahoma;}}\n\\ viewkind4\\ uc1\\ pard\\ lang1033\\ f0\\ fs16 \n\\ par }
+*/

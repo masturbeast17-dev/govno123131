@@ -1,0 +1,25 @@
+[en]
+CMD_BLOCKED = ^3This command is temporarily unavailable!
+HUD_INFORMER_DAY1 = Day Mode
+HUD_INFORMER_DAY2 = Day Mode^n(from %s to %s)
+HUD_INFORMER_DAY3 = Day Mode^nMap: %s (from %s to %s)
+HUD_INFORMER_NIGHT1 = Night Mode
+HUD_INFORMER_NIGHT2 = Night Mode^n(from %s to %s)
+HUD_INFORMER_NIGHT3 = Night Mode^nMap: %s (from %s to %s)
+HUD_ANNOUNCE_DAY = In %d minutes will turned on day mode
+HUD_ANNOUNCE_NIGHT = In %d minutes will turned on night mode
+HUD_DAY_MODE_ACTIVATED = Day mode activated!
+HUD_NIGHT_MODE_ACTIVATED = Night mode activated!
+
+[ru]
+CMD_BLOCKED = ^3Эта команда временно недоступна!
+HUD_INFORMER_DAY1 = Дневной Режим
+HUD_INFORMER_DAY2 = Дневной Режим^n(с %s до %s)
+HUD_INFORMER_DAY3 = Дневной Режим^nКарта: %s (с %s до %s)
+HUD_INFORMER_NIGHT1 = Ночной Режим
+HUD_INFORMER_NIGHT2 = Ночной Режим^n(с %s до %s)
+HUD_INFORMER_NIGHT3 = Ночной Режим^nКарта: %s (с %s до %s)
+HUD_ANNOUNCE_DAY = Через %d минут включится дневной режим
+HUD_ANNOUNCE_NIGHT = Через %d минут включится ночной режим
+HUD_DAY_MODE_ACTIVATED = Дневной режим активирован!
+HUD_NIGHT_MODE_ACTIVATED = Ночной режим активирован!

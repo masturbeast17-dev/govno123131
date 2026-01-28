@@ -1,0 +1,354 @@
+Protocol version 48
+Exe version 1.1.2.7/Stdio (cstrike)
+Exe build: 16:23:03 Oct  6 2020 (2369)
+Executing ReGameDLL Configuration File 
+unknown command "mp_freeforall"
+unknown command "mp_maxmoney"
+unknown command "mp_round_infinite"
+unknown command "mp_hegrenade_penetration"
+unknown command "mp_nadedrops"
+unknown command "mp_roundrespawn_time"
+unknown command "mp_auto_reload_weapons"
+unknown command "mp_refill_bpammo_weapons"
+unknown command "bot_deathmatch"
+unknown command "mp_auto_join_team"
+Executing ReGameDLL Configuration File 
+unknown command "mp_freeforall"
+unknown command "mp_maxmoney"
+unknown command "mp_round_infinite"
+unknown command "mp_hegrenade_penetration"
+unknown command "mp_nadedrops"
+unknown command "mp_roundrespawn_time"
+unknown command "mp_auto_reload_weapons"
+unknown command "mp_refill_bpammo_weapons"
+unknown command "bot_deathmatch"
+unknown command "mp_auto_join_team"
+Server IP address 195.88.208.116:27015
+   
+   Metamod-r version 1.3.0.128 Copyright (c) 2016-2018 ReHLDS Team (rebuild of original Metamod by Will Day and Jussi Kivilinna)
+   Metamod-r comes with ABSOLUTELY NO WARRANTY; for details type `meta gpl'.
+   This is free software, and you are welcome to redistribute it
+   under certain conditions; type `meta gpl' for details.
+   
+Metamod-r v1.3.0.128, API (5:13)
+Metamod-r build: 17:47:48 Aug 24 2018
+Metamod-r from: https://github.com/theAsmodai/metamod-r/commit/0cf2f70
+
+   AMX Mod X version 1.9.0.5271 Copyright (c) 2004-2015 AMX Mod X Development Team 
+   AMX Mod X comes with ABSOLUTELY NO WARRANTY; for details type `amxx gpl'.
+   This is free software and you are welcome to redistribute it under 
+   certain conditions; type 'amxx gpl' for details.
+  
+[WHB] Version: 1.5.696 Linux (Usage SSE 4.1)
+[WHB] Success: Build ReHLDS version defined Linux '2369'
+[WHB] Success: Configuration executed.
+ReGameDLL version: 5.11.0.420-dev+m
+L 12/13/2020 - 11:06:48: -------- Mapchange to jail_float --------
+L 12/13/2020 - 11:06:49: [GEOIP] Database info: GeoLite2 Country database 2.0
+[ReAimDetector] Version: 0.2.2 Linux 'Counter-Strike 1.6'
+[ReAimDetector] Success: Build ReHLDS version defined Linux '2369'.
+Executing ReGameDLL Configuration File 
+unknown command "bot_deathmatch"
+Executing ReGameDLL Configuration File 
+unknown command "bot_deathmatch"
+unknown command "amx_default_access"
+unknown command "amx_password_field"
+unknown command "amx_mode"
+unknown command "amx_show_activity"
+unknown command "amx_imessage"
+unknown command "amx_freq_imessage"
+unknown command "amx_plmenu_bantimes"
+unknown command "amx_tempban_maxtime"
+unknown command "amx_plmenu_slapdmg"
+unknown command "amx_flood_time"
+unknown command "amx_reservation"
+unknown command "amx_hideslots"
+unknown command "amx_time_display"
+unknown command "amx_time_voice"
+unknown command "amx_vote_delay"
+unknown command "amx_vote_time"
+unknown command "amx_vote_answers"
+unknown command "amx_votekick_ratio"
+unknown command "amx_voteban_ratio"
+unknown command "amx_votemap_ratio"
+unknown command "amx_vote_ratio"
+unknown command "amx_extendmap_max"
+unknown command "amx_extendmap_step"
+unknown command "amx_language_display_msg"
+unknown command "amx_help_display_msg"
+unknown command "amx_help_display_msg_time"
+unknown command "amx_help_amount_per_page"
+unknown command "amx_statsx_duration"
+unknown command "amx_statsx_freeze"
+unknown command "amx_restrmapsettings"
+unknown command "fb_kick_delay"
+unknown command "fb_server_name"
+unknown command "fb_sql_table"
+unknown command "fb_sql_log_table"
+unknown command "fb_ip_ban_time"
+unknown command "fb_showhud"
+unknown command "fb_offline_time"
+unknown command "fb_unban_self"
+unknown command "fb_unban_all"
+unknown command "fb_oldmap_players"
+unknown command "fb_bantime_access"
+unknown command "fb_adminrcon_flag"
+unknown command "fb_bantime_limit"
+unknown command "fb_use_sql"
+unknown command "fb_nvault_clear"
+unknown command "fb_force_check"
+unknown command "fb_cachetime"
+unknown command "fb_oldkickinfo"
+unknown command "fb_logtype"
+unknown command "fb_loglevel"
+unknown command "fb_logdays"
+unknown command "fb_use_russian"
+unknown command "fb_sql_clear"
+unknown command "fb_subnet_except_ucp"
+unknown command "fb_subnet_clients"
+unknown command "fb_prefix_clients"
+unknown command "fb_rec_snet"
+unknown command "fb_rec_snet_time"
+unknown command "fb_rec_snet_count"
+unknown command "fb_rec_snet_bt"
+unknown command "fb_subnet_recheck"
+unknown command "fb_rec_snet_level"
+unknown command "fb_cachetime_kick"
+unknown command "fb_cacheonly"
+unknown command "fb_showchat"
+unknown command "fb_chatinfo"
+unknown command "fb_hudinfo"
+unknown command "fb_hudcolor"
+unknown command "fb_hudpos"
+unknown command "fb_serveronly"
+unknown command "fb_confirmchat"
+unknown command "fb_locknames"
+unknown command "fb_newmenu"
+unknown command "fb_show_bb"
+unknown command "fb_noip_as_allip"
+unknown command "fb_longtime_allservers"
+unknown command "fb_force_bantype_ip"
+unknown command "fb_no_confirm"
+unknown command "fb_lock_def_time"
+unknown command "fb_customreason_first"
+unknown command "fb_customreason_flag"
+unknown command "fb_plugin_prefix"
+unknown command "fb_plugin_hprefix"
+unknown command "fb_menu_nick_addons"
+unknown command "fb_acp_admin_uid"
+unknown command "fb_kick_all_from_ip"
+unknown command "fb_positive_cache_mc"
+unknown command "fb_menufilters"
+unknown command "fb_menusort"
+unknown command "amx_password_field"
+unknown command "amx_amxadmins_table"
+unknown command "amx_admins_table"
+unknown command "fb_adminban_flag"
+unknown command "amx_mode"
+unknown command "amx_imessage"
+unknown command "amx_freq_imessage"
+unknown command "amx_plmenu_bantimes"
+unknown command "amx_tempban_maxtime"
+unknown command "amx_plmenu_slapdmg"
+unknown command "amx_flood_time"
+unknown command "amx_reservation"
+unknown command "amx_hideslots"
+unknown command "amx_time_display"
+unknown command "amx_time_voice"
+unknown command "amx_extendmap_max"
+unknown command "amx_extendmap_step"
+unknown command "amx_language_display_msg"
+unknown command "amx_help_display_msg"
+unknown command "amx_help_display_msg_time"
+unknown command "amx_help_amount_per_page"
+unknown command "amx_statsx_duration"
+unknown command "amx_statsx_freeze"
+unknown command "amx_restrmapsettings"
+IP Подошёл.
+L 12/13/2020 - 11:06:50: [colored_translit_config.amxx] Can't add menu item "Настройки чата" from plugin "Colored Translit Config" to menu set because the Menus Front-End plugin itself is not loaded!
+L 12/13/2020 - 11:06:50: [map_chooser_14.amxx] Загружено 47 карт из addons/amxmodx/configs/maps.ini
+L 12/13/2020 - 11:06:50: [map_chooser_14.amxx] Режим сортировки карт по онлайну выключен!
+========== [Colored Translit] START SET FCVAR ==========
+=========== [Colored Translit] END SET FCVAR ===========
+=========== [Colored Translit] START DEBUG =============
+[Colored Translit] Translit File Loaded. Symbols: 65
+[Colored Translit] Swear File Loaded. Swears: 0
+[Colored Translit] Replace File Loaded. Replacements: 1
+[Colored Translit] Ignore File Loaded. Ignore Words: 35
+[Colored Translit] Spam File Loaded. Spam Words: 172
+[Colored Translit] Cheat File Loaded. Cheat Words: 206
+[Colored Translit] Config File Executed. Version: 3.0
+=========== [Colored Translit] END DEBUG ===============
+[COVID mode]: Everything is fine! The configuration file is loaded! 
+unknown command "vk"
+couldn't exec addons/amxmodx/configs/jb_standard/all_cvars.cfg
+unknown command "jbe_last_prisoner_money"
+unknown command "jbe_vip_discount_shop"
+L 12/13/2020 - 11:06:50: [admin_loader_for_fb.amxx] Загружено 23 администраторов из MySQL
+Server logging data to file logs/L1213022.log
+L 12/13/2020 - 11:06:51: Log file started (file "logs/L1213022.log") (game "cstrike") (version "48/1.1.2.7/Stdio/2369")
+unknown command "sv_logecho"
+unknown command "sv_logfile"
+L 12/13/2020 - 11:06:51: Server cvar "mp_logdetail" = "3"
+unknown command "mp_autocrosshair"
+L 12/13/2020 - 11:06:51: Server cvar "sv_aim" = "0"
+unknown command "sv_airmove"
+unknown command "sv_voicequality"
+unknown command "sv_voicecodec"
+unknown command "amx_extendmap_max"
+unknown command "amx_extendmap_step"
+unknown command "cam_change"
+unknown command "cam_connect"
+unknown command "cam_message"
+unknown command "sid_url"
+unknown command "]fastcup.net/rating.html"
+unknown command "precache_hl"
+unknown command "precache_weapons"
+unknown command "amx_extendmap_max"
+unknown command "amx_extendmap_step"
+unknown command "sv_consistency"
+unknown command "amx_amxadmins_table"
+unknown command "amx_admins_table"
+L 12/13/2020 - 11:06:51: [pluginmenu.amxx] Can't add menu item "Plugin Cvars" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+L 12/13/2020 - 11:06:51: [pluginmenu.amxx] Can't add menu item "Plugin Commands" from plugin "pluginmenu.amxx" to menu set because the Menus Front-End plugin itself is not loaded!
+fsdfsd - 1 - 1
+Connection to Steam servers successful.
+   VAC secure mode disabled.
+L 12/13/2020 - 11:06:54: "1,2,3,4,5,6,7,<1><STEAM_1:0:1941552105><>" connected, address "5.44.170.41:27005"
+L 12/13/2020 - 11:06:54: "K0tik_Nar_KOTIK<2><STEAM_1:0:1840528214><>" connected, address "178.121.20.67:37045"
+5.44.170.41:27005:reconnect
+L 12/13/2020 - 11:06:55: "1,2,3,4,5,6,7,<3><STEAM_1:0:1941552105><>" connected, address "5.44.170.41:27005"
+5.44.170.41:27005:reconnect
+L 12/13/2020 - 11:06:55: "1,2,3,4,5,6,7,<4><STEAM_1:0:1941552105><>" connected, address "5.44.170.41:27005"
+178.121.20.67:37045:reconnect
+L 12/13/2020 - 11:06:55: "K0tik_Nar_KOTIK<5><STEAM_1:0:1840528214><>" connected, address "178.121.20.67:37045"
+5.44.170.41:27005:reconnect
+L 12/13/2020 - 11:06:56: "1,2,3,4,5,6,7,<6><STEAM_1:0:1941552105><>" connected, address "5.44.170.41:27005"
+L 12/13/2020 - 11:06:58: "K0tik_Nar_KOTIK<5><STEAM_1:0:1840528214><>" entered the game
+L 12/13/2020 - 11:06:58: World triggered "Round_Start"
+L 12/13/2020 - 11:06:59: "Belo4Ka<7><STEAM_1:0:2038992805><>" connected, address "195.211.253.212:27005"
+L 12/13/2020 - 11:06:59: "1,2,3,4,5,6,7,<8><STEAM_1:0:1941552105><>" connected, address "5.44.170.41:27005"
+L 12/13/2020 - 11:06:59: "K0tik_Nar_KOTIK<5><STEAM_1:0:1840528214><>" joined team "CT"
+L 12/13/2020 - 11:06:59: World triggered "Round_Draw" (CT "0") (T "0")
+L 12/13/2020 - 11:06:59: World triggered "Round_End"
+5.44.170.41:27005:reconnect
+L 12/13/2020 - 11:07:00: "1,2,3,4,5,6,7,<9><STEAM_1:0:1941552105><>" connected, address "5.44.170.41:27005"
+195.211.253.212:27005:reconnect
+L 12/13/2020 - 11:07:00: "Belo4Ka<10><STEAM_1:0:2038992805><>" connected, address "195.211.253.212:27005"
+5.44.170.41:27005:reconnect
+L 12/13/2020 - 11:07:00: "1,2,3,4,5,6,7,<11><STEAM_1:0:1941552105><>" connected, address "5.44.170.41:27005"
+5.44.170.41:27005:reconnect
+L 12/13/2020 - 11:07:00: "1,2,3,4,5,6,7,<12><STEAM_1:0:1941552105><>" connected, address "5.44.170.41:27005"
+L 12/13/2020 - 11:07:02: "Belo4Ka<10><STEAM_1:0:2038992805><>" entered the game
+L 12/13/2020 - 11:07:04: World triggered "Round_Start"
+L 12/13/2020 - 11:07:05: "1,2,3,4,5,6,7,<12><STEAM_1:0:1941552105><>" entered the game
+L 12/13/2020 - 11:07:05: "1,2,3,4,5,6,7,<12><STEAM_1:0:1941552105><UNASSIGNED>" triggered "time" (time "0:00")
+L 12/13/2020 - 11:07:05: "1,2,3,4,5,6,7,<12><STEAM_1:0:1941552105><UNASSIGNED>" triggered "latency" (ping "0")
+L 12/13/2020 - 11:07:05: "1,2,3,4,5,6,7,<12><STEAM_1:0:1941552105><>" disconnected
+5.44.170.41:27005:reconnect
+L 12/13/2020 - 11:07:05: "1,2,3,4,5,6,7,<13><STEAM_1:0:1941552105><>" connected, address "5.44.170.41:27005"
+5.44.170.41:27005:reconnect
+L 12/13/2020 - 11:07:06: "1,2,3,4,5,6,7,<14><STEAM_1:0:1941552105><>" connected, address "5.44.170.41:27005"
+L 12/13/2020 - 11:07:06: "Belo4Ka<10><STEAM_1:0:2038992805><>" joined team "TERRORIST"
+L 12/13/2020 - 11:07:06: World triggered "Game_Commencing"
+L 12/13/2020 - 11:07:06: World triggered "Game_Commencing" (CT "0") (T "0")
+L 12/13/2020 - 11:07:06: World triggered "Round_End"
+L 12/13/2020 - 11:07:09: "1,2,3,4,5,6,7,<14><STEAM_1:0:1941552105><>" entered the game
+L 12/13/2020 - 11:07:09: World triggered "Round_Start"
+L 12/13/2020 - 11:07:11: "1,2,3,4,5,6,7,<14><STEAM_1:0:1941552105><UNASSIGNED>" triggered "time" (time "0:01")
+L 12/13/2020 - 11:07:11: "1,2,3,4,5,6,7,<14><STEAM_1:0:1941552105><UNASSIGNED>" triggered "latency" (ping "0")
+L 12/13/2020 - 11:07:11: "1,2,3,4,5,6,7,<14><STEAM_1:0:1941552105><>" disconnected
+5.44.170.41:27005:reconnect
+L 12/13/2020 - 11:07:11: "1,2,3,4,5,6,7,<15><STEAM_1:0:1941552105><>" connected, address "5.44.170.41:27005"
+L 12/13/2020 - 11:07:14: "1,2,3,4,5,6,7,<15><STEAM_1:0:1941552105><>" entered the game
+L 12/13/2020 - 11:07:22: "1,2,3,4,5,6,7,<15><STEAM_1:0:1941552105><>" joined team "TERRORIST"
+L 12/13/2020 - 11:07:35: Server cvar "sv_restart" = "5"
+L 12/13/2020 - 11:07:35: World triggered "Restart_Round_(5_seconds)"
+L 12/13/2020 - 11:07:35: Team "CT" scored "0" with "1" players
+L 12/13/2020 - 11:07:35: Team "TERRORIST" scored "0" with "2" players
+L 12/13/2020 - 11:07:35: Server cvar "sv_restart" = "0"
+L 12/13/2020 - 11:07:40: World triggered "Round_Start"
+Rcon from 195.88.208.116:35783:
+rcon 1635222510 "7K4YVX3KUfT8vzz7YLee-ZUZUzEXQ5ZjkvBrwzcjx" status
+L 12/13/2020 - 11:08:07: Rcon: "rcon 1635222510 "7K4YVX3KUfT8vzz7YLee-ZUZUzEXQ5ZjkvBrwzcjx" status" from "195.88.208.116:35783"
+L 12/13/2020 - 11:08:34: "K0tik_Nar_KOTIK<5><STEAM_1:0:1840528214><CT>" attacked "Belo4Ka<10><STEAM_1:0:2038992805><TERRORIST>" with "mp5navy" (damage "27") (damage_armor "0") (health "72") (armor "0")
+L 12/13/2020 - 11:08:34: "K0tik_Nar_KOTIK<5><STEAM_1:0:1840528214><CT>" attacked "Belo4Ka<10><STEAM_1:0:2038992805><TERRORIST>" with "mp5navy" (damage "45") (damage_armor "0") (health "27") (armor "0")
+L 12/13/2020 - 11:08:35: "K0tik_Nar_KOTIK<5><STEAM_1:0:1840528214><CT>" attacked "1,2,3,4,5,6,7,<15><STEAM_1:0:1941552105><TERRORIST>" with "mp5navy" (damage "28") (damage_armor "0") (health "71") (armor "0")
+L 12/13/2020 - 11:08:35: "K0tik_Nar_KOTIK<5><STEAM_1:0:1840528214><CT>" attacked "1,2,3,4,5,6,7,<15><STEAM_1:0:1941552105><TERRORIST>" with "mp5navy" (damage "28") (damage_armor "0") (health "43") (armor "0")
+L 12/13/2020 - 11:08:42: "K0tik_Nar_KOTIK<5><STEAM_1:0:1840528214><CT>" attacked "1,2,3,4,5,6,7,<15><STEAM_1:0:1941552105><TERRORIST>" with "mp5navy" (damage "168") (damage_armor "0") (health "-124") (armor "0")
+L 12/13/2020 - 11:08:42: "K0tik_Nar_KOTIK<5><STEAM_1:0:1840528214><CT>" killed "1,2,3,4,5,6,7,<15><STEAM_1:0:1941552105><TERRORIST>" with "mp5navy"
+L 12/13/2020 - 11:09:19: "Belo4Ka<10><STEAM_1:0:2038992805><TERRORIST>" attacked "K0tik_Nar_KOTIK<5><STEAM_1:0:1840528214><CT>" with "m3" (damage "10") (damage_armor "0") (health "89") (armor "100")
+L 12/13/2020 - 11:09:23: "K0tik_Nar_KOTIK<5><STEAM_1:0:1840528214><CT>" attacked "Belo4Ka<10><STEAM_1:0:2038992805><TERRORIST>" with "m3" (damage "119") (damage_armor "59") (health "-19") (armor "40")
+L 12/13/2020 - 11:09:23: "K0tik_Nar_KOTIK<5><STEAM_1:0:1840528214><CT>" killed "Belo4Ka<10><STEAM_1:0:2038992805><TERRORIST>" with "m3"
+L 12/13/2020 - 11:09:23: Team "CT" triggered "CTs_Win" (CT "1") (T "0")
+L 12/13/2020 - 11:09:23: World triggered "Round_End"
+L 12/13/2020 - 11:09:28: World triggered "Round_Start"
+L 12/13/2020 - 11:09:31: "K0tik_Nar_KOTIK<5><STEAM_1:0:1840528214><CT>" committed suicide with "worldspawn" (world)
+L 12/13/2020 - 11:09:31: Team "TERRORIST" triggered "Terrorists_Win" (CT "1") (T "1")
+L 12/13/2020 - 11:09:31: World triggered "Round_End"
+L 12/13/2020 - 11:09:36: World triggered "Round_Start"
+L 12/13/2020 - 11:10:20: "minibam<16><STEAM_0:1:189314915><>" connected, address "92.38.69.234:15498"
+L 12/13/2020 - 11:10:20: "minibam<16><STEAM_0:1:189314915><>" STEAM USERID validated
+92.38.69.234:15498:reconnect
+L 12/13/2020 - 11:10:22: "minibam<17><STEAM_0:1:189314915><>" connected, address "92.38.69.234:15498"
+L 12/13/2020 - 11:10:22: "minibam<17><STEAM_0:1:189314915><>" STEAM USERID validated
+L 12/13/2020 - 11:10:25: [admin_loader_for_fb.amxx] Login: "minibam<17><STEAM_0:1:189314915><>" became an admin (account "minibam") (nickname "minibam") (access "abcdefghjklopqrstu") (address "92.38.69.234")
+L 12/13/2020 - 11:10:25: Admin minibam connected, ip: 92.38.69.234, Steam_ID: STEAM_0:1:189314915
+L 12/13/2020 - 11:10:25: "minibam<17><STEAM_0:1:189314915><>" entered the game
+L 12/13/2020 - 11:10:27: "minibam<17><STEAM_0:1:189314915><>" joined team "TERRORIST"
+L 12/13/2020 - 11:10:40: [plmenu.amxx] Cmd: "minibam<17><STEAM_0:1:189314915><>" transfer "minibam<17><STEAM_0:1:189314915><>" (team "Зеков")
+L 12/13/2020 - 11:10:40: "minibam<17><STEAM_0:1:189314915><TERRORIST>" joined team "CT"
+SZ_GetSpace: overflow on Belo4Ka
+SZ_GetSpace: overflow on Belo4Ka
+SZ_GetSpace: overflow on Belo4Ka
+SZ_GetSpace: overflow on Belo4Ka
+SZ_GetSpace: overflow on Belo4Ka
+SZ_GetSpace: overflow on Belo4Ka
+SZ_GetSpace: overflow on Belo4Ka
+SZ_GetSpace: overflow on Belo4Ka
+SZ_GetSpace: overflow on Belo4Ka
+SZ_GetSpace: overflow on Belo4Ka
+SZ_GetSpace: overflow on Belo4Ka
+SZ_GetSpace: overflow on Belo4Ka
+SZ_GetSpace: overflow on Belo4Ka
+SZ_GetSpace: overflow on Belo4Ka
+SZ_GetSpace: overflow on Belo4Ka
+SZ_GetSpace: overflow on Belo4Ka
+SZ_GetSpace: overflow on Belo4Ka
+SZ_GetSpace: overflow on Belo4Ka
+SZ_GetSpace: overflow on Belo4Ka
+Host_Error: PF_setmodel_I: no precache: models/w_xm1014.mdl
+
+L 12/13/2020 - 11:11:19: "Belo4Ka<10><STEAM_1:0:2038992805><TERRORIST>" triggered "weaponstats" (weapon "m3") (shots "1") (hits "1") (kills "0") (headshots "0") (tks "0") (damage "10") (deaths "1")
+L 12/13/2020 - 11:11:19: "Belo4Ka<10><STEAM_1:0:2038992805><TERRORIST>" triggered "weaponstats2" (weapon "m3") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "1")
+L 12/13/2020 - 11:11:19: "Belo4Ka<10><STEAM_1:0:2038992805><TERRORIST>" triggered "weaponstats" (weapon "knife") (shots "15") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 12/13/2020 - 11:11:19: "Belo4Ka<10><STEAM_1:0:2038992805><TERRORIST>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 12/13/2020 - 11:11:19: "Belo4Ka<10><STEAM_1:0:2038992805><TERRORIST>" triggered "time" (time "4:16")
+L 12/13/2020 - 11:11:19: "Belo4Ka<10><STEAM_1:0:2038992805><TERRORIST>" triggered "latency" (ping "41")
+L 12/13/2020 - 11:11:19: "K0tik_Nar_KOTIK<5><STEAM_1:0:1840528214><CT>" triggered "weaponstats" (weapon "mp5navy") (shots "8") (hits "5") (kills "1") (headshots "1") (tks "0") (damage "296") (deaths "0")
+L 12/13/2020 - 11:11:19: "K0tik_Nar_KOTIK<5><STEAM_1:0:1840528214><CT>" triggered "weaponstats2" (weapon "mp5navy") (head "1") (chest "0") (stomach "1") (leftarm "0") (rightarm "0") (leftleg "1") (rightleg "2")
+L 12/13/2020 - 11:11:19: "K0tik_Nar_KOTIK<5><STEAM_1:0:1840528214><CT>" triggered "weaponstats" (weapon "m3") (shots "1") (hits "1") (kills "1") (headshots "0") (tks "0") (damage "119") (deaths "0")
+L 12/13/2020 - 11:11:19: "K0tik_Nar_KOTIK<5><STEAM_1:0:1840528214><CT>" triggered "weaponstats2" (weapon "m3") (head "0") (chest "0") (stomach "0") (leftarm "1") (rightarm "0") (leftleg "0") (rightleg "0")
+L 12/13/2020 - 11:11:19: "K0tik_Nar_KOTIK<5><STEAM_1:0:1840528214><CT>" triggered "weaponstats" (weapon "deagle") (shots "3") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 12/13/2020 - 11:11:19: "K0tik_Nar_KOTIK<5><STEAM_1:0:1840528214><CT>" triggered "weaponstats2" (weapon "deagle") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 12/13/2020 - 11:11:19: "K0tik_Nar_KOTIK<5><STEAM_1:0:1840528214><CT>" triggered "weaponstats" (weapon "knife") (shots "1") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 12/13/2020 - 11:11:19: "K0tik_Nar_KOTIK<5><STEAM_1:0:1840528214><CT>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 12/13/2020 - 11:11:19: "K0tik_Nar_KOTIK<5><STEAM_1:0:1840528214><CT>" triggered "time" (time "4:21")
+L 12/13/2020 - 11:11:19: "K0tik_Nar_KOTIK<5><STEAM_1:0:1840528214><CT>" triggered "latency" (ping "29")
+L 12/13/2020 - 11:11:19: "1,2,3,4,5,6,7,<15><STEAM_1:0:1941552105><TERRORIST>" triggered "weaponstats" (weapon "knife") (shots "12") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "1")
+L 12/13/2020 - 11:11:19: "1,2,3,4,5,6,7,<15><STEAM_1:0:1941552105><TERRORIST>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 12/13/2020 - 11:11:19: "1,2,3,4,5,6,7,<15><STEAM_1:0:1941552105><TERRORIST>" triggered "time" (time "4:05")
+L 12/13/2020 - 11:11:19: "1,2,3,4,5,6,7,<15><STEAM_1:0:1941552105><TERRORIST>" triggered "latency" (ping "68")
+L 12/13/2020 - 11:11:19: "minibam<17><STEAM_0:1:189314915><CT>" triggered "weaponstats" (weapon "knife") (shots "1") (hits "0") (kills "0") (headshots "0") (tks "0") (damage "0") (deaths "0")
+L 12/13/2020 - 11:11:19: "minibam<17><STEAM_0:1:189314915><CT>" triggered "weaponstats2" (weapon "knife") (head "0") (chest "0") (stomach "0") (leftarm "0") (rightarm "0") (leftleg "0") (rightleg "0")
+L 12/13/2020 - 11:11:19: "minibam<17><STEAM_0:1:189314915><CT>" triggered "time" (time "0:54")
+L 12/13/2020 - 11:11:19: "minibam<17><STEAM_0:1:189314915><CT>" triggered "latency" (ping "39")
+L 12/13/2020 - 11:11:19: [META] ini: Begin re-reading plugins list: /servers/cs/1001/cstrike/addons/metamod/plugins.ini
+L 12/13/2020 - 11:11:19: [META] ini: Read plugin config for: AMX Mod X
+L 12/13/2020 - 11:11:19: [META] ini: Read plugin config for: Reunion
+L 12/13/2020 - 11:11:19: [META] ini: Read plugin config for: WHBlocker
+L 12/13/2020 - 11:11:19: [META] ini: Read plugin config for: Revoice
+L 12/13/2020 - 11:11:19: [META] ini: Finished reading plugins list: /servers/cs/1001/cstrike/addons/metamod/plugins.ini; Found 4 plugins
+L 12/13/2020 - 11:11:19: [META] dll: Updating plugins...
+L 12/13/2020 - 11:11:19: [META] dll: Finished updating 14 plugins; kept 4, loaded 0, unloaded 0, reloaded 0, delayed 0
+L 12/13/2020 - 11:11:19: [META] dll: Begin scan to collect callback fix data...

@@ -8,7 +8,7 @@ EXTED_MAP = Extend map %s
 TIME_CHOOSE = It's time to choose the nextmap...
 
 [ru]
-CHO_FIN_EXT = Голосование завершено. Карта продлена на % минут.
+CHO_FIN_EXT = Голосование завершено. Карта продлена на %.0f минут.
 CHO_FIN_NEXT = Голосование завершено. Следующая карта %s
 CHOSE_EXT = %s выбрал продление карты
 X_CHOSE_X = %s выбрал %s

@@ -1,0 +1,112 @@
+[ru]
+AB_ALREADY_BLINDED = Игрок "%s " уже ослеплен.
+AB_ALREADY_UNBLINDED = игрок '%s' уже не привязан.
+AB_PLAYER_IP_BLINDED = игрок '%s' с IP-адресом '%s' ослеплен.
+AB_PLAYER_IP_UNBLINDED = игрок '%s' с '%s' IP разослеплен.
+AB_I_MAKE_KILL_AFTER_BLIND = я делаю убийство после слепого !!!
+AB_KILL_AFTER_BLIND = проверить консоль.Убить после того, как слепой
+AB_HEADER = [ - - - - - - - - - - - - - - - - - - - - - - - - - ]
+AB_PHOTO_MAKE_ON = вы забанили на сервере '%s'.
+AB_YOUR_NAME_YOUR_IP = ваше имя: '%s', ваш IP был: '%s'
+AB_ADMIN_NAME_ADMIN_IP = имя администратора был: "%s ", админ ip был: '%s'
+AB_HOUR_CRUSH = время было: '%s'
+AB_VISIT_FOR_UNBAN = посетите '%s' и сделайте запрос на Разбан.
+
+
+[en]
+AB_ALREADY_BLINDED = Player '%s' is already blinded.
+AB_ALREADY_UNBLINDED = Player '%s' is already unblinded.
+AB_PLAYER_IP_BLINDED = Player '%s' with '%s' ip blinded.
+AB_PLAYER_IP_UNBLINDED = Player '%s' with '%s' ip unblinded.
+AB_I_MAKE_KILL_AFTER_BLIND = I make kill after blind !!!
+AB_KILL_AFTER_BLIND = Check console.Kill after blind
+AB_HEADER = [ - - - - - - - - - - - - - - - - - - - - - - - - - ]
+AB_PHOTO_MAKE_ON = You have banned on '%s' server.
+AB_YOUR_NAME_YOUR_IP = Your name was: '%s', your ip was: '%s'
+AB_ADMIN_NAME_ADMIN_IP =  Admin name was: '%s', admin ip was: '%s'
+AB_HOUR_CRUSH = TheTime was: '%s'
+AB_VIZIT_FOR_UNBAN = Vizit '%s' and make a unban request.
+
+[de]
+AB_ALREADY_BLINDED = Der Spieler '%s' ist schon geblendet.
+AB_ALREADY_UNBLINDED = Der Spieler '%s' ist bereits entblindet.
+AB_PLAYER_IP_BLINDED = Der Spieler '%s' mit der ip '%s' ist geblendet.
+AB_PLAYER_IP_UNBLINDED = Der Spieler '%s' mit der ip '%s' ist entblindet.
+AB_I_MAKE_KILL_AFTER_BLIND = Nachdem ich geblendet bin toete ich immer noch!!!
+AB_KILL_AFTER_BLIND = Check console.Toetet waehrend er blind ist
+AB_HEADER = [ - - - - - - - - - - - - - - - - - - - - - - - - - ]
+AB_PHOTO_MAKE_ON = Du wurdest auf dem server '%s' gebannt.
+AB_YOUR_NAME_YOUR_IP = Dein name war: '%s', deine ip war: '%s'
+AB_ADMIN_NAME_ADMIN_IP = Der Admin der dich gebannt hat: '%s', und seine/ihre ip: '%s'
+AB_HOUR_CRUSH = Uhrzeit des bannes: '%s'
+AB_VIZIT_FOR_UNBAN = Besuche '%s' und schreibe einen Antrag zum entbannen.
+
+[tr]
+AB_ALREADY_BLINDED = '%s' adli oyuncu zaten kordur.
+AB_ALREADY_UNBLINDED = '%s' adli oyuncu zaten normal goruyor.
+AB_PLAYER_IP_BLINDED = Oyuncu '%s', ip'si '%s' simdi kordur.
+AB_PLAYER_IP_UNBLINDED = Oyuncu '%s', ip'si '%s' simdi yine normal goruyor .
+AB_I_MAKE_KILL_AFTER_BLIND = Kor oldugum halde yinede oyunculari gorup vurabiliyorum!!!
+AB_KILL_AFTER_BLIND = Check console.Kor oldugu halde oyunculari olduruyor!
+AB_HEADER = [ - - - - - - - - - - - - - - - - - - - - - - - - - ]
+AB_PHOTO_MAKE_ON = Bu sunucuda yasaklandiniz '%s'.
+AB_YOUR_NAME_YOUR_IP = Oyuncu adin: '%s', oyuncu ip'n: '%s'
+AB_ADMIN_NAME_ADMIN_IP = Sizi yasaklayan admin: '%s', ve ip adresi: '%s'
+AB_HOUR_CRUSH = Yasaklandiginiz zaman: '%s'
+AB_VIZIT_FOR_UNBAN = Sitemizi ziyaret et '%s' ve yasagini kaldirmak icin bize yazi yazabilirsin.
+
+[cz]
+AB_ALREADY_BLINDED = Hrac '%s' uz je oslepen.
+AB_ALREADY_UNBLINDED = Hrac '%s' neni oslepen.
+AB_PLAYER_IP_BLINDED = Hrac '%s' s ip '%s' je oslepen.
+AB_PLAYER_IP_UNBLINDED = Hrac '%s' s ip '%s' uz vidi.
+AB_I_MAKE_KILL_AFTER_BLIND = Zabil jsem, kdyz jsem byl oslepen !!!
+AB_KILL_AFTER_BLIND = Check console.Zabiti po oslepeni
+AB_HEADER = [ - - - - - - - - - - - - - - - - - - - - - - - - - ]
+AB_PHOTO_MAKE_ON = Byl jsi zabanovan na serveru '%s'.
+AB_YOUR_NAME_YOUR_IP = Tvuj nick: '%s', tva ip: '%s'
+AB_ADMIN_NAME_ADMIN_IP =  Jmeno admina: '%s', adminova ip: '%s'
+AB_HOUR_CRUSH = Cas: '%s'
+AB_VIZIT_FOR_UNBAN = Navstiv '%s' a pozadej o unban.
+
+[es]
+AB_ALREADY_BLINDED = El jugador '%s' ya esta ciego.
+AB_ALREADY_UNBLINDED = El jugador '%s' ya esta descegado.
+AB_PLAYER_IP_BLINDED = El jugador '%s' con '%s' ip cegado.
+AB_PLAYER_IP_UNBLINDED = El jugador '%s' con '%s' ip descegado.
+AB_I_MAKE_KILL_AFTER_BLIND = Hice una muerte estando ciego !!!
+AB_KILL_AFTER_BLIND = Check console.Mate estando ciego.
+AB_HEADER = [ - - - - - - - - - - - - - - - - - - - - - - - - - ]
+AB_PHOTO_MAKE_ON = Has sido baneado '%s' server.
+AB_YOUR_NAME_YOUR_IP = Tu nombre fue: '%s', tu ip fue: '%s'
+AB_ADMIN_NAME_ADMIN_IP = El nombre del admin fue: '%s', la ip del admin fue: '%s'
+AB_HOUR_CRUSH = La hora fue: '%s'
+AB_VIZIT_FOR_UNBAN = Visita '%s' y pide el desbaneo. 
+
+[pl]
+AB_ALREADY_BLINDED = Gracz '%s' juz jest slepy.
+AB_ALREADY_UNBLINDED = Gracz '%s' juz nie jest slepy.
+AB_PLAYER_IP_BLINDED = Gracz '%s' z ip '%s' jest slepy.
+AB_PLAYER_IP_UNBLINDED = Gracz '%s' z ip '%s' nie jest slepy.
+AB_I_MAKE_KILL_AFTER_BLIND = Zabilem bedac oslepiony !!!
+AB_KILL_AFTER_BLIND = Check console.Zabil po oslepieniu.
+AB_HEADER = [ - - - - - - - - - - - - - - - - - - - - - - - - - ]
+AB_PHOTO_MAKE_ON = Zostales zbanowany na serwerze '%s'.
+AB_YOUR_NAME_YOUR_IP = Twoj nick: '%s', twoje ip: '%s'
+AB_ADMIN_NAME_ADMIN_IP =  Admina nick: '%s', admina ip: '%s'
+AB_HOUR_CRUSH = Byla godzina: '%s'
+AB_VIZIT_FOR_UNBAN = Odwiedz '%s' i napisz prosbe o odbanowanie.
+
+[ro]
+AB_ALREADY_BLINDED = Jucatorul '%s' are deja blind.
+AB_ALREADY_UNBLINDED = Jucatorul '%s' nu are blind.
+AB_PLAYER_IP_BLINDED = Jucatorul '%s' cu ip-ul '%s' a primit blind.
+AB_PLAYER_IP_UNBLINDED = Jucatorul '%s' cu ip-ul '%s' a primit unblind.
+AB_I_MAKE_KILL_AFTER_BLIND = Am facut frag dupa blind !!!
+AB_KILL_AFTER_BLIND = Cauta consola.Frag dupa blind
+AB_HEADER = [ - - - - - - - - - - - - - - - - - - - - - - - - - ]
+AB_PHOTO_MAKE_ON = Ai primit ban pe serverul '%s'.
+AB_YOUR_NAME_YOUR_IP = Numele tau a fost: '%s', ip-ul tau e: '%s'.
+AB_ADMIN_NAME_ADMIN_IP =  Numele adminului era: '%s', ip-ul adminului era: '%s'
+AB_HOUR_CRUSH = Timpul era: '%s'
+AB_VIZIT_FOR_UNBAN = Viziteaza '%s' si fa o cerere unban.

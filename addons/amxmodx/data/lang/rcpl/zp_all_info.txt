@@ -1,0 +1,31 @@
+[ru]
+RC_PARENTHESES_1 = \y1 \r~ \w
+RC_PARENTHESES_2 = \y2 \r~ \w
+RC_PARENTHESES_3 = \y3 \r~ \w
+RC_PARENTHESES_4 = \y4 \r~ \w
+RC_PARENTHESES_5 = \y5 \r~ \w
+RC_PARENTHESES_6 = \y6 \r~ \w
+RC_PARENTHESES_7 = \y7 \r~ \w
+RC_PARENTHESES_8 = \y8 \r~ \w
+RC_PARENTHESES_9 = \y9 \r~ \w
+RC_PARENTHESES_0 = \y0 \r~ \w
+RC_PARENTHESES_INVALID = \yX \r~ \d
+
+RC_PARENTHESES = \y%d \r~ \w
+
+RC_CHAT_PREFIX = ^4[Jail]^1
+RC_MENU_PREFIX = \r「\yJail\r」\d
+RC_SELECTED = \r[\dUSE\r]\d
+
+RC_BACK = Назад
+RC_NEXT = Далее
+RC_EXIT = Выход
+
+RC_MENU_BUY1 = \yГлавное оружие
+RC_MENU_BUY2 = \yДоп. оружие
+RC_MENU_BUY3 = \yГранаты
+RC_AMMO_PACKS1 = Евро:
+RC_AMMO_PACKS2 = \y%d euro
+RC_AMMO_PACKS2D = \d%d euro
+
+RC_CMD_NOT_ACCESS = Вы недостаточно пиздаты.
