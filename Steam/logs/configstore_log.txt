@@ -1,0 +1,94 @@
+
+
+[2026-02-03 12:35:47] Client version: 1769026246
+[2026-02-03 12:35:47] Failed to read store 'install' from '/mnt/server/Steam/config/config.vdf.tmp'
+[2026-02-03 12:35:47] Failed to read store 'install' from '/mnt/server/Steam/config/config.vdf.tmp'
+[2026-02-03 12:35:47] Failed to read store 'install' from '/mnt/server/Steam/config/config.vdf.tmp'
+[2026-02-03 12:35:47] Failed to read store 'install' from '/mnt/server/Steam/config/config.vdf.tmp'
+[2026-02-03 12:35:48] Flushed store 'install' to '/mnt/server/Steam/config/config.vdf'
+[2026-02-03 12:35:48] Loaded store 'install' from '/mnt/server/Steam/config/config.vdf' successfully
+[2026-02-03 12:35:50] Flushed store 'install' to '/mnt/server/Steam/config/config.vdf'
+[2026-02-03 12:35:50] Failed to read store 'userlocal' from '/mnt/server/Steam/userdata/anonymous/config/localconfig.vdf.tmp'
+[2026-02-03 12:35:51] Flushed store 'install' to '/mnt/server/Steam/config/config.vdf'
+[2026-02-03 12:35:52] Flushed store 'install' to '/mnt/server/Steam/config/config.vdf'
+[2026-02-03 12:35:52] Flushed store 'userlocal' to '/mnt/server/Steam/userdata/anonymous/config/localconfig.vdf'
+[2026-02-03 12:36:27] Flushed store 'userlocal' to '/mnt/server/Steam/userdata/anonymous/config/localconfig.vdf'
+[2026-02-03 12:36:28] Flushed store 'install' to '/mnt/server/Steam/config/config.vdf'
+[2026-02-03 12:36:29] Flushed store 'install' to '/mnt/server/Steam/config/config.vdf'
+[2026-02-03 12:36:37] Flushed store 'install' to '/mnt/server/Steam/config/config.vdf'
+[2026-02-03 12:36:38] Flushed store 'install' to '/mnt/server/Steam/config/config.vdf'
+[2026-02-03 12:36:59] Flushed store 'install' to '/mnt/server/Steam/config/config.vdf'
+[2026-02-03 12:37:39] Flushed store 'install' to '/mnt/server/Steam/config/config.vdf'
+[2026-02-03 12:38:01] Flushed store 'install' to '/mnt/server/Steam/config/config.vdf'
+[2026-02-03 12:38:35] Flushed store 'install' to '/mnt/server/Steam/config/config.vdf'
+[2026-02-03 12:39:05] Flushed store 'install' to '/mnt/server/Steam/config/config.vdf'
+[2026-02-03 12:40:09] Flushed store 'install' to '/mnt/server/Steam/config/config.vdf'
+[2026-02-03 12:40:39] Flushed store 'install' to '/mnt/server/Steam/config/config.vdf'
+[2026-02-03 12:41:11] Flushed store 'install' to '/mnt/server/Steam/config/config.vdf'
+[2026-02-03 12:41:39] Flushed store 'install' to '/mnt/server/Steam/config/config.vdf'
+[2026-02-03 12:42:13] Flushed store 'install' to '/mnt/server/Steam/config/config.vdf'
+
+
+[2026-02-03 13:01:59] Client version: no bootstrapper found
+[2026-02-03 13:01:59] Loaded store 'install' from '/home/container/Steam/config/config.vdf' successfully
+[2026-02-03 13:02:00] Flushed store 'install' to '/home/container/Steam/config/config.vdf'
+
+
+[2026-02-03 13:50:49] Client version: no bootstrapper found
+[2026-02-03 13:50:49] Loaded store 'install' from '/home/container/Steam/config/config.vdf' successfully
+[2026-02-03 13:50:50] Flushed store 'install' to '/home/container/Steam/config/config.vdf'
+
+
+[2026-02-03 14:23:46] Client version: no bootstrapper found
+[2026-02-03 14:23:46] Loaded store 'install' from '/home/container/Steam/config/config.vdf' successfully
+[2026-02-03 14:23:48] Flushed store 'install' to '/home/container/Steam/config/config.vdf'
+
+
+[2026-02-03 14:53:12] Client version: no bootstrapper found
+[2026-02-03 14:53:12] Loaded store 'install' from '/home/container/Steam/config/config.vdf' successfully
+[2026-02-03 14:53:13] Flushed store 'install' to '/home/container/Steam/config/config.vdf'
+
+
+[2026-02-03 14:59:42] Client version: no bootstrapper found
+[2026-02-03 14:59:42] Loaded store 'install' from '/home/container/Steam/config/config.vdf' successfully
+[2026-02-03 14:59:43] Flushed store 'install' to '/home/container/Steam/config/config.vdf'
+
+
+[2026-02-03 15:11:29] Client version: no bootstrapper found
+[2026-02-03 15:11:29] Loaded store 'install' from '/home/container/Steam/config/config.vdf' successfully
+[2026-02-03 15:11:30] Flushed store 'install' to '/home/container/Steam/config/config.vdf'
+
+
+[2026-02-03 15:15:10] Client version: no bootstrapper found
+[2026-02-03 15:15:10] Loaded store 'install' from '/home/container/Steam/config/config.vdf' successfully
+[2026-02-03 15:15:12] Flushed store 'install' to '/home/container/Steam/config/config.vdf'
+
+
+[2026-02-03 15:39:14] Client version: no bootstrapper found
+[2026-02-03 15:39:14] Loaded store 'install' from '/home/container/Steam/config/config.vdf' successfully
+[2026-02-03 15:39:16] Flushed store 'install' to '/home/container/Steam/config/config.vdf'
+
+
+[2026-02-03 15:43:50] Client version: no bootstrapper found
+[2026-02-03 15:43:50] Loaded store 'install' from '/home/container/Steam/config/config.vdf' successfully
+[2026-02-03 15:43:52] Flushed store 'install' to '/home/container/Steam/config/config.vdf'
+
+
+[2026-02-03 15:46:31] Client version: no bootstrapper found
+[2026-02-03 15:46:31] Loaded store 'install' from '/home/container/Steam/config/config.vdf' successfully
+[2026-02-03 15:46:32] Flushed store 'install' to '/home/container/Steam/config/config.vdf'
+
+
+[2026-02-03 15:49:47] Client version: no bootstrapper found
+[2026-02-03 15:49:47] Loaded store 'install' from '/home/container/Steam/config/config.vdf' successfully
+[2026-02-03 15:49:49] Flushed store 'install' to '/home/container/Steam/config/config.vdf'
+
+
+[2026-02-03 16:03:44] Client version: no bootstrapper found
+[2026-02-03 16:03:44] Loaded store 'install' from '/home/container/Steam/config/config.vdf' successfully
+[2026-02-03 16:03:45] Flushed store 'install' to '/home/container/Steam/config/config.vdf'
+
+
+[2026-02-03 16:07:30] Client version: no bootstrapper found
+[2026-02-03 16:07:30] Loaded store 'install' from '/home/container/Steam/config/config.vdf' successfully
+[2026-02-03 16:07:31] Flushed store 'install' to '/home/container/Steam/config/config.vdf'

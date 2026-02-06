@@ -1,0 +1,418 @@
+L 02/03/2026 - 14:23:46: Start of error session.
+L 02/03/2026 - 14:23:46: Info (map "jail_evening") (file "addons/amxmodx/logs/error_20260203.log")
+L 02/03/2026 - 14:23:46: Called dynanative into a paused plugin.
+L 02/03/2026 - 14:23:46: [AMXX] Displaying debug trace (plugin "jbe_dm_birthday.amxx", version "1.1")
+L 02/03/2026 - 14:23:46: [AMXX] Run time error 10: native error (native "jbe_register_day_mode")
+L 02/03/2026 - 14:23:46: [AMXX]    [0] jbe_dm_birthday.sma::plugin_init (line 66)
+L 02/03/2026 - 14:23:46: Called dynanative into a paused plugin.
+L 02/03/2026 - 14:23:46: [AMXX] Run time error 10 (plugin "jbe_dm_blindfol.amxx") (native "jbe_register_day_mode") - debug not enabled!
+L 02/03/2026 - 14:23:46: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 02/03/2026 - 14:23:46: Called dynanative into a paused plugin.
+L 02/03/2026 - 14:23:46: [AMXX] Displaying debug trace (plugin "jbe_dm_dogon9lki.amxx", version "1.1")
+L 02/03/2026 - 14:23:46: [AMXX] Run time error 10: native error (native "jbe_register_day_mode")
+L 02/03/2026 - 14:23:46: [AMXX]    [0] jbe_dm_dogon9lki.sma::plugin_init (line 82)
+L 02/03/2026 - 14:23:46: Called dynanative into a paused plugin.
+L 02/03/2026 - 14:23:46: [AMXX] Displaying debug trace (plugin "jbe_dm_Day_no4.amxx", version "1.0")
+L 02/03/2026 - 14:23:46: [AMXX] Run time error 10: native error (native "jbe_register_day_mode")
+L 02/03/2026 - 14:23:46: [AMXX]    [0] jbe_dm_Day_no4.sma::plugin_init (line 62)
+L 02/03/2026 - 14:23:46: Called dynanative into a paused plugin.
+L 02/03/2026 - 14:23:46: [AMXX] Displaying debug trace (plugin "jbe_dm_hideandseek.amxx", version "1.1")
+L 02/03/2026 - 14:23:46: [AMXX] Run time error 10: native error (native "jbe_register_day_mode")
+L 02/03/2026 - 14:23:46: [AMXX]    [0] jbe_dm_hideandseek.sma::plugin_init (line 53)
+L 02/03/2026 - 14:23:46: Called dynanative into a paused plugin.
+L 02/03/2026 - 14:23:46: [AMXX] Displaying debug trace (plugin "jbe_galaxy.amxx", version "1.0")
+L 02/03/2026 - 14:23:46: [AMXX] Run time error 10: native error (native "jbe_register_day_mode")
+L 02/03/2026 - 14:23:46: [AMXX]    [0] jbe_galaxy.sma::plugin_init (line 65)
+L 02/03/2026 - 14:23:46: Called dynanative into a paused plugin.
+L 02/03/2026 - 14:23:46: [AMXX] Displaying debug trace (plugin "jbe_dm_drug.amxx", version "0.1")
+L 02/03/2026 - 14:23:46: [AMXX] Run time error 10: native error (native "jbe_register_day_mode")
+L 02/03/2026 - 14:23:46: [AMXX]    [0] jbe_dm_drug.sma::plugin_init (line 58)
+L 02/03/2026 - 14:23:46: Called dynanative into a paused plugin.
+L 02/03/2026 - 14:23:46: [AMXX] Displaying debug trace (plugin "jbe_dm_shtyrm.amxx", version "1.0")
+L 02/03/2026 - 14:23:46: [AMXX] Run time error 10: native error (native "jbe_register_day_mode")
+L 02/03/2026 - 14:23:46: [AMXX]    [0] jbe_dm_shtyrm.sma::plugin_init (line 78)
+L 02/03/2026 - 14:23:46: Called dynanative into a paused plugin.
+L 02/03/2026 - 14:23:46: [AMXX] Displaying debug trace (plugin "jbe_dm_starwars.amxx", version "1.1")
+L 02/03/2026 - 14:23:46: [AMXX] Run time error 10: native error (native "jbe_register_day_mode")
+L 02/03/2026 - 14:23:46: [AMXX]    [0] jbe_dm_starwars.sma::plugin_init (line 57)
+L 02/03/2026 - 14:23:46: Called dynanative into a paused plugin.
+L 02/03/2026 - 14:23:46: [AMXX] Displaying debug trace (plugin "jbe_dm_magic.amxx", version "1.0")
+L 02/03/2026 - 14:23:46: [AMXX] Run time error 10: native error (native "jbe_register_day_mode")
+L 02/03/2026 - 14:23:46: [AMXX]    [0] jbe_dm_magic.sma::plugin_init (line 65)
+L 02/03/2026 - 14:23:46: Called dynanative into a paused plugin.
+L 02/03/2026 - 14:23:46: [AMXX] Displaying debug trace (plugin "jbe_dm_snipers.amxx", version "1.1")
+L 02/03/2026 - 14:23:46: [AMXX] Run time error 10: native error (native "jbe_register_day_mode")
+L 02/03/2026 - 14:23:46: [AMXX]    [0] jbe_dm_snipers.sma::plugin_init (line 52)
+L 02/03/2026 - 14:23:46: Called dynanative into a paused plugin.
+L 02/03/2026 - 14:23:46: [AMXX] Displaying debug trace (plugin "jbe_dm_jetpack.amxx", version "1.1")
+L 02/03/2026 - 14:23:46: [AMXX] Run time error 10: native error (native "jbe_register_day_mode")
+L 02/03/2026 - 14:23:46: [AMXX]    [0] jbe_dm_jetpack.sma::plugin_init (line 53)
+L 02/03/2026 - 14:23:46: Called dynanative into a paused plugin.
+L 02/03/2026 - 14:23:46: [AMXX] Run time error 10 (plugin "jbe_dm_hot_potato.amxx") (native "jbe_register_day_mode") - debug not enabled!
+L 02/03/2026 - 14:23:46: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 02/03/2026 - 14:23:46: Called dynanative into a paused plugin.
+L 02/03/2026 - 14:23:46: [AMXX] Displaying debug trace (plugin "jbe_dm_1hp.amxx", version "1.1")
+L 02/03/2026 - 14:23:46: [AMXX] Run time error 10: native error (native "jbe_register_day_mode")
+L 02/03/2026 - 14:23:46: [AMXX]    [0] jbe_dm_1hp.sma::plugin_init (line 52)
+L 02/03/2026 - 14:23:46: Called dynanative into a paused plugin.
+L 02/03/2026 - 14:23:46: [AMXX] Run time error 10 (plugin "jbe_dm_zombie.amxx") (native "jbe_register_day_mode") - debug not enabled!
+L 02/03/2026 - 14:23:46: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 02/03/2026 - 14:23:58: Called dynanative into a paused plugin.
+L 02/03/2026 - 14:23:58: [AMXX] Displaying debug trace (plugin "jbe_chiefstep.amxx", version "1.0")
+L 02/03/2026 - 14:23:58: [AMXX] Run time error 10: native error (native "jbe_is_user_chief")
+L 02/03/2026 - 14:23:58: [AMXX]    [0] jbe_chiefstep.sma::CBasePlayer_PreThink (line 12)
+L 02/03/2026 - 14:23:58: Called dynanative into a paused plugin.
+L 02/03/2026 - 14:23:58: [AMXX] Displaying debug trace (plugin "parachute.amxx", version "1.0")
+L 02/03/2026 - 14:23:58: [AMXX] Run time error 10: native error (native "jbe_get_day_week")
+L 02/03/2026 - 14:23:58: [AMXX]    [0] parachute.sma::client_PreThink (line 14)
+L 02/03/2026 - 14:53:12: Start of error session.
+L 02/03/2026 - 14:53:12: Info (map "jail_evening") (file "addons/amxmodx/logs/error_20260203.log")
+L 02/03/2026 - 14:53:12: Function "Handle_I1Menu" was not found
+L 02/03/2026 - 14:53:12: [AMXX] Displaying debug trace (plugin "jbe_core_mode.amxx", version "4.0")
+L 02/03/2026 - 14:53:12: [AMXX] Run time error 19: function not found 
+L 02/03/2026 - 14:53:12: [AMXX]    [0] jbe_core_mode.sma::menu_init (line 2112)
+L 02/03/2026 - 14:53:12: [AMXX]    [1] jbe_core_mode.sma::plugin_init (line 476)
+L 02/03/2026 - 14:53:12: Invalid array handle provided (0)
+L 02/03/2026 - 14:53:12: [AMXX] Displaying debug trace (plugin "jbe_core_mode.amxx", version "4.0")
+L 02/03/2026 - 14:53:12: [AMXX] Run time error 10: native error (native "ArrayPushArray")
+L 02/03/2026 - 14:53:12: [AMXX]    [0] jbe_core_mode.sma::jbe_register_day_mode (line 10123)
+L 02/03/2026 - 14:53:12: Unhandled dynamic native error
+L 02/03/2026 - 14:53:12: [AMXX] Displaying debug trace (plugin "jbe_dm_birthday.amxx", version "1.1")
+L 02/03/2026 - 14:53:12: [AMXX] Run time error 10: native error (native "jbe_register_day_mode")
+L 02/03/2026 - 14:53:12: [AMXX]    [0] jbe_dm_birthday.sma::plugin_init (line 66)
+L 02/03/2026 - 14:53:12: Invalid array handle provided (0)
+L 02/03/2026 - 14:53:12: [AMXX] Displaying debug trace (plugin "jbe_core_mode.amxx", version "4.0")
+L 02/03/2026 - 14:53:12: [AMXX] Run time error 10: native error (native "ArrayPushArray")
+L 02/03/2026 - 14:53:12: [AMXX]    [0] jbe_core_mode.sma::jbe_register_day_mode (line 10123)
+L 02/03/2026 - 14:53:12: Unhandled dynamic native error
+L 02/03/2026 - 14:53:12: [AMXX] Run time error 10 (plugin "jbe_dm_blindfol.amxx") (native "jbe_register_day_mode") - debug not enabled!
+L 02/03/2026 - 14:53:12: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 02/03/2026 - 14:53:12: Invalid array handle provided (0)
+L 02/03/2026 - 14:53:12: [AMXX] Displaying debug trace (plugin "jbe_core_mode.amxx", version "4.0")
+L 02/03/2026 - 14:53:12: [AMXX] Run time error 10: native error (native "ArrayPushArray")
+L 02/03/2026 - 14:53:12: [AMXX]    [0] jbe_core_mode.sma::jbe_register_day_mode (line 10123)
+L 02/03/2026 - 14:53:12: Unhandled dynamic native error
+L 02/03/2026 - 14:53:12: [AMXX] Displaying debug trace (plugin "jbe_dm_dogon9lki.amxx", version "1.1")
+L 02/03/2026 - 14:53:12: [AMXX] Run time error 10: native error (native "jbe_register_day_mode")
+L 02/03/2026 - 14:53:12: [AMXX]    [0] jbe_dm_dogon9lki.sma::plugin_init (line 82)
+L 02/03/2026 - 14:53:12: Invalid array handle provided (0)
+L 02/03/2026 - 14:53:12: [AMXX] Displaying debug trace (plugin "jbe_core_mode.amxx", version "4.0")
+L 02/03/2026 - 14:53:12: [AMXX] Run time error 10: native error (native "ArrayPushArray")
+L 02/03/2026 - 14:53:12: [AMXX]    [0] jbe_core_mode.sma::jbe_register_day_mode (line 10123)
+L 02/03/2026 - 14:53:12: Unhandled dynamic native error
+L 02/03/2026 - 14:53:12: [AMXX] Displaying debug trace (plugin "jbe_dm_Day_no4.amxx", version "1.0")
+L 02/03/2026 - 14:53:12: [AMXX] Run time error 10: native error (native "jbe_register_day_mode")
+L 02/03/2026 - 14:53:12: [AMXX]    [0] jbe_dm_Day_no4.sma::plugin_init (line 62)
+L 02/03/2026 - 14:53:12: Invalid array handle provided (0)
+L 02/03/2026 - 14:53:12: [AMXX] Displaying debug trace (plugin "jbe_core_mode.amxx", version "4.0")
+L 02/03/2026 - 14:53:12: [AMXX] Run time error 10: native error (native "ArrayPushArray")
+L 02/03/2026 - 14:53:12: [AMXX]    [0] jbe_core_mode.sma::jbe_register_day_mode (line 10123)
+L 02/03/2026 - 14:53:12: Unhandled dynamic native error
+L 02/03/2026 - 14:53:12: [AMXX] Displaying debug trace (plugin "jbe_dm_hideandseek.amxx", version "1.1")
+L 02/03/2026 - 14:53:12: [AMXX] Run time error 10: native error (native "jbe_register_day_mode")
+L 02/03/2026 - 14:53:12: [AMXX]    [0] jbe_dm_hideandseek.sma::plugin_init (line 53)
+L 02/03/2026 - 14:53:12: Invalid array handle provided (0)
+L 02/03/2026 - 14:53:12: [AMXX] Displaying debug trace (plugin "jbe_core_mode.amxx", version "4.0")
+L 02/03/2026 - 14:53:12: [AMXX] Run time error 10: native error (native "ArrayPushArray")
+L 02/03/2026 - 14:53:12: [AMXX]    [0] jbe_core_mode.sma::jbe_register_day_mode (line 10123)
+L 02/03/2026 - 14:53:12: Unhandled dynamic native error
+L 02/03/2026 - 14:53:12: [AMXX] Displaying debug trace (plugin "jbe_galaxy.amxx", version "1.0")
+L 02/03/2026 - 14:53:12: [AMXX] Run time error 10: native error (native "jbe_register_day_mode")
+L 02/03/2026 - 14:53:12: [AMXX]    [0] jbe_galaxy.sma::plugin_init (line 65)
+L 02/03/2026 - 14:53:12: Invalid array handle provided (0)
+L 02/03/2026 - 14:53:12: [AMXX] Displaying debug trace (plugin "jbe_core_mode.amxx", version "4.0")
+L 02/03/2026 - 14:53:12: [AMXX] Run time error 10: native error (native "ArrayPushArray")
+L 02/03/2026 - 14:53:12: [AMXX]    [0] jbe_core_mode.sma::jbe_register_day_mode (line 10123)
+L 02/03/2026 - 14:53:12: Unhandled dynamic native error
+L 02/03/2026 - 14:53:12: [AMXX] Displaying debug trace (plugin "jbe_dm_drug.amxx", version "0.1")
+L 02/03/2026 - 14:53:12: [AMXX] Run time error 10: native error (native "jbe_register_day_mode")
+L 02/03/2026 - 14:53:12: [AMXX]    [0] jbe_dm_drug.sma::plugin_init (line 58)
+L 02/03/2026 - 14:53:12: Invalid array handle provided (0)
+L 02/03/2026 - 14:53:12: [AMXX] Displaying debug trace (plugin "jbe_core_mode.amxx", version "4.0")
+L 02/03/2026 - 14:53:12: [AMXX] Run time error 10: native error (native "ArrayPushArray")
+L 02/03/2026 - 14:53:12: [AMXX]    [0] jbe_core_mode.sma::jbe_register_day_mode (line 10123)
+L 02/03/2026 - 14:53:12: Unhandled dynamic native error
+L 02/03/2026 - 14:53:12: [AMXX] Displaying debug trace (plugin "jbe_dm_shtyrm.amxx", version "1.0")
+L 02/03/2026 - 14:53:12: [AMXX] Run time error 10: native error (native "jbe_register_day_mode")
+L 02/03/2026 - 14:53:12: [AMXX]    [0] jbe_dm_shtyrm.sma::plugin_init (line 78)
+L 02/03/2026 - 14:53:12: Invalid array handle provided (0)
+L 02/03/2026 - 14:53:12: [AMXX] Displaying debug trace (plugin "jbe_core_mode.amxx", version "4.0")
+L 02/03/2026 - 14:53:12: [AMXX] Run time error 10: native error (native "ArrayPushArray")
+L 02/03/2026 - 14:53:12: [AMXX]    [0] jbe_core_mode.sma::jbe_register_day_mode (line 10123)
+L 02/03/2026 - 14:53:12: Unhandled dynamic native error
+L 02/03/2026 - 14:53:12: [AMXX] Displaying debug trace (plugin "jbe_dm_starwars.amxx", version "1.1")
+L 02/03/2026 - 14:53:12: [AMXX] Run time error 10: native error (native "jbe_register_day_mode")
+L 02/03/2026 - 14:53:12: [AMXX]    [0] jbe_dm_starwars.sma::plugin_init (line 57)
+L 02/03/2026 - 14:53:12: Invalid array handle provided (0)
+L 02/03/2026 - 14:53:12: [AMXX] Displaying debug trace (plugin "jbe_core_mode.amxx", version "4.0")
+L 02/03/2026 - 14:53:12: [AMXX] Run time error 10: native error (native "ArrayPushArray")
+L 02/03/2026 - 14:53:12: [AMXX]    [0] jbe_core_mode.sma::jbe_register_day_mode (line 10123)
+L 02/03/2026 - 14:53:12: Unhandled dynamic native error
+L 02/03/2026 - 14:53:12: [AMXX] Displaying debug trace (plugin "jbe_dm_magic.amxx", version "1.0")
+L 02/03/2026 - 14:53:12: [AMXX] Run time error 10: native error (native "jbe_register_day_mode")
+L 02/03/2026 - 14:53:12: [AMXX]    [0] jbe_dm_magic.sma::plugin_init (line 65)
+L 02/03/2026 - 14:53:12: Invalid array handle provided (0)
+L 02/03/2026 - 14:53:12: [AMXX] Displaying debug trace (plugin "jbe_core_mode.amxx", version "4.0")
+L 02/03/2026 - 14:53:12: [AMXX] Run time error 10: native error (native "ArrayPushArray")
+L 02/03/2026 - 14:53:12: [AMXX]    [0] jbe_core_mode.sma::jbe_register_day_mode (line 10123)
+L 02/03/2026 - 14:53:12: Unhandled dynamic native error
+L 02/03/2026 - 14:53:12: [AMXX] Displaying debug trace (plugin "jbe_dm_snipers.amxx", version "1.1")
+L 02/03/2026 - 14:53:12: [AMXX] Run time error 10: native error (native "jbe_register_day_mode")
+L 02/03/2026 - 14:53:12: [AMXX]    [0] jbe_dm_snipers.sma::plugin_init (line 52)
+L 02/03/2026 - 14:53:12: Invalid array handle provided (0)
+L 02/03/2026 - 14:53:12: [AMXX] Displaying debug trace (plugin "jbe_core_mode.amxx", version "4.0")
+L 02/03/2026 - 14:53:12: [AMXX] Run time error 10: native error (native "ArrayPushArray")
+L 02/03/2026 - 14:53:12: [AMXX]    [0] jbe_core_mode.sma::jbe_register_day_mode (line 10123)
+L 02/03/2026 - 14:53:12: Unhandled dynamic native error
+L 02/03/2026 - 14:53:12: [AMXX] Displaying debug trace (plugin "jbe_dm_jetpack.amxx", version "1.1")
+L 02/03/2026 - 14:53:12: [AMXX] Run time error 10: native error (native "jbe_register_day_mode")
+L 02/03/2026 - 14:53:12: [AMXX]    [0] jbe_dm_jetpack.sma::plugin_init (line 53)
+L 02/03/2026 - 14:53:12: Invalid array handle provided (0)
+L 02/03/2026 - 14:53:12: [AMXX] Displaying debug trace (plugin "jbe_core_mode.amxx", version "4.0")
+L 02/03/2026 - 14:53:12: [AMXX] Run time error 10: native error (native "ArrayPushArray")
+L 02/03/2026 - 14:53:12: [AMXX]    [0] jbe_core_mode.sma::jbe_register_day_mode (line 10123)
+L 02/03/2026 - 14:53:12: Unhandled dynamic native error
+L 02/03/2026 - 14:53:12: [AMXX] Run time error 10 (plugin "jbe_dm_hot_potato.amxx") (native "jbe_register_day_mode") - debug not enabled!
+L 02/03/2026 - 14:53:12: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 02/03/2026 - 14:53:12: Invalid array handle provided (0)
+L 02/03/2026 - 14:53:12: [AMXX] Displaying debug trace (plugin "jbe_core_mode.amxx", version "4.0")
+L 02/03/2026 - 14:53:12: [AMXX] Run time error 10: native error (native "ArrayPushArray")
+L 02/03/2026 - 14:53:12: [AMXX]    [0] jbe_core_mode.sma::jbe_register_day_mode (line 10123)
+L 02/03/2026 - 14:53:12: Unhandled dynamic native error
+L 02/03/2026 - 14:53:12: [AMXX] Displaying debug trace (plugin "jbe_dm_1hp.amxx", version "1.1")
+L 02/03/2026 - 14:53:12: [AMXX] Run time error 10: native error (native "jbe_register_day_mode")
+L 02/03/2026 - 14:53:12: [AMXX]    [0] jbe_dm_1hp.sma::plugin_init (line 52)
+L 02/03/2026 - 14:53:12: Invalid array handle provided (0)
+L 02/03/2026 - 14:53:12: [AMXX] Displaying debug trace (plugin "jbe_core_mode.amxx", version "4.0")
+L 02/03/2026 - 14:53:12: [AMXX] Run time error 10: native error (native "ArrayPushArray")
+L 02/03/2026 - 14:53:12: [AMXX]    [0] jbe_core_mode.sma::jbe_register_day_mode (line 10123)
+L 02/03/2026 - 14:53:12: Unhandled dynamic native error
+L 02/03/2026 - 14:53:12: [AMXX] Run time error 10 (plugin "jbe_dm_zombie.amxx") (native "jbe_register_day_mode") - debug not enabled!
+L 02/03/2026 - 14:53:12: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 02/03/2026 - 14:53:29: [HAMSANDWICH] Invalid HamHook handle.
+L 02/03/2026 - 14:53:29: [AMXX] Displaying debug trace (plugin "jbe_core_mode.amxx", version "4.0")
+L 02/03/2026 - 14:53:29: [AMXX] Run time error 10: native error (native "EnableHamForward")
+L 02/03/2026 - 14:53:29: [AMXX]    [0] jbe_core_mode.sma::LogEvent_RoundEndTask (line 1832)
+L 02/03/2026 - 14:53:34: [HAMSANDWICH] Invalid HamHook handle.
+L 02/03/2026 - 14:53:34: [AMXX] Displaying debug trace (plugin "jbe_core_mode.amxx", version "4.0")
+L 02/03/2026 - 14:53:34: [AMXX] Run time error 10: native error (native "DisableHamForward")
+L 02/03/2026 - 14:53:34: [AMXX]    [0] jbe_core_mode.sma::Event_HLTV (line 1594)
+L 02/03/2026 - 14:57:55: [HAMSANDWICH] Invalid HamHook handle.
+L 02/03/2026 - 14:57:55: [AMXX] Displaying debug trace (plugin "jbe_core_mode.amxx", version "4.0")
+L 02/03/2026 - 14:57:55: [AMXX] Run time error 10: native error (native "EnableHamForward")
+L 02/03/2026 - 14:57:55: [AMXX]    [0] jbe_core_mode.sma::LogEvent_RoundEndTask (line 1832)
+L 02/03/2026 - 14:58:00: [HAMSANDWICH] Invalid HamHook handle.
+L 02/03/2026 - 14:58:00: [AMXX] Displaying debug trace (plugin "jbe_core_mode.amxx", version "4.0")
+L 02/03/2026 - 14:58:00: [AMXX] Run time error 10: native error (native "DisableHamForward")
+L 02/03/2026 - 14:58:00: [AMXX]    [0] jbe_core_mode.sma::Event_HLTV (line 1594)
+L 02/03/2026 - 14:59:41: Start of error session.
+L 02/03/2026 - 14:59:41: Info (map "jail_evening") (file "addons/amxmodx/logs/error_20260203.log")
+L 02/03/2026 - 14:59:41: Function "Handle_I1Menu" was not found
+L 02/03/2026 - 14:59:41: [AMXX] Displaying debug trace (plugin "jbe_core_mode.amxx", version "4.0")
+L 02/03/2026 - 14:59:41: [AMXX] Run time error 19: function not found 
+L 02/03/2026 - 14:59:41: [AMXX]    [0] jbe_core_mode.sma::menu_init (line 2112)
+L 02/03/2026 - 14:59:41: [AMXX]    [1] jbe_core_mode.sma::plugin_init (line 476)
+L 02/03/2026 - 14:59:41: Invalid array handle provided (0)
+L 02/03/2026 - 14:59:41: [AMXX] Displaying debug trace (plugin "jbe_core_mode.amxx", version "4.0")
+L 02/03/2026 - 14:59:41: [AMXX] Run time error 10: native error (native "ArrayPushArray")
+L 02/03/2026 - 14:59:41: [AMXX]    [0] jbe_core_mode.sma::jbe_register_day_mode (line 10123)
+L 02/03/2026 - 14:59:41: Unhandled dynamic native error
+L 02/03/2026 - 14:59:41: [AMXX] Displaying debug trace (plugin "jbe_dm_birthday.amxx", version "1.1")
+L 02/03/2026 - 14:59:41: [AMXX] Run time error 10: native error (native "jbe_register_day_mode")
+L 02/03/2026 - 14:59:41: [AMXX]    [0] jbe_dm_birthday.sma::plugin_init (line 66)
+L 02/03/2026 - 14:59:41: Invalid array handle provided (0)
+L 02/03/2026 - 14:59:41: [AMXX] Displaying debug trace (plugin "jbe_core_mode.amxx", version "4.0")
+L 02/03/2026 - 14:59:41: [AMXX] Run time error 10: native error (native "ArrayPushArray")
+L 02/03/2026 - 14:59:41: [AMXX]    [0] jbe_core_mode.sma::jbe_register_day_mode (line 10123)
+L 02/03/2026 - 14:59:41: Unhandled dynamic native error
+L 02/03/2026 - 14:59:41: [AMXX] Run time error 10 (plugin "jbe_dm_blindfol.amxx") (native "jbe_register_day_mode") - debug not enabled!
+L 02/03/2026 - 14:59:41: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 02/03/2026 - 14:59:41: Invalid array handle provided (0)
+L 02/03/2026 - 14:59:41: [AMXX] Displaying debug trace (plugin "jbe_core_mode.amxx", version "4.0")
+L 02/03/2026 - 14:59:41: [AMXX] Run time error 10: native error (native "ArrayPushArray")
+L 02/03/2026 - 14:59:41: [AMXX]    [0] jbe_core_mode.sma::jbe_register_day_mode (line 10123)
+L 02/03/2026 - 14:59:41: Unhandled dynamic native error
+L 02/03/2026 - 14:59:41: [AMXX] Displaying debug trace (plugin "jbe_dm_dogon9lki.amxx", version "1.1")
+L 02/03/2026 - 14:59:41: [AMXX] Run time error 10: native error (native "jbe_register_day_mode")
+L 02/03/2026 - 14:59:41: [AMXX]    [0] jbe_dm_dogon9lki.sma::plugin_init (line 82)
+L 02/03/2026 - 14:59:41: Invalid array handle provided (0)
+L 02/03/2026 - 14:59:41: [AMXX] Displaying debug trace (plugin "jbe_core_mode.amxx", version "4.0")
+L 02/03/2026 - 14:59:41: [AMXX] Run time error 10: native error (native "ArrayPushArray")
+L 02/03/2026 - 14:59:41: [AMXX]    [0] jbe_core_mode.sma::jbe_register_day_mode (line 10123)
+L 02/03/2026 - 14:59:41: Unhandled dynamic native error
+L 02/03/2026 - 14:59:41: [AMXX] Displaying debug trace (plugin "jbe_dm_Day_no4.amxx", version "1.0")
+L 02/03/2026 - 14:59:41: [AMXX] Run time error 10: native error (native "jbe_register_day_mode")
+L 02/03/2026 - 14:59:41: [AMXX]    [0] jbe_dm_Day_no4.sma::plugin_init (line 62)
+L 02/03/2026 - 14:59:41: Invalid array handle provided (0)
+L 02/03/2026 - 14:59:41: [AMXX] Displaying debug trace (plugin "jbe_core_mode.amxx", version "4.0")
+L 02/03/2026 - 14:59:41: [AMXX] Run time error 10: native error (native "ArrayPushArray")
+L 02/03/2026 - 14:59:41: [AMXX]    [0] jbe_core_mode.sma::jbe_register_day_mode (line 10123)
+L 02/03/2026 - 14:59:41: Unhandled dynamic native error
+L 02/03/2026 - 14:59:41: [AMXX] Displaying debug trace (plugin "jbe_dm_hideandseek.amxx", version "1.1")
+L 02/03/2026 - 14:59:41: [AMXX] Run time error 10: native error (native "jbe_register_day_mode")
+L 02/03/2026 - 14:59:41: [AMXX]    [0] jbe_dm_hideandseek.sma::plugin_init (line 53)
+L 02/03/2026 - 14:59:41: Invalid array handle provided (0)
+L 02/03/2026 - 14:59:41: [AMXX] Displaying debug trace (plugin "jbe_core_mode.amxx", version "4.0")
+L 02/03/2026 - 14:59:41: [AMXX] Run time error 10: native error (native "ArrayPushArray")
+L 02/03/2026 - 14:59:41: [AMXX]    [0] jbe_core_mode.sma::jbe_register_day_mode (line 10123)
+L 02/03/2026 - 14:59:41: Unhandled dynamic native error
+L 02/03/2026 - 14:59:41: [AMXX] Displaying debug trace (plugin "jbe_galaxy.amxx", version "1.0")
+L 02/03/2026 - 14:59:41: [AMXX] Run time error 10: native error (native "jbe_register_day_mode")
+L 02/03/2026 - 14:59:41: [AMXX]    [0] jbe_galaxy.sma::plugin_init (line 65)
+L 02/03/2026 - 14:59:41: Invalid array handle provided (0)
+L 02/03/2026 - 14:59:41: [AMXX] Displaying debug trace (plugin "jbe_core_mode.amxx", version "4.0")
+L 02/03/2026 - 14:59:41: [AMXX] Run time error 10: native error (native "ArrayPushArray")
+L 02/03/2026 - 14:59:41: [AMXX]    [0] jbe_core_mode.sma::jbe_register_day_mode (line 10123)
+L 02/03/2026 - 14:59:41: Unhandled dynamic native error
+L 02/03/2026 - 14:59:41: [AMXX] Displaying debug trace (plugin "jbe_dm_drug.amxx", version "0.1")
+L 02/03/2026 - 14:59:41: [AMXX] Run time error 10: native error (native "jbe_register_day_mode")
+L 02/03/2026 - 14:59:41: [AMXX]    [0] jbe_dm_drug.sma::plugin_init (line 58)
+L 02/03/2026 - 14:59:41: Invalid array handle provided (0)
+L 02/03/2026 - 14:59:41: [AMXX] Displaying debug trace (plugin "jbe_core_mode.amxx", version "4.0")
+L 02/03/2026 - 14:59:41: [AMXX] Run time error 10: native error (native "ArrayPushArray")
+L 02/03/2026 - 14:59:41: [AMXX]    [0] jbe_core_mode.sma::jbe_register_day_mode (line 10123)
+L 02/03/2026 - 14:59:41: Unhandled dynamic native error
+L 02/03/2026 - 14:59:41: [AMXX] Displaying debug trace (plugin "jbe_dm_shtyrm.amxx", version "1.0")
+L 02/03/2026 - 14:59:41: [AMXX] Run time error 10: native error (native "jbe_register_day_mode")
+L 02/03/2026 - 14:59:41: [AMXX]    [0] jbe_dm_shtyrm.sma::plugin_init (line 78)
+L 02/03/2026 - 14:59:41: Invalid array handle provided (0)
+L 02/03/2026 - 14:59:41: [AMXX] Displaying debug trace (plugin "jbe_core_mode.amxx", version "4.0")
+L 02/03/2026 - 14:59:41: [AMXX] Run time error 10: native error (native "ArrayPushArray")
+L 02/03/2026 - 14:59:41: [AMXX]    [0] jbe_core_mode.sma::jbe_register_day_mode (line 10123)
+L 02/03/2026 - 14:59:41: Unhandled dynamic native error
+L 02/03/2026 - 14:59:41: [AMXX] Displaying debug trace (plugin "jbe_dm_starwars.amxx", version "1.1")
+L 02/03/2026 - 14:59:41: [AMXX] Run time error 10: native error (native "jbe_register_day_mode")
+L 02/03/2026 - 14:59:41: [AMXX]    [0] jbe_dm_starwars.sma::plugin_init (line 57)
+L 02/03/2026 - 14:59:41: Invalid array handle provided (0)
+L 02/03/2026 - 14:59:41: [AMXX] Displaying debug trace (plugin "jbe_core_mode.amxx", version "4.0")
+L 02/03/2026 - 14:59:41: [AMXX] Run time error 10: native error (native "ArrayPushArray")
+L 02/03/2026 - 14:59:41: [AMXX]    [0] jbe_core_mode.sma::jbe_register_day_mode (line 10123)
+L 02/03/2026 - 14:59:41: Unhandled dynamic native error
+L 02/03/2026 - 14:59:41: [AMXX] Displaying debug trace (plugin "jbe_dm_magic.amxx", version "1.0")
+L 02/03/2026 - 14:59:41: [AMXX] Run time error 10: native error (native "jbe_register_day_mode")
+L 02/03/2026 - 14:59:41: [AMXX]    [0] jbe_dm_magic.sma::plugin_init (line 65)
+L 02/03/2026 - 14:59:41: Invalid array handle provided (0)
+L 02/03/2026 - 14:59:41: [AMXX] Displaying debug trace (plugin "jbe_core_mode.amxx", version "4.0")
+L 02/03/2026 - 14:59:41: [AMXX] Run time error 10: native error (native "ArrayPushArray")
+L 02/03/2026 - 14:59:41: [AMXX]    [0] jbe_core_mode.sma::jbe_register_day_mode (line 10123)
+L 02/03/2026 - 14:59:41: Unhandled dynamic native error
+L 02/03/2026 - 14:59:41: [AMXX] Displaying debug trace (plugin "jbe_dm_snipers.amxx", version "1.1")
+L 02/03/2026 - 14:59:41: [AMXX] Run time error 10: native error (native "jbe_register_day_mode")
+L 02/03/2026 - 14:59:41: [AMXX]    [0] jbe_dm_snipers.sma::plugin_init (line 52)
+L 02/03/2026 - 14:59:41: Invalid array handle provided (0)
+L 02/03/2026 - 14:59:41: [AMXX] Displaying debug trace (plugin "jbe_core_mode.amxx", version "4.0")
+L 02/03/2026 - 14:59:41: [AMXX] Run time error 10: native error (native "ArrayPushArray")
+L 02/03/2026 - 14:59:41: [AMXX]    [0] jbe_core_mode.sma::jbe_register_day_mode (line 10123)
+L 02/03/2026 - 14:59:41: Unhandled dynamic native error
+L 02/03/2026 - 14:59:41: [AMXX] Displaying debug trace (plugin "jbe_dm_jetpack.amxx", version "1.1")
+L 02/03/2026 - 14:59:41: [AMXX] Run time error 10: native error (native "jbe_register_day_mode")
+L 02/03/2026 - 14:59:41: [AMXX]    [0] jbe_dm_jetpack.sma::plugin_init (line 53)
+L 02/03/2026 - 14:59:41: Invalid array handle provided (0)
+L 02/03/2026 - 14:59:41: [AMXX] Displaying debug trace (plugin "jbe_core_mode.amxx", version "4.0")
+L 02/03/2026 - 14:59:41: [AMXX] Run time error 10: native error (native "ArrayPushArray")
+L 02/03/2026 - 14:59:41: [AMXX]    [0] jbe_core_mode.sma::jbe_register_day_mode (line 10123)
+L 02/03/2026 - 14:59:41: Unhandled dynamic native error
+L 02/03/2026 - 14:59:41: [AMXX] Run time error 10 (plugin "jbe_dm_hot_potato.amxx") (native "jbe_register_day_mode") - debug not enabled!
+L 02/03/2026 - 14:59:41: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 02/03/2026 - 14:59:41: Invalid array handle provided (0)
+L 02/03/2026 - 14:59:41: [AMXX] Displaying debug trace (plugin "jbe_core_mode.amxx", version "4.0")
+L 02/03/2026 - 14:59:41: [AMXX] Run time error 10: native error (native "ArrayPushArray")
+L 02/03/2026 - 14:59:41: [AMXX]    [0] jbe_core_mode.sma::jbe_register_day_mode (line 10123)
+L 02/03/2026 - 14:59:41: Unhandled dynamic native error
+L 02/03/2026 - 14:59:41: [AMXX] Displaying debug trace (plugin "jbe_dm_1hp.amxx", version "1.1")
+L 02/03/2026 - 14:59:41: [AMXX] Run time error 10: native error (native "jbe_register_day_mode")
+L 02/03/2026 - 14:59:41: [AMXX]    [0] jbe_dm_1hp.sma::plugin_init (line 52)
+L 02/03/2026 - 14:59:41: Invalid array handle provided (0)
+L 02/03/2026 - 14:59:41: [AMXX] Displaying debug trace (plugin "jbe_core_mode.amxx", version "4.0")
+L 02/03/2026 - 14:59:41: [AMXX] Run time error 10: native error (native "ArrayPushArray")
+L 02/03/2026 - 14:59:41: [AMXX]    [0] jbe_core_mode.sma::jbe_register_day_mode (line 10123)
+L 02/03/2026 - 14:59:41: Unhandled dynamic native error
+L 02/03/2026 - 14:59:41: [AMXX] Run time error 10 (plugin "jbe_dm_zombie.amxx") (native "jbe_register_day_mode") - debug not enabled!
+L 02/03/2026 - 14:59:41: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 02/03/2026 - 14:59:54: [HAMSANDWICH] Invalid HamHook handle.
+L 02/03/2026 - 14:59:54: [AMXX] Displaying debug trace (plugin "jbe_core_mode.amxx", version "4.0")
+L 02/03/2026 - 14:59:54: [AMXX] Run time error 10: native error (native "EnableHamForward")
+L 02/03/2026 - 14:59:54: [AMXX]    [0] jbe_core_mode.sma::LogEvent_RoundEndTask (line 1832)
+L 02/03/2026 - 14:59:59: [HAMSANDWICH] Invalid HamHook handle.
+L 02/03/2026 - 14:59:59: [AMXX] Displaying debug trace (plugin "jbe_core_mode.amxx", version "4.0")
+L 02/03/2026 - 14:59:59: [AMXX] Run time error 10: native error (native "DisableHamForward")
+L 02/03/2026 - 14:59:59: [AMXX]    [0] jbe_core_mode.sma::Event_HLTV (line 1594)
+L 02/03/2026 - 15:11:29: Start of error session.
+L 02/03/2026 - 15:11:29: Info (map "jail_evening") (file "addons/amxmodx/logs/error_20260203.log")
+L 02/03/2026 - 15:11:29: [AMXX] Plugin ("jbe_core_mode.amxx") is setting itself as failed.
+L 02/03/2026 - 15:11:29: [AMXX] Plugin says: Плагин не куплен.
+L 02/03/2026 - 15:11:29: [AMXX] Displaying debug trace (plugin "jbe_core_mode.amxx", version "4.0")
+L 02/03/2026 - 15:11:29: [AMXX] Run time error 1: forced exit 
+L 02/03/2026 - 15:11:29: [AMXX]    [0] jbe_core_mode.sma::plugin_init (line 490)
+L 02/03/2026 - 15:11:29: Called dynanative into a paused plugin.
+L 02/03/2026 - 15:11:29: [AMXX] Displaying debug trace (plugin "jbe_dm_birthday.amxx", version "1.1")
+L 02/03/2026 - 15:11:29: [AMXX] Run time error 10: native error (native "jbe_register_day_mode")
+L 02/03/2026 - 15:11:29: [AMXX]    [0] jbe_dm_birthday.sma::plugin_init (line 66)
+L 02/03/2026 - 15:11:29: Called dynanative into a paused plugin.
+L 02/03/2026 - 15:11:29: [AMXX] Run time error 10 (plugin "jbe_dm_blindfol.amxx") (native "jbe_register_day_mode") - debug not enabled!
+L 02/03/2026 - 15:11:29: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 02/03/2026 - 15:11:29: Called dynanative into a paused plugin.
+L 02/03/2026 - 15:11:29: [AMXX] Displaying debug trace (plugin "jbe_dm_dogon9lki.amxx", version "1.1")
+L 02/03/2026 - 15:11:29: [AMXX] Run time error 10: native error (native "jbe_register_day_mode")
+L 02/03/2026 - 15:11:29: [AMXX]    [0] jbe_dm_dogon9lki.sma::plugin_init (line 82)
+L 02/03/2026 - 15:11:29: Called dynanative into a paused plugin.
+L 02/03/2026 - 15:11:29: [AMXX] Displaying debug trace (plugin "jbe_dm_Day_no4.amxx", version "1.0")
+L 02/03/2026 - 15:11:29: [AMXX] Run time error 10: native error (native "jbe_register_day_mode")
+L 02/03/2026 - 15:11:29: [AMXX]    [0] jbe_dm_Day_no4.sma::plugin_init (line 62)
+L 02/03/2026 - 15:11:29: Called dynanative into a paused plugin.
+L 02/03/2026 - 15:11:29: [AMXX] Displaying debug trace (plugin "jbe_dm_hideandseek.amxx", version "1.1")
+L 02/03/2026 - 15:11:29: [AMXX] Run time error 10: native error (native "jbe_register_day_mode")
+L 02/03/2026 - 15:11:29: [AMXX]    [0] jbe_dm_hideandseek.sma::plugin_init (line 53)
+L 02/03/2026 - 15:11:29: Called dynanative into a paused plugin.
+L 02/03/2026 - 15:11:29: [AMXX] Displaying debug trace (plugin "jbe_galaxy.amxx", version "1.0")
+L 02/03/2026 - 15:11:29: [AMXX] Run time error 10: native error (native "jbe_register_day_mode")
+L 02/03/2026 - 15:11:29: [AMXX]    [0] jbe_galaxy.sma::plugin_init (line 65)
+L 02/03/2026 - 15:11:29: Called dynanative into a paused plugin.
+L 02/03/2026 - 15:11:29: [AMXX] Displaying debug trace (plugin "jbe_dm_drug.amxx", version "0.1")
+L 02/03/2026 - 15:11:29: [AMXX] Run time error 10: native error (native "jbe_register_day_mode")
+L 02/03/2026 - 15:11:29: [AMXX]    [0] jbe_dm_drug.sma::plugin_init (line 58)
+L 02/03/2026 - 15:11:29: Called dynanative into a paused plugin.
+L 02/03/2026 - 15:11:29: [AMXX] Displaying debug trace (plugin "jbe_dm_shtyrm.amxx", version "1.0")
+L 02/03/2026 - 15:11:29: [AMXX] Run time error 10: native error (native "jbe_register_day_mode")
+L 02/03/2026 - 15:11:29: [AMXX]    [0] jbe_dm_shtyrm.sma::plugin_init (line 78)
+L 02/03/2026 - 15:11:29: Called dynanative into a paused plugin.
+L 02/03/2026 - 15:11:29: [AMXX] Displaying debug trace (plugin "jbe_dm_starwars.amxx", version "1.1")
+L 02/03/2026 - 15:11:29: [AMXX] Run time error 10: native error (native "jbe_register_day_mode")
+L 02/03/2026 - 15:11:29: [AMXX]    [0] jbe_dm_starwars.sma::plugin_init (line 57)
+L 02/03/2026 - 15:11:29: Called dynanative into a paused plugin.
+L 02/03/2026 - 15:11:29: [AMXX] Displaying debug trace (plugin "jbe_dm_magic.amxx", version "1.0")
+L 02/03/2026 - 15:11:29: [AMXX] Run time error 10: native error (native "jbe_register_day_mode")
+L 02/03/2026 - 15:11:29: [AMXX]    [0] jbe_dm_magic.sma::plugin_init (line 65)
+L 02/03/2026 - 15:11:29: Called dynanative into a paused plugin.
+L 02/03/2026 - 15:11:29: [AMXX] Displaying debug trace (plugin "jbe_dm_snipers.amxx", version "1.1")
+L 02/03/2026 - 15:11:29: [AMXX] Run time error 10: native error (native "jbe_register_day_mode")
+L 02/03/2026 - 15:11:29: [AMXX]    [0] jbe_dm_snipers.sma::plugin_init (line 52)
+L 02/03/2026 - 15:11:29: Called dynanative into a paused plugin.
+L 02/03/2026 - 15:11:29: [AMXX] Displaying debug trace (plugin "jbe_dm_jetpack.amxx", version "1.1")
+L 02/03/2026 - 15:11:29: [AMXX] Run time error 10: native error (native "jbe_register_day_mode")
+L 02/03/2026 - 15:11:29: [AMXX]    [0] jbe_dm_jetpack.sma::plugin_init (line 53)
+L 02/03/2026 - 15:11:29: Called dynanative into a paused plugin.
+L 02/03/2026 - 15:11:29: [AMXX] Run time error 10 (plugin "jbe_dm_hot_potato.amxx") (native "jbe_register_day_mode") - debug not enabled!
+L 02/03/2026 - 15:11:29: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 02/03/2026 - 15:11:29: Called dynanative into a paused plugin.
+L 02/03/2026 - 15:11:29: [AMXX] Displaying debug trace (plugin "jbe_dm_1hp.amxx", version "1.1")
+L 02/03/2026 - 15:11:29: [AMXX] Run time error 10: native error (native "jbe_register_day_mode")
+L 02/03/2026 - 15:11:29: [AMXX]    [0] jbe_dm_1hp.sma::plugin_init (line 52)
+L 02/03/2026 - 15:11:29: Called dynanative into a paused plugin.
+L 02/03/2026 - 15:11:29: [AMXX] Run time error 10 (plugin "jbe_dm_zombie.amxx") (native "jbe_register_day_mode") - debug not enabled!
+L 02/03/2026 - 15:11:29: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 02/03/2026 - 15:11:42: Called dynanative into a paused plugin.
+L 02/03/2026 - 15:11:42: [AMXX] Displaying debug trace (plugin "jbe_chiefstep.amxx", version "1.0")
+L 02/03/2026 - 15:11:42: [AMXX] Run time error 10: native error (native "jbe_is_user_chief")
+L 02/03/2026 - 15:11:42: [AMXX]    [0] jbe_chiefstep.sma::CBasePlayer_PreThink (line 12)
+L 02/03/2026 - 15:11:42: Called dynanative into a paused plugin.
+L 02/03/2026 - 15:11:42: [AMXX] Displaying debug trace (plugin "parachute.amxx", version "1.0")
+L 02/03/2026 - 15:11:42: [AMXX] Run time error 10: native error (native "jbe_get_day_week")
+L 02/03/2026 - 15:11:42: [AMXX]    [0] parachute.sma::client_PreThink (line 14)
+L 02/03/2026 - 15:27:37: Start of error session.
+L 02/03/2026 - 15:27:37: Info (map "jail_evening") (file "addons/amxmodx/logs/error_20260203.log")
+L 02/03/2026 - 15:27:37: [AMXX] Displaying debug trace (plugin "jbe_core_mode.amxx", version "4.0")
+L 02/03/2026 - 15:27:37: [AMXX] Run time error 11: divide 
+L 02/03/2026 - 15:27:37: [AMXX]    [0] core.inc::abs (line 43)
+L 02/03/2026 - 15:27:37: [AMXX]    [1] jbe_core_mode.sma::Show_ChooseTeamMenu (line 2403)
+L 02/03/2026 - 15:27:37: [AMXX]    [2] jbe_core_mode.sma::ClCmd_ChooseTeam (line 1897)

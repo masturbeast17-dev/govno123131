@@ -1,0 +1,528 @@
+L 02/03/2026 - 13:37:44: [GEOIP] Database info: GeoLite2 Country database 2.0
+L 02/03/2026 - 13:50:44: [GEOIP] Database info: GeoLite2 Country database 2.0
+L 02/03/2026 - 13:50:45: -------- Mapchange to jail_evening --------
+L 02/03/2026 - 13:50:45: [normal-mode_kriss_sv_red.amxx] performance issue. Function plugin_precache executed more than 41.4ms.
+L 02/03/2026 - 13:50:46: [jb_akknife.amxx] performance issue. Function plugin_precache executed more than 62.0ms.
+L 02/03/2026 - 13:50:46: [jbe_core_mode.amxx] performance issue. Function plugin_precache executed more than 843.5ms.
+L 02/03/2026 - 13:50:47: [jbe_dm_birthday.amxx] performance issue. Function plugin_precache executed more than 23.6ms.
+L 02/03/2026 - 13:50:47: [jbe_dm_drug.amxx] performance issue. Function plugin_precache executed more than 46.1ms.
+L 02/03/2026 - 13:50:47: [jbe_dm_starwars.amxx] performance issue. Function plugin_precache executed more than 22.4ms.
+L 02/03/2026 - 13:50:47: [jbe_dm_magic.amxx] performance issue. Function plugin_precache executed more than 66.8ms.
+L 02/03/2026 - 13:50:47: [zp_item_jetpack.amxx] performance issue. Function plugin_precache executed more than 29.3ms.
+L 02/03/2026 - 13:50:47: [jbe_weapon_m134ex.amxx] performance issue. Function plugin_precache executed more than 16.7ms.
+L 02/03/2026 - 13:50:48: [jbe_core_mode.amxx] performance issue. Function FakeMeta_KeyValue_Post executed more than 1.0ms.
+L 02/03/2026 - 13:50:48: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 02/03/2026 - 13:50:48: [normal-mode_kriss_sv_red.amxx] performance issue. Function plugin_init executed more than 1.9ms.
+L 02/03/2026 - 13:50:48: [jbe_core_mode.amxx] performance issue. Function plugin_init executed more than 10.8ms.
+L 02/03/2026 - 13:50:48: [jbe_elite_admin.amxx] performance issue. Function plugin_init executed more than 2.1ms.
+L 02/03/2026 - 13:50:48: [jbe_weapon_m134ex.amxx] performance issue. Function plugin_init executed more than 1.3ms.
+L 02/03/2026 - 13:50:48: [jbe_core_mode.amxx] performance issue. Function plugin_cfg executed more than 1.7ms.
+L 02/03/2026 - 13:50:52: [jbe_core_mode.amxx] [RANK] MySQL connection failed
+L 02/03/2026 - 13:50:52: [jbe_core_mode.amxx] [ 2003 ] Can't connect to MySQL server on '127.0.0.1' (111)
+L 02/03/2026 - 13:50:52: [jbe_core_mode.amxx] Query state: 2
+L 02/03/2026 - 13:50:59: [jbe_core_mode.amxx] [RANK] MySQL connection failed
+L 02/03/2026 - 13:50:59: [jbe_core_mode.amxx] [ 2003 ] Can't connect to MySQL server on '127.0.0.1' (111)
+L 02/03/2026 - 13:50:59: [jbe_core_mode.amxx] Query state: 0
+L 02/03/2026 - 13:51:05: [zp_item_jetpack.amxx] performance issue. Function OnPlayerPreThink executed more than 1.0ms.
+L 02/03/2026 - 13:51:10: [jbe_core_mode.amxx] [RANK] MySQL connection failed
+L 02/03/2026 - 13:51:10: [jbe_core_mode.amxx] [ 2003 ] Can't connect to MySQL server on '127.0.0.1' (111)
+L 02/03/2026 - 13:51:10: [jbe_core_mode.amxx] Query state: 2
+L 02/03/2026 - 13:51:23: [jbe_core_mode.amxx] [RANK] MySQL connection failed
+L 02/03/2026 - 13:51:23: [jbe_core_mode.amxx] [ 2003 ] Can't connect to MySQL server on '127.0.0.1' (111)
+L 02/03/2026 - 13:51:23: [jbe_core_mode.amxx] Query state: 0
+L 02/03/2026 - 13:51:48: [jbe_core_mode.amxx] performance issue. Function plugin_end executed more than 2.3ms.
+L 02/03/2026 - 14:23:43: [GEOIP] Database info: GeoLite2 Country database 2.0
+L 02/03/2026 - 14:23:43: -------- Mapchange to jail_evening --------
+L 02/03/2026 - 14:23:44: [AMXX] Plugin "jbe_core_mode.amxx" failed to load: Plugin uses an unknown function (name "give_buffak") - check your modules.ini.
+L 02/03/2026 - 14:23:44: [normal-mode_kriss_sv_red.amxx] performance issue. Function plugin_precache executed more than 47.0ms.
+L 02/03/2026 - 14:23:44: [jbe_grab.amxx] performance issue. Function plugin_precache executed more than 1.8ms.
+L 02/03/2026 - 14:23:44: [jb_akknife.amxx] performance issue. Function plugin_precache executed more than 72.2ms.
+L 02/03/2026 - 14:23:44: [jbe_dm_birthday.amxx] performance issue. Function plugin_precache executed more than 22.4ms.
+L 02/03/2026 - 14:23:44: [jbe_dm_drug.amxx] performance issue. Function plugin_precache executed more than 50.7ms.
+L 02/03/2026 - 14:23:44: [jbe_dm_starwars.amxx] performance issue. Function plugin_precache executed more than 20.8ms.
+L 02/03/2026 - 14:23:44: [jbe_dm_magic.amxx] performance issue. Function plugin_precache executed more than 85.6ms.
+L 02/03/2026 - 14:23:44: [zp_item_jetpack.amxx] performance issue. Function plugin_precache executed more than 35.9ms.
+L 02/03/2026 - 14:23:44: [jbe_weapon_m134ex.amxx] performance issue. Function plugin_precache executed more than 15.6ms.
+L 02/03/2026 - 14:23:46: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 02/03/2026 - 14:23:46: [normal-mode_kriss_sv_red.amxx] performance issue. Function plugin_init executed more than 1.8ms.
+L 02/03/2026 - 14:23:46: [jbe_dm_birthday.amxx] performance issue. Function plugin_init executed more than 3.9ms.
+L 02/03/2026 - 14:23:46: [jbe_galaxy.amxx] performance issue. Function plugin_init executed more than 1.6ms.
+L 02/03/2026 - 14:23:46: [jbe_dm_drug.amxx] performance issue. Function plugin_init executed more than 2.5ms.
+L 02/03/2026 - 14:23:46: [zp_item_jetpack.amxx] performance issue. Function plugin_init executed more than 1.9ms.
+L 02/03/2026 - 14:23:46: [jbe_dm_1hp.amxx] performance issue. Function plugin_init executed more than 1.1ms.
+L 02/03/2026 - 14:23:49: [admin_sql.amxx] Login: "Goose<1><STEAM_2:1:260551768><>" became an admin (account "STEAM_2:1:260551768") (access "abcdefghijklmnopqrstuw") (address "176.111.181.249")
+L 02/03/2026 - 14:23:58: [jbe_chiefstep.amxx] performance issue. Function CBasePlayer_PreThink executed more than 1.3ms.
+L 02/03/2026 - 14:24:49: [auto_reload_admins.amxx] [DB] Admins and Bans reloaded.
+L 02/03/2026 - 14:24:49: [admin_sql.amxx] Login: "Goose<1><STEAM_2:1:260551768><>" became an admin (account "STEAM_2:1:260551768") (access "abcdefghijklmnopqrstuw") (address "176.111.181.249")
+L 02/03/2026 - 14:53:09: [GEOIP] Database info: GeoLite2 Country database 2.0
+L 02/03/2026 - 14:53:09: -------- Mapchange to jail_evening --------
+L 02/03/2026 - 14:53:10: [normal-mode_kriss_sv_red.amxx] performance issue. Function plugin_precache executed more than 43.6ms.
+L 02/03/2026 - 14:53:10: [jb_akknife.amxx] performance issue. Function plugin_precache executed more than 32.3ms.
+L 02/03/2026 - 14:53:10: [jbe_core_mode.amxx] performance issue. Function plugin_precache executed more than 530.8ms.
+L 02/03/2026 - 14:53:10: [jbe_dm_birthday.amxx] performance issue. Function plugin_precache executed more than 18.0ms.
+L 02/03/2026 - 14:53:10: [jbe_dm_drug.amxx] performance issue. Function plugin_precache executed more than 36.4ms.
+L 02/03/2026 - 14:53:10: [jbe_dm_starwars.amxx] performance issue. Function plugin_precache executed more than 15.9ms.
+L 02/03/2026 - 14:53:10: [jbe_dm_magic.amxx] performance issue. Function plugin_precache executed more than 54.7ms.
+L 02/03/2026 - 14:53:10: [zp_item_jetpack.amxx] performance issue. Function plugin_precache executed more than 24.3ms.
+L 02/03/2026 - 14:53:10: [jbe_weapon_m134ex.amxx] performance issue. Function plugin_precache executed more than 12.7ms.
+L 02/03/2026 - 14:53:12: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 02/03/2026 - 14:53:12: [jbe_core_mode.amxx] performance issue. Function plugin_init executed more than 9.2ms.
+L 02/03/2026 - 14:53:12: [jbe_core_mode.amxx] performance issue. Function jbe_register_day_mode executed more than 1.6ms.
+L 02/03/2026 - 14:53:12: [jbe_dm_birthday.amxx] performance issue. Function plugin_init executed more than 2.5ms.
+L 02/03/2026 - 14:53:12: [jbe_core_mode.amxx] performance issue. Function jbe_register_day_mode executed more than 1.0ms.
+L 02/03/2026 - 14:53:12: [jbe_core_mode.amxx] performance issue. Function jbe_register_day_mode executed more than 1.0ms.
+L 02/03/2026 - 14:53:12: [jbe_dm_dogon9lki.amxx] performance issue. Function plugin_init executed more than 3.2ms.
+L 02/03/2026 - 14:53:12: [jbe_core_mode.amxx] performance issue. Function jbe_register_day_mode executed more than 1.0ms.
+L 02/03/2026 - 14:53:12: [jbe_dm_hideandseek.amxx] performance issue. Function plugin_init executed more than 1.3ms.
+L 02/03/2026 - 14:53:12: [jbe_galaxy.amxx] performance issue. Function plugin_init executed more than 2.3ms.
+L 02/03/2026 - 14:53:12: [jbe_core_mode.amxx] performance issue. Function jbe_register_day_mode executed more than 2.4ms.
+L 02/03/2026 - 14:53:12: [jbe_dm_drug.amxx] performance issue. Function plugin_init executed more than 2.7ms.
+L 02/03/2026 - 14:53:12: [zp_item_jetpack.amxx] performance issue. Function plugin_init executed more than 1.7ms.
+L 02/03/2026 - 14:53:12: [jbe_core_mode.amxx] performance issue. Function jbe_register_day_mode executed more than 1.4ms.
+L 02/03/2026 - 14:53:12: [jbe_core_mode.amxx] performance issue. Function jbe_register_day_mode executed more than 1.5ms.
+L 02/03/2026 - 14:53:12: [jbe_dm_1hp.amxx] performance issue. Function plugin_init executed more than 1.8ms.
+L 02/03/2026 - 14:53:12: [jbe_core_mode.amxx] performance issue. Function plugin_cfg executed more than 1.5ms.
+L 02/03/2026 - 14:53:19: [admin_sql.amxx] Login: "Goose<1><STEAM_2:1:260551768><>" became an admin (account "STEAM_2:1:260551768") (access "abcdefghijklmnopqrstuw") (address "176.111.181.249")
+L 02/03/2026 - 14:53:29: [jbe_core_mode.amxx] performance issue. Function LogEvent_RoundEndTask executed more than 3.4ms.
+L 02/03/2026 - 14:53:34: [jbe_core_mode.amxx] performance issue. Function Event_HLTV executed more than 1.9ms.
+L 02/03/2026 - 14:54:15: [auto_reload_admins.amxx] [DB] Admins and Bans reloaded.
+L 02/03/2026 - 14:55:15: [auto_reload_admins.amxx] [DB] Admins and Bans reloaded.
+L 02/03/2026 - 14:56:15: [auto_reload_admins.amxx] [DB] Admins and Bans reloaded.
+L 02/03/2026 - 14:57:15: [auto_reload_admins.amxx] [DB] Admins and Bans reloaded.
+L 02/03/2026 - 14:57:48: [admin_sql.amxx] Login: "Goose<2><STEAM_2:1:260551768><>" became an admin (account "STEAM_2:1:260551768") (access "abcdefghijklmnopqrstuw") (address "176.111.181.249")
+L 02/03/2026 - 14:57:52: [jbe_weapon_m134ex.amxx] performance issue. Function client_PreThink executed more than 3.8ms.
+L 02/03/2026 - 14:57:55: [zp_item_jetpack.amxx] performance issue. Function client_disconnect executed more than 3.0ms.
+L 02/03/2026 - 14:57:55: [jbe_core_mode.amxx] performance issue. Function LogEvent_RoundEndTask executed more than 4.2ms.
+L 02/03/2026 - 14:58:00: [jbe_core_mode.amxx] performance issue. Function Event_HLTV executed more than 9.2ms.
+L 02/03/2026 - 14:58:15: [auto_reload_admins.amxx] [DB] Admins and Bans reloaded.
+L 02/03/2026 - 14:59:15: [auto_reload_admins.amxx] [DB] Admins and Bans reloaded.
+L 02/03/2026 - 14:59:31: [jbe_core_mode.amxx] performance issue. Function plugin_end executed more than 4.5ms.
+L 02/03/2026 - 14:59:38: [GEOIP] Database info: GeoLite2 Country database 2.0
+L 02/03/2026 - 14:59:39: -------- Mapchange to jail_evening --------
+L 02/03/2026 - 14:59:39: [normal-mode_kriss_sv_red.amxx] performance issue. Function plugin_precache executed more than 45.3ms.
+L 02/03/2026 - 14:59:39: [jbe_grab.amxx] performance issue. Function plugin_precache executed more than 1.7ms.
+L 02/03/2026 - 14:59:39: [jb_akknife.amxx] performance issue. Function plugin_precache executed more than 42.2ms.
+L 02/03/2026 - 14:59:40: [jbe_core_mode.amxx] performance issue. Function plugin_precache executed more than 650.1ms.
+L 02/03/2026 - 14:59:40: [jbe_dm_birthday.amxx] performance issue. Function plugin_precache executed more than 16.2ms.
+L 02/03/2026 - 14:59:40: [jbe_dm_drug.amxx] performance issue. Function plugin_precache executed more than 33.0ms.
+L 02/03/2026 - 14:59:40: [jbe_dm_starwars.amxx] performance issue. Function plugin_precache executed more than 15.5ms.
+L 02/03/2026 - 14:59:40: [jbe_dm_magic.amxx] performance issue. Function plugin_precache executed more than 51.8ms.
+L 02/03/2026 - 14:59:40: [zp_item_jetpack.amxx] performance issue. Function plugin_precache executed more than 23.2ms.
+L 02/03/2026 - 14:59:40: [jbe_weapon_m134ex.amxx] performance issue. Function plugin_precache executed more than 15.2ms.
+L 02/03/2026 - 14:59:40: [normal-mode_kriss_sv_red.amxx] performance issue. Function fwPrecacheEvent_Post executed more than 1.0ms.
+L 02/03/2026 - 14:59:41: [jbe_core_mode.amxx] performance issue. Function FakeMeta_Spawn_Post executed more than 1.0ms.
+L 02/03/2026 - 14:59:41: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 02/03/2026 - 14:59:41: [jbe_core_mode.amxx] performance issue. Function plugin_init executed more than 7.2ms.
+L 02/03/2026 - 14:59:41: [jbe_core_mode.amxx] performance issue. Function jbe_register_day_mode executed more than 1.0ms.
+L 02/03/2026 - 14:59:41: [jbe_dm_birthday.amxx] performance issue. Function plugin_init executed more than 3.5ms.
+L 02/03/2026 - 14:59:41: [jbe_dm_hideandseek.amxx] performance issue. Function plugin_init executed more than 3.4ms.
+L 02/03/2026 - 14:59:41: [jbe_core_mode.amxx] performance issue. Function jbe_register_day_mode executed more than 1.0ms.
+L 02/03/2026 - 14:59:41: [jbe_galaxy.amxx] performance issue. Function plugin_init executed more than 2.4ms.
+L 02/03/2026 - 14:59:41: [jbe_core_mode.amxx] performance issue. Function jbe_register_day_mode executed more than 2.0ms.
+L 02/03/2026 - 14:59:41: [jbe_dm_drug.amxx] performance issue. Function plugin_init executed more than 2.3ms.
+L 02/03/2026 - 14:59:41: [jbe_core_mode.amxx] performance issue. Function jbe_register_day_mode executed more than 1.5ms.
+L 02/03/2026 - 14:59:41: [jbe_dm_shtyrm.amxx] performance issue. Function plugin_init executed more than 2.0ms.
+L 02/03/2026 - 14:59:41: [jbe_dm_starwars.amxx] performance issue. Function plugin_init executed more than 1.8ms.
+L 02/03/2026 - 14:59:41: [jbe_core_mode.amxx] performance issue. Function jbe_register_day_mode executed more than 2.4ms.
+L 02/03/2026 - 14:59:41: [jbe_dm_magic.amxx] performance issue. Function plugin_init executed more than 2.7ms.
+L 02/03/2026 - 14:59:41: [jbe_core_mode.amxx] performance issue. Function jbe_register_day_mode executed more than 1.9ms.
+L 02/03/2026 - 14:59:41: [jbe_dm_snipers.amxx] performance issue. Function plugin_init executed more than 2.2ms.
+L 02/03/2026 - 14:59:41: [zp_item_jetpack.amxx] performance issue. Function plugin_init executed more than 1.3ms.
+L 02/03/2026 - 14:59:41: [jbe_core_mode.amxx] performance issue. Function jbe_register_day_mode executed more than 1.9ms.
+L 02/03/2026 - 14:59:41: [jbe_core_mode.amxx] performance issue. Function plugin_cfg executed more than 1.4ms.
+L 02/03/2026 - 14:59:45: [jbe_core_mode.amxx] performance issue. Function jbe_get_cvars executed more than 1.3ms.
+L 02/03/2026 - 14:59:45: [admin_sql.amxx] Login: "Goose<1><STEAM_2:1:260551768><>" became an admin (account "STEAM_2:1:260551768") (access "abcdefghijklmnopqrstuw") (address "176.111.181.249")
+L 02/03/2026 - 14:59:54: [jbe_core_mode.amxx] performance issue. Function LogEvent_RoundEndTask executed more than 3.2ms.
+L 02/03/2026 - 14:59:59: [jbe_core_mode.amxx] performance issue. Function Event_HLTV executed more than 1.3ms.
+L 02/03/2026 - 15:00:26: [jbe_core_mode.amxx] performance issue. Function plugin_end executed more than 3.1ms.
+L 02/03/2026 - 15:11:24: [GEOIP] Database info: GeoLite2 Country database 2.0
+L 02/03/2026 - 15:11:25: -------- Mapchange to jail_evening --------
+L 02/03/2026 - 15:11:25: [normal-mode_kriss_sv_red.amxx] performance issue. Function plugin_precache executed more than 34.7ms.
+L 02/03/2026 - 15:11:26: [jb_akknife.amxx] performance issue. Function plugin_precache executed more than 37.4ms.
+L 02/03/2026 - 15:11:27: [jbe_core_mode.amxx] performance issue. Function plugin_precache executed more than 1006.6ms.
+L 02/03/2026 - 15:11:27: [jbe_dm_birthday.amxx] performance issue. Function plugin_precache executed more than 17.4ms.
+L 02/03/2026 - 15:11:27: [jbe_dm_drug.amxx] performance issue. Function plugin_precache executed more than 33.2ms.
+L 02/03/2026 - 15:11:27: [jbe_dm_starwars.amxx] performance issue. Function plugin_precache executed more than 15.4ms.
+L 02/03/2026 - 15:11:27: [jbe_dm_magic.amxx] performance issue. Function plugin_precache executed more than 54.7ms.
+L 02/03/2026 - 15:11:27: [zp_item_jetpack.amxx] performance issue. Function plugin_precache executed more than 61.6ms.
+L 02/03/2026 - 15:11:27: [jbe_weapon_m134ex.amxx] performance issue. Function plugin_precache executed more than 22.4ms.
+L 02/03/2026 - 15:11:28: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 02/03/2026 - 15:11:29: [normal-mode_kriss_sv_red.amxx] performance issue. Function plugin_init executed more than 2.1ms.
+L 02/03/2026 - 15:11:29: [jbe_core_mode.amxx] performance issue. Function plugin_init executed more than 13.9ms.
+L 02/03/2026 - 15:11:29: [jbe_dm_birthday.amxx] performance issue. Function plugin_init executed more than 3.2ms.
+L 02/03/2026 - 15:11:29: [jbe_dm_shtyrm.amxx] performance issue. Function plugin_init executed more than 3.5ms.
+L 02/03/2026 - 15:11:29: [jbe_dm_jetpack.amxx] performance issue. Function plugin_init executed more than 1.5ms.
+L 02/03/2026 - 15:11:29: [jbe_dm_1hp.amxx] performance issue. Function plugin_init executed more than 1.1ms.
+L 02/03/2026 - 15:11:36: [admin_sql.amxx] Login: "Goose<1><STEAM_2:1:260551768><>" became an admin (account "STEAM_2:1:260551768") (access "abcdefghijklmnopqrstuw") (address "176.111.181.249")
+L 02/03/2026 - 15:11:42: [jbe_chiefstep.amxx] performance issue. Function CBasePlayer_PreThink executed more than 2.7ms.
+L 02/03/2026 - 15:11:56: [jbe_weapon_m134ex.amxx] performance issue. Function fw_UpdateClientData_Post executed more than 1.1ms.
+L 02/03/2026 - 15:15:01: [GEOIP] Database info: GeoLite2 Country database 2.0
+L 02/03/2026 - 15:15:03: -------- Mapchange to jail_evening --------
+L 02/03/2026 - 15:15:04: [normal-mode_kriss_sv_red.amxx] performance issue. Function plugin_precache executed more than 86.7ms.
+L 02/03/2026 - 15:15:05: [jb_akknife.amxx] performance issue. Function plugin_precache executed more than 169.2ms.
+L 02/03/2026 - 15:15:07: [jbe_core_mode.amxx] performance issue. Function plugin_precache executed more than 1792.9ms.
+L 02/03/2026 - 15:15:07: [jbe_dm_birthday.amxx] performance issue. Function plugin_precache executed more than 32.4ms.
+L 02/03/2026 - 15:15:07: [jbe_dm_drug.amxx] performance issue. Function plugin_precache executed more than 67.0ms.
+L 02/03/2026 - 15:15:07: [jbe_dm_starwars.amxx] performance issue. Function plugin_precache executed more than 23.1ms.
+L 02/03/2026 - 15:15:07: [jbe_dm_magic.amxx] performance issue. Function plugin_precache executed more than 94.4ms.
+L 02/03/2026 - 15:15:07: [zp_item_jetpack.amxx] performance issue. Function plugin_precache executed more than 40.8ms.
+L 02/03/2026 - 15:15:07: [jbe_weapon_m134ex.amxx] performance issue. Function plugin_precache executed more than 21.0ms.
+L 02/03/2026 - 15:15:10: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 02/03/2026 - 15:15:10: [normal-mode_kriss_sv_red.amxx] performance issue. Function plugin_init executed more than 3.1ms.
+L 02/03/2026 - 15:15:10: [jbe_core_mode.amxx] performance issue. Function plugin_init executed more than 17.8ms.
+L 02/03/2026 - 15:15:10: [jbe_dm_drug.amxx] performance issue. Function plugin_init executed more than 1.1ms.
+L 02/03/2026 - 15:15:10: [jbe_core_mode.amxx] performance issue. Function plugin_cfg executed more than 2.9ms.
+L 02/03/2026 - 15:15:43: [admin_sql.amxx] Login: "Goose<1><STEAM_2:1:260551768><>" became an admin (account "STEAM_2:1:260551768") (access "abcdefghijklmnopqrstuw") (address "176.111.181.249")
+L 02/03/2026 - 15:16:14: [auto_reload_admins.amxx] [DB] Admins and Bans reloaded.
+L 02/03/2026 - 15:16:14: [admin_sql.amxx] Login: "Goose<1><STEAM_2:1:260551768><>" became an admin (account "STEAM_2:1:260551768") (access "abcdefghijklmnopqrstuw") (address "176.111.181.249")
+L 02/03/2026 - 15:16:19: [jbe_core_mode.amxx] performance issue. Function FakeMeta_Voice_SetListening executed more than 1.0ms.
+L 02/03/2026 - 15:16:31: [normal-mode_kriss_sv_red.amxx] performance issue. Function fw_SetModel executed more than 1.1ms.
+L 02/03/2026 - 15:16:31: [jbe_core_mode.amxx] performance issue. Function Ham_PlayerSpawn_Post executed more than 1.4ms.
+L 02/03/2026 - 15:16:38: [jbe_core_mode.amxx] performance issue. Function GolodIgri executed more than 12.7ms.
+L 02/03/2026 - 15:16:55: [jbe_core_mode.amxx] performance issue. Function jbe_is_user_chief executed more than 1.4ms.
+L 02/03/2026 - 15:16:55: [jbe_chiefstep.amxx] performance issue. Function CBasePlayer_PreThink executed more than 1.8ms.
+L 02/03/2026 - 15:17:09: [jbe_core_mode.amxx] performance issue. Function jbe_get_day_week executed more than 2.6ms.
+L 02/03/2026 - 15:17:09: [parachute.amxx] performance issue. Function client_PreThink executed more than 5.0ms.
+L 02/03/2026 - 15:17:14: [auto_reload_admins.amxx] [DB] Admins and Bans reloaded.
+L 02/03/2026 - 15:17:14: [admin_sql.amxx] Login: "Goose<1><STEAM_2:1:260551768><>" became an admin (account "STEAM_2:1:260551768") (access "abcdefghijklmnopqrstuw") (address "176.111.181.249")
+L 02/03/2026 - 15:17:50: [parachute.amxx] performance issue. Function client_PreThink executed more than 1.6ms.
+L 02/03/2026 - 15:17:52: [jbe_core_mode.amxx] performance issue. Function jbe_main_informer executed more than 12.1ms.
+L 02/03/2026 - 15:17:58: [jbe_core_mode.amxx] performance issue. Function jbe_main_informer executed more than 6.8ms.
+L 02/03/2026 - 15:18:01: [jbe_core_mode.amxx] performance issue. Function jbe_main_informer executed more than 9.5ms.
+L 02/03/2026 - 15:18:04: [jbe_grab.amxx] performance issue. Function unset_grabbed executed more than 1.9ms.
+L 02/03/2026 - 15:18:12: [jbe_core_mode.amxx] performance issue. Function Handle_SkinMenu executed more than 6.9ms.
+L 02/03/2026 - 15:18:14: [auto_reload_admins.amxx] [DB] Admins and Bans reloaded.
+L 02/03/2026 - 15:18:14: [admin_sql.amxx] Login: "Goose<1><STEAM_2:1:260551768><>" became an admin (account "STEAM_2:1:260551768") (access "abcdefghijklmnopqrstuw") (address "176.111.181.249")
+L 02/03/2026 - 15:18:25: [jbe_grab.amxx] performance issue. Function fm_player_prethink executed more than 1.0ms.
+L 02/03/2026 - 15:18:43: [parachute.amxx] performance issue. Function client_PreThink executed more than 6.1ms.
+L 02/03/2026 - 15:18:45: [jbe_core_mode.amxx] performance issue. Function GolodIgri executed more than 2.3ms.
+L 02/03/2026 - 15:19:14: [auto_reload_admins.amxx] [DB] Admins and Bans reloaded.
+L 02/03/2026 - 15:19:14: [admin_sql.amxx] Login: "Goose<1><STEAM_2:1:260551768><>" became an admin (account "STEAM_2:1:260551768") (access "abcdefghijklmnopqrstuw") (address "176.111.181.249")
+L 02/03/2026 - 15:19:44: [parachute.amxx] performance issue. Function client_PreThink executed more than 1.0ms.
+L 02/03/2026 - 15:20:12: [normal-mode_kriss_sv_red.amxx] performance issue. Function fw_CmdStart executed more than 1.3ms.
+L 02/03/2026 - 15:20:14: [auto_reload_admins.amxx] [DB] Admins and Bans reloaded.
+L 02/03/2026 - 15:20:14: [admin_sql.amxx] Login: "Goose<1><STEAM_2:1:260551768><>" became an admin (account "STEAM_2:1:260551768") (access "abcdefghijklmnopqrstuw") (address "176.111.181.249")
+L 02/03/2026 - 15:20:14: [parachute.amxx] performance issue. Function client_PreThink executed more than 1.2ms.
+L 02/03/2026 - 15:20:26: [jbe_chiefstep.amxx] performance issue. Function CBasePlayer_PreThink executed more than 1.1ms.
+L 02/03/2026 - 15:21:14: [auto_reload_admins.amxx] [DB] Admins and Bans reloaded.
+L 02/03/2026 - 15:21:14: [admin_sql.amxx] Login: "Goose<1><STEAM_2:1:260551768><>" became an admin (account "STEAM_2:1:260551768") (access "abcdefghijklmnopqrstuw") (address "176.111.181.249")
+L 02/03/2026 - 15:21:52: [admin_sql.amxx] Login: "Goose<2><STEAM_2:1:260551768><>" became an admin (account "STEAM_2:1:260551768") (access "abcdefghijklmnopqrstuw") (address "176.111.181.249")
+L 02/03/2026 - 15:22:12: [jbe_core_mode.amxx] performance issue. Function HudShow_Wanted_Free executed more than 7.1ms.
+L 02/03/2026 - 15:22:14: [auto_reload_admins.amxx] [DB] Admins and Bans reloaded.
+L 02/03/2026 - 15:22:14: [admin_sql.amxx] Login: "Goose<2><STEAM_2:1:260551768><>" became an admin (account "STEAM_2:1:260551768") (access "abcdefghijklmnopqrstuw") (address "176.111.181.249")
+L 02/03/2026 - 15:22:34: [jbe_core_mode.amxx] performance issue. Function HudShow_Wanted_Free executed more than 22.5ms.
+L 02/03/2026 - 15:22:37: [jbe_core_mode.amxx] performance issue. Function Ham_PlayerSpawn_Post executed more than 1.6ms.
+L 02/03/2026 - 15:22:44: [jbe_core_mode.amxx] performance issue. Function GolodIgri executed more than 1.6ms.
+L 02/03/2026 - 15:22:47: [parachute.amxx] performance issue. Function client_PreThink executed more than 1.6ms.
+L 02/03/2026 - 15:22:58: [jbe_weapon_m134ex.amxx] performance issue. Function client_PreThink executed more than 1.0ms.
+L 02/03/2026 - 15:23:04: [jbe_core_mode.amxx] performance issue. Function jbe_start_golodki executed more than 1.7ms.
+L 02/03/2026 - 15:23:14: [auto_reload_admins.amxx] [DB] Admins and Bans reloaded.
+L 02/03/2026 - 15:23:14: [admin_sql.amxx] Login: "Goose<2><STEAM_2:1:260551768><>" became an admin (account "STEAM_2:1:260551768") (access "abcdefghijklmnopqrstuw") (address "176.111.181.249")
+L 02/03/2026 - 15:23:24: [jbe_grab.amxx] performance issue. Function unset_grabbed executed more than 6.8ms.
+L 02/03/2026 - 15:24:14: [auto_reload_admins.amxx] [DB] Admins and Bans reloaded.
+L 02/03/2026 - 15:24:14: [admin_sql.amxx] Login: "Goose<2><STEAM_2:1:260551768><>" became an admin (account "STEAM_2:1:260551768") (access "abcdefghijklmnopqrstuw") (address "176.111.181.249")
+L 02/03/2026 - 15:24:23: [jbe_core_mode.amxx] performance issue. Function jbe_main_informer executed more than 2.9ms.
+L 02/03/2026 - 15:24:30: [normal-mode_kriss_sv_red.amxx] performance issue. Function fw_CmdStart executed more than 10.0ms.
+L 02/03/2026 - 15:24:40: [zp_item_jetpack.amxx] performance issue. Function OnTouch executed more than 9.3ms.
+L 02/03/2026 - 15:24:46: [jbe_weapon_m134ex.amxx] performance issue. Function client_PreThink executed more than 1.0ms.
+L 02/03/2026 - 15:25:14: [auto_reload_admins.amxx] [DB] Admins and Bans reloaded.
+L 02/03/2026 - 15:25:14: [admin_sql.amxx] Login: "Goose<2><STEAM_2:1:260551768><>" became an admin (account "STEAM_2:1:260551768") (access "abcdefghijklmnopqrstuw") (address "176.111.181.249")
+L 02/03/2026 - 15:25:18: [jbe_weapon_m134ex.amxx] performance issue. Function client_PreThink executed more than 1.4ms.
+L 02/03/2026 - 15:25:31: [parachute.amxx] performance issue. Function client_PreThink executed more than 1.0ms.
+L 02/03/2026 - 15:25:31: [normal-mode_kriss_sv_red.amxx] performance issue. Function fw_CmdStart executed more than 1.3ms.
+L 02/03/2026 - 15:26:08: [normal-mode_kriss_sv_red.amxx] performance issue. Function fw_CmdStart executed more than 1.0ms.
+L 02/03/2026 - 15:26:10: [jbe_core_mode.amxx] performance issue. Function jbe_main_informer executed more than 8.0ms.
+L 02/03/2026 - 15:26:14: [auto_reload_admins.amxx] [DB] Admins and Bans reloaded.
+L 02/03/2026 - 15:26:14: [admin_sql.amxx] Login: "Goose<2><STEAM_2:1:260551768><>" became an admin (account "STEAM_2:1:260551768") (access "abcdefghijklmnopqrstuw") (address "176.111.181.249")
+L 02/03/2026 - 15:26:32: [jbe_core_mode.amxx] performance issue. Function FakeMeta_Voice_SetListening executed more than 5.9ms.
+L 02/03/2026 - 15:26:38: [jbe_core_mode.amxx] performance issue. Function jbe_main_informer executed more than 5.8ms.
+L 02/03/2026 - 15:26:47: [normal-mode_kriss_sv_red.amxx] performance issue. Function fw_CmdStart executed more than 1.7ms.
+L 02/03/2026 - 15:27:14: [auto_reload_admins.amxx] [DB] Admins and Bans reloaded.
+L 02/03/2026 - 15:27:14: [admin_sql.amxx] Login: "Goose<2><STEAM_2:1:260551768><>" became an admin (account "STEAM_2:1:260551768") (access "abcdefghijklmnopqrstuw") (address "176.111.181.249")
+L 02/03/2026 - 15:27:17: [jbe_core_mode.amxx] performance issue. Function jbe_main_informer executed more than 5.9ms.
+L 02/03/2026 - 15:27:24: [parachute.amxx] performance issue. Function client_PreThink executed more than 1.1ms.
+L 02/03/2026 - 15:27:28: [mapsmenu.amxx] Cmd: "Goose<2><STEAM_2:1:260551768><>" changelevel "jail_evening"
+L 02/03/2026 - 15:27:30: [jbe_core_mode.amxx] performance issue. Function plugin_end executed more than 3.8ms.
+L 02/03/2026 - 15:27:30: -------- Mapchange to jail_evening --------
+L 02/03/2026 - 15:27:31: [normal-mode_kriss_sv_red.amxx] performance issue. Function plugin_precache executed more than 98.3ms.
+L 02/03/2026 - 15:27:31: [jbe_grab.amxx] performance issue. Function plugin_precache executed more than 39.2ms.
+L 02/03/2026 - 15:27:31: [jb_akknife.amxx] performance issue. Function plugin_precache executed more than 67.5ms.
+L 02/03/2026 - 15:27:32: [jbe_core_mode.amxx] performance issue. Function plugin_precache executed more than 1036.6ms.
+L 02/03/2026 - 15:27:32: [jbe_dm_birthday.amxx] performance issue. Function plugin_precache executed more than 16.9ms.
+L 02/03/2026 - 15:27:32: [jbe_dm_drug.amxx] performance issue. Function plugin_precache executed more than 47.4ms.
+L 02/03/2026 - 15:27:32: [jbe_dm_starwars.amxx] performance issue. Function plugin_precache executed more than 16.6ms.
+L 02/03/2026 - 15:27:32: [jbe_dm_magic.amxx] performance issue. Function plugin_precache executed more than 64.1ms.
+L 02/03/2026 - 15:27:32: [zp_item_jetpack.amxx] performance issue. Function plugin_precache executed more than 23.6ms.
+L 02/03/2026 - 15:27:32: [jbe_weapon_m134ex.amxx] performance issue. Function plugin_precache executed more than 16.6ms.
+L 02/03/2026 - 15:27:33: [jbe_core_mode.amxx] performance issue. Function FakeMeta_KeyValue_Post executed more than 1.0ms.
+L 02/03/2026 - 15:27:34: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 02/03/2026 - 15:27:34: [jbe_core_mode.amxx] performance issue. Function plugin_init executed more than 10.2ms.
+L 02/03/2026 - 15:27:34: [jbe_elite_admin.amxx] performance issue. Function plugin_init executed more than 2.3ms.
+L 02/03/2026 - 15:27:37: [jbe_core_mode.amxx] performance issue. Function jbe_get_cvars executed more than 1.8ms.
+L 02/03/2026 - 15:28:09: [admin_sql.amxx] Login: "Goose<3><STEAM_2:1:260551768><>" became an admin (account "STEAM_2:1:260551768") (access "abcdefghijklmnopqrstuw") (address "176.111.181.249")
+L 02/03/2026 - 15:28:22: [normal-mode_kriss_sv_red.amxx] performance issue. Function fw_CmdStart executed more than 10.9ms.
+L 02/03/2026 - 15:28:36: [auto_reload_admins.amxx] [DB] Admins and Bans reloaded.
+L 02/03/2026 - 15:28:36: [admin_sql.amxx] Login: "Goose<3><STEAM_2:1:260551768><>" became an admin (account "STEAM_2:1:260551768") (access "abcdefghijklmnopqrstuw") (address "176.111.181.249")
+L 02/03/2026 - 15:28:39: [jbe_grab.amxx] performance issue. Function unset_grabbed executed more than 5.6ms.
+L 02/03/2026 - 15:28:40: [jbe_chiefstep.amxx] performance issue. Function CBasePlayer_PreThink executed more than 1.8ms.
+L 02/03/2026 - 15:28:43: [jbe_weapon_m134ex.amxx] performance issue. Function fw_UpdateClientData_Post executed more than 1.5ms.
+L 02/03/2026 - 15:29:05: [jbe_core_mode.amxx] performance issue. Function GolodIgri executed more than 6.3ms.
+L 02/03/2026 - 15:29:25: [jbe_core_mode.amxx] performance issue. Function jbe_start_golodki executed more than 1.8ms.
+L 02/03/2026 - 15:29:36: [auto_reload_admins.amxx] [DB] Admins and Bans reloaded.
+L 02/03/2026 - 15:29:36: [admin_sql.amxx] Login: "Goose<3><STEAM_2:1:260551768><>" became an admin (account "STEAM_2:1:260551768") (access "abcdefghijklmnopqrstuw") (address "176.111.181.249")
+L 02/03/2026 - 15:30:28: [normal-mode_kriss_sv_red.amxx] performance issue. Function fw_UpdateClientData_Post executed more than 1.0ms.
+L 02/03/2026 - 15:30:36: [auto_reload_admins.amxx] [DB] Admins and Bans reloaded.
+L 02/03/2026 - 15:30:36: [admin_sql.amxx] Login: "Goose<3><STEAM_2:1:260551768><>" became an admin (account "STEAM_2:1:260551768") (access "abcdefghijklmnopqrstuw") (address "176.111.181.249")
+L 02/03/2026 - 15:31:36: [auto_reload_admins.amxx] [DB] Admins and Bans reloaded.
+L 02/03/2026 - 15:31:36: [admin_sql.amxx] Login: "Goose<3><STEAM_2:1:260551768><>" became an admin (account "STEAM_2:1:260551768") (access "abcdefghijklmnopqrstuw") (address "176.111.181.249")
+L 02/03/2026 - 15:32:36: [auto_reload_admins.amxx] [DB] Admins and Bans reloaded.
+L 02/03/2026 - 15:32:36: [admin_sql.amxx] Login: "Goose<3><STEAM_2:1:260551768><>" became an admin (account "STEAM_2:1:260551768") (access "abcdefghijklmnopqrstuw") (address "176.111.181.249")
+L 02/03/2026 - 15:33:13: [normal-mode_kriss_sv_red.amxx] performance issue. Function fw_UpdateClientData_Post executed more than 1.0ms.
+L 02/03/2026 - 15:33:36: [auto_reload_admins.amxx] [DB] Admins and Bans reloaded.
+L 02/03/2026 - 15:33:36: [admin_sql.amxx] Login: "Goose<3><STEAM_2:1:260551768><>" became an admin (account "STEAM_2:1:260551768") (access "abcdefghijklmnopqrstuw") (address "176.111.181.249")
+L 02/03/2026 - 15:34:36: [auto_reload_admins.amxx] [DB] Admins and Bans reloaded.
+L 02/03/2026 - 15:34:36: [admin_sql.amxx] Login: "Goose<3><STEAM_2:1:260551768><>" became an admin (account "STEAM_2:1:260551768") (access "abcdefghijklmnopqrstuw") (address "176.111.181.249")
+L 02/03/2026 - 15:34:43: [jbe_core_mode.amxx] performance issue. Function client_disconnect executed more than 2.3ms.
+L 02/03/2026 - 15:35:35: [jbe_core_mode.amxx] performance issue. Function jbe_chief_choice_timer executed more than 1.1ms.
+L 02/03/2026 - 15:35:36: [auto_reload_admins.amxx] [DB] Admins and Bans reloaded.
+L 02/03/2026 - 15:36:32: [admin_sql.amxx] Login: "Дмитрий Водопьян<4><STEAM_2:1:1190337979><>" became an admin (account "STEAM_2:1:1190337979") (access "abcdefghijklmnopqrstu") (address "109.229.4.138")
+L 02/03/2026 - 15:36:36: [auto_reload_admins.amxx] [DB] Admins and Bans reloaded.
+L 02/03/2026 - 15:36:55: [jbe_core_mode.amxx] performance issue. Function Ham_PlayerSpawn_Post executed more than 5.6ms.
+L 02/03/2026 - 15:36:55: [jbe_core_mode.amxx] performance issue. Function jbe_main_informer executed more than 3.8ms.
+L 02/03/2026 - 15:37:02: [jbe_core_mode.amxx] performance issue. Function GolodIgri executed more than 17.4ms.
+L 02/03/2026 - 15:37:36: [auto_reload_admins.amxx] [DB] Admins and Bans reloaded.
+L 02/03/2026 - 15:37:36: [admin_sql.amxx] Login: "Дмитрий Водопьян<4><STEAM_2:1:1190337979><>" became an admin (account "STEAM_2:1:1190337979") (access "abcdefghijklmnopqrstu") (address "109.229.4.138")
+L 02/03/2026 - 15:38:01: [parachute.amxx] performance issue. Function client_PreThink executed more than 1.1ms.
+L 02/03/2026 - 15:38:36: [auto_reload_admins.amxx] [DB] Admins and Bans reloaded.
+L 02/03/2026 - 15:38:36: [admin_sql.amxx] Login: "Дмитрий Водопьян<4><STEAM_2:1:1190337979><>" became an admin (account "STEAM_2:1:1190337979") (access "abcdefghijklmnopqrstu") (address "109.229.4.138")
+L 02/03/2026 - 15:38:45: [jbe_weapon_m134ex.amxx] performance issue. Function fw_PlayerPreThink executed more than 1.0ms.
+L 02/03/2026 - 15:38:58: [jbe_core_mode.amxx] performance issue. Function plugin_end executed more than 3.3ms.
+L 02/03/2026 - 15:39:09: [GEOIP] Database info: GeoLite2 Country database 2.0
+L 02/03/2026 - 15:39:10: -------- Mapchange to jail_evening --------
+L 02/03/2026 - 15:39:10: [normal-mode_kriss_sv_red.amxx] performance issue. Function plugin_precache executed more than 43.8ms.
+L 02/03/2026 - 15:39:10: [jbe_grab.amxx] performance issue. Function plugin_precache executed more than 3.8ms.
+L 02/03/2026 - 15:39:10: [jb_akknife.amxx] performance issue. Function plugin_precache executed more than 108.6ms.
+L 02/03/2026 - 15:39:12: [jbe_core_mode.amxx] performance issue. Function plugin_precache executed more than 1416.9ms.
+L 02/03/2026 - 15:39:12: [jbe_dm_birthday.amxx] performance issue. Function plugin_precache executed more than 44.6ms.
+L 02/03/2026 - 15:39:12: [jbe_dm_drug.amxx] performance issue. Function plugin_precache executed more than 72.5ms.
+L 02/03/2026 - 15:39:12: [jbe_dm_starwars.amxx] performance issue. Function plugin_precache executed more than 25.1ms.
+L 02/03/2026 - 15:39:12: [jbe_dm_magic.amxx] performance issue. Function plugin_precache executed more than 96.1ms.
+L 02/03/2026 - 15:39:12: [zp_item_jetpack.amxx] performance issue. Function plugin_precache executed more than 21.9ms.
+L 02/03/2026 - 15:39:12: [jbe_weapon_m134ex.amxx] performance issue. Function plugin_precache executed more than 25.7ms.
+L 02/03/2026 - 15:39:14: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 02/03/2026 - 15:39:14: [normal-mode_kriss_sv_red.amxx] performance issue. Function plugin_init executed more than 2.0ms.
+L 02/03/2026 - 15:39:14: [jb_akknife.amxx] performance issue. Function plugin_init executed more than 1.1ms.
+L 02/03/2026 - 15:39:14: [jbe_core_mode.amxx] performance issue. Function plugin_init executed more than 12.0ms.
+L 02/03/2026 - 15:39:14: [jbe_elite_admin.amxx] performance issue. Function plugin_init executed more than 2.8ms.
+L 02/03/2026 - 15:39:14: [jbe_dm_dogon9lki.amxx] performance issue. Function plugin_init executed more than 1.8ms.
+L 02/03/2026 - 15:40:16: [auto_reload_admins.amxx] [DB] Admins and Bans reloaded.
+L 02/03/2026 - 15:40:34: [jbe_core_mode.amxx] performance issue. Function jbe_main_informer executed more than 1.9ms.
+L 02/03/2026 - 15:40:39: [admin_sql.amxx] Login: "Goose<3><STEAM_2:1:260551768><>" became an admin (account "STEAM_2:1:260551768") (access "abcdefghijklmnopqrstuw") (address "176.111.181.249")
+L 02/03/2026 - 15:40:40: [jbe_core_mode.amxx] performance issue. Function LogEvent_RoundEndTask executed more than 12.2ms.
+L 02/03/2026 - 15:40:42: [admin_sql.amxx] Login: "Goose<4><STEAM_2:1:260551768><>" became an admin (account "STEAM_2:1:260551768") (access "abcdefghijklmnopqrstuw") (address "176.111.181.249")
+L 02/03/2026 - 15:40:46: [jbe_core_mode.amxx] performance issue. Function jbe_rank_update_exp executed more than 23.4ms.
+L 02/03/2026 - 15:40:48: [parachute.amxx] performance issue. Function client_PreThink executed more than 8.4ms.
+L 02/03/2026 - 15:40:48: [parachute.amxx] performance issue. Function client_PreThink executed more than 8.6ms.
+L 02/03/2026 - 15:40:53: [jbe_core_mode.amxx] performance issue. Function jbe_main_informer executed more than 2.2ms.
+L 02/03/2026 - 15:41:03: [jbe_chiefstep.amxx] performance issue. Function CBasePlayer_PreThink executed more than 4.8ms.
+L 02/03/2026 - 15:41:03: [jb_akknife.amxx] performance issue. Function fw_CmdStart executed more than 1.0ms.
+L 02/03/2026 - 15:41:03: [jbe_core_mode.amxx] performance issue. Function jbe_main_informer executed more than 6.1ms.
+L 02/03/2026 - 15:41:07: [normal-mode_kriss_sv_red.amxx] performance issue. Function fw_CmdStart executed more than 1.0ms.
+L 02/03/2026 - 15:41:19: [jbe_core_mode.amxx] performance issue. Function Ham_PlayerSpawn_Post executed more than 2.8ms.
+L 02/03/2026 - 15:41:24: [auto_reload_admins.amxx] [DB] Admins and Bans reloaded.
+L 02/03/2026 - 15:41:24: [admin_sql.amxx] Login: "Goose<4><STEAM_2:1:260551768><>" became an admin (account "STEAM_2:1:260551768") (access "abcdefghijklmnopqrstuw") (address "176.111.181.249")
+L 02/03/2026 - 15:41:45: [parachute.amxx] performance issue. Function client_PreThink executed more than 1.1ms.
+L 02/03/2026 - 15:42:16: [jbe_grab.amxx] performance issue. Function fm_player_prethink executed more than 1.4ms.
+L 02/03/2026 - 15:42:21: [jbe_core_mode.amxx] performance issue. Function Handle_ShopWeaponsMenu executed more than 2.3ms.
+L 02/03/2026 - 15:42:26: [admin_sql.amxx] Login: "Дмитрий Водопьян<5><STEAM_2:1:1190337979><>" became an admin (account "STEAM_2:1:1190337979") (access "abcdefghijklmnopqrstu") (address "109.229.4.138")
+L 02/03/2026 - 15:42:26: [auto_reload_admins.amxx] [DB] Admins and Bans reloaded.
+L 02/03/2026 - 15:42:26: [admin_sql.amxx] Login: "Goose<4><STEAM_2:1:260551768><>" became an admin (account "STEAM_2:1:260551768") (access "abcdefghijklmnopqrstuw") (address "176.111.181.249")
+L 02/03/2026 - 15:42:28: [admin_sql.amxx] Login: "Дмитрий Водопьян<6><STEAM_2:1:1190337979><>" became an admin (account "STEAM_2:1:1190337979") (access "abcdefghijklmnopqrstu") (address "109.229.4.138")
+L 02/03/2026 - 15:42:56: [parachute.amxx] performance issue. Function client_PreThink executed more than 1.3ms.
+L 02/03/2026 - 15:43:10: [parachute.amxx] performance issue. Function client_PreThink executed more than 1.2ms.
+L 02/03/2026 - 15:43:26: [auto_reload_admins.amxx] [DB] Admins and Bans reloaded.
+L 02/03/2026 - 15:43:26: [admin_sql.amxx] Login: "Goose<4><STEAM_2:1:260551768><>" became an admin (account "STEAM_2:1:260551768") (access "abcdefghijklmnopqrstuw") (address "176.111.181.249")
+L 02/03/2026 - 15:43:26: [admin_sql.amxx] Login: "Дмитрий Водопьян<6><STEAM_2:1:1190337979><>" became an admin (account "STEAM_2:1:1190337979") (access "abcdefghijklmnopqrstu") (address "109.229.4.138")
+L 02/03/2026 - 15:43:38: [jbe_dm_magic.amxx] performance issue. Function client_disconnect executed more than 1.2ms.
+L 02/03/2026 - 15:43:38: [jbe_core_mode.amxx] performance issue. Function plugin_end executed more than 3.2ms.
+L 02/03/2026 - 15:43:47: [GEOIP] Database info: GeoLite2 Country database 2.0
+L 02/03/2026 - 15:43:47: -------- Mapchange to jail_evening --------
+L 02/03/2026 - 15:43:47: [normal-mode_kriss_sv_red.amxx] performance issue. Function plugin_precache executed more than 28.8ms.
+L 02/03/2026 - 15:43:47: [jb_akknife.amxx] performance issue. Function plugin_precache executed more than 30.7ms.
+L 02/03/2026 - 15:43:48: [jbe_core_mode.amxx] performance issue. Function plugin_precache executed more than 491.4ms.
+L 02/03/2026 - 15:43:48: [jbe_dm_birthday.amxx] performance issue. Function plugin_precache executed more than 12.4ms.
+L 02/03/2026 - 15:43:48: [jbe_dm_drug.amxx] performance issue. Function plugin_precache executed more than 24.2ms.
+L 02/03/2026 - 15:43:48: [jbe_dm_starwars.amxx] performance issue. Function plugin_precache executed more than 11.4ms.
+L 02/03/2026 - 15:43:48: [jbe_dm_magic.amxx] performance issue. Function plugin_precache executed more than 39.9ms.
+L 02/03/2026 - 15:43:48: [zp_item_jetpack.amxx] performance issue. Function plugin_precache executed more than 21.4ms.
+L 02/03/2026 - 15:43:48: [jbe_weapon_m134ex.amxx] performance issue. Function plugin_precache executed more than 11.5ms.
+L 02/03/2026 - 15:43:48: [jbe_weapon_m134ex.amxx] performance issue. Function fwPrecacheEvent_Post executed more than 1.0ms.
+L 02/03/2026 - 15:43:49: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 02/03/2026 - 15:43:49: [jb_akknife.amxx] performance issue. Function plugin_init executed more than 1.4ms.
+L 02/03/2026 - 15:43:50: [jbe_core_mode.amxx] performance issue. Function plugin_init executed more than 12.5ms.
+L 02/03/2026 - 15:43:50: [jbe_elite_admin.amxx] performance issue. Function plugin_init executed more than 2.4ms.
+L 02/03/2026 - 15:43:50: [jbe_weapon_m134ex.amxx] performance issue. Function plugin_init executed more than 1.6ms.
+L 02/03/2026 - 15:43:50: [jbe_core_mode.amxx] performance issue. Function plugin_cfg executed more than 1.4ms.
+L 02/03/2026 - 15:44:12: [admin_sql.amxx] Login: "Goose<1><STEAM_2:1:260551768><>" became an admin (account "STEAM_2:1:260551768") (access "abcdefghijklmnopqrstuw") (address "176.111.181.249")
+L 02/03/2026 - 15:44:19: [admin_sql.amxx] Login: "Goose<2><STEAM_2:1:260551768><>" became an admin (account "STEAM_2:1:260551768") (access "abcdefghijklmnopqrstuw") (address "176.111.181.249")
+L 02/03/2026 - 15:44:26: [jbe_core_mode.amxx] performance issue. Function jbe_rank_update_exp executed more than 1.8ms.
+L 02/03/2026 - 15:44:35: [jbe_grab.amxx] performance issue. Function fm_player_prethink executed more than 1.6ms.
+L 02/03/2026 - 15:44:53: [auto_reload_admins.amxx] [DB] Admins and Bans reloaded.
+L 02/03/2026 - 15:44:53: [admin_sql.amxx] Login: "Goose<2><STEAM_2:1:260551768><>" became an admin (account "STEAM_2:1:260551768") (access "abcdefghijklmnopqrstuw") (address "176.111.181.249")
+L 02/03/2026 - 15:45:01: [jb_akknife.amxx] performance issue. Function fw_UpdateClientData_Post executed more than 1.7ms.
+L 02/03/2026 - 15:45:25: [admin_sql.amxx] Login: "Goose<4><STEAM_2:1:260551768><>" became an admin (account "STEAM_2:1:260551768") (access "abcdefghijklmnopqrstuw") (address "176.111.181.249")
+L 02/03/2026 - 15:45:29: [admin_sql.amxx] Login: "Goose<5><STEAM_2:1:260551768><>" became an admin (account "STEAM_2:1:260551768") (access "abcdefghijklmnopqrstuw") (address "176.111.181.249")
+L 02/03/2026 - 15:45:39: [jbe_core_mode.amxx] performance issue. Function Ham_PlayerSpawn_Post executed more than 2.8ms.
+L 02/03/2026 - 15:45:39: [jbe_core_mode.amxx] performance issue. Function FakeMeta_EmitSound executed more than 2.1ms.
+L 02/03/2026 - 15:45:46: [jbe_core_mode.amxx] performance issue. Function GolodIgri executed more than 1.0ms.
+L 02/03/2026 - 15:45:53: [auto_reload_admins.amxx] [DB] Admins and Bans reloaded.
+L 02/03/2026 - 15:45:53: [admin_sql.amxx] Login: "Goose<5><STEAM_2:1:260551768><>" became an admin (account "STEAM_2:1:260551768") (access "abcdefghijklmnopqrstuw") (address "176.111.181.249")
+L 02/03/2026 - 15:46:06: [jbe_core_mode.amxx] performance issue. Function jbe_start_golodki executed more than 2.7ms.
+L 02/03/2026 - 15:46:11: [jbe_core_mode.amxx] performance issue. Function Ham_PlayerSpawn_Post executed more than 1.2ms.
+L 02/03/2026 - 15:46:21: [jbe_core_mode.amxx] performance issue. Function plugin_end executed more than 5.8ms.
+L 02/03/2026 - 15:46:27: [GEOIP] Database info: GeoLite2 Country database 2.0
+L 02/03/2026 - 15:46:28: -------- Mapchange to jail_evening --------
+L 02/03/2026 - 15:46:28: [normal-mode_kriss_sv_red.amxx] performance issue. Function plugin_precache executed more than 19.8ms.
+L 02/03/2026 - 15:46:28: [jbe_grab.amxx] performance issue. Function plugin_precache executed more than 2.0ms.
+L 02/03/2026 - 15:46:28: [jb_akknife.amxx] performance issue. Function plugin_precache executed more than 52.1ms.
+L 02/03/2026 - 15:46:29: [jbe_core_mode.amxx] performance issue. Function plugin_precache executed more than 633.2ms.
+L 02/03/2026 - 15:46:29: [jbe_dm_birthday.amxx] performance issue. Function plugin_precache executed more than 16.1ms.
+L 02/03/2026 - 15:46:29: [jbe_dm_drug.amxx] performance issue. Function plugin_precache executed more than 36.3ms.
+L 02/03/2026 - 15:46:29: [jbe_dm_starwars.amxx] performance issue. Function plugin_precache executed more than 13.3ms.
+L 02/03/2026 - 15:46:29: [jbe_dm_magic.amxx] performance issue. Function plugin_precache executed more than 52.4ms.
+L 02/03/2026 - 15:46:29: [zp_item_jetpack.amxx] performance issue. Function plugin_precache executed more than 25.0ms.
+L 02/03/2026 - 15:46:29: [jbe_weapon_m134ex.amxx] performance issue. Function plugin_precache executed more than 13.8ms.
+L 02/03/2026 - 15:46:30: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 02/03/2026 - 15:46:31: [jb_akknife.amxx] performance issue. Function plugin_init executed more than 1.3ms.
+L 02/03/2026 - 15:46:31: [jbe_core_mode.amxx] performance issue. Function plugin_init executed more than 9.1ms.
+L 02/03/2026 - 15:46:31: [jbe_elite_admin.amxx] performance issue. Function plugin_init executed more than 1.8ms.
+L 02/03/2026 - 15:46:37: [admin_sql.amxx] Login: "Goose<1><STEAM_2:1:260551768><>" became an admin (account "STEAM_2:1:260551768") (access "abcdefghijklmnopqrstuw") (address "176.111.181.249")
+L 02/03/2026 - 15:46:40: [jb_akknife.amxx] performance issue. Function fw_CmdStart executed more than 1.3ms.
+L 02/03/2026 - 15:46:42: [normal-mode_kriss_sv_red.amxx] performance issue. Function fw_UpdateClientData_Post executed more than 1.1ms.
+L 02/03/2026 - 15:46:44: [jbe_core_mode.amxx] performance issue. Function FakeMeta_Voice_SetListening executed more than 1.1ms.
+L 02/03/2026 - 15:46:47: [jb_akknife.amxx] performance issue. Function fw_CmdStart executed more than 1.5ms.
+L 02/03/2026 - 15:46:47: [jb_akknife.amxx] performance issue. Function fw_CmdStart executed more than 2.0ms.
+L 02/03/2026 - 15:47:11: [parachute.amxx] performance issue. Function client_PreThink executed more than 1.0ms.
+L 02/03/2026 - 15:47:34: [auto_reload_admins.amxx] [DB] Admins and Bans reloaded.
+L 02/03/2026 - 15:47:34: [admin_sql.amxx] Login: "Goose<1><STEAM_2:1:260551768><>" became an admin (account "STEAM_2:1:260551768") (access "abcdefghijklmnopqrstuw") (address "176.111.181.249")
+L 02/03/2026 - 15:47:45: [normal-mode_kriss_sv_red.amxx] performance issue. Function fw_CmdStart executed more than 1.5ms.
+L 02/03/2026 - 15:48:34: [auto_reload_admins.amxx] [DB] Admins and Bans reloaded.
+L 02/03/2026 - 15:48:34: [admin_sql.amxx] Login: "Goose<1><STEAM_2:1:260551768><>" became an admin (account "STEAM_2:1:260551768") (access "abcdefghijklmnopqrstuw") (address "176.111.181.249")
+L 02/03/2026 - 15:48:40: [normal-mode_kriss_sv_red.amxx] performance issue. Function fw_CmdStart executed more than 1.0ms.
+L 02/03/2026 - 15:49:30: [jb_akknife.amxx] performance issue. Function ak47knife_ItemPostFrame executed more than 1.0ms.
+L 02/03/2026 - 15:49:34: [auto_reload_admins.amxx] [DB] Admins and Bans reloaded.
+L 02/03/2026 - 15:49:34: [admin_sql.amxx] Login: "Goose<1><STEAM_2:1:260551768><>" became an admin (account "STEAM_2:1:260551768") (access "abcdefghijklmnopqrstuw") (address "176.111.181.249")
+L 02/03/2026 - 15:49:36: [jbe_core_mode.amxx] performance issue. Function Ham_PlayerSpawn_Post executed more than 1.5ms.
+L 02/03/2026 - 15:49:38: [normal-mode_kriss_sv_red.amxx] performance issue. Function fw_CmdStart executed more than 1.1ms.
+L 02/03/2026 - 15:49:38: [jbe_core_mode.amxx] performance issue. Function plugin_end executed more than 2.7ms.
+L 02/03/2026 - 15:49:44: [GEOIP] Database info: GeoLite2 Country database 2.0
+L 02/03/2026 - 15:49:45: -------- Mapchange to jail_evening --------
+L 02/03/2026 - 15:49:45: [normal-mode_kriss_sv_red.amxx] performance issue. Function plugin_precache executed more than 18.6ms.
+L 02/03/2026 - 15:49:45: [jb_akknife.amxx] performance issue. Function plugin_precache executed more than 18.8ms.
+L 02/03/2026 - 15:49:45: [jbe_core_mode.amxx] performance issue. Function plugin_precache executed more than 307.1ms.
+L 02/03/2026 - 15:49:45: [jbe_dm_birthday.amxx] performance issue. Function plugin_precache executed more than 14.4ms.
+L 02/03/2026 - 15:49:45: [jbe_dm_drug.amxx] performance issue. Function plugin_precache executed more than 31.6ms.
+L 02/03/2026 - 15:49:45: [jbe_dm_starwars.amxx] performance issue. Function plugin_precache executed more than 13.3ms.
+L 02/03/2026 - 15:49:45: [jbe_dm_magic.amxx] performance issue. Function plugin_precache executed more than 50.2ms.
+L 02/03/2026 - 15:49:45: [zp_item_jetpack.amxx] performance issue. Function plugin_precache executed more than 23.4ms.
+L 02/03/2026 - 15:49:45: [jbe_weapon_m134ex.amxx] performance issue. Function plugin_precache executed more than 14.0ms.
+L 02/03/2026 - 15:49:47: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 02/03/2026 - 15:49:47: [normal-mode_kriss_sv_red.amxx] performance issue. Function plugin_init executed more than 3.5ms.
+L 02/03/2026 - 15:49:47: [jbe_core_mode.amxx] performance issue. Function plugin_init executed more than 11.5ms.
+L 02/03/2026 - 15:49:47: [jbe_elite_admin.amxx] performance issue. Function plugin_init executed more than 2.1ms.
+L 02/03/2026 - 15:49:58: [admin_sql.amxx] Login: "Goose<2><STEAM_2:1:260551768><>" became an admin (account "STEAM_2:1:260551768") (access "abcdefghijklmnopqrstuw") (address "176.111.181.249")
+L 02/03/2026 - 15:50:00: [jbe_grab.amxx] performance issue. Function fm_player_prethink executed more than 2.7ms.
+L 02/03/2026 - 15:50:02: [jbe_core_mode.amxx] performance issue. Function SQL_Handler executed more than 2.4ms.
+L 02/03/2026 - 15:50:03: [jbe_grab.amxx] performance issue. Function fm_player_prethink executed more than 20.4ms.
+L 02/03/2026 - 15:50:04: [jbe_core_mode.amxx] performance issue. Function Ham_PlayerSpawn_Post executed more than 6.5ms.
+L 02/03/2026 - 15:50:04: [jbe_weapon_m134ex.amxx] performance issue. Function fw_PlayerPreThink executed more than 3.7ms.
+L 02/03/2026 - 15:50:41: [jbe_core_mode.amxx] performance issue. Function Ham_PlayerSpawn_Post executed more than 4.8ms.
+L 02/03/2026 - 15:50:46: [normal-mode_kriss_sv_red.amxx] performance issue. Function fw_CmdStart executed more than 2.1ms.
+L 02/03/2026 - 15:50:50: [auto_reload_admins.amxx] [DB] Admins and Bans reloaded.
+L 02/03/2026 - 15:50:50: [admin_sql.amxx] Login: "Goose<2><STEAM_2:1:260551768><>" became an admin (account "STEAM_2:1:260551768") (access "abcdefghijklmnopqrstuw") (address "176.111.181.249")
+L 02/03/2026 - 15:50:50: [jbe_core_mode.amxx] performance issue. Function Handle_ChooseTeamMenu executed more than 2.4ms.
+L 02/03/2026 - 15:51:22: [jbe_grab.amxx] performance issue. Function fm_player_prethink executed more than 1.1ms.
+L 02/03/2026 - 15:51:24: [jbe_core_mode.amxx] performance issue. Function Ham_TraceAttack_Player executed more than 1.4ms.
+L 02/03/2026 - 15:51:30: [jbe_core_mode.amxx] performance issue. Function Ham_PlayerSpawn_Post executed more than 25.0ms.
+L 02/03/2026 - 15:51:51: [auto_reload_admins.amxx] [DB] Admins and Bans reloaded.
+L 02/03/2026 - 15:51:51: [admin_sql.amxx] Login: "Goose<2><STEAM_2:1:260551768><>" became an admin (account "STEAM_2:1:260551768") (access "abcdefghijklmnopqrstuw") (address "176.111.181.249")
+L 02/03/2026 - 15:52:39: [normal-mode_kriss_sv_red.amxx] performance issue. Function fw_CmdStart executed more than 1.0ms.
+L 02/03/2026 - 15:52:51: [auto_reload_admins.amxx] [DB] Admins and Bans reloaded.
+L 02/03/2026 - 15:52:51: [admin_sql.amxx] Login: "Goose<2><STEAM_2:1:260551768><>" became an admin (account "STEAM_2:1:260551768") (access "abcdefghijklmnopqrstuw") (address "176.111.181.249")
+L 02/03/2026 - 15:53:51: [auto_reload_admins.amxx] [DB] Admins and Bans reloaded.
+L 02/03/2026 - 15:53:51: [admin_sql.amxx] Login: "Goose<2><STEAM_2:1:260551768><>" became an admin (account "STEAM_2:1:260551768") (access "abcdefghijklmnopqrstuw") (address "176.111.181.249")
+L 02/03/2026 - 15:54:50: [jbe_core_mode.amxx] performance issue. Function jbe_main_informer executed more than 6.9ms.
+L 02/03/2026 - 15:54:51: [auto_reload_admins.amxx] [DB] Admins and Bans reloaded.
+L 02/03/2026 - 15:54:51: [admin_sql.amxx] Login: "Goose<2><STEAM_2:1:260551768><>" became an admin (account "STEAM_2:1:260551768") (access "abcdefghijklmnopqrstuw") (address "176.111.181.249")
+L 02/03/2026 - 15:54:58: [jbe_core_mode.amxx] performance issue. Function Ham_PlayerSpawn_Post executed more than 1.6ms.
+L 02/03/2026 - 15:55:01: [normal-mode_kriss_sv_red.amxx] performance issue. Function fw_CmdStart executed more than 1.0ms.
+L 02/03/2026 - 15:55:51: [auto_reload_admins.amxx] [DB] Admins and Bans reloaded.
+L 02/03/2026 - 15:55:51: [admin_sql.amxx] Login: "Goose<2><STEAM_2:1:260551768><>" became an admin (account "STEAM_2:1:260551768") (access "abcdefghijklmnopqrstuw") (address "176.111.181.249")
+L 02/03/2026 - 15:56:51: [auto_reload_admins.amxx] [DB] Admins and Bans reloaded.
+L 02/03/2026 - 15:56:51: [admin_sql.amxx] Login: "Goose<2><STEAM_2:1:260551768><>" became an admin (account "STEAM_2:1:260551768") (access "abcdefghijklmnopqrstuw") (address "176.111.181.249")
+L 02/03/2026 - 15:57:39: [admin_sql.amxx] Login: "Goose<3><STEAM_2:1:260551768><>" became an admin (account "STEAM_2:1:260551768") (access "abcdefghijklmnopqrstuw") (address "176.111.181.249")
+L 02/03/2026 - 15:57:42: [admin_sql.amxx] Login: "Goose<5><STEAM_2:1:260551768><>" became an admin (account "STEAM_2:1:260551768") (access "abcdefghijklmnopqrstuw") (address "176.111.181.249")
+L 02/03/2026 - 15:57:51: [auto_reload_admins.amxx] [DB] Admins and Bans reloaded.
+L 02/03/2026 - 15:57:51: [admin_sql.amxx] Login: "Goose<5><STEAM_2:1:260551768><>" became an admin (account "STEAM_2:1:260551768") (access "abcdefghijklmnopqrstuw") (address "176.111.181.249")
+L 02/03/2026 - 15:58:51: [auto_reload_admins.amxx] [DB] Admins and Bans reloaded.
+L 02/03/2026 - 15:58:51: [admin_sql.amxx] Login: "Goose<5><STEAM_2:1:260551768><>" became an admin (account "STEAM_2:1:260551768") (access "abcdefghijklmnopqrstuw") (address "176.111.181.249")
+L 02/03/2026 - 15:59:02: [normal-mode_kriss_sv_red.amxx] performance issue. Function fw_CmdStart executed more than 1.0ms.
+L 02/03/2026 - 15:59:51: [auto_reload_admins.amxx] [DB] Admins and Bans reloaded.
+L 02/03/2026 - 15:59:51: [admin_sql.amxx] Login: "Goose<5><STEAM_2:1:260551768><>" became an admin (account "STEAM_2:1:260551768") (access "abcdefghijklmnopqrstuw") (address "176.111.181.249")
+L 02/03/2026 - 16:00:51: [auto_reload_admins.amxx] [DB] Admins and Bans reloaded.
+L 02/03/2026 - 16:00:51: [admin_sql.amxx] Login: "Goose<5><STEAM_2:1:260551768><>" became an admin (account "STEAM_2:1:260551768") (access "abcdefghijklmnopqrstuw") (address "176.111.181.249")
+L 02/03/2026 - 16:01:51: [auto_reload_admins.amxx] [DB] Admins and Bans reloaded.
+L 02/03/2026 - 16:01:51: [admin_sql.amxx] Login: "Goose<5><STEAM_2:1:260551768><>" became an admin (account "STEAM_2:1:260551768") (access "abcdefghijklmnopqrstuw") (address "176.111.181.249")
+L 02/03/2026 - 16:02:51: [auto_reload_admins.amxx] [DB] Admins and Bans reloaded.
+L 02/03/2026 - 16:02:51: [admin_sql.amxx] Login: "Goose<5><STEAM_2:1:260551768><>" became an admin (account "STEAM_2:1:260551768") (access "abcdefghijklmnopqrstuw") (address "176.111.181.249")
+L 02/03/2026 - 16:03:33: [jbe_core_mode.amxx] performance issue. Function plugin_end executed more than 4.3ms.
+L 02/03/2026 - 16:03:40: [GEOIP] Database info: GeoLite2 Country database 2.0
+L 02/03/2026 - 16:03:41: -------- Mapchange to jail_evening --------
+L 02/03/2026 - 16:03:41: [normal-mode_kriss_sv_red.amxx] performance issue. Function plugin_precache executed more than 36.9ms.
+L 02/03/2026 - 16:03:41: [jbe_grab.amxx] performance issue. Function plugin_precache executed more than 1.9ms.
+L 02/03/2026 - 16:03:41: [jb_akknife.amxx] performance issue. Function plugin_precache executed more than 42.3ms.
+L 02/03/2026 - 16:03:42: [jbe_core_mode.amxx] performance issue. Function plugin_precache executed more than 566.1ms.
+L 02/03/2026 - 16:03:42: [jbe_dm_birthday.amxx] performance issue. Function plugin_precache executed more than 14.3ms.
+L 02/03/2026 - 16:03:42: [jbe_dm_drug.amxx] performance issue. Function plugin_precache executed more than 34.0ms.
+L 02/03/2026 - 16:03:42: [jbe_dm_starwars.amxx] performance issue. Function plugin_precache executed more than 13.8ms.
+L 02/03/2026 - 16:03:42: [jbe_dm_magic.amxx] performance issue. Function plugin_precache executed more than 51.0ms.
+L 02/03/2026 - 16:03:42: [zp_item_jetpack.amxx] performance issue. Function plugin_precache executed more than 24.6ms.
+L 02/03/2026 - 16:03:42: [jbe_weapon_m134ex.amxx] performance issue. Function plugin_precache executed more than 12.3ms.
+L 02/03/2026 - 16:03:43: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 02/03/2026 - 16:03:43: [normal-mode_kriss_sv_red.amxx] performance issue. Function plugin_init executed more than 2.3ms.
+L 02/03/2026 - 16:03:43: [jbe_core_mode.amxx] performance issue. Function plugin_init executed more than 12.2ms.
+L 02/03/2026 - 16:03:43: [jbe_elite_admin.amxx] performance issue. Function plugin_init executed more than 2.9ms.
+L 02/03/2026 - 16:03:43: [jbe_weapon_m134ex.amxx] performance issue. Function plugin_init executed more than 2.6ms.
+L 02/03/2026 - 16:03:52: [admin_sql.amxx] Login: "Goose<1><STEAM_2:1:260551768><>" became an admin (account "STEAM_2:1:260551768") (access "abcdefghijklmnopqrstuw") (address "176.111.181.249")
+L 02/03/2026 - 16:03:56: [admin_sql.amxx] Login: "Goose<2><STEAM_2:1:260551768><>" became an admin (account "STEAM_2:1:260551768") (access "abcdefghijklmnopqrstuw") (address "176.111.181.249")
+L 02/03/2026 - 16:03:59: [jbe_core_mode.amxx] performance issue. Function FakeMeta_Voice_SetListening executed more than 9.5ms.
+L 02/03/2026 - 16:03:59: [jbe_core_mode.amxx] performance issue. Function FakeMeta_Voice_SetListening executed more than 12.7ms.
+L 02/03/2026 - 16:04:14: [normal-mode_kriss_sv_red.amxx] performance issue. Function fw_CmdStart executed more than 7.8ms.
+L 02/03/2026 - 16:04:47: [auto_reload_admins.amxx] [DB] Admins and Bans reloaded.
+L 02/03/2026 - 16:04:47: [admin_sql.amxx] Login: "Goose<2><STEAM_2:1:260551768><>" became an admin (account "STEAM_2:1:260551768") (access "abcdefghijklmnopqrstuw") (address "176.111.181.249")
+L 02/03/2026 - 16:05:47: [auto_reload_admins.amxx] [DB] Admins and Bans reloaded.
+L 02/03/2026 - 16:05:47: [admin_sql.amxx] Login: "Goose<2><STEAM_2:1:260551768><>" became an admin (account "STEAM_2:1:260551768") (access "abcdefghijklmnopqrstuw") (address "176.111.181.249")
+L 02/03/2026 - 16:06:15: [admin_sql.amxx] Login: "Goose<3><STEAM_2:1:260551768><>" became an admin (account "STEAM_2:1:260551768") (access "abcdefghijklmnopqrstuw") (address "176.111.181.249")
+L 02/03/2026 - 16:06:22: [admin_sql.amxx] Login: "Goose<4><STEAM_2:1:260551768><>" became an admin (account "STEAM_2:1:260551768") (access "abcdefghijklmnopqrstuw") (address "176.111.181.249")
+L 02/03/2026 - 16:06:47: [auto_reload_admins.amxx] [DB] Admins and Bans reloaded.
+L 02/03/2026 - 16:06:47: [admin_sql.amxx] Login: "Goose<4><STEAM_2:1:260551768><>" became an admin (account "STEAM_2:1:260551768") (access "abcdefghijklmnopqrstuw") (address "176.111.181.249")
+L 02/03/2026 - 16:07:20: [jbe_core_mode.amxx] performance issue. Function plugin_end executed more than 2.8ms.
+L 02/03/2026 - 16:07:27: [GEOIP] Database info: GeoLite2 Country database 2.0
+L 02/03/2026 - 16:07:27: -------- Mapchange to jail_evening --------
+L 02/03/2026 - 16:07:27: [normal-mode_kriss_sv_red.amxx] performance issue. Function plugin_precache executed more than 34.7ms.
+L 02/03/2026 - 16:07:28: [jbe_grab.amxx] performance issue. Function plugin_precache executed more than 1.8ms.
+L 02/03/2026 - 16:07:28: [jb_akknife.amxx] performance issue. Function plugin_precache executed more than 50.2ms.
+L 02/03/2026 - 16:07:28: [jbe_core_mode.amxx] performance issue. Function plugin_precache executed more than 586.7ms.
+L 02/03/2026 - 16:07:28: [jbe_dm_birthday.amxx] performance issue. Function plugin_precache executed more than 18.0ms.
+L 02/03/2026 - 16:07:28: [jbe_dm_drug.amxx] performance issue. Function plugin_precache executed more than 30.7ms.
+L 02/03/2026 - 16:07:28: [jbe_dm_starwars.amxx] performance issue. Function plugin_precache executed more than 13.6ms.
+L 02/03/2026 - 16:07:28: [jbe_dm_magic.amxx] performance issue. Function plugin_precache executed more than 51.3ms.
+L 02/03/2026 - 16:07:28: [zp_item_jetpack.amxx] performance issue. Function plugin_precache executed more than 22.7ms.
+L 02/03/2026 - 16:07:28: [jbe_weapon_m134ex.amxx] performance issue. Function plugin_precache executed more than 12.8ms.
+L 02/03/2026 - 16:07:29: [normal-mode_kriss_sv_red.amxx] performance issue. Function fwPrecacheEvent_Post executed more than 1.0ms.
+L 02/03/2026 - 16:07:30: [nextmap.amxx] WARNING: Couldn't find a valid map or the file doesn't exist (file "mapcycle.txt")
+L 02/03/2026 - 16:07:30: [normal-mode_kriss_sv_red.amxx] performance issue. Function plugin_init executed more than 1.7ms.
+L 02/03/2026 - 16:07:30: [jbe_core_mode.amxx] performance issue. Function plugin_init executed more than 10.6ms.
+L 02/03/2026 - 16:07:30: [jbe_elite_admin.amxx] performance issue. Function plugin_init executed more than 2.3ms.
+L 02/03/2026 - 16:07:30: [jbe_core_mode.amxx] performance issue. Function plugin_cfg executed more than 1.3ms.
+L 02/03/2026 - 16:08:32: [auto_reload_admins.amxx] [DB] Admins and Bans reloaded.

@@ -1,0 +1,556 @@
+
+
+[2026-02-03 12:35:47] Client version: 1769026246
+[2026-02-03 12:35:47] Mapping AppID 0 to tool "proton_experimental" with priority 75
+[2026-02-03 12:36:26] CCacheOffSteamPlayStateJob: start job, reason: OnPostLogonState
+[2026-02-03 12:36:26] CCacheOffSteamPlayStateJob 17356727724097233226 processing all compat lists..
+[2026-02-03 12:36:26] Requesting mapping AppID 440 from appinfo to tool "SteamLinuxRuntime_sniper"
+[2026-02-03 12:36:26] Recording non-user mapping for 440 at priority 101 to tool SteamLinuxRuntime_sniper
+[2026-02-03 12:36:26] Mapping AppID 440 to tool "SteamLinuxRuntime_sniper" with priority 101
+[2026-02-03 12:36:26] Requesting mapping AppID 570 from appinfo to tool "SteamLinuxRuntime_sniper"
+[2026-02-03 12:36:26] Recording non-user mapping for 570 at priority 90 to tool SteamLinuxRuntime_sniper
+[2026-02-03 12:36:26] Mapping AppID 570 to tool "SteamLinuxRuntime_sniper" with priority 90
+[2026-02-03 12:36:26] Requesting mapping AppID 730 from appinfo to tool "SteamLinuxRuntime_sniper"
+[2026-02-03 12:36:26] Recording non-user mapping for 730 at priority 90 to tool SteamLinuxRuntime_sniper
+[2026-02-03 12:36:26] Mapping AppID 730 to tool "SteamLinuxRuntime_sniper" with priority 90
+[2026-02-03 12:36:26] Requesting mapping AppID 17500 from appinfo to tool "SteamLinuxRuntime_scout"
+[2026-02-03 12:36:26] Recording non-user mapping for 17500 at priority 90 to tool SteamLinuxRuntime_scout
+[2026-02-03 12:36:26] Mapping AppID 17500 to tool "SteamLinuxRuntime_scout" with priority 90
+[2026-02-03 12:36:26] Requesting mapping AppID 17520 from appinfo to tool "SteamLinuxRuntime_scout"
+[2026-02-03 12:36:26] Recording non-user mapping for 17520 at priority 90 to tool SteamLinuxRuntime_scout
+[2026-02-03 12:36:26] Mapping AppID 17520 to tool "SteamLinuxRuntime_scout" with priority 90
+[2026-02-03 12:36:26] Requesting mapping AppID 17570 from appinfo to tool "SteamLinuxRuntime_sniper"
+[2026-02-03 12:36:26] Recording non-user mapping for 17570 at priority 90 to tool SteamLinuxRuntime_sniper
+[2026-02-03 12:36:26] Mapping AppID 17570 to tool "SteamLinuxRuntime_sniper" with priority 90
+[2026-02-03 12:36:26] Requesting mapping AppID 371970 from appinfo to tool "SteamLinuxRuntime_sniper"
+[2026-02-03 12:36:26] Recording non-user mapping for 371970 at priority 90 to tool SteamLinuxRuntime_sniper
+[2026-02-03 12:36:26] Mapping AppID 371970 to tool "SteamLinuxRuntime_sniper" with priority 90
+[2026-02-03 12:36:26] Requesting mapping AppID 489630 from appinfo to tool "SteamLinuxRuntime_sniper"
+[2026-02-03 12:36:26] Recording non-user mapping for 489630 at priority 90 to tool SteamLinuxRuntime_sniper
+[2026-02-03 12:36:26] Mapping AppID 489630 to tool "SteamLinuxRuntime_sniper" with priority 90
+[2026-02-03 12:36:26] Requesting mapping AppID 607260 from appinfo to tool "SteamLinuxRuntime_sniper"
+[2026-02-03 12:36:26] Recording non-user mapping for 607260 at priority 90 to tool SteamLinuxRuntime_sniper
+[2026-02-03 12:36:26] Mapping AppID 607260 to tool "SteamLinuxRuntime_sniper" with priority 90
+[2026-02-03 12:36:26] Requesting mapping AppID 951440 from appinfo to tool "SteamLinuxRuntime_scout"
+[2026-02-03 12:36:26] Recording non-user mapping for 951440 at priority 90 to tool SteamLinuxRuntime_scout
+[2026-02-03 12:36:26] Mapping AppID 951440 to tool "SteamLinuxRuntime_scout" with priority 90
+[2026-02-03 12:36:26] Requesting mapping AppID 1118310 from appinfo to tool "SteamLinuxRuntime_sniper"
+[2026-02-03 12:36:26] Recording non-user mapping for 1118310 at priority 90 to tool SteamLinuxRuntime_sniper
+[2026-02-03 12:36:26] Mapping AppID 1118310 to tool "SteamLinuxRuntime_sniper" with priority 90
+[2026-02-03 12:36:26] Requesting mapping AppID 1281930 from appinfo to tool "SteamLinuxRuntime_sniper"
+[2026-02-03 12:36:26] Recording non-user mapping for 1281930 at priority 90 to tool SteamLinuxRuntime_sniper
+[2026-02-03 12:36:26] Mapping AppID 1281930 to tool "SteamLinuxRuntime_sniper" with priority 90
+[2026-02-03 12:36:26] Requesting mapping AppID 1972440 from appinfo to tool "SteamLinuxRuntime_scout"
+[2026-02-03 12:36:26] Recording non-user mapping for 1972440 at priority 90 to tool SteamLinuxRuntime_scout
+[2026-02-03 12:36:26] Mapping AppID 1972440 to tool "SteamLinuxRuntime_scout" with priority 90
+[2026-02-03 12:36:26] Requesting mapping AppID 2398450 from appinfo to tool "SteamLinuxRuntime_sniper"
+[2026-02-03 12:36:26] Recording non-user mapping for 2398450 at priority 90 to tool SteamLinuxRuntime_sniper
+[2026-02-03 12:36:26] Mapping AppID 2398450 to tool "SteamLinuxRuntime_sniper" with priority 90
+[2026-02-03 12:36:26] Requesting mapping AppID 2398490 from appinfo to tool "SteamLinuxRuntime_sniper"
+[2026-02-03 12:36:26] Recording non-user mapping for 2398490 at priority 90 to tool SteamLinuxRuntime_sniper
+[2026-02-03 12:36:26] Mapping AppID 2398490 to tool "SteamLinuxRuntime_sniper" with priority 90
+[2026-02-03 12:36:26] Requesting mapping AppID 2398520 from appinfo to tool "SteamLinuxRuntime_sniper"
+[2026-02-03 12:36:26] Recording non-user mapping for 2398520 at priority 90 to tool SteamLinuxRuntime_sniper
+[2026-02-03 12:36:26] Mapping AppID 2398520 to tool "SteamLinuxRuntime_sniper" with priority 90
+[2026-02-03 12:36:26] Recording non-user mapping for 205 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 205 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 310 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 310 to tool "native" with priority 75
+[2026-02-03 12:36:26] Skip mapping AppID 440 to tool "native" with priority 75: mapping to tool "SteamLinuxRuntime_sniper" with priority 101 already exists.
+[2026-02-03 12:36:26] Recording non-user mapping for 480 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 480 to tool "native" with priority 75
+[2026-02-03 12:36:26] Skip mapping AppID 570 to tool "native" with priority 75: mapping to tool "SteamLinuxRuntime_sniper" with priority 90 already exists.
+[2026-02-03 12:36:26] Skip mapping AppID 730 to tool "native" with priority 75: mapping to tool "SteamLinuxRuntime_sniper" with priority 90 already exists.
+[2026-02-03 12:36:26] Recording non-user mapping for 740 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 740 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 1007 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 1007 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 4000 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 4000 to tool "native" with priority 75
+[2026-02-03 12:36:26] Skip mapping AppID 17500 to tool "native" with priority 75: mapping to tool "SteamLinuxRuntime_scout" with priority 90 already exists.
+[2026-02-03 12:36:26] Skip mapping AppID 17520 to tool "native" with priority 75: mapping to tool "SteamLinuxRuntime_scout" with priority 90 already exists.
+[2026-02-03 12:36:26] Skip mapping AppID 17570 to tool "native" with priority 75: mapping to tool "SteamLinuxRuntime_sniper" with priority 90 already exists.
+[2026-02-03 12:36:26] Recording non-user mapping for 17580 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 17580 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 17705 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 17705 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 17740 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 17740 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 105600 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 105600 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 108600 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 108600 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 211820 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 211820 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 218410 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 218410 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 222880 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 222880 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 224260 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 224260 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 225600 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 225600 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 225840 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 225840 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 230190 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 230190 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 237870 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 237870 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 249630 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 249630 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 252390 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 252390 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 257510 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 257510 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 258550 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 258550 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 263060 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 263060 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 274900 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 274900 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 281990 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 281990 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 287860 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 287860 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 287980 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 287980 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 294100 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 294100 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 296300 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 296300 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 304930 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 304930 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 322330 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 322330 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 325180 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 325180 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 326960 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 326960 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 329130 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 329130 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 329970 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 329970 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 333640 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 333640 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 334920 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 334920 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 346120 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 346120 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 346330 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 346330 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 355180 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 355180 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 362620 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 362620 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 362890 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 362890 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 365450 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 365450 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 368690 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 368690 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 370070 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 370070 to tool "native" with priority 75
+[2026-02-03 12:36:26] Skip mapping AppID 371970 to tool "native" with priority 75: mapping to tool "SteamLinuxRuntime_sniper" with priority 90 already exists.
+[2026-02-03 12:36:26] Recording non-user mapping for 381020 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 381020 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 383840 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 383840 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 397680 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 397680 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 404530 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 404530 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 405710 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 405710 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 407530 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 407530 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 416680 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 416680 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 420930 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 420930 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 431450 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 431450 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 434520 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 434520 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 440000 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 440000 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 445220 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 445220 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 446800 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 446800 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 447820 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 447820 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 451600 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 451600 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 453090 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 453090 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 456670 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 456670 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 457210 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 457210 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 465200 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 465200 to tool "native" with priority 75
+[2026-02-03 12:36:26] Skip mapping AppID 489630 to tool "native" with priority 75: mapping to tool "SteamLinuxRuntime_sniper" with priority 90 already exists.
+[2026-02-03 12:36:26] Recording non-user mapping for 205 at priority 75 to tool native
+[2026-02-03 12:36:26] Recording non-user mapping for 310 at priority 75 to tool native
+[2026-02-03 12:36:26] Skip mapping AppID 440 to tool "native" with priority 75: mapping to tool "SteamLinuxRuntime_sniper" with priority 101 already exists.
+[2026-02-03 12:36:26] Recording non-user mapping for 480 at priority 75 to tool native
+[2026-02-03 12:36:26] Skip mapping AppID 570 to tool "native" with priority 75: mapping to tool "SteamLinuxRuntime_sniper" with priority 90 already exists.
+[2026-02-03 12:36:26] Skip mapping AppID 730 to tool "native" with priority 75: mapping to tool "SteamLinuxRuntime_sniper" with priority 90 already exists.
+[2026-02-03 12:36:26] Recording non-user mapping for 740 at priority 75 to tool native
+[2026-02-03 12:36:26] Recording non-user mapping for 1007 at priority 75 to tool native
+[2026-02-03 12:36:26] Recording non-user mapping for 4000 at priority 75 to tool native
+[2026-02-03 12:36:26] Skip mapping AppID 17500 to tool "native" with priority 75: mapping to tool "SteamLinuxRuntime_scout" with priority 90 already exists.
+[2026-02-03 12:36:26] Skip mapping AppID 17520 to tool "native" with priority 75: mapping to tool "SteamLinuxRuntime_scout" with priority 90 already exists.
+[2026-02-03 12:36:26] Skip mapping AppID 17570 to tool "native" with priority 75: mapping to tool "SteamLinuxRuntime_sniper" with priority 90 already exists.
+[2026-02-03 12:36:26] Recording non-user mapping for 17580 at priority 75 to tool native
+[2026-02-03 12:36:26] Recording non-user mapping for 17705 at priority 75 to tool native
+[2026-02-03 12:36:26] Recording non-user mapping for 17740 at priority 75 to tool native
+[2026-02-03 12:36:26] Recording non-user mapping for 105600 at priority 75 to tool native
+[2026-02-03 12:36:26] Recording non-user mapping for 108600 at priority 75 to tool native
+[2026-02-03 12:36:26] Recording non-user mapping for 211820 at priority 75 to tool native
+[2026-02-03 12:36:26] Recording non-user mapping for 218410 at priority 75 to tool native
+[2026-02-03 12:36:26] Recording non-user mapping for 222880 at priority 75 to tool native
+[2026-02-03 12:36:26] Recording non-user mapping for 224260 at priority 75 to tool native
+[2026-02-03 12:36:26] Recording non-user mapping for 225600 at priority 75 to tool native
+[2026-02-03 12:36:26] Recording non-user mapping for 225840 at priority 75 to tool native
+[2026-02-03 12:36:26] Recording non-user mapping for 230190 at priority 75 to tool native
+[2026-02-03 12:36:26] Recording non-user mapping for 237870 at priority 75 to tool native
+[2026-02-03 12:36:26] Recording non-user mapping for 249630 at priority 75 to tool native
+[2026-02-03 12:36:26] Recording non-user mapping for 252390 at priority 75 to tool native
+[2026-02-03 12:36:26] Recording non-user mapping for 257510 at priority 75 to tool native
+[2026-02-03 12:36:26] Recording non-user mapping for 258550 at priority 75 to tool native
+[2026-02-03 12:36:26] Recording non-user mapping for 263060 at priority 75 to tool native
+[2026-02-03 12:36:26] Recording non-user mapping for 274900 at priority 75 to tool native
+[2026-02-03 12:36:26] Recording non-user mapping for 281990 at priority 75 to tool native
+[2026-02-03 12:36:26] Recording non-user mapping for 287860 at priority 75 to tool native
+[2026-02-03 12:36:26] Recording non-user mapping for 287980 at priority 75 to tool native
+[2026-02-03 12:36:26] Recording non-user mapping for 294100 at priority 75 to tool native
+[2026-02-03 12:36:26] Recording non-user mapping for 296300 at priority 75 to tool native
+[2026-02-03 12:36:26] Recording non-user mapping for 304930 at priority 75 to tool native
+[2026-02-03 12:36:26] Recording non-user mapping for 322330 at priority 75 to tool native
+[2026-02-03 12:36:26] Recording non-user mapping for 325180 at priority 75 to tool native
+[2026-02-03 12:36:26] Recording non-user mapping for 326960 at priority 75 to tool native
+[2026-02-03 12:36:26] Recording non-user mapping for 329130 at priority 75 to tool native
+[2026-02-03 12:36:26] Recording non-user mapping for 329970 at priority 75 to tool native
+[2026-02-03 12:36:26] Recording non-user mapping for 333640 at priority 75 to tool native
+[2026-02-03 12:36:26] Recording non-user mapping for 334920 at priority 75 to tool native
+[2026-02-03 12:36:26] Recording non-user mapping for 346120 at priority 75 to tool native
+[2026-02-03 12:36:26] Recording non-user mapping for 346330 at priority 75 to tool native
+[2026-02-03 12:36:26] Recording non-user mapping for 355180 at priority 75 to tool native
+[2026-02-03 12:36:26] Recording non-user mapping for 362620 at priority 75 to tool native
+[2026-02-03 12:36:26] Recording non-user mapping for 362890 at priority 75 to tool native
+[2026-02-03 12:36:26] Recording non-user mapping for 365450 at priority 75 to tool native
+[2026-02-03 12:36:26] Recording non-user mapping for 368690 at priority 75 to tool native
+[2026-02-03 12:36:26] Recording non-user mapping for 370070 at priority 75 to tool native
+[2026-02-03 12:36:26] Skip mapping AppID 371970 to tool "native" with priority 75: mapping to tool "SteamLinuxRuntime_sniper" with priority 90 already exists.
+[2026-02-03 12:36:26] Recording non-user mapping for 381020 at priority 75 to tool native
+[2026-02-03 12:36:26] Recording non-user mapping for 383840 at priority 75 to tool native
+[2026-02-03 12:36:26] Recording non-user mapping for 397680 at priority 75 to tool native
+[2026-02-03 12:36:26] Recording non-user mapping for 404530 at priority 75 to tool native
+[2026-02-03 12:36:26] Recording non-user mapping for 405710 at priority 75 to tool native
+[2026-02-03 12:36:26] Recording non-user mapping for 407530 at priority 75 to tool native
+[2026-02-03 12:36:26] Recording non-user mapping for 416680 at priority 75 to tool native
+[2026-02-03 12:36:26] Recording non-user mapping for 420930 at priority 75 to tool native
+[2026-02-03 12:36:26] Recording non-user mapping for 431450 at priority 75 to tool native
+[2026-02-03 12:36:26] Recording non-user mapping for 434520 at priority 75 to tool native
+[2026-02-03 12:36:26] Recording non-user mapping for 440000 at priority 75 to tool native
+[2026-02-03 12:36:26] Recording non-user mapping for 445220 at priority 75 to tool native
+[2026-02-03 12:36:26] Recording non-user mapping for 446800 at priority 75 to tool native
+[2026-02-03 12:36:26] Recording non-user mapping for 447820 at priority 75 to tool native
+[2026-02-03 12:36:26] Recording non-user mapping for 451600 at priority 75 to tool native
+[2026-02-03 12:36:26] Recording non-user mapping for 453090 at priority 75 to tool native
+[2026-02-03 12:36:26] Recording non-user mapping for 456670 at priority 75 to tool native
+[2026-02-03 12:36:26] Recording non-user mapping for 457210 at priority 75 to tool native
+[2026-02-03 12:36:26] Recording non-user mapping for 465200 at priority 75 to tool native
+[2026-02-03 12:36:26] Skip mapping AppID 489630 to tool "native" with priority 75: mapping to tool "SteamLinuxRuntime_sniper" with priority 90 already exists.
+[2026-02-03 12:36:26] Recording non-user mapping for 496520 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 496520 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 504050 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 504050 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 511390 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 511390 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 512900 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 512900 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 513510 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 513510 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 517510 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 517510 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 519860 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 519860 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 552100 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 552100 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 552180 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 552180 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 552440 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 552440 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 552620 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 552620 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 558990 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 558990 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 564310 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 564310 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 567320 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 567320 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 569480 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 569480 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 573490 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 573490 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 574180 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 574180 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 578310 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 578310 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 583490 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 583490 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 598330 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 598330 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 600480 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 600480 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 600610 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 600610 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 601400 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 601400 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 602960 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 602960 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 606710 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 606710 to tool "native" with priority 75
+[2026-02-03 12:36:26] Skip mapping AppID 607260 to tool "native" with priority 75: mapping to tool "SteamLinuxRuntime_sniper" with priority 90 already exists.
+[2026-02-03 12:36:26] Recording non-user mapping for 628770 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 628770 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 629540 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 629540 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 646570 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 646570 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 647960 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 647960 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 652460 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 652460 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 670260 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 670260 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 671610 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 671610 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 674010 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 674010 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 711970 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 711970 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 716490 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 716490 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 718670 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 718670 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 721740 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 721740 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 724470 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 724470 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 726840 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 726840 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 743960 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 743960 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 757780 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 757780 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 763890 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 763890 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 774541 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 774541 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 778030 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 778030 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 791400 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 791400 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 808100 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 808100 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 808160 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 808160 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 812040 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 812040 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 818620 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 818620 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 823350 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 823350 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 833950 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 833950 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 838410 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 838410 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 864060 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 864060 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 869480 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 869480 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 880770 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 880770 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 886200 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 886200 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 905380 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 905380 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 926860 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 926860 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 944330 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 944330 to tool "native" with priority 75
+[2026-02-03 12:36:26] Skip mapping AppID 951440 to tool "native" with priority 75: mapping to tool "SteamLinuxRuntime_scout" with priority 90 already exists.
+[2026-02-03 12:36:26] Recording non-user mapping for 954010 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 954010 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 960690 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 960690 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 975370 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 975370 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 999190 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 999190 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 1011610 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 1011610 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 1011850 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 1011850 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 1012110 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 1012110 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 1045400 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 1045400 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 1049410 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 1049410 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 1050280 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 1050280 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 1059300 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 1059300 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 1066780 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 1066780 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 1102930 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 1102930 to tool "native" with priority 75
+[2026-02-03 12:36:26] Skip mapping AppID 1118310 to tool "native" with priority 75: mapping to tool "SteamLinuxRuntime_sniper" with priority 90 already exists.
+[2026-02-03 12:36:26] Recording non-user mapping for 1134150 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 1134150 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 1135440 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 1135440 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 1146010 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 1146010 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 1150090 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 1150090 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 1156550 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 1156550 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 1157220 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 1157220 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 1157700 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 1157700 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 1158470 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 1158470 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 1169040 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 1169040 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 1185030 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 1185030 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 1205750 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 1205750 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 1253860 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 1253860 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 1260310 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 1260310 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 1274540 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 1274540 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 1281400 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 1281400 to tool "native" with priority 75
+[2026-02-03 12:36:26] Skip mapping AppID 1281930 to tool "native" with priority 75: mapping to tool "SteamLinuxRuntime_sniper" with priority 90 already exists.
+[2026-02-03 12:36:26] Recording non-user mapping for 1312870 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 1312870 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 1324780 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 1324780 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 1401870 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 1401870 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 1450150 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 1450150 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 1463350 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 1463350 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 1483870 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 1483870 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 1484960 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 1484960 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 1504220 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 1504220 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 1521580 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 1521580 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 1527640 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 1527640 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 1539140 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 1539140 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 1651490 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 1651490 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 1651680 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 1651680 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 1694450 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 1694450 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 1701890 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 1701890 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 1709650 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 1709650 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 1713810 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 1713810 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 1718240 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 1718240 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 1751640 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 1751640 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 1835590 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 1835590 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 1892030 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 1892030 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 1895350 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 1895350 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 1905470 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 1905470 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 1926680 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 1926680 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 1965170 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 1965170 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 1965180 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 1965180 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 1970580 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 1970580 to tool "native" with priority 75
+[2026-02-03 12:36:26] Skip mapping AppID 1972440 to tool "native" with priority 75: mapping to tool "SteamLinuxRuntime_scout" with priority 90 already exists.
+[2026-02-03 12:36:26] Recording non-user mapping for 1990050 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 1990050 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 2082470 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 2082470 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 2105910 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 2105910 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 2108840 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 2108840 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 2114790 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 2114790 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 2119270 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 2119270 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 2125160 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 2125160 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 2133980 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 2133980 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 2157110 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 2157110 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 2158860 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 2158860 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 2188220 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 2188220 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 2191270 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 2191270 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 2212330 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 2212330 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 2212830 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 2212830 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 2304350 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 2304350 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 2384600 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 2384600 to tool "native" with priority 75
+[2026-02-03 12:36:26] Skip mapping AppID 2398450 to tool "native" with priority 75: mapping to tool "SteamLinuxRuntime_sniper" with priority 90 already exists.
+[2026-02-03 12:36:26] Skip mapping AppID 2398490 to tool "native" with priority 75: mapping to tool "SteamLinuxRuntime_sniper" with priority 90 already exists.
+[2026-02-03 12:36:26] Skip mapping AppID 2398520 to tool "native" with priority 75: mapping to tool "SteamLinuxRuntime_sniper" with priority 90 already exists.
+[2026-02-03 12:36:26] Recording non-user mapping for 2407300 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 2407300 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 2413620 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 2413620 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 2547330 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 2547330 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 2564950 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 2564950 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 2686900 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 2686900 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 2726230 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 2726230 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 2726450 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 2726450 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 2744620 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 2744620 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 2744870 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 2744870 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 2923300 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 2923300 to tool "native" with priority 75
+[2026-02-03 12:36:26] Recording non-user mapping for 2955480 at priority 75 to tool native
+[2026-02-03 12:36:26] Mapping AppID 2955480 to tool "native" with priority 75
+[2026-02-03 12:36:26] CCacheOffSteamPlayStateJob 17356727724097233226 complete

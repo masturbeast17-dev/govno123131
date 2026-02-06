@@ -1,0 +1,78 @@
+
+
+[2026-02-03 13:01:59] Client version: no bootstrapper found
+[2026-02-03 13:01:59] UpdateCurrentGame: setting current gameid: 769
+[2026-02-03 13:01:59] MaybeUpdateActiveGame: loading profile for gameid: 769
+[2026-02-03 13:01:59] Initialized system perf manager
+
+
+[2026-02-03 13:50:49] Client version: no bootstrapper found
+[2026-02-03 13:50:49] UpdateCurrentGame: setting current gameid: 769
+[2026-02-03 13:50:49] MaybeUpdateActiveGame: loading profile for gameid: 769
+[2026-02-03 13:50:49] Initialized system perf manager
+
+
+[2026-02-03 14:23:46] Client version: no bootstrapper found
+[2026-02-03 14:23:46] UpdateCurrentGame: setting current gameid: 769
+[2026-02-03 14:23:46] MaybeUpdateActiveGame: loading profile for gameid: 769
+[2026-02-03 14:23:46] Initialized system perf manager
+
+
+[2026-02-03 14:53:12] Client version: no bootstrapper found
+[2026-02-03 14:53:12] UpdateCurrentGame: setting current gameid: 769
+[2026-02-03 14:53:12] MaybeUpdateActiveGame: loading profile for gameid: 769
+[2026-02-03 14:53:12] Initialized system perf manager
+
+
+[2026-02-03 14:59:42] Client version: no bootstrapper found
+[2026-02-03 14:59:42] UpdateCurrentGame: setting current gameid: 769
+[2026-02-03 14:59:42] MaybeUpdateActiveGame: loading profile for gameid: 769
+[2026-02-03 14:59:42] Initialized system perf manager
+
+
+[2026-02-03 15:11:29] Client version: no bootstrapper found
+[2026-02-03 15:11:29] UpdateCurrentGame: setting current gameid: 769
+[2026-02-03 15:11:29] MaybeUpdateActiveGame: loading profile for gameid: 769
+[2026-02-03 15:11:29] Initialized system perf manager
+
+
+[2026-02-03 15:15:11] Client version: no bootstrapper found
+[2026-02-03 15:15:11] UpdateCurrentGame: setting current gameid: 769
+[2026-02-03 15:15:11] MaybeUpdateActiveGame: loading profile for gameid: 769
+[2026-02-03 15:15:11] Initialized system perf manager
+
+
+[2026-02-03 15:39:14] Client version: no bootstrapper found
+[2026-02-03 15:39:14] UpdateCurrentGame: setting current gameid: 769
+[2026-02-03 15:39:14] MaybeUpdateActiveGame: loading profile for gameid: 769
+[2026-02-03 15:39:14] Initialized system perf manager
+
+
+[2026-02-03 15:43:50] Client version: no bootstrapper found
+[2026-02-03 15:43:50] UpdateCurrentGame: setting current gameid: 769
+[2026-02-03 15:43:50] MaybeUpdateActiveGame: loading profile for gameid: 769
+[2026-02-03 15:43:50] Initialized system perf manager
+
+
+[2026-02-03 15:46:31] Client version: no bootstrapper found
+[2026-02-03 15:46:31] UpdateCurrentGame: setting current gameid: 769
+[2026-02-03 15:46:31] MaybeUpdateActiveGame: loading profile for gameid: 769
+[2026-02-03 15:46:31] Initialized system perf manager
+
+
+[2026-02-03 15:49:47] Client version: no bootstrapper found
+[2026-02-03 15:49:47] UpdateCurrentGame: setting current gameid: 769
+[2026-02-03 15:49:47] MaybeUpdateActiveGame: loading profile for gameid: 769
+[2026-02-03 15:49:47] Initialized system perf manager
+
+
+[2026-02-03 16:03:44] Client version: no bootstrapper found
+[2026-02-03 16:03:44] UpdateCurrentGame: setting current gameid: 769
+[2026-02-03 16:03:44] MaybeUpdateActiveGame: loading profile for gameid: 769
+[2026-02-03 16:03:44] Initialized system perf manager
+
+
+[2026-02-03 16:07:30] Client version: no bootstrapper found
+[2026-02-03 16:07:30] UpdateCurrentGame: setting current gameid: 769
+[2026-02-03 16:07:30] MaybeUpdateActiveGame: loading profile for gameid: 769
+[2026-02-03 16:07:30] Initialized system perf manager

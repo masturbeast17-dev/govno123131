@@ -1,0 +1,140 @@
+
+
+[2026-02-03 12:35:47] Client version: 1769026246
+[2026-02-03 12:35:47] Log session started
+[2026-02-03 12:35:47] [Logged Off, 0, 0] [U:1:0] CCMInterface::SetSteamID( [U:1:0] )
+[2026-02-03 12:35:47] Clearing in-memory token - 1 (OK): SetLoginInformation
+[2026-02-03 12:35:47] [Logged Off, 0, 0] [a:1:0] CCMInterface::SetSteamID( [a:1:0] )
+[2026-02-03 12:35:47] [Logged Off, 0, 0] [a:1:0] CCMInterface::SetSteamID( [a:1:0] )
+[2026-02-03 12:35:47] [Logged Off, 4, 0] [a:1:0] EConnect called - scheduling connection for 50ms from now
+[2026-02-03 12:35:47] [Logged Off, 4, 0] [a:1:0] LogOn() called; not connected yet, scheduling connection. Schedule init returned 22
+[2026-02-03 12:35:47] [Logged Off, 4, 0] [a:1:0] EConnect called - scheduling connection for 50ms from now
+[2026-02-03 12:35:47] CCMInterface::YieldingConnect -- calling ISteamDirectory/GetCMListForConnect/?cellid=0&qoslevel=3
+[2026-02-03 12:35:47] GetCMListForConnect -- got 14 Netfilter CMs and 346 WebSocket CMs
+[2026-02-03 12:35:47] GetCMListForConnect -- DC 'sgp1' count: 31
+[2026-02-03 12:35:47] GetCMListForConnect -- DC 'hkg1' count: 38
+[2026-02-03 12:35:47] GetCMListForConnect -- DC 'tyo3' count: 32
+[2026-02-03 12:35:47] GetCMListForConnect -- DC 'lax1' count: 30
+[2026-02-03 12:35:47] GetCMListForConnect -- DC 'maa2' count: 32
+[2026-02-03 12:35:47] GetCMListForConnect -- DC 'dfw2' count: 30
+[2026-02-03 12:35:47] GetCMListForConnect -- DC 'ord1' count: 33
+[2026-02-03 12:35:47] GetCMListForConnect -- DC 'sea1' count: 30
+[2026-02-03 12:35:47] GetCMListForConnect -- DC 'syd1' count: 31
+[2026-02-03 12:35:47] GetCMListForConnect -- DC 'iad1' count: 34
+[2026-02-03 12:35:47] GetCMListForConnect -- DC 'atl3' count: 30
+[2026-02-03 12:35:47] GetCMListForConnect -- DC 'bom2' count: 9
+[2026-02-03 12:35:48] [Connecting, 4, 0] [a:1:0] PingWebSocketCM() (cmp1-sgp1.steamserver.net:27020) starting...
+[2026-02-03 12:35:48] [Connecting, 4, 0] [a:1:0] PingWebSocketCM() (cmp2-sgp1.steamserver.net:27018) starting...
+[2026-02-03 12:35:48] [Connecting, 4, 0] [a:1:0] PingWebSocketCM() (cmp3-hkg1.steamserver.net:27024) starting...
+[2026-02-03 12:35:48] [Connecting, 4, 0] [a:1:0] PingWebSocketCM() (cmp1-hkg1.steamserver.net:27019) starting...
+[2026-02-03 12:35:48] [Connecting, 4, 0] [a:1:0] PingWebSocketCM() (cmp2-sgp1.steamserver.net:27018) results: 207.5734ms + load 53.0000
+[2026-02-03 12:35:48] [Connecting, 4, 0] [a:1:0] PingWebSocketCM() (cmp1-sgp1.steamserver.net:27020) results: 230.0303ms + load 52.0000
+[2026-02-03 12:35:48] [Connecting, 4, 0] [a:1:0] PingWebSocketCM() (cmp1-sgp1.steamserver.net:443) starting...
+[2026-02-03 12:35:48] [Connecting, 4, 0] [a:1:0] PingWebSocketCM() (cmp3-hkg1.steamserver.net:443) starting...
+[2026-02-03 12:35:48] [Connecting, 4, 0] [a:1:0] PingWebSocketCM() (cmp1-hkg1.steamserver.net:27019) results: 200.5200ms + load 49.0000
+[2026-02-03 12:35:48] [Connecting, 4, 0] [a:1:0] PingWebSocketCM() (cmp1-tyo3.steamserver.net:27019) starting...
+[2026-02-03 12:35:48] [Connecting, 4, 0] [a:1:0] PingWebSocketCM() (cmp3-hkg1.steamserver.net:27024) results: 223.8829ms + load 47.0000
+[2026-02-03 12:35:48] [Connecting, 4, 0] [a:1:0] PingWebSocketCM() (cmp1-tyo3.steamserver.net:27018) starting...
+[2026-02-03 12:35:49] [Connecting, 4, 0] [a:1:0] PingWebSocketCM() (cmp1-sgp1.steamserver.net:443) results: 187.8676ms + load 57.0000
+[2026-02-03 12:35:49] [Connecting, 4, 0] [a:1:0] PingWebSocketCM() (cmp1-tyo3.steamserver.net:443) starting...
+[2026-02-03 12:35:49] [Connecting, 4, 0] [a:1:0] PingWebSocketCM() (cmp3-hkg1.steamserver.net:443) results: 250.0896ms + load 53.0000
+[2026-02-03 12:35:49] [Connecting, 4, 0] [a:1:0] PingWebSocketCM() (cmp2-lax1.steamserver.net:443) starting...
+[2026-02-03 12:35:49] [Connecting, 4, 0] [a:1:0] PingWebSocketCM() (cmp1-tyo3.steamserver.net:27019) results: 278.2409ms + load 27.0000
+[2026-02-03 12:35:49] [Connecting, 4, 0] [a:1:0] PingWebSocketCM() (cmp1-iad1.steamserver.net:443) starting...
+[2026-02-03 12:35:49] [Connecting, 4, 0] [a:1:0] PingWebSocketCM() (cmp1-tyo3.steamserver.net:27018) results: 272.9587ms + load 30.0000
+[2026-02-03 12:35:49] [Connecting, 4, 0] [a:1:0] PingWebSocketCM() (cmp1-ord1.steamserver.net:27020) starting...
+[2026-02-03 12:35:50] [Connecting, 4, 0] [a:1:0] PingWebSocketCM() (cmp2-lax1.steamserver.net:443) results: 166.7795ms + load 7.0000
+[2026-02-03 12:35:50] IPv6 HTTP connectivity test (ipv6check-http.steamserver.net / [2a01:bc80:c:100::9b85:e20b]:80 ([2a01:bc80:c:100::9b85:e20b]:80)) - TIMEOUT
+[2026-02-03 12:35:50] [Connecting, 4, 0] [a:1:0] PingWebSocketCM() (cmp1-iad1.steamserver.net:443) results: 135.2537ms + load 18.0000
+[2026-02-03 12:35:50] [Connecting, 4, 0] [a:1:0] PingWebSocketCM() (cmp1-ord1.steamserver.net:27020) results: 124.3677ms + load 12.0000
+[2026-02-03 12:35:50] [Connecting, 4, 0] [a:1:0] PingWebSocketCM() (cmp1-tyo3.steamserver.net:443) results: 287.3580ms + load 32.0000
+[2026-02-03 12:35:50] [Connecting, 4, 3] [a:1:0] Connect() starting connection (eNetQOSLevelHigh, cmp1-ord1.steamserver.net:27020, WebSocket)
+[2026-02-03 12:35:50] [Connecting, 4, 3] [a:1:0] ConnectionCompleted() (162.254.193.103:27020, WebSocket) local address (172.18.0.2:45119)
+[2026-02-03 12:35:50] [Connecting, 4, 3] [a:1:0] Client thinks it can connect via: UDP - yes, TCP - yes, WebSocket:443 - yes, WebSocket:Non443 - yes
+[2026-02-03 12:35:50] [Connected, 4, 3] [a:1:0] Logging on [a:1:0]
+[2026-02-03 12:35:50] [Logging On, 4, 3] [a:1:0] RecvMsgClientLogOnResponse() : [a:1:285765790] 'OK'
+[2026-02-03 12:35:50] Connectivity test: result=Connected (since 0.0s ago), prev=Unknown, in progress=0
+[2026-02-03 12:35:50] [Logged On, 4, 3] [a:1:285765790] RecvMsgClientLogOnResponse() : processing complete
+[2026-02-03 12:35:52] IPv6 UDP connectivity test (ipv6check-udp.steamserver.net / 2a01:bc80:4:100::20) - TIMEOUT
+[2026-02-03 12:42:55] [Logged On, 4, 3] [a:1:285765790] ResetVoiceRecording() (was recording: 0) (last get voice time: 1770122575 seconds ago)
+[2026-02-03 12:42:55] [Logged On, 4, 3] [a:1:285765790] LogOff()
+[2026-02-03 12:42:55] [Logging Off, 4, 3] [a:1:285765790] AsyncDisconnect( bDontWaitOnTCPShutdown: true )
+[2026-02-03 12:42:55] [Logging Off, 0, 3] [a:1:285765790] Log session ended
+
+
+[2026-02-03 13:01:59] Client version: no bootstrapper found
+[2026-02-03 13:01:59] Connectivity test: Starting test, fetching 'http://test.steampowered.com/204'
+[2026-02-03 13:01:59] Connectivity test (2.16.10.141:80 (2.16.10.141:80)): OK!
+[2026-02-03 13:01:59] Connectivity test: result=Connected (since 0.0s ago), prev=Unknown, in progress=0
+
+
+[2026-02-03 13:50:49] Client version: no bootstrapper found
+[2026-02-03 13:50:49] Connectivity test: Starting test, fetching 'http://test.steampowered.com/204'
+[2026-02-03 13:50:49] Connectivity test (23.48.23.181:80 (23.48.23.181:80)): OK!
+[2026-02-03 13:50:49] Connectivity test: result=Connected (since 0.0s ago), prev=Unknown, in progress=0
+
+
+[2026-02-03 14:23:46] Client version: no bootstrapper found
+[2026-02-03 14:23:46] Connectivity test: Starting test, fetching 'http://test.steampowered.com/204'
+[2026-02-03 14:23:46] Connectivity test (23.48.23.181:80 (23.48.23.181:80)): OK!
+[2026-02-03 14:23:46] Connectivity test: result=Connected (since 0.0s ago), prev=Unknown, in progress=0
+
+
+[2026-02-03 14:53:12] Client version: no bootstrapper found
+[2026-02-03 14:53:12] Connectivity test: Starting test, fetching 'http://test.steampowered.com/204'
+[2026-02-03 14:53:12] Connectivity test (193.108.153.145:80 (193.108.153.145:80)): OK!
+[2026-02-03 14:53:12] Connectivity test: result=Connected (since 0.0s ago), prev=Unknown, in progress=0
+
+
+[2026-02-03 14:59:42] Client version: no bootstrapper found
+[2026-02-03 14:59:42] Connectivity test: Starting test, fetching 'http://test.steampowered.com/204'
+[2026-02-03 14:59:42] Connectivity test (193.108.153.145:80 (193.108.153.145:80)): OK!
+[2026-02-03 14:59:42] Connectivity test: result=Connected (since 0.0s ago), prev=Unknown, in progress=0
+
+
+[2026-02-03 15:11:29] Client version: no bootstrapper found
+[2026-02-03 15:11:29] Connectivity test: Starting test, fetching 'http://test.steampowered.com/204'
+[2026-02-03 15:11:29] Connectivity test (23.50.131.8:80 (23.50.131.8:80)): OK!
+[2026-02-03 15:11:29] Connectivity test: result=Connected (since 0.0s ago), prev=Unknown, in progress=0
+
+
+[2026-02-03 15:15:11] Client version: no bootstrapper found
+[2026-02-03 15:15:11] Connectivity test: Starting test, fetching 'http://test.steampowered.com/204'
+[2026-02-03 15:15:11] Connectivity test (193.108.153.145:80 (193.108.153.145:80)): OK!
+[2026-02-03 15:15:11] Connectivity test: result=Connected (since 0.0s ago), prev=Unknown, in progress=0
+
+
+[2026-02-03 15:39:14] Client version: no bootstrapper found
+[2026-02-03 15:39:14] Connectivity test: Starting test, fetching 'http://test.steampowered.com/204'
+[2026-02-03 15:39:14] Connectivity test (193.108.153.145:80 (193.108.153.145:80)): OK!
+[2026-02-03 15:39:14] Connectivity test: result=Connected (since 0.0s ago), prev=Unknown, in progress=0
+
+
+[2026-02-03 15:43:50] Client version: no bootstrapper found
+[2026-02-03 15:43:50] Connectivity test: Starting test, fetching 'http://test.steampowered.com/204'
+[2026-02-03 15:43:50] Connectivity test (23.32.238.115:80 (23.32.238.115:80)): OK!
+[2026-02-03 15:43:50] Connectivity test: result=Connected (since 0.0s ago), prev=Unknown, in progress=0
+
+
+[2026-02-03 15:46:31] Client version: no bootstrapper found
+[2026-02-03 15:46:31] Connectivity test: Starting test, fetching 'http://test.steampowered.com/204'
+[2026-02-03 15:46:31] Connectivity test (23.32.238.115:80 (23.32.238.115:80)): OK!
+[2026-02-03 15:46:31] Connectivity test: result=Connected (since 0.0s ago), prev=Unknown, in progress=0
+
+
+[2026-02-03 15:49:47] Client version: no bootstrapper found
+[2026-02-03 15:49:47] Connectivity test: Starting test, fetching 'http://test.steampowered.com/204'
+[2026-02-03 15:49:47] Connectivity test (193.108.153.145:80 (193.108.153.145:80)): OK!
+[2026-02-03 15:49:47] Connectivity test: result=Connected (since 0.0s ago), prev=Unknown, in progress=0
+
+
+[2026-02-03 16:03:44] Client version: no bootstrapper found
+[2026-02-03 16:03:44] Connectivity test: Starting test, fetching 'http://test.steampowered.com/204'
+[2026-02-03 16:03:44] Connectivity test (23.32.238.115:80 (23.32.238.115:80)): OK!
+[2026-02-03 16:03:44] Connectivity test: result=Connected (since 0.0s ago), prev=Unknown, in progress=0
+
+
+[2026-02-03 16:07:30] Client version: no bootstrapper found
+[2026-02-03 16:07:30] Connectivity test: Starting test, fetching 'http://test.steampowered.com/204'
+[2026-02-03 16:07:30] Connectivity test (184.25.50.128:80 (184.25.50.128:80)): OK!
+[2026-02-03 16:07:30] Connectivity test: result=Connected (since 0.0s ago), prev=Unknown, in progress=0

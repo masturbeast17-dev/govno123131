@@ -1,0 +1,144 @@
+L 01/31/2026 - 17:36:30: Start of error session.
+L 01/31/2026 - 17:36:30: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20260131.log")
+L 01/31/2026 - 17:36:30: [AMXX] Plugin ("jbe_core_mode.amxx") is setting itself as failed.
+L 01/31/2026 - 17:36:30: [AMXX] Plugin says: Плагин не куплен.
+L 01/31/2026 - 17:36:30: [AMXX] Displaying debug trace (plugin "jbe_core_mode.amxx", version "4.2")
+L 01/31/2026 - 17:36:30: [AMXX] Run time error 1: forced exit 
+L 01/31/2026 - 17:36:30: [AMXX]    [0] jbe_core_mode.sma::plugin_init (line 489)
+L 01/31/2026 - 17:36:30: Called dynanative into a paused plugin.
+L 01/31/2026 - 17:36:30: [AMXX] Displaying debug trace (plugin "jbe_dm_birthday.amxx", version "1.1")
+L 01/31/2026 - 17:36:30: [AMXX] Run time error 10: native error (native "jbe_register_day_mode")
+L 01/31/2026 - 17:36:30: [AMXX]    [0] jbe_dm_birthday.sma::plugin_init (line 66)
+L 01/31/2026 - 17:36:30: Called dynanative into a paused plugin.
+L 01/31/2026 - 17:36:30: [AMXX] Run time error 10 (plugin "jbe_dm_blindfol.amxx") (native "jbe_register_day_mode") - debug not enabled!
+L 01/31/2026 - 17:36:30: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/31/2026 - 17:36:30: Called dynanative into a paused plugin.
+L 01/31/2026 - 17:36:30: [AMXX] Displaying debug trace (plugin "jbe_dm_dogon9lki.amxx", version "1.1")
+L 01/31/2026 - 17:36:30: [AMXX] Run time error 10: native error (native "jbe_register_day_mode")
+L 01/31/2026 - 17:36:30: [AMXX]    [0] jbe_dm_dogon9lki.sma::plugin_init (line 82)
+L 01/31/2026 - 17:36:30: Called dynanative into a paused plugin.
+L 01/31/2026 - 17:36:30: [AMXX] Displaying debug trace (plugin "jbe_dm_Day_no4.amxx", version "1.0")
+L 01/31/2026 - 17:36:30: [AMXX] Run time error 10: native error (native "jbe_register_day_mode")
+L 01/31/2026 - 17:36:30: [AMXX]    [0] jbe_dm_Day_no4.sma::plugin_init (line 62)
+L 01/31/2026 - 17:36:30: Called dynanative into a paused plugin.
+L 01/31/2026 - 17:36:30: [AMXX] Displaying debug trace (plugin "jbe_dm_hideandseek.amxx", version "1.1")
+L 01/31/2026 - 17:36:30: [AMXX] Run time error 10: native error (native "jbe_register_day_mode")
+L 01/31/2026 - 17:36:30: [AMXX]    [0] jbe_dm_hideandseek.sma::plugin_init (line 53)
+L 01/31/2026 - 17:36:30: Called dynanative into a paused plugin.
+L 01/31/2026 - 17:36:30: [AMXX] Displaying debug trace (plugin "jbe_galaxy.amxx", version "1.0")
+L 01/31/2026 - 17:36:30: [AMXX] Run time error 10: native error (native "jbe_register_day_mode")
+L 01/31/2026 - 17:36:30: [AMXX]    [0] jbe_galaxy.sma::plugin_init (line 65)
+L 01/31/2026 - 17:36:30: Called dynanative into a paused plugin.
+L 01/31/2026 - 17:36:30: [AMXX] Displaying debug trace (plugin "jbe_dm_drug.amxx", version "0.1")
+L 01/31/2026 - 17:36:30: [AMXX] Run time error 10: native error (native "jbe_register_day_mode")
+L 01/31/2026 - 17:36:30: [AMXX]    [0] jbe_dm_drug.sma::plugin_init (line 58)
+L 01/31/2026 - 17:36:30: Called dynanative into a paused plugin.
+L 01/31/2026 - 17:36:30: [AMXX] Displaying debug trace (plugin "jbe_dm_shtyrm.amxx", version "1.0")
+L 01/31/2026 - 17:36:30: [AMXX] Run time error 10: native error (native "jbe_register_day_mode")
+L 01/31/2026 - 17:36:30: [AMXX]    [0] jbe_dm_shtyrm.sma::plugin_init (line 78)
+L 01/31/2026 - 17:36:30: Called dynanative into a paused plugin.
+L 01/31/2026 - 17:36:30: [AMXX] Displaying debug trace (plugin "jbe_dm_starwars.amxx", version "1.1")
+L 01/31/2026 - 17:36:30: [AMXX] Run time error 10: native error (native "jbe_register_day_mode")
+L 01/31/2026 - 17:36:30: [AMXX]    [0] jbe_dm_starwars.sma::plugin_init (line 57)
+L 01/31/2026 - 17:36:30: Called dynanative into a paused plugin.
+L 01/31/2026 - 17:36:30: [AMXX] Displaying debug trace (plugin "jbe_dm_magic.amxx", version "1.0")
+L 01/31/2026 - 17:36:30: [AMXX] Run time error 10: native error (native "jbe_register_day_mode")
+L 01/31/2026 - 17:36:30: [AMXX]    [0] jbe_dm_magic.sma::plugin_init (line 65)
+L 01/31/2026 - 17:36:30: Called dynanative into a paused plugin.
+L 01/31/2026 - 17:36:30: [AMXX] Displaying debug trace (plugin "jbe_dm_snipers.amxx", version "1.1")
+L 01/31/2026 - 17:36:30: [AMXX] Run time error 10: native error (native "jbe_register_day_mode")
+L 01/31/2026 - 17:36:30: [AMXX]    [0] jbe_dm_snipers.sma::plugin_init (line 52)
+L 01/31/2026 - 17:36:30: Called dynanative into a paused plugin.
+L 01/31/2026 - 17:36:30: [AMXX] Displaying debug trace (plugin "jbe_dm_jetpack.amxx", version "1.1")
+L 01/31/2026 - 17:36:30: [AMXX] Run time error 10: native error (native "jbe_register_day_mode")
+L 01/31/2026 - 17:36:30: [AMXX]    [0] jbe_dm_jetpack.sma::plugin_init (line 53)
+L 01/31/2026 - 17:36:30: Called dynanative into a paused plugin.
+L 01/31/2026 - 17:36:30: [AMXX] Run time error 10 (plugin "jbe_dm_hot_potato.amxx") (native "jbe_register_day_mode") - debug not enabled!
+L 01/31/2026 - 17:36:30: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/31/2026 - 17:36:30: Called dynanative into a paused plugin.
+L 01/31/2026 - 17:36:30: [AMXX] Displaying debug trace (plugin "jbe_dm_1hp.amxx", version "1.1")
+L 01/31/2026 - 17:36:30: [AMXX] Run time error 10: native error (native "jbe_register_day_mode")
+L 01/31/2026 - 17:36:30: [AMXX]    [0] jbe_dm_1hp.sma::plugin_init (line 52)
+L 01/31/2026 - 17:36:30: Called dynanative into a paused plugin.
+L 01/31/2026 - 17:36:30: [AMXX] Run time error 10 (plugin "jbe_dm_zombie.amxx") (native "jbe_register_day_mode") - debug not enabled!
+L 01/31/2026 - 17:36:30: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/31/2026 - 17:36:43: Called dynanative into a paused plugin.
+L 01/31/2026 - 17:36:43: [AMXX] Displaying debug trace (plugin "jbe_chiefstep.amxx", version "1.0")
+L 01/31/2026 - 17:36:43: [AMXX] Run time error 10: native error (native "jbe_is_user_chief")
+L 01/31/2026 - 17:36:43: [AMXX]    [0] jbe_chiefstep.sma::CBasePlayer_PreThink (line 12)
+L 01/31/2026 - 17:36:43: Called dynanative into a paused plugin.
+L 01/31/2026 - 17:36:43: [AMXX] Displaying debug trace (plugin "parachute.amxx", version "1.0")
+L 01/31/2026 - 17:36:43: [AMXX] Run time error 10: native error (native "jbe_get_day_week")
+L 01/31/2026 - 17:36:43: [AMXX]    [0] parachute.sma::client_PreThink (line 14)
+L 01/31/2026 - 17:40:11: Start of error session.
+L 01/31/2026 - 17:40:11: Info (map "de_dust2") (file "addons/amxmodx/logs/error_20260131.log")
+L 01/31/2026 - 17:40:11: [AMXX] Plugin ("jbe_core_mode.amxx") is setting itself as failed.
+L 01/31/2026 - 17:40:11: [AMXX] Plugin says: Плагин не куплен.
+L 01/31/2026 - 17:40:11: [AMXX] Displaying debug trace (plugin "jbe_core_mode.amxx", version "4.2")
+L 01/31/2026 - 17:40:11: [AMXX] Run time error 1: forced exit 
+L 01/31/2026 - 17:40:11: [AMXX]    [0] jbe_core_mode.sma::plugin_init (line 489)
+L 01/31/2026 - 17:40:11: Called dynanative into a paused plugin.
+L 01/31/2026 - 17:40:11: [AMXX] Displaying debug trace (plugin "jbe_dm_birthday.amxx", version "1.1")
+L 01/31/2026 - 17:40:11: [AMXX] Run time error 10: native error (native "jbe_register_day_mode")
+L 01/31/2026 - 17:40:11: [AMXX]    [0] jbe_dm_birthday.sma::plugin_init (line 66)
+L 01/31/2026 - 17:40:11: Called dynanative into a paused plugin.
+L 01/31/2026 - 17:40:11: [AMXX] Run time error 10 (plugin "jbe_dm_blindfol.amxx") (native "jbe_register_day_mode") - debug not enabled!
+L 01/31/2026 - 17:40:11: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/31/2026 - 17:40:11: Called dynanative into a paused plugin.
+L 01/31/2026 - 17:40:11: [AMXX] Displaying debug trace (plugin "jbe_dm_dogon9lki.amxx", version "1.1")
+L 01/31/2026 - 17:40:11: [AMXX] Run time error 10: native error (native "jbe_register_day_mode")
+L 01/31/2026 - 17:40:11: [AMXX]    [0] jbe_dm_dogon9lki.sma::plugin_init (line 82)
+L 01/31/2026 - 17:40:11: Called dynanative into a paused plugin.
+L 01/31/2026 - 17:40:11: [AMXX] Displaying debug trace (plugin "jbe_dm_Day_no4.amxx", version "1.0")
+L 01/31/2026 - 17:40:11: [AMXX] Run time error 10: native error (native "jbe_register_day_mode")
+L 01/31/2026 - 17:40:11: [AMXX]    [0] jbe_dm_Day_no4.sma::plugin_init (line 62)
+L 01/31/2026 - 17:40:11: Called dynanative into a paused plugin.
+L 01/31/2026 - 17:40:11: [AMXX] Displaying debug trace (plugin "jbe_dm_hideandseek.amxx", version "1.1")
+L 01/31/2026 - 17:40:11: [AMXX] Run time error 10: native error (native "jbe_register_day_mode")
+L 01/31/2026 - 17:40:11: [AMXX]    [0] jbe_dm_hideandseek.sma::plugin_init (line 53)
+L 01/31/2026 - 17:40:11: Called dynanative into a paused plugin.
+L 01/31/2026 - 17:40:11: [AMXX] Displaying debug trace (plugin "jbe_galaxy.amxx", version "1.0")
+L 01/31/2026 - 17:40:11: [AMXX] Run time error 10: native error (native "jbe_register_day_mode")
+L 01/31/2026 - 17:40:11: [AMXX]    [0] jbe_galaxy.sma::plugin_init (line 65)
+L 01/31/2026 - 17:40:11: Called dynanative into a paused plugin.
+L 01/31/2026 - 17:40:11: [AMXX] Displaying debug trace (plugin "jbe_dm_drug.amxx", version "0.1")
+L 01/31/2026 - 17:40:11: [AMXX] Run time error 10: native error (native "jbe_register_day_mode")
+L 01/31/2026 - 17:40:11: [AMXX]    [0] jbe_dm_drug.sma::plugin_init (line 58)
+L 01/31/2026 - 17:40:11: Called dynanative into a paused plugin.
+L 01/31/2026 - 17:40:11: [AMXX] Displaying debug trace (plugin "jbe_dm_shtyrm.amxx", version "1.0")
+L 01/31/2026 - 17:40:11: [AMXX] Run time error 10: native error (native "jbe_register_day_mode")
+L 01/31/2026 - 17:40:11: [AMXX]    [0] jbe_dm_shtyrm.sma::plugin_init (line 78)
+L 01/31/2026 - 17:40:11: Called dynanative into a paused plugin.
+L 01/31/2026 - 17:40:11: [AMXX] Displaying debug trace (plugin "jbe_dm_starwars.amxx", version "1.1")
+L 01/31/2026 - 17:40:11: [AMXX] Run time error 10: native error (native "jbe_register_day_mode")
+L 01/31/2026 - 17:40:11: [AMXX]    [0] jbe_dm_starwars.sma::plugin_init (line 57)
+L 01/31/2026 - 17:40:11: Called dynanative into a paused plugin.
+L 01/31/2026 - 17:40:11: [AMXX] Displaying debug trace (plugin "jbe_dm_magic.amxx", version "1.0")
+L 01/31/2026 - 17:40:11: [AMXX] Run time error 10: native error (native "jbe_register_day_mode")
+L 01/31/2026 - 17:40:11: [AMXX]    [0] jbe_dm_magic.sma::plugin_init (line 65)
+L 01/31/2026 - 17:40:11: Called dynanative into a paused plugin.
+L 01/31/2026 - 17:40:11: [AMXX] Displaying debug trace (plugin "jbe_dm_snipers.amxx", version "1.1")
+L 01/31/2026 - 17:40:11: [AMXX] Run time error 10: native error (native "jbe_register_day_mode")
+L 01/31/2026 - 17:40:11: [AMXX]    [0] jbe_dm_snipers.sma::plugin_init (line 52)
+L 01/31/2026 - 17:40:11: Called dynanative into a paused plugin.
+L 01/31/2026 - 17:40:11: [AMXX] Displaying debug trace (plugin "jbe_dm_jetpack.amxx", version "1.1")
+L 01/31/2026 - 17:40:11: [AMXX] Run time error 10: native error (native "jbe_register_day_mode")
+L 01/31/2026 - 17:40:11: [AMXX]    [0] jbe_dm_jetpack.sma::plugin_init (line 53)
+L 01/31/2026 - 17:40:11: Called dynanative into a paused plugin.
+L 01/31/2026 - 17:40:11: [AMXX] Run time error 10 (plugin "jbe_dm_hot_potato.amxx") (native "jbe_register_day_mode") - debug not enabled!
+L 01/31/2026 - 17:40:11: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/31/2026 - 17:40:11: Called dynanative into a paused plugin.
+L 01/31/2026 - 17:40:11: [AMXX] Displaying debug trace (plugin "jbe_dm_1hp.amxx", version "1.1")
+L 01/31/2026 - 17:40:11: [AMXX] Run time error 10: native error (native "jbe_register_day_mode")
+L 01/31/2026 - 17:40:11: [AMXX]    [0] jbe_dm_1hp.sma::plugin_init (line 52)
+L 01/31/2026 - 17:40:11: Called dynanative into a paused plugin.
+L 01/31/2026 - 17:40:11: [AMXX] Run time error 10 (plugin "jbe_dm_zombie.amxx") (native "jbe_register_day_mode") - debug not enabled!
+L 01/31/2026 - 17:40:11: [AMXX] To enable debug mode, add "debug" after the plugin name in plugins.ini (without quotes).
+L 01/31/2026 - 17:40:24: Called dynanative into a paused plugin.
+L 01/31/2026 - 17:40:24: [AMXX] Displaying debug trace (plugin "jbe_chiefstep.amxx", version "1.0")
+L 01/31/2026 - 17:40:24: [AMXX] Run time error 10: native error (native "jbe_is_user_chief")
+L 01/31/2026 - 17:40:24: [AMXX]    [0] jbe_chiefstep.sma::CBasePlayer_PreThink (line 12)
+L 01/31/2026 - 17:40:24: Called dynanative into a paused plugin.
+L 01/31/2026 - 17:40:24: [AMXX] Displaying debug trace (plugin "parachute.amxx", version "1.0")
+L 01/31/2026 - 17:40:24: [AMXX] Run time error 10: native error (native "jbe_get_day_week")
+L 01/31/2026 - 17:40:24: [AMXX]    [0] parachute.sma::client_PreThink (line 14)

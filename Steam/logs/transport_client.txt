@@ -1,0 +1,48 @@
+
+
+[2026-02-03 13:02:27] Client version: no bootstrapper found
+[2026-02-03 13:02:27] WebUITransport: Shutting down
+
+
+[2026-02-03 13:51:49] Client version: no bootstrapper found
+[2026-02-03 13:51:49] WebUITransport: Shutting down
+
+
+[2026-02-03 14:25:07] Client version: no bootstrapper found
+[2026-02-03 14:25:07] WebUITransport: Shutting down
+
+
+[2026-02-03 14:59:32] Client version: no bootstrapper found
+[2026-02-03 14:59:32] WebUITransport: Shutting down
+
+
+[2026-02-03 15:00:26] Client version: no bootstrapper found
+[2026-02-03 15:00:26] WebUITransport: Shutting down
+
+
+[2026-02-03 15:11:57] Client version: no bootstrapper found
+[2026-02-03 15:11:57] WebUITransport: Shutting down
+
+
+[2026-02-03 15:38:59] Client version: no bootstrapper found
+[2026-02-03 15:38:59] WebUITransport: Shutting down
+
+
+[2026-02-03 15:43:38] Client version: no bootstrapper found
+[2026-02-03 15:43:38] WebUITransport: Shutting down
+
+
+[2026-02-03 15:46:21] Client version: no bootstrapper found
+[2026-02-03 15:46:21] WebUITransport: Shutting down
+
+
+[2026-02-03 15:49:38] Client version: no bootstrapper found
+[2026-02-03 15:49:38] WebUITransport: Shutting down
+
+
+[2026-02-03 16:03:34] Client version: no bootstrapper found
+[2026-02-03 16:03:34] WebUITransport: Shutting down
+
+
+[2026-02-03 16:07:20] Client version: no bootstrapper found
+[2026-02-03 16:07:20] WebUITransport: Shutting down

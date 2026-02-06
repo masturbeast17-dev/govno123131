@@ -1,0 +1,175 @@
+
+
+[2026-02-03 12:35:52] Client version: 1769026246
+[2026-02-03 12:35:52] Loaded 0 apps from install folder "/mnt/server/steamapps\appmanifest_*.acf".
+[2026-02-03 12:35:52] Triggered async write of Steam library folders configuration (1 libraries).
+[2026-02-03 12:36:27] AppID 90 beta changed: steam_legacy
+[2026-02-03 12:36:27] AppID 90 state changed : Update Required,
+[2026-02-03 12:36:27] AppID 90 scheduler update : Priority First, not played for 1 seconds, update disabled for 0 seconds
+[2026-02-03 12:36:27] AppID 90 state changed : Update Required,Update Queued,
+[2026-02-03 12:36:27] AppID 90 scheduler update : Priority First, not played for 1 seconds, update disabled for 0 seconds
+[2026-02-03 12:36:27] AppID 90 state changed : Update Required,Update Queued,Update Running,
+[2026-02-03 12:36:27] AppID 90 App update changed : Running Update,
+[2026-02-03 12:36:27] AppID 90 App update changed : Running Update,Reconfiguring,
+[2026-02-03 12:36:28] Got 30 download sources and 0 caching proxies via ContentServerDirectoryService::BYieldingGetServersForSteamPipe (CellID 5 / Launcher 3)
+[2026-02-03 12:36:28] Moving to source priority class '3'
+[2026-02-03 12:36:28] Created download interface of type 'SteamCache' (7) to host cache10-fra2.steamcontent.com (cache10-fra2.steamcontent.com)
+[2026-02-03 12:36:28] Created download interface of type 'SteamCache' (7) to host cache20-fra2.steamcontent.com (cache20-fra2.steamcontent.com)
+[2026-02-03 12:36:28] Created download interface of type 'SteamCache' (7) to host cache16-fra2.steamcontent.com (cache16-fra2.steamcontent.com)
+[2026-02-03 12:36:28] HTTP/2 available
+[2026-02-03 12:36:28] Created ipv4-only http client
+[2026-02-03 12:36:29] HTTPS (SteamCache,151) - cache10-fra2.steamcontent.com (155.133.226.20:443 / 155.133.226.20:443, host: cache10-fra2.steamcontent.com): cache10-fra2.steamcontent.com/depot/4/manifest/8690279432129063737/5/1853286732339064114 - received 200 (OK) HTTP response
+[2026-02-03 12:36:29] HTTPS (SteamCache,476) - cache16-fra2.steamcontent.com (155.133.226.53:443 / 155.133.226.53:443, host: cache16-fra2.steamcontent.com): cache16-fra2.steamcontent.com/depot/1006/manifest/6403079453713498174/5/12923608957166075166 - received 200 (OK) HTTP response
+[2026-02-03 12:36:29] AppID 90 App update changed : Running Update,
+[2026-02-03 12:36:29] AppID 90 App update changed : Running Update,Verifying Installed,
+[2026-02-03 12:36:29] AppID 90 App update changed : Running Update,
+[2026-02-03 12:36:29] AppID 90 App update changed : Running Update,Preallocating,
+[2026-02-03 12:36:29] AppID 90 preallocated 0 files (0 MB) 
+[2026-02-03 12:36:29] AppID 90 App update changed : Running Update,
+[2026-02-03 12:36:29] AppID 90 update started : download 0/43641600, store 0/0, reuse 0/0, delta 0/0, stage 0/133648746 
+[2026-02-03 12:36:29] AppID 90 state changed : Update Required,Update Queued,Update Running,Update Started,
+[2026-02-03 12:36:29] AppID 90 App update changed : Running Update,Downloading,Staging,
+[2026-02-03 12:36:29] Downloading 37 chunks for depot 4 (8690279432129063737)
+[2026-02-03 12:36:31] Downloading 105 chunks for depot 1006 (6403079453713498174)
+[2026-02-03 12:36:36] AppID 90 App update changed : Running Update,
+[2026-02-03 12:36:36] AppID 90 App update changed : Running Update,Verifying Staged,
+[2026-02-03 12:36:36] Verified 127 MB in '/mnt/server/Steam', clean bytes tally is now 127 MB
+[2026-02-03 12:36:36] Triggered async write of Steam library folders configuration (1 libraries).
+[2026-02-03 12:36:36] AppID 90 App update changed : Running Update,
+[2026-02-03 12:36:36] AppID 90 App update changed : Running Update,Committing,
+[2026-02-03 12:36:36] AppID 90 starting commit from "/mnt/server/steamapps/downloading/90" to "/mnt/server" : 27 updated, 0 moved, 0 deleted files
+[2026-02-03 12:36:36] AppID 90 state changed : Fully Installed,Update Queued,Update Running,
+[2026-02-03 12:36:36] AppID 90 finished update, 2 mounted depots (BuildID 5433925) : 4 (8690279432129063737),1006 (6403079453713498174),
+[2026-02-03 12:36:36] AppID 90 App update changed : Running Update,
+[2026-02-03 12:36:36] AppID 90 App update changed : None
+[2026-02-03 12:36:36] AppID 90 state changed : Fully Installed,Update Queued,
+[2026-02-03 12:36:36] AppID 70 state changed : Update Required,Shared Only,
+[2026-02-03 12:36:36] Dependency added: parent 70, child 90, depot 1
+[2026-02-03 12:36:36] AppID 90 state changed : Update Required,Fully Installed,Update Queued,
+[2026-02-03 12:36:36] AppID 10 state changed : Update Required,Shared Only,
+[2026-02-03 12:36:36] Dependency added: parent 10, child 90, depot 11
+[2026-02-03 12:36:36] Dependency added: parent 70, child 90, depot 71
+[2026-02-03 12:36:36] AppID 90 scheduler finished : staying in schedule (result No Error, state 0xe) 
+[2026-02-03 12:36:36] AppID 90 state changed : Update Required,Fully Installed,Update Queued,Update Running,
+[2026-02-03 12:36:36] AppID 70 state changed : Update Required,Shared Only,Update Running,
+[2026-02-03 12:36:36] AppID 10 state changed : Update Required,Shared Only,Update Running,
+[2026-02-03 12:36:36] AppID 90 App update changed : Running Update,
+[2026-02-03 12:36:36] AppID 90 App update changed : Running Update,Reconfiguring,
+[2026-02-03 12:36:37] HTTPS (SteamCache,476) - cache16-fra2.steamcontent.com (155.133.226.53:443 / 155.133.226.53:443, host: cache16-fra2.steamcontent.com): cache16-fra2.steamcontent.com/depot/11/manifest/3018093494972814332/5/2788228844994126025 - received 200 (OK) HTTP response
+[2026-02-03 12:36:38] HTTPS (SteamCache,480) - cache20-fra2.steamcontent.com (155.133.226.57:443 / 155.133.226.57:443, host: cache20-fra2.steamcontent.com): cache20-fra2.steamcontent.com/depot/1/manifest/2667117727132184734/5/17112757931328489160 - received 200 (OK) HTTP response
+[2026-02-03 12:36:39] HTTPS (SteamCache,476) - cache16-fra2.steamcontent.com (155.133.226.53:443 / 155.133.226.53:443, host: cache16-fra2.steamcontent.com): cache16-fra2.steamcontent.com/depot/71/manifest/3982364535202188842/5/368421457152069398 - received 200 (OK) HTTP response
+[2026-02-03 12:36:39] AppID 90 App update changed : Running Update,
+[2026-02-03 12:36:39] AppID 90 App update changed : Running Update,Verifying Installed,
+[2026-02-03 12:36:40] AppID 90 App update changed : Running Update,
+[2026-02-03 12:36:40] AppID 90 App update changed : Running Update,Preallocating,
+[2026-02-03 12:36:40] AppID 10 preallocated 0 files (0 MB) 
+[2026-02-03 12:36:42] AppID 70 preallocated 0 files (0 MB) 
+[2026-02-03 12:36:42] AppID 90 App update changed : Running Update,
+[2026-02-03 12:36:42] AppID 10 update started : download 0/149760208, store 0/0, reuse 0/0, delta 0/0, stage 0/292340389 
+[2026-02-03 12:36:42] AppID 10 state changed : Update Required,Shared Only,Update Running,Update Started,
+[2026-02-03 12:36:42] AppID 70 update started : download 0/268829392, store 0/0, reuse 0/0, delta 0/0, stage 0/529827940 
+[2026-02-03 12:36:42] AppID 70 state changed : Update Required,Shared Only,Update Running,Update Started,
+[2026-02-03 12:36:42] AppID 90 has no changes, 2 active: 4 (8690279432129063737),1006 (6403079453713498174), 2 target: 4 (8690279432129063737),1006 (6403079453713498174),
+[2026-02-03 12:36:42] AppID 90 state changed : Update Required,Fully Installed,Update Queued,Update Running,Update Started,
+[2026-02-03 12:36:42] AppID 90 App update changed : Running Update,Downloading,Staging,
+[2026-02-03 12:36:42] Downloading 1249 chunks for depot 11 (3018093494972814332)
+[2026-02-03 12:36:43] Increasing target number of download connections to 4 (rate was 0.000, now 52.928)
+[2026-02-03 12:36:43] Created download interface of type 'SteamCache' (7) to host cache8-fra1.steamcontent.com (cache8-fra1.steamcontent.com)
+[2026-02-03 12:37:44] Current download rate: 11.669 Mbps
+[2026-02-03 12:38:45] Current download rate: 8.030 Mbps
+[2026-02-03 12:39:02] HTTPS (SteamCache,82) - cache8-fra1.steamcontent.com (162.254.197.22:443 / 162.254.197.22:443, host: cache8-fra1.steamcontent.com): Closing connection
+[2026-02-03 12:39:32] AppID 90 App update changed : Running Update,
+[2026-02-03 12:39:32] AppID 90 App update changed : Running Update,Downloading,Staging,
+[2026-02-03 12:39:32] Downloading 4341 chunks for depot 1 (2667117727132184734)
+[2026-02-03 12:39:46] Current download rate: 0.232 Mbps
+[2026-02-03 12:40:52] Current download rate: 31.342 Mbps
+[2026-02-03 12:41:11] Got 30 download sources and 0 caching proxies via ContentServerDirectoryService::BYieldingGetServersForSteamPipe (CellID 5 / Launcher 3)
+[2026-02-03 12:41:39] stats: (SteamCache, 151) cache10-fra2.steamcontent.com: 142671012 Bytes, 261 sec (4.38 Mbps). 1352 Hits / 21 Misses (98 %, 98 % bytes)
+[2026-02-03 12:41:39] stats: (Invalid, 0) : 438018116 Bytes, 262 sec (13.38 Mbps). 4269 Hits / 60 Misses (99 %, 98 % bytes)
+[2026-02-03 12:41:39] stats: (SteamCache, 476) cache16-fra2.steamcontent.com: 142839087 Bytes, 241 sec (4.74 Mbps). 1386 Hits / 17 Misses (99 %, 98 % bytes)
+[2026-02-03 12:41:39] stats: (SteamCache, 480) cache20-fra2.steamcontent.com: 133366257 Bytes, 247 sec (4.33 Mbps). 1367 Hits / 21 Misses (98 %, 98 % bytes)
+[2026-02-03 12:41:39] stats: (SteamCache, 82) cache8-fra1.steamcontent.com: 19141760 Bytes, 77 sec (2.00 Mbps). 164 Hits / 1 Misses (99 %, 95 % bytes)
+[2026-02-03 12:41:53] Current download rate: 0.000 Mbps
+[2026-02-03 12:42:02] Downloading 21 chunks for depot 71 (3982364535202188842)
+[2026-02-03 12:42:15] AppID 90 App update changed : Running Update,
+[2026-02-03 12:42:15] AppID 90 App update changed : Running Update,Staging,
+[2026-02-03 12:42:15] AppID 90 App update changed : Running Update,
+[2026-02-03 12:42:15] AppID 90 App update changed : Running Update,Verifying Staged,
+[2026-02-03 12:42:25] Verified 278 MB in '/mnt/server/Steam', clean bytes tally is now 406 MB
+[2026-02-03 12:42:25] Triggered async write of Steam library folders configuration (1 libraries).
+[2026-02-03 12:42:43] Verified 505 MB in '/mnt/server/Steam', clean bytes tally is now 911 MB
+[2026-02-03 12:42:43] Triggered async write of Steam library folders configuration (1 libraries).
+[2026-02-03 12:42:43] AppID 90 App update changed : Running Update,
+[2026-02-03 12:42:43] AppID 90 App update changed : Running Update,Committing,
+[2026-02-03 12:42:43] AppID 10 starting commit from "/mnt/server/steamapps/downloading/10" to "/mnt/server" : 1197 updated, 0 moved, 0 deleted files
+[2026-02-03 12:42:44] AppID 10 state changed : Fully Installed,Shared Only,Update Running,
+[2026-02-03 12:42:44] AppID 10 finished update, 1 mounted depots (BuildID 12934623) : 11 (3018093494972814332),
+[2026-02-03 12:42:44] AppID 70 starting commit from "/mnt/server/steamapps/downloading/70" to "/mnt/server" : 4329 updated, 0 moved, 0 deleted files
+[2026-02-03 12:42:50] AppID 70 state changed : Fully Installed,Shared Only,Update Running,
+[2026-02-03 12:42:50] AppID 70 finished update, 2 mounted depots (BuildID 15961492) : 1 (2667117727132184734),71 (3982364535202188842),
+[2026-02-03 12:42:50] AppID 90 starting commit from "/mnt/server/steamapps/downloading/90" to "/mnt/server" : 0 updated, 0 moved, 0 deleted files
+[2026-02-03 12:42:50] AppID 90 state changed : Fully Installed,Update Queued,Update Running,
+[2026-02-03 12:42:50] AppID 90 finished update, 2 mounted depots (BuildID 5433925) : 4 (8690279432129063737),1006 (6403079453713498174),
+[2026-02-03 12:42:53] AppID 90 App update changed : Running Update,
+[2026-02-03 12:42:53] AppID 90 App update changed : None
+[2026-02-03 12:42:53] AppID 10 state changed : Fully Installed,Shared Only,
+[2026-02-03 12:42:53] AppID 70 state changed : Fully Installed,Shared Only,
+[2026-02-03 12:42:53] AppID 90 state changed : Fully Installed,Update Queued,
+[2026-02-03 12:42:53] AppID 90 state changed : Fully Installed,
+[2026-02-03 12:42:53] AppID 90 scheduler finished : removed from schedule (result No Error, state 0xc) 
+[2026-02-03 12:42:55] Current download rate: 0.000 Mbps
+[2026-02-03 12:42:55] HTTPS (SteamCache,476) - cache16-fra2.steamcontent.com (155.133.226.53:443 / 155.133.226.53:443, host: cache16-fra2.steamcontent.com): Closing connection
+[2026-02-03 12:42:55] HTTPS (SteamCache,480) - cache20-fra2.steamcontent.com (155.133.226.57:443 / 155.133.226.57:443, host: cache20-fra2.steamcontent.com): Closing connection
+[2026-02-03 12:42:55] HTTPS (SteamCache,151) - cache10-fra2.steamcontent.com (155.133.226.20:443 / 155.133.226.20:443, host: cache10-fra2.steamcontent.com): Closing connection
+
+
+[2026-02-03 13:01:59] Client version: no bootstrapper found
+[2026-02-03 13:01:59] Loaded Steam library folders configuration: /home/container/Steam/steamapps/libraryfolders.vdf
+
+
+[2026-02-03 13:50:49] Client version: no bootstrapper found
+[2026-02-03 13:50:49] Loaded Steam library folders configuration: /home/container/Steam/steamapps/libraryfolders.vdf
+
+
+[2026-02-03 14:23:46] Client version: no bootstrapper found
+[2026-02-03 14:23:46] Loaded Steam library folders configuration: /home/container/Steam/steamapps/libraryfolders.vdf
+
+
+[2026-02-03 14:53:12] Client version: no bootstrapper found
+[2026-02-03 14:53:12] Loaded Steam library folders configuration: /home/container/Steam/steamapps/libraryfolders.vdf
+
+
+[2026-02-03 14:59:42] Client version: no bootstrapper found
+[2026-02-03 14:59:42] Loaded Steam library folders configuration: /home/container/Steam/steamapps/libraryfolders.vdf
+
+
+[2026-02-03 15:11:29] Client version: no bootstrapper found
+[2026-02-03 15:11:29] Loaded Steam library folders configuration: /home/container/Steam/steamapps/libraryfolders.vdf
+
+
+[2026-02-03 15:15:10] Client version: no bootstrapper found
+[2026-02-03 15:15:10] Loaded Steam library folders configuration: /home/container/Steam/steamapps/libraryfolders.vdf
+
+
+[2026-02-03 15:39:14] Client version: no bootstrapper found
+[2026-02-03 15:39:14] Loaded Steam library folders configuration: /home/container/Steam/steamapps/libraryfolders.vdf
+
+
+[2026-02-03 15:43:50] Client version: no bootstrapper found
+[2026-02-03 15:43:50] Loaded Steam library folders configuration: /home/container/Steam/steamapps/libraryfolders.vdf
+
+
+[2026-02-03 15:46:31] Client version: no bootstrapper found
+[2026-02-03 15:46:31] Loaded Steam library folders configuration: /home/container/Steam/steamapps/libraryfolders.vdf
+
+
+[2026-02-03 15:49:47] Client version: no bootstrapper found
+[2026-02-03 15:49:47] Loaded Steam library folders configuration: /home/container/Steam/steamapps/libraryfolders.vdf
+
+
+[2026-02-03 16:03:44] Client version: no bootstrapper found
+[2026-02-03 16:03:44] Loaded Steam library folders configuration: /home/container/Steam/steamapps/libraryfolders.vdf
+
+
+[2026-02-03 16:07:30] Client version: no bootstrapper found
+[2026-02-03 16:07:30] Loaded Steam library folders configuration: /home/container/Steam/steamapps/libraryfolders.vdf

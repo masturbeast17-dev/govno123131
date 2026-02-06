@@ -1,0 +1,189 @@
+L 01/31/2026 - 15:00:28: [GEOIP] Database info: GeoLite2 Country database 2.0
+L 01/31/2026 - 15:00:29: [CSX] Could not load csstats file: cstrike/addons/amxmodx/data/csstats.dat
+L 01/31/2026 - 15:00:29: -------- Mapchange to de_dust2 --------
+L 01/31/2026 - 15:05:04: [GEOIP] Database info: GeoLite2 Country database 2.0
+L 01/31/2026 - 15:05:05: -------- Mapchange to de_dust2 --------
+L 01/31/2026 - 17:36:29: [GEOIP] Database info: GeoLite2 Country database 2.0
+L 01/31/2026 - 17:36:29: -------- Mapchange to de_dust2 --------
+L 01/31/2026 - 17:36:29: [normal-mode_kriss_sv_red.amxx] performance issue. Function plugin_precache executed more than 24.3ms.
+L 01/31/2026 - 17:36:30: [jb_akknife.amxx] performance issue. Function plugin_precache executed more than 11.1ms.
+L 01/31/2026 - 17:36:30: [jbe_core_mode.amxx] performance issue. Function plugin_precache executed more than 338.6ms.
+L 01/31/2026 - 17:36:30: [jbe_dm_birthday.amxx] performance issue. Function plugin_precache executed more than 9.5ms.
+L 01/31/2026 - 17:36:30: [jbe_dm_drug.amxx] performance issue. Function plugin_precache executed more than 20.3ms.
+L 01/31/2026 - 17:36:30: [jbe_dm_starwars.amxx] performance issue. Function plugin_precache executed more than 8.3ms.
+L 01/31/2026 - 17:36:30: [jbe_dm_magic.amxx] performance issue. Function plugin_precache executed more than 31.5ms.
+L 01/31/2026 - 17:36:30: [zp_item_jetpack.amxx] performance issue. Function plugin_precache executed more than 14.1ms.
+L 01/31/2026 - 17:36:30: [jbe_weapon_m134ex.amxx] performance issue. Function plugin_precache executed more than 7.9ms.
+L 01/31/2026 - 17:36:30: [jbe_core_mode.amxx] performance issue. Function plugin_init executed more than 5.4ms.
+L 01/31/2026 - 17:36:30: [jbe_dm_birthday.amxx] performance issue. Function plugin_init executed more than 1.6ms.
+L 01/31/2026 - 17:36:30: [jbe_dm_snipers.amxx] performance issue. Function plugin_init executed more than 2.1ms.
+L 01/31/2026 - 17:36:30: [jbe_dm_1hp.amxx] performance issue. Function plugin_init executed more than 1.0ms.
+L 01/31/2026 - 17:39:52: [normal-mode_kriss_sv_red.amxx] performance issue. Function fw_UpdateClientData_Post executed more than 1.3ms.
+L 01/31/2026 - 17:40:10: [GEOIP] Database info: GeoLite2 Country database 2.0
+L 01/31/2026 - 17:40:10: -------- Mapchange to de_dust2 --------
+L 01/31/2026 - 17:40:10: [normal-mode_kriss_sv_red.amxx] performance issue. Function plugin_precache executed more than 11.2ms.
+L 01/31/2026 - 17:40:10: [jb_akknife.amxx] performance issue. Function plugin_precache executed more than 10.3ms.
+L 01/31/2026 - 17:40:10: [jbe_core_mode.amxx] performance issue. Function plugin_precache executed more than 317.8ms.
+L 01/31/2026 - 17:40:10: [jbe_dm_birthday.amxx] performance issue. Function plugin_precache executed more than 9.7ms.
+L 01/31/2026 - 17:40:10: [jbe_dm_drug.amxx] performance issue. Function plugin_precache executed more than 19.9ms.
+L 01/31/2026 - 17:40:10: [jbe_dm_starwars.amxx] performance issue. Function plugin_precache executed more than 9.0ms.
+L 01/31/2026 - 17:40:10: [jbe_dm_magic.amxx] performance issue. Function plugin_precache executed more than 28.0ms.
+L 01/31/2026 - 17:40:10: [zp_item_jetpack.amxx] performance issue. Function plugin_precache executed more than 14.9ms.
+L 01/31/2026 - 17:40:10: [jbe_weapon_m134ex.amxx] performance issue. Function plugin_precache executed more than 6.8ms.
+L 01/31/2026 - 17:40:11: [normal-mode_kriss_sv_red.amxx] performance issue. Function plugin_init executed more than 1.7ms.
+L 01/31/2026 - 17:40:11: [jbe_core_mode.amxx] performance issue. Function plugin_init executed more than 10.1ms.
+L 01/31/2026 - 17:40:11: [jbe_dm_birthday.amxx] performance issue. Function plugin_init executed more than 2.7ms.
+L 01/31/2026 - 17:40:11: [jbe_dm_dogon9lki.amxx] performance issue. Function plugin_init executed more than 1.3ms.
+L 01/31/2026 - 17:40:11: [jbe_dm_hideandseek.amxx] performance issue. Function plugin_init executed more than 1.1ms.
+L 01/31/2026 - 17:40:11: [jbe_dm_drug.amxx] performance issue. Function plugin_init executed more than 1.4ms.
+L 01/31/2026 - 17:40:11: [jbe_dm_shtyrm.amxx] performance issue. Function plugin_init executed more than 1.2ms.
+L 01/31/2026 - 17:40:11: [jbe_dm_snipers.amxx] performance issue. Function plugin_init executed more than 2.2ms.
+L 01/31/2026 - 17:40:11: [jbe_dm_1hp.amxx] performance issue. Function plugin_init executed more than 1.1ms.
+L 01/31/2026 - 17:40:24: [parachute.amxx] performance issue. Function client_PreThink executed more than 1.1ms.
+L 01/31/2026 - 17:44:57: [jb_akknife.amxx] performance issue. Function fw_CmdStart executed more than 1.2ms.
+L 01/31/2026 - 17:45:11: [GEOIP] Database info: GeoLite2 Country database 2.0
+L 01/31/2026 - 17:45:11: -------- Mapchange to de_dust2 --------
+L 01/31/2026 - 17:45:12: [normal-mode_kriss_sv_red.amxx] performance issue. Function plugin_precache executed more than 24.1ms.
+L 01/31/2026 - 17:45:12: [jbe_grab.amxx] performance issue. Function plugin_precache executed more than 1.6ms.
+L 01/31/2026 - 17:45:12: [jb_akknife.amxx] performance issue. Function plugin_precache executed more than 22.9ms.
+L 01/31/2026 - 17:45:12: [jbe_core_mode.amxx] performance issue. Function plugin_precache executed more than 253.0ms.
+L 01/31/2026 - 17:45:12: [jbe_dm_birthday.amxx] performance issue. Function plugin_precache executed more than 10.6ms.
+L 01/31/2026 - 17:45:12: [jbe_dm_drug.amxx] performance issue. Function plugin_precache executed more than 19.7ms.
+L 01/31/2026 - 17:45:12: [jbe_dm_starwars.amxx] performance issue. Function plugin_precache executed more than 9.0ms.
+L 01/31/2026 - 17:45:12: [jbe_dm_magic.amxx] performance issue. Function plugin_precache executed more than 30.3ms.
+L 01/31/2026 - 17:45:12: [zp_item_jetpack.amxx] performance issue. Function plugin_precache executed more than 14.4ms.
+L 01/31/2026 - 17:45:12: [jbe_weapon_m134ex.amxx] performance issue. Function plugin_precache executed more than 9.2ms.
+L 01/31/2026 - 17:45:13: [normal-mode_kriss_sv_red.amxx] performance issue. Function plugin_init executed more than 1.6ms.
+L 01/31/2026 - 17:45:13: [jbe_core_mode.amxx] performance issue. Function plugin_init executed more than 6.1ms.
+L 01/31/2026 - 17:45:13: [jbe_core_mode.amxx] performance issue. Function plugin_cfg executed more than 1.3ms.
+L 01/31/2026 - 17:45:16: [jbe_core_mode.amxx] performance issue. Function jbe_get_cvars executed more than 3.2ms.
+L 01/31/2026 - 17:45:16: [jbe_core_mode.amxx] [RANK] MySQL connection failed
+L 01/31/2026 - 17:45:16: [jbe_core_mode.amxx] [ 2003 ] Can't connect to MySQL server on '127.0.0.1' (111)
+L 01/31/2026 - 17:45:16: [jbe_core_mode.amxx] Query state: 2
+L 01/31/2026 - 17:45:25: [jbe_core_mode.amxx] [RANK] MySQL connection failed
+L 01/31/2026 - 17:45:25: [jbe_core_mode.amxx] [ 2003 ] Can't connect to MySQL server on '127.0.0.1' (111)
+L 01/31/2026 - 17:45:25: [jbe_core_mode.amxx] Query state: 0
+L 01/31/2026 - 17:45:26: [jbe_core_mode.amxx] [RANK] MySQL connection failed
+L 01/31/2026 - 17:45:26: [jbe_core_mode.amxx] [ 2003 ] Can't connect to MySQL server on '127.0.0.1' (111)
+L 01/31/2026 - 17:45:26: [jbe_core_mode.amxx] Query state: 0
+L 01/31/2026 - 17:45:33: [jbe_core_mode.amxx] [RANK] MySQL connection failed
+L 01/31/2026 - 17:45:33: [jbe_core_mode.amxx] [ 2003 ] Can't connect to MySQL server on '127.0.0.1' (111)
+L 01/31/2026 - 17:45:33: [jbe_core_mode.amxx] Query state: 2
+L 01/31/2026 - 17:45:33: [jbe_core_mode.amxx] [RANK] MySQL connection failed
+L 01/31/2026 - 17:45:33: [jbe_core_mode.amxx] [ 2003 ] Can't connect to MySQL server on '127.0.0.1' (111)
+L 01/31/2026 - 17:45:33: [jbe_core_mode.amxx] Query state: 2
+L 01/31/2026 - 17:46:10: [jbe_core_mode.amxx] [RANK] MySQL connection failed
+L 01/31/2026 - 17:46:10: [jbe_core_mode.amxx] [ 2003 ] Can't connect to MySQL server on '127.0.0.1' (111)
+L 01/31/2026 - 17:46:10: [jbe_core_mode.amxx] Query state: 2
+L 01/31/2026 - 17:46:10: [jbe_core_mode.amxx] [RANK] MySQL connection failed
+L 01/31/2026 - 17:46:10: [jbe_core_mode.amxx] [ 2003 ] Can't connect to MySQL server on '127.0.0.1' (111)
+L 01/31/2026 - 17:46:10: [jbe_core_mode.amxx] Query state: 2
+L 01/31/2026 - 17:46:10: [jbe_core_mode.amxx] [RANK] MySQL connection failed
+L 01/31/2026 - 17:46:10: [jbe_core_mode.amxx] [ 2003 ] Can't connect to MySQL server on '127.0.0.1' (111)
+L 01/31/2026 - 17:46:10: [jbe_core_mode.amxx] Query state: 2
+L 01/31/2026 - 17:46:10: [jbe_core_mode.amxx] performance issue. Function SQL_Handler executed more than 2.0ms.
+L 01/31/2026 - 17:46:10: [jbe_core_mode.amxx] [RANK] MySQL connection failed
+L 01/31/2026 - 17:46:10: [jbe_core_mode.amxx] [ 2003 ] Can't connect to MySQL server on '127.0.0.1' (111)
+L 01/31/2026 - 17:46:10: [jbe_core_mode.amxx] Query state: 2
+L 01/31/2026 - 17:46:24: [parachute.amxx] performance issue. Function client_PreThink executed more than 1.0ms.
+L 01/31/2026 - 17:47:34: [jbe_core_mode.amxx] performance issue. Function jbe_is_user_chief executed more than 2.0ms.
+L 01/31/2026 - 17:47:34: [jbe_chiefstep.amxx] performance issue. Function CBasePlayer_PreThink executed more than 2.2ms.
+L 01/31/2026 - 17:48:35: [jbe_weapon_m134ex.amxx] performance issue. Function client_PreThink executed more than 1.0ms.
+L 01/31/2026 - 17:48:36: [jbe_weapon_m134ex.amxx] performance issue. Function fw_UpdateClientData_Post executed more than 1.3ms.
+L 01/31/2026 - 17:48:44: [jbe_core_mode.amxx] [RANK] MySQL connection failed
+L 01/31/2026 - 17:48:44: [jbe_core_mode.amxx] [ 2003 ] Can't connect to MySQL server on '127.0.0.1' (111)
+L 01/31/2026 - 17:48:44: [jbe_core_mode.amxx] Query state: 2
+L 01/31/2026 - 17:48:44: [jbe_core_mode.amxx] [RANK] MySQL connection failed
+L 01/31/2026 - 17:48:44: [jbe_core_mode.amxx] [ 2003 ] Can't connect to MySQL server on '127.0.0.1' (111)
+L 01/31/2026 - 17:48:44: [jbe_core_mode.amxx] Query state: 2
+L 01/31/2026 - 17:48:44: [jbe_core_mode.amxx] [RANK] MySQL connection failed
+L 01/31/2026 - 17:48:44: [jbe_core_mode.amxx] [ 2003 ] Can't connect to MySQL server on '127.0.0.1' (111)
+L 01/31/2026 - 17:48:44: [jbe_core_mode.amxx] Query state: 2
+L 01/31/2026 - 17:48:59: [jbe_core_mode.amxx] [RANK] MySQL connection failed
+L 01/31/2026 - 17:48:59: [jbe_core_mode.amxx] [ 2003 ] Can't connect to MySQL server on '127.0.0.1' (111)
+L 01/31/2026 - 17:48:59: [jbe_core_mode.amxx] Query state: 2
+L 01/31/2026 - 17:48:59: [jbe_core_mode.amxx] performance issue. Function SQL_Handler executed more than 1.5ms.
+L 01/31/2026 - 17:49:03: [jbe_core_mode.amxx] [RANK] MySQL connection failed
+L 01/31/2026 - 17:49:03: [jbe_core_mode.amxx] [ 2003 ] Can't connect to MySQL server on '127.0.0.1' (111)
+L 01/31/2026 - 17:49:03: [jbe_core_mode.amxx] Query state: 2
+L 01/31/2026 - 17:49:03: [jbe_core_mode.amxx] [RANK] MySQL connection failed
+L 01/31/2026 - 17:49:03: [jbe_core_mode.amxx] [ 2003 ] Can't connect to MySQL server on '127.0.0.1' (111)
+L 01/31/2026 - 17:49:03: [jbe_core_mode.amxx] Query state: 2
+L 01/31/2026 - 17:49:03: [jbe_core_mode.amxx] [RANK] MySQL connection failed
+L 01/31/2026 - 17:49:03: [jbe_core_mode.amxx] [ 2003 ] Can't connect to MySQL server on '127.0.0.1' (111)
+L 01/31/2026 - 17:49:03: [jbe_core_mode.amxx] Query state: 2
+L 01/31/2026 - 17:49:17: [jbe_core_mode.amxx] [RANK] MySQL connection failed
+L 01/31/2026 - 17:49:17: [jbe_core_mode.amxx] [ 2003 ] Can't connect to MySQL server on '127.0.0.1' (111)
+L 01/31/2026 - 17:49:17: [jbe_core_mode.amxx] Query state: 2
+L 01/31/2026 - 17:49:17: [jbe_core_mode.amxx] [RANK] MySQL connection failed
+L 01/31/2026 - 17:49:17: [jbe_core_mode.amxx] [ 2003 ] Can't connect to MySQL server on '127.0.0.1' (111)
+L 01/31/2026 - 17:49:17: [jbe_core_mode.amxx] Query state: 2
+L 01/31/2026 - 17:49:17: [jbe_core_mode.amxx] [RANK] MySQL connection failed
+L 01/31/2026 - 17:49:17: [jbe_core_mode.amxx] [ 2003 ] Can't connect to MySQL server on '127.0.0.1' (111)
+L 01/31/2026 - 17:49:17: [jbe_core_mode.amxx] Query state: 2
+L 01/31/2026 - 17:49:24: [jbe_core_mode.amxx] [RANK] MySQL connection failed
+L 01/31/2026 - 17:49:24: [jbe_core_mode.amxx] [ 2003 ] Can't connect to MySQL server on '127.0.0.1' (111)
+L 01/31/2026 - 17:49:24: [jbe_core_mode.amxx] Query state: 2
+L 01/31/2026 - 17:49:24: [jbe_core_mode.amxx] [RANK] MySQL connection failed
+L 01/31/2026 - 17:49:24: [jbe_core_mode.amxx] [ 2003 ] Can't connect to MySQL server on '127.0.0.1' (111)
+L 01/31/2026 - 17:49:24: [jbe_core_mode.amxx] Query state: 2
+L 01/31/2026 - 17:49:24: [jbe_core_mode.amxx] performance issue. Function SQL_Handler executed more than 1.5ms.
+L 01/31/2026 - 17:49:24: [jbe_core_mode.amxx] [RANK] MySQL connection failed
+L 01/31/2026 - 17:49:24: [jbe_core_mode.amxx] [ 2003 ] Can't connect to MySQL server on '127.0.0.1' (111)
+L 01/31/2026 - 17:49:24: [jbe_core_mode.amxx] Query state: 2
+L 01/31/2026 - 17:49:24: [jbe_core_mode.amxx] performance issue. Function SQL_Handler executed more than 2.0ms.
+L 01/31/2026 - 17:49:31: [jbe_core_mode.amxx] performance issue. Function Ham_PlayerSpawn_Post executed more than 1.3ms.
+L 01/31/2026 - 17:49:31: [jbe_core_mode.amxx] [RANK] MySQL connection failed
+L 01/31/2026 - 17:49:31: [jbe_core_mode.amxx] [ 2003 ] Can't connect to MySQL server on '127.0.0.1' (111)
+L 01/31/2026 - 17:49:31: [jbe_core_mode.amxx] Query state: 2
+L 01/31/2026 - 17:49:31: [jbe_core_mode.amxx] [RANK] MySQL connection failed
+L 01/31/2026 - 17:49:31: [jbe_core_mode.amxx] [ 2003 ] Can't connect to MySQL server on '127.0.0.1' (111)
+L 01/31/2026 - 17:49:31: [jbe_core_mode.amxx] Query state: 2
+L 01/31/2026 - 17:49:31: [jbe_core_mode.amxx] [RANK] MySQL connection failed
+L 01/31/2026 - 17:49:31: [jbe_core_mode.amxx] [ 2003 ] Can't connect to MySQL server on '127.0.0.1' (111)
+L 01/31/2026 - 17:49:31: [jbe_core_mode.amxx] Query state: 2
+L 01/31/2026 - 17:49:39: [jbe_core_mode.amxx] [RANK] MySQL connection failed
+L 01/31/2026 - 17:49:39: [jbe_core_mode.amxx] [ 2003 ] Can't connect to MySQL server on '127.0.0.1' (111)
+L 01/31/2026 - 17:49:39: [jbe_core_mode.amxx] Query state: 2
+L 01/31/2026 - 17:49:39: [jbe_core_mode.amxx] [RANK] MySQL connection failed
+L 01/31/2026 - 17:49:39: [jbe_core_mode.amxx] [ 2003 ] Can't connect to MySQL server on '127.0.0.1' (111)
+L 01/31/2026 - 17:49:39: [jbe_core_mode.amxx] Query state: 2
+L 01/31/2026 - 17:49:39: [jbe_core_mode.amxx] performance issue. Function SQL_Handler executed more than 2.9ms.
+L 01/31/2026 - 17:49:39: [jbe_core_mode.amxx] [RANK] MySQL connection failed
+L 01/31/2026 - 17:49:40: [jbe_core_mode.amxx] [ 2003 ] Can't connect to MySQL server on '127.0.0.1' (111)
+L 01/31/2026 - 17:49:40: [jbe_core_mode.amxx] Query state: 2
+L 01/31/2026 - 17:49:40: [jbe_core_mode.amxx] performance issue. Function SQL_Handler executed more than 1.9ms.
+L 01/31/2026 - 17:49:52: [jbe_core_mode.amxx] [RANK] MySQL connection failed
+L 01/31/2026 - 17:49:52: [jbe_core_mode.amxx] [ 2003 ] Can't connect to MySQL server on '127.0.0.1' (111)
+L 01/31/2026 - 17:49:52: [jbe_core_mode.amxx] Query state: 2
+L 01/31/2026 - 17:49:52: [jbe_core_mode.amxx] performance issue. Function SQL_Handler executed more than 1.7ms.
+L 01/31/2026 - 17:49:52: [jbe_core_mode.amxx] [RANK] MySQL connection failed
+L 01/31/2026 - 17:49:52: [jbe_core_mode.amxx] [ 2003 ] Can't connect to MySQL server on '127.0.0.1' (111)
+L 01/31/2026 - 17:49:52: [jbe_core_mode.amxx] Query state: 2
+L 01/31/2026 - 17:49:52: [jbe_core_mode.amxx] [RANK] MySQL connection failed
+L 01/31/2026 - 17:49:52: [jbe_core_mode.amxx] [ 2003 ] Can't connect to MySQL server on '127.0.0.1' (111)
+L 01/31/2026 - 17:49:52: [jbe_core_mode.amxx] Query state: 2
+L 01/31/2026 - 17:50:24: [jbe_core_mode.amxx] [RANK] MySQL connection failed
+L 01/31/2026 - 17:50:24: [jbe_core_mode.amxx] [ 2003 ] Can't connect to MySQL server on '127.0.0.1' (111)
+L 01/31/2026 - 17:50:24: [jbe_core_mode.amxx] Query state: 2
+L 01/31/2026 - 17:50:24: [jbe_core_mode.amxx] [RANK] MySQL connection failed
+L 01/31/2026 - 17:50:24: [jbe_core_mode.amxx] [ 2003 ] Can't connect to MySQL server on '127.0.0.1' (111)
+L 01/31/2026 - 17:50:24: [jbe_core_mode.amxx] Query state: 2
+L 01/31/2026 - 17:50:24: [jbe_core_mode.amxx] [RANK] MySQL connection failed
+L 01/31/2026 - 17:50:24: [jbe_core_mode.amxx] [ 2003 ] Can't connect to MySQL server on '127.0.0.1' (111)
+L 01/31/2026 - 17:50:24: [jbe_core_mode.amxx] Query state: 2
+L 01/31/2026 - 17:50:44: [jbe_core_mode.amxx] [RANK] MySQL connection failed
+L 01/31/2026 - 17:50:44: [jbe_core_mode.amxx] [ 2003 ] Can't connect to MySQL server on '127.0.0.1' (111)
+L 01/31/2026 - 17:50:44: [jbe_core_mode.amxx] Query state: 2
+L 01/31/2026 - 17:50:44: [jbe_core_mode.amxx] [RANK] MySQL connection failed
+L 01/31/2026 - 17:50:44: [jbe_core_mode.amxx] [ 2003 ] Can't connect to MySQL server on '127.0.0.1' (111)
+L 01/31/2026 - 17:50:44: [jbe_core_mode.amxx] Query state: 2
+L 01/31/2026 - 17:50:44: [jbe_core_mode.amxx] [RANK] MySQL connection failed
+L 01/31/2026 - 17:50:44: [jbe_core_mode.amxx] [ 2003 ] Can't connect to MySQL server on '127.0.0.1' (111)
+L 01/31/2026 - 17:50:44: [jbe_core_mode.amxx] Query state: 2
+L 01/31/2026 - 17:51:14: [jbe_core_mode.amxx] performance issue. Function Handle_ChiefMenu_1 executed more than 1.3ms.
+L 01/31/2026 - 17:54:00: [jbe_chiefstep.amxx] performance issue. Function CBasePlayer_PreThink executed more than 1.0ms.
+L 01/31/2026 - 17:54:49: [normal-mode_kriss_sv_red.amxx] performance issue. Function fw_CmdStart executed more than 1.3ms.
+L 01/31/2026 - 17:55:54: [jbe_core_mode.amxx] [RANK] MySQL connection failed
+L 01/31/2026 - 17:55:54: [jbe_core_mode.amxx] [ 2003 ] Can't connect to MySQL server on '127.0.0.1' (111)
+L 01/31/2026 - 17:55:54: [jbe_core_mode.amxx] Query state: 2
